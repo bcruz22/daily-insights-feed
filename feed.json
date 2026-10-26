@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T16:07:32+00:00",
+  "generated_at": "2026-10-26T18:10:52+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 15,
+      "count": 10,
       "errors": []
     },
     "verge": {
@@ -126,54 +126,64 @@
       "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it."
     },
     {
-      "id": "d0c1a1316e26",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "2500a6aad874",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Crows can evaluate visual info twice as fast as mammals",
-      "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
-      "published": "2026-10-23T17:32:58+00:00",
-      "summary": "Birds' compact nervous system seems to help them handle tasks very quickly."
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "published": "2026-10-26T17:30:55+00:00",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve…"
     },
     {
-      "id": "e44aee2d4402",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "7adce899d2ab",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "published": "2026-10-23T17:18:31+00:00",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production."
+      "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
+      "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "published": "2026-10-26T17:28:07+00:00",
+      "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If…"
     },
     {
-      "id": "c8908ef22464",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "46af7b57ae99",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
-      "link": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
-      "published": "2026-10-23T16:58:39+00:00",
-      "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said."
+      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
+      "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+      "published": "2026-10-26T17:25:34+00:00",
+      "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20…"
     },
     {
-      "id": "9311c26cfe2c",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "4a8f41d180d7",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
-      "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
-      "published": "2026-10-23T16:51:59+00:00",
-      "summary": "Corporate phishing tests are common, but this one was especially cruel."
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "published": "2026-10-26T17:10:23+00:00",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a…"
     },
     {
-      "id": "5228e8626507",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "ebcecb6415e5",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
-      "link": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
-      "published": "2026-10-23T16:35:00+00:00",
-      "summary": "Sound designer lets Half Life-related codename slip at a conference."
+      "title": "Everything old is new again with the Fitbit Edge",
+      "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
+      "published": "2026-10-26T17:00:00+00:00",
+      "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I […]"
+    },
+    {
+      "id": "8033849e5fa9",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
+      "link": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
+      "published": "2026-10-26T16:45:00+00:00",
+      "summary": "When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not one that came out in 2020. Beyond a few minor tweaks, though, the XM4C are…"
     },
     {
       "id": "ebe79df37e2d",
@@ -213,67 +223,257 @@
       "title": "Microsoft’s new Surface Laptop Ultra update fixes reboot and display bugs",
       "link": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update",
       "published": "2026-10-26T15:28:11+00:00",
-      "summary": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22 release addresses three issues notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot times, alongside…"
+      "summary": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22nd release addresses three notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot times alongside…"
     },
     {
-      "id": "0459d880b622",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-      "link": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-      "published": "2026-10-26T14:41:43+00:00",
-      "summary": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro…"
+      "id": "dbd4c4b3b528",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "I put the $125 Caraway ceramic fry pan to the test — the results surprised me",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/i-put-the-125-caraway-ceramic-fry-pan-to-the-test-the-results-surprised-me.html",
+      "published": "2026-10-26T18:06:33+00:00",
+      "summary": "The Caraway 10.5-inch Ceramic Fry Pan offers a stylish, PTFE-free nonstick surface for $125, best suited for everyday cooking with proper low-heat care."
     },
     {
-      "id": "df88ce95d957",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "published": "2026-10-26T14:00:00+00:00",
-      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton…"
+      "id": "94d941d07d25",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Family of Springfield officer killed 80 years ago claims memorial plaque",
+      "link": "https://www.masslive.com/business/2026/10/family-of-springfield-officer-killed-80-years-ago-claims-memorial-plaque.html",
+      "published": "2026-10-26T18:05:22+00:00",
+      "summary": "After finding discarded plaques in a scrapyard three months ago, Fred Basile of Springfield has found four additional family members who want the plaques."
     },
     {
-      "id": "a0064ee100f0",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "published": "2026-10-26T13:32:49+00:00",
-      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company…"
+      "id": "6ab5db30c4f4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "World leader puts Trump official on blast over stalled Patriot missiles",
+      "link": "https://www.masslive.com/politics/2026/10/world-leader-puts-trump-official-on-blast-over-stalled-patriot-missiles.html",
+      "published": "2026-10-26T18:01:57+00:00",
+      "summary": "The relationship between Ukraine and the U.S. has grown tense since the start of President Donald Trump’s second term, despite Trump promising to end the Russia-Ukraine war “in 24 hours.”"
     },
     {
-      "id": "9c0a98fa46a8",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Can AI help solve the COBOL code crisis?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "published": "2026-10-26T13:15:00+00:00",
-      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted…"
+      "id": "500ed7da7f0a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Alex Cora breaks silence on Red Sox firing 6 months later, plus what 'really upset him'",
+      "link": "https://www.masslive.com/redsox/2026/10/alex-cora-finally-discusses-red-sox-firing-regrets-future-five-takeaways.html",
+      "published": "2026-10-26T17:47:09+00:00",
+      "summary": "For the first time since being fired in late April, Alex Cora opened up about the end of his Red Sox tenure on a recent podcast."
     },
     {
-      "id": "a010e5c203ad",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple updates the iPad Mini with a larger OLED display",
-      "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
-      "published": "2026-10-26T13:05:03+00:00",
-      "summary": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini is thinner and…"
+      "id": "05fdf48386b8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Massive chain adds pan pizza to permanent menu after crafting recipe for 2 years",
+      "link": "https://www.masslive.com/food/2026/10/massive-chain-adds-pan-pizza-to-permanent-menu-after-crafting-recipe-for-2-years.html",
+      "published": "2026-10-26T17:45:40+00:00",
+      "summary": "Nearly 80% of small towns served by Casey's lack nearby national pan pizza options, prompting the chain to develop its own version with a thick, crispy-edged crust."
     },
     {
-      "id": "4c9bba509c66",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The city that fought Flock",
-      "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed,…"
+      "id": "2cfc2c9c31eb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Illinois coach Bret Bielema shares heartbreaking family news",
+      "link": "https://www.masslive.com/sports/2026/10/illinois-coach-bret-bielema-shares-heartbreaking-family-news.html",
+      "published": "2026-10-26T17:45:07+00:00",
+      "summary": "The announcement was made on X Monday."
+    },
+    {
+      "id": "3028147d3961",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "These 5 Western Mass. girls volleyball players had big Week 7 performances",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/5-western-mass-girls-volleyball-players-who-delivered-in-week-7.html",
+      "published": "2026-10-26T17:37:28+00:00",
+      "summary": "Western Mass. girls volleyball players delivered big performances in Week 7. See the top stats from five standouts as the postseason approaches."
+    },
+    {
+      "id": "e90bbfa59399",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Former TLC star shares message to his 6 estranged kids: ‘I still love you’",
+      "link": "https://www.masslive.com/entertainment/2026/10/former-tlc-star-shares-message-to-his-6-estranged-kids-i-still-love-you.html",
+      "published": "2026-10-26T17:34:31+00:00",
+      "summary": "The father-of-eight gained custody of his other two children, Collin and Hannah, in 2018."
+    },
+    {
+      "id": "6030e4cfe128",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "‘Marshals’ ends on explosive cliffhanger with 2 main characters’ lives in danger",
+      "link": "https://www.masslive.com/entertainment/2026/10/marshals-ends-on-explosive-cliffhanger-with-2-main-characters-lives-in-danger.html",
+      "published": "2026-10-26T17:30:28+00:00",
+      "summary": "Season 2 of 'Marshals' premiered Oct. 4 on CBS"
+    },
+    {
+      "id": "5ac7d4af18a1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Colorado father and his 2 teenage sons killed in remote plane crash",
+      "link": "https://www.masslive.com/news/2026/10/father-and-2-teenage-sons-killed-in-colorado-wilderness-tragedy.html",
+      "published": "2026-10-26T17:08:37+00:00",
+      "summary": "A Colorado father and his two teenage sons were killed when their Piper plane crashed in a remote area near Swampy Pass in Gunnison County."
+    },
+    {
+      "id": "7d0e77152929",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Nearly 100 cameras now watching for wrong-way drivers in Mass., and 100s more are coming",
+      "link": "https://www.masslive.com/news/2026/10/mass-has-installed-nearly-100-cameras-to-catch-wrong-way-drivers-and-100s-more-are-coming.html",
+      "published": "2026-10-26T17:08:32+00:00",
+      "summary": "Massachusetts’ new wrong-way driver detection systems have detected about 200 wrong-way drivers since May, but officials say more are needed after another fatal crash this weekend."
+    },
+    {
+      "id": "1633a0996067",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Worcester man accused of raping child in Milford church basement, police say",
+      "link": "https://www.masslive.com/centralmass/2026/10/worcester-man-arrested-after-raping-child-in-milford-church-basement-police-say.html",
+      "published": "2026-10-26T17:06:35+00:00",
+      "summary": "“To violate a child is among the most heinous of crimes. Doing so in a place of worship only further cements the depravity of this assault,” Milford Police Chief Robert Tusino said in a release."
+    },
+    {
+      "id": "ada7a6e3546e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield shooting spree leaves 4 arrested and at least 61 bullets fired",
+      "link": "https://www.masslive.com/westernmass/2026/10/springfield-shooting-spree-leaves-4-arrested-and-at-least-61-bullets-fired.html",
+      "published": "2026-10-26T16:58:01+00:00",
+      "summary": "The shooting damaged two homes and one car."
+    },
+    {
+      "id": "046c851c536c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "New poll shows Democrats leading Republicans. But there’s still 1 problem.",
+      "link": "https://www.masslive.com/politics/2026/10/new-poll-shows-democrats-leading-republicans-but-theres-still-1-problem.html",
+      "published": "2026-10-26T16:55:00+00:00",
+      "summary": "The latest CBS News/YouGov poll found that 53% of likely voters plan on supporting the Democratic candidate in their respective House district, while 45% plan on supporting the Republican."
+    },
+    {
+      "id": "6133bdcb9d88",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "U.S. Mint unveils special $5 gold coin",
+      "link": "https://www.masslive.com/news/2026/10/us-mint-unveils-special-5-gold-coin.html",
+      "published": "2026-10-26T16:54:02+00:00",
+      "summary": "The Dec. 10 release will commemorate the 20th anniversary of the series."
+    },
+    {
+      "id": "cf09667bc6c3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "As seasonal hiring slows, Amazon is hiring 300K workers for the holidays",
+      "link": "https://www.masslive.com/business/2026/10/after-laying-off-people-in-favor-of-ai-amazon-is-hiring-300k-workers-for-the-holidays.html",
+      "published": "2026-10-26T16:50:00+00:00",
+      "summary": "Beginning next year, seasonal hiring will come with a perk usually reserved for full-time employees."
+    },
+    {
+      "id": "65ced38f4b3f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Food hall chain to open 100 new stores in expansion effort",
+      "link": "https://www.masslive.com/news/2026/10/food-hall-chain-to-open-100-new-stores-in-expansion-effort.html",
+      "published": "2026-10-26T16:37:28+00:00",
+      "summary": "Wonder is also reportedly looking to go public."
+    },
+    {
+      "id": "9ec53d08a52b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Walmart is spreading out the Black Friday deals over these dates",
+      "link": "https://www.masslive.com/business/2026/10/walmart-is-spreading-out-the-black-friday-deals-these-are-the-dates-to-put-on-your-calendar.html",
+      "published": "2026-10-26T16:36:26+00:00",
+      "summary": "Here are the schedules for three sale events."
+    },
+    {
+      "id": "4f9c2bb4abc5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Florida man convicted after swallowing Tiffany’s jewelry valued at $760K",
+      "link": "https://www.masslive.com/news/2026/10/florida-man-convicted-after-swallowing-tiffanys-jewelry-valued-at-760k.html",
+      "published": "2026-10-26T16:35:12+00:00",
+      "summary": "He posed as an NBA player to gain access to the jewels."
+    },
+    {
+      "id": "63102eadd048",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "U.S. Marine indicted for murder in Japan after woman was found dead in a hotel room",
+      "link": "https://www.masslive.com/news/2026/10/us-marine-indicted-for-murder-in-japan-after-woman-was-found-dead-in-a-hotel-room.html",
+      "published": "2026-10-26T16:32:14+00:00",
+      "summary": "A United States Marine stationed at Marine Corps Air Station Futenma was indicted for the alleged strangulation death and robbery of a Japanese woman, sparking protests across Japan."
+    },
+    {
+      "id": "56a7ef672e65",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved drive-in fast-food chain reveals winter menu with sweet Santa treat, new burger",
+      "link": "https://www.masslive.com/food/2026/10/beloved-drive-in-fast-food-chain-reveals-winter-menu-with-sweet-santa-treat-new-burger.html",
+      "published": "2026-10-26T16:31:11+00:00",
+      "summary": "Starting Nov. 2, Sonic is serving up holiday magic with a cherry-vanilla dessert drink and a Smoked Gouda and Bacon Smasher made with juicy Angus beef patties."
+    },
+    {
+      "id": "78c78b35b99c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Fatal Rockland house fire draws response from 9 communities",
+      "link": "https://www.masslive.com/news/2026/10/1-resident-killed-in-rockland-3-alarm-house-fire.html",
+      "published": "2026-10-26T16:27:47+00:00",
+      "summary": "A resident was found dead inside a Rockland home after a three-alarm fire broke out early Monday morning."
+    },
+    {
+      "id": "40b842acced5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "USPS announces 2026 holiday shipping dates for packages to arrive in time for Christmas",
+      "link": "https://www.masslive.com/news/2026/10/usps-announces-2026-holiday-shipping-dates-for-packages-to-arrive-in-time-for-christmas.html",
+      "published": "2026-10-26T16:25:23+00:00",
+      "summary": "The postal service recommends sending packages by certain dates to ensure that they arrive in time for specific holidays. For those sending packages to military members, some cut offs begin in November."
+    },
+    {
+      "id": "e55f879d7dc4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The Boston area is getting a new bakery from the team behind Cambridge ice cream shop",
+      "link": "https://www.masslive.com/boston/2026/10/beloved-boston-area-ice-cream-shop-to-open-bakery-next-to-parlor.html",
+      "published": "2026-10-26T16:21:46+00:00",
+      "summary": "Inspired by \"the same small-batch, from-scratch sensibilities\" as the ice cream shop, the bakery will feature tons of sweet and savory treats."
+    },
+    {
+      "id": "cc9e27fe9ec8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "These 5 Western Mass. field hockey players made their mark in Week 7",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/5-western-mass-field-hockey-players-who-made-an-impact-in-week-7.html",
+      "published": "2026-10-26T16:08:16+00:00",
+      "summary": "As Week 7 comes to a close and teams prepare for the Western Mass. tournament, here's a look back at five top performers from the last full week of the regular season."
     },
     {
       "id": "282833aa2957",
@@ -324,256 +524,6 @@
       "link": "https://www.masslive.com/boston/2026/10/masslive-reporters-and-editors-are-coming-to-mattapan-heres-how-to-share-your-story-with-us.html",
       "published": "2026-10-26T15:50:46+00:00",
       "summary": "Please join us from 10 a.m. to 4 p.m. Thursday, Oct. 29 at the Mattapan branch of the Boston Public Library, 1350 Blue Hill Ave."
-    },
-    {
-      "id": "28806579db27",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former Cowboys star Dez Bryant speaks out after encounter with police",
-      "link": "https://www.masslive.com/sports/2026/10/former-dallas-cowboys-star-dez-bryant-cited-after-tense-encounter-with-police.html",
-      "published": "2026-10-26T15:50:43+00:00",
-      "summary": "Former Cowboys star Dez Bryant received an assault citation after a Texas confrontation and says a police officer pointed a gun toward him."
-    },
-    {
-      "id": "31d492558488",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "NY archdiocese to pay $800 million in historic settlement with sex abuse victims",
-      "link": "https://www.masslive.com/news/2026/10/ny-archdiocese-to-pay-800-million-in-historic-settlement-with-sex-abuse-victims.html",
-      "published": "2026-10-26T15:46:13+00:00",
-      "summary": "The agreement includes about 1,300 parishioners who said they were abused by clergy."
-    },
-    {
-      "id": "3a3d49372d57",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "This sport rising in popularity in US and abroad",
-      "link": "https://www.masslive.com/sports/2026/10/this-sport-rising-in-popularity-in-us-and-abroad.html",
-      "published": "2026-10-26T15:43:28+00:00",
-      "summary": "“It's a safe, effective ... for children, women and people of smaller body size.”"
-    },
-    {
-      "id": "1ac9f889d403",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "List of social casinos in USA our team is backing ahead of Halloween weekend",
-      "link": "https://www.masslive.com/sweepstakes/2026/10/list-of-social-casinos-in-usa-our-team-is-backing-ahead-of-halloween-weekend.html",
-      "published": "2026-10-26T15:41:00+00:00",
-      "summary": "Our list of social casinos in USA highlights 10 sites worth considering before Halloween weekend, with welcome bonuses, game features and comparisons."
-    },
-    {
-      "id": "b7f5687d745c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rabbi in California charged with murder after fatal crash at Costco gas pumps",
-      "link": "https://www.masslive.com/news/2026/10/rabbi-charged-with-murder-after-fatal-crash-at-costco-gas-pumps.html",
-      "published": "2026-10-26T15:37:21+00:00",
-      "summary": "A rabbi in California faces murder charges after fatally striking a person with his vehicle at a Costco gas station."
-    },
-    {
-      "id": "98ce5df4e903",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former college football receiver charged with capital murder",
-      "link": "https://www.masslive.com/sports/2026/10/former-college-football-receiver-charged-with-capital-murder.html",
-      "published": "2026-10-26T15:35:39+00:00",
-      "summary": "He played for Southern Miss during his college career."
-    },
-    {
-      "id": "8e494b2c735d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Millions of people swear by the YETI Rambler tumbler, and right now it’s 20% off",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/millions-of-people-swear-by-the-yeti-rambler-tumbler-and-right-now-its-20-off.html",
-      "published": "2026-10-26T15:32:18+00:00",
-      "summary": "The YETI Rambler 20 oz tumbler is 20% off at $28, with free engraving available through November 4."
-    },
-    {
-      "id": "f42d916b9705",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Reality star dead at 34 after cancer battle",
-      "link": "https://www.masslive.com/entertainment/2026/10/reality-star-dead-at-34-after-cancer-battle.html",
-      "published": "2026-10-26T15:27:27+00:00",
-      "summary": "She appeared on MTV's “The Real World Seattle: Bad Blood” in 2016 and on “The Challenge: Invasion of the Champions” the following year."
-    },
-    {
-      "id": "49d181c2344f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Jordan arrests 3 suspects in deadly church attack",
-      "link": "https://www.masslive.com/news/2026/10/major-development-after-9-killed-in-deadly-jordan-church-attack.html",
-      "published": "2026-10-26T15:27:06+00:00",
-      "summary": "Jordanian authorities arrested three suspects after a deadly attack during a Greek Orthodox church funeral in Karak killed nine people and wounded dozens."
-    },
-    {
-      "id": "c0cb2da3b7cc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "New Apple product costs $100 more than previous model",
-      "link": "https://www.masslive.com/news/2026/10/new-apple-product-costs-100-more-than-previous-model.html",
-      "published": "2026-10-26T15:26:21+00:00",
-      "summary": "Apple price hikes are expected to continue into next year."
-    },
-    {
-      "id": "265ac6265cc5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Chicopee crash leaves 1 dead",
-      "link": "https://www.masslive.com/westernmass/2026/10/chicopee-crash-leaves-1-dead.html",
-      "published": "2026-10-26T15:19:56+00:00",
-      "summary": "Police closed one street for four hours while they investigated."
-    },
-    {
-      "id": "fd96d852de46",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Teen, 19 recorded sex in North Carolina dorm, shared it with fraternity on Snapchat",
-      "link": "https://www.masslive.com/news/2026/10/teen-recorded-sex-in-dorm-shared-it-with-fraternity-on-snapchat.html",
-      "published": "2026-10-26T15:17:30+00:00",
-      "summary": "He was arrested on Monday."
-    },
-    {
-      "id": "80916be7cbc1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Data projections have been updated of Celtics Monday night showdown with Bulls",
-      "link": "https://www.masslive.com/betting/2026/10/data-projections-have-been-updated-of-celtics-monday-night-showdown-with-bulls.html",
-      "published": "2026-10-26T15:15:00+00:00",
-      "summary": "The Celtics host the Chicago Bulls at the TD Garden on Monday. Compare Polymarket odds, spread lines, and score projections before tip off."
-    },
-    {
-      "id": "e79dbbba40f7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Luxury electric SUVs recalled, owners warned not to charge beyond 80% over fire risk",
-      "link": "https://www.masslive.com/news/2026/10/luxury-electric-suvs-recalled-owners-warned-not-to-charge-beyond-80-over-fire-risk.html",
-      "published": "2026-10-26T15:13:20+00:00",
-      "summary": "The automaker says it is still working on a final remedy and does not know when it will be ready."
-    },
-    {
-      "id": "39ad7df29eb8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "These 3 coins each sell for between $87,000 and $166,000 at auction",
-      "link": "https://www.masslive.com/news/2026/10/these-3-coins-each-sell-for-between-87000-and-166000-at-auction.html",
-      "published": "2026-10-26T15:08:12+00:00",
-      "summary": "The rare coins from the 1800s-1900s, including silver, copper, and gold pieces, with one appearing at public sale for the first time."
-    },
-    {
-      "id": "5d97e340f036",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots release veteran punter",
-      "link": "https://www.masslive.com/patriots/2026/10/patriots-release-veteran-punter-bryce-baringer.html",
-      "published": "2026-10-26T15:08:00+00:00",
-      "summary": "Bryce Baringer is being released by the Patriots after a preseason injury cost him his job."
-    },
-    {
-      "id": "a2ad67191d82",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Crumbl Cookies closes dozens of stores. Are Mass. locations safe?",
-      "link": "https://www.masslive.com/business/2026/10/crumbl-cookies-closes-dozens-of-stores-are-mass-locations-safe.html",
-      "published": "2026-10-26T15:05:37+00:00",
-      "summary": "Crumbl’s rapid rise made it a social media sensation, but falling sales are now testing the once-booming cookie chain."
-    },
-    {
-      "id": "4fc12926105a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Annie: Teen granddaughter's rudeness is breaking up our entire family",
-      "link": "https://www.masslive.com/advice/2026/10/dear-annie-teen-granddaughters-rudeness-is-breaking-up-our-entire-family.html",
-      "published": "2026-10-26T15:00:00+00:00",
-      "summary": "I don’t expect perfect behavior, but I do expect basic respect."
-    },
-    {
-      "id": "cbcf62594c86",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sage Steele stays with Life Surge amid growing controversy",
-      "link": "https://www.masslive.com/sports/2026/10/former-espn-star-rips-sage-steele-over-controversial-relationship.html",
-      "published": "2026-10-26T14:59:07+00:00",
-      "summary": "Sage Steele continues appearing with Life Surge despite allegations surrounding the company, drawing a harsh response from Keith Olbermann."
-    },
-    {
-      "id": "63061c8e2895",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country singer warned his career is ‘over’ after this",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-singer-warned-his-career-is-over-after-this.html",
-      "published": "2026-10-26T14:58:37+00:00",
-      "summary": "Country singer Jason Aldean is facing online criticism after appearing at a Donald Trump rally in Georgia, with some warning his career could suffer."
-    },
-    {
-      "id": "5b4416328eff",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield shooting leaves victim with serious injuries",
-      "link": "https://www.masslive.com/westernmass/2026/10/springfield-shooting-leaves-victim-with-serious-injuries.html",
-      "published": "2026-10-26T14:46:48+00:00",
-      "summary": "Police were alerted to the gunfire by the ShotSpotter system."
-    },
-    {
-      "id": "3eaf9d68da5f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Porch collapse injures 28 near William & Mary campus",
-      "link": "https://www.masslive.com/news/2026/10/28-injured-after-frightening-incident-near-william-mary-campus.html",
-      "published": "2026-10-26T14:45:31+00:00",
-      "summary": "At least 28 people were injured when a porch collapsed near William & Mary during homecoming weekend in Williamsburg, Virginia, officials said."
-    },
-    {
-      "id": "e864a7fd4b70",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Cooking oil thieves hit same 2 Mass. restaurants again weeks later, police say",
-      "link": "https://www.masslive.com/news/2026/10/cooking-oil-thieves-strike-same-2-mass-restaurants-again-weeks-later-police-say.html",
-      "published": "2026-10-26T14:45:21+00:00",
-      "summary": "Two North Shore restaurants were hit by cooking oil thieves over the weekend — the second time in just weeks, according to local police."
-    },
-    {
-      "id": "c95e223f555b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music star joins Boston walk to raise awareness for heart health",
-      "link": "https://www.masslive.com/boston/2026/10/country-music-star-joins-boston-walk-to-raise-awareness-for-heart-health.html",
-      "published": "2026-10-26T14:43:19+00:00",
-      "summary": "A country music star with her own heart condition shared her personal experience while participating in Boston's Heart Walk on Saturday."
-    },
-    {
-      "id": "cc1e83c970fb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A failed clinical trial just cost 105 Mass. workers their jobs",
-      "link": "https://www.masslive.com/business/2026/10/mass-biotech-company-to-lay-off-half-of-workforce-after-failed-clinical-trial.html",
-      "published": "2026-10-26T14:37:42+00:00",
-      "summary": "Layoffs span facilities in Watertown and Northbridge, with most cuts completed by end of 2026."
     }
   ]
 }
