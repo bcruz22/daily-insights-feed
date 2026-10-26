@@ -1,0 +1,449 @@
+{
+  "generated_at": "2026-10-26T00:11:09+00:00",
+  "window_hours": 48,
+  "sources": {
+    "ars": {
+      "name": "Ars Technica",
+      "status": "ok",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "count": 2,
+      "errors": []
+    },
+    "verge": {
+      "name": "The Verge",
+      "status": "ok",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "count": 10,
+      "errors": []
+    },
+    "masslive": {
+      "name": "MassLive",
+      "status": "ok",
+      "feed_url": "https://www.masslive.com/arc/outboundfeeds/rss/?outputType=xml",
+      "count": 30,
+      "errors": []
+    }
+  },
+  "items": [
+    {
+      "id": "7e7984ce45f7",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "published": "2026-10-24T11:50:28+00:00",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before."
+    },
+    {
+      "id": "6ca78a386877",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "published": "2026-10-24T11:00:09+00:00",
+      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
+    },
+    {
+      "id": "da114e8ce7c5",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "published": "2026-10-25T21:40:27+00:00",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best…"
+    },
+    {
+      "id": "727ad38d32ee",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "published": "2026-10-25T21:08:09+00:00",
+      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the…"
+    },
+    {
+      "id": "b77e72f00b20",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "published": "2026-10-25T20:16:19+00:00",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all…"
+    },
+    {
+      "id": "35542ffb0e04",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "published": "2026-10-25T19:24:50+00:00",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]"
+    },
+    {
+      "id": "0c010e657167",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "published": "2026-10-25T17:00:00+00:00",
+      "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2,…"
+    },
+    {
+      "id": "6cc3d7a00b17",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "published": "2026-10-25T16:20:17+00:00",
+      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew…"
+    },
+    {
+      "id": "b366ba776fde",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "published": "2026-10-25T13:25:32+00:00",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to…"
+    },
+    {
+      "id": "99c99157c7fa",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published": "2026-10-25T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing…"
+    },
+    {
+      "id": "0509c80e85fb",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "published": "2026-10-24T21:29:12+00:00",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too…"
+    },
+    {
+      "id": "09a5dda45158",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "published": "2026-10-24T18:32:21+00:00",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by…"
+    },
+    {
+      "id": "86709dabe819",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "83 injured in Spain bus crash near Barcelona",
+      "link": "https://www.masslive.com/news/2026/10/83-injured-in-spain-bus-crash-near-barcelona.html",
+      "published": "2026-10-25T23:06:26+00:00",
+      "summary": "Seven people seriously injured in Sunday bus crash."
+    },
+    {
+      "id": "c175947f12c0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Motorcyclist airlifted after crash on Route 28 on Cape Cod",
+      "link": "https://www.masslive.com/capecod/2026/10/motorcyclist-airlifted-after-crash-on-route-28-on-cape-cod.html",
+      "published": "2026-10-25T22:53:08+00:00",
+      "summary": "A 25-year-old motorcyclist was seriously injured after crashing into a jersey barrier on Route 28 in Yarmouth."
+    },
+    {
+      "id": "bafc4e9e1fcd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Egypt detains 6 Christians, including a minor, over TikTok video",
+      "link": "https://www.masslive.com/news/2026/10/six-christians-copied-a-movie-scene-then-authorities-stepped-in.html",
+      "published": "2026-10-25T22:48:45+00:00",
+      "summary": "Six young Christians in Egypt were detained after recreating a movie scene on TikTok, drawing blasphemy allegations and calls for their release."
+    },
+    {
+      "id": "7754a2091238",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Cold front expected Monday night in Massachusetts",
+      "link": "https://www.masslive.com/weather/2026/10/cold-front-expected-monday-night-in-massachusetts.html",
+      "published": "2026-10-25T22:26:16+00:00",
+      "summary": "Mild temperatures in the 60s will give way to cooler conditions after a cold front moves through Massachusetts Monday night."
+    },
+    {
+      "id": "f1559ec8cbd6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Steelers' 'Peaky Blinders' look turns heads before historic win",
+      "link": "https://www.masslive.com/sports/2026/10/aaron-rodgers-steelers-turned-heads-before-making-history-in-paris.html",
+      "published": "2026-10-25T22:04:54+00:00",
+      "summary": "Aaron Rodgers and the Steelers arrived in matching “Peaky Blinders” outfits before Pittsburgh beat the Saints 16-10 in the NFL’s historic Paris game."
+    },
+    {
+      "id": "97c7ce402698",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "NJ man arrested after trying to rob 3 Boston banks in under an hour, police say",
+      "link": "https://www.masslive.com/boston/2026/10/nj-man-arrested-after-trying-to-rob-3-boston-banks-in-under-an-hour-police-say.html",
+      "published": "2026-10-25T21:59:26+00:00",
+      "summary": "Anthony Matarazzo, 68, was arrested Saturday after robbing one Boston bank and attempting to rob two others in less than an hour, according to police."
+    },
+    {
+      "id": "1e42d02d9c60",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "When is Black Friday 2026?",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/when-is-black-friday-2026.html",
+      "published": "2026-10-25T21:33:41+00:00",
+      "summary": "Black Friday is right around the corner?"
+    },
+    {
+      "id": "f6019c227c7d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What Red Sox coaching changes mean — and what’s next for Chad Tracy’s staff",
+      "link": "https://www.masslive.com/redsox/2026/10/what-red-sox-coaching-changes-mean-and-whats-next-for-chad-tracys-staff.html",
+      "published": "2026-10-25T21:02:11+00:00",
+      "summary": "The Red Sox made some coaching changes this week. Here's what they all mean — and what might be next."
+    },
+    {
+      "id": "5b82e4e6de72",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daylight saving time, Halloween meet in 2026: It won’t happen again for a long time",
+      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-halloween-meet-in-2026-it-wont-happen-again-for-a-long-tme.html",
+      "published": "2026-10-25T20:42:01+00:00",
+      "summary": "Halloween occurs on Saturday, Oct. 31 followed by the official end of DST at 2 a.m. on Sunday, Nov 1."
+    },
+    {
+      "id": "4f4d0652b10d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Steelers win in Paris, but Rodgers says work remains",
+      "link": "https://www.masslive.com/sports/2026/10/steelers-won-in-paris-but-aaron-rodgers-saw-a-problem.html",
+      "published": "2026-10-25T20:32:33+00:00",
+      "summary": "Aaron Rodgers wasn’t satisfied with the Steelers’ offense despite Pittsburgh beating the Saints 16-10 in the NFL’s historic Paris game."
+    },
+    {
+      "id": "1e4fb7b58e34",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Persian leopard attacks zookeeper at Beekse Bergen safari park",
+      "link": "https://www.masslive.com/news/2026/10/mystery-surrounds-leopard-attack-that-critically-injured-zookeeper.html",
+      "published": "2026-10-25T19:55:58+00:00",
+      "summary": "A veteran zookeeper is critically injured after a Persian leopard attack at Beekse Bergen in the Netherlands as officials investigate what went wrong."
+    },
+    {
+      "id": "fd4fd53fac66",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "South Hadley sports boosters relieved that victuals still an option after food flap",
+      "link": "https://www.masslive.com/westernmass/2026/10/south-hadley-sports-boosters-relieved-that-victuals-still-an-option-after-food-flap.html",
+      "published": "2026-10-25T19:50:16+00:00",
+      "summary": "Last month, a stir erupted publicly and on social media after sports team and their boosters learned that they would be limited to only serving prepackaged foods to players, rather than home-cooked or restaurant-prepared foods and treats served at team events and before and after games."
+    },
+    {
+      "id": "09a916159521",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Inside Longmeadow golf’s championship run: The secret to the Lancers’ success",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/behind-the-scenes-with-longmeadow-golf-whats-behind-the-lancers-success.html",
+      "published": "2026-10-25T19:09:31+00:00",
+      "summary": "Go behind the scenes with Longmeadow golf to find out how the Lancers won the Western Mass. Division I title and prepare for the MIAA state championship."
+    },
+    {
+      "id": "1ca7a174a31a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mississippi officer resigns after toddler killed in Walmart lot",
+      "link": "https://www.masslive.com/news/2026/10/mississippi-officer-resigns-days-after-state-clears-him-in-fatal-shooting-of-1-year-old-boy.html",
+      "published": "2026-10-25T19:08:20+00:00",
+      "summary": "A Mississippi officer who fatally shot 1-year-old Kohen Wiley has resigned after the state cleared him of criminal wrongdoing and released body-camera footage."
+    },
+    {
+      "id": "f9a974846508",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Boston mother arrested after 4-year-old daughter dies from fentanyl ingestion",
+      "link": "https://www.masslive.com/boston/2026/10/boston-mother-arrested-after-4-year-old-daughter-dies-from-fentanyl-ingestion.html",
+      "published": "2026-10-25T18:58:13+00:00",
+      "summary": "Dayanna Familia, 35, has been arrested in the death of her 4-year-old daughter, Liyanna, who died in August from fentanyl ingestion, prosecutors announced Sunday."
+    },
+    {
+      "id": "8938ad46d738",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Finebaum already leaning one way when Alabama, LSU meet",
+      "link": "https://www.masslive.com/sports/2026/10/finebaum-already-leaning-one-way-when-alabama-lsu-meet.html",
+      "published": "2026-10-25T18:39:59+00:00",
+      "summary": "Both teams are coming off wins and heading into bye weeks."
+    },
+    {
+      "id": "ab7ced9697fe",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "NFL's Paris anthem sparks debate among fans",
+      "link": "https://www.masslive.com/sports/2026/10/nfl-national-anthem-before-steelers-saints-game-divides-fans.html",
+      "published": "2026-10-25T18:34:26+00:00",
+      "summary": "NFL fans had mixed reactions after The Soul Rebels performed an unusual national anthem before the Steelers-Saints game in Paris."
+    },
+    {
+      "id": "7297113f26c6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "4 rescued on Day 3 after Kenya building collapse",
+      "link": "https://www.masslive.com/news/2026/10/4-rescued-on-day-3-after-kenya-building-collapse.html",
+      "published": "2026-10-25T18:32:11+00:00",
+      "summary": "People have communicated with loved ones from beneath the rubble."
+    },
+    {
+      "id": "df78f1b02975",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Even with grant, Springfield PD needs more money to cover mental health responses",
+      "link": "https://www.masslive.com/westernmass/2026/10/even-with-grant-springfield-pd-needs-more-money-to-cover-mental-health-responses.html",
+      "published": "2026-10-25T18:04:54+00:00",
+      "summary": "The funding is provided by the state Department of Mental Health."
+    },
+    {
+      "id": "3752155ac3b0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Kyle Kuzma pushes back on Obama's Michigan rally message",
+      "link": "https://www.masslive.com/politics/2026/10/nba-star-heard-barack-obamas-michigan-message-and-fired-back.html",
+      "published": "2026-10-25T17:55:26+00:00",
+      "summary": "Milwaukee Bucks star Kyle Kuzma criticized part of Barack Obama’s Michigan campaign message, questioning its focus ahead of the Nov. 3 election."
+    },
+    {
+      "id": "3e4fb2b416d2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Police rescue man trapped in burning car after crash in Holbrook; driver faces OUI",
+      "link": "https://www.masslive.com/news/2026/10/holbrook-police-rescue-man-trapped-in-burning-car-driver-faces-oui.html",
+      "published": "2026-10-25T17:47:17+00:00",
+      "summary": "Three Holbrook officers pulled a trapped driver from a burning Jeep after a crash early Sunday morning. The 37-year-old driver is facing a drunken driving charge."
+    },
+    {
+      "id": "9aaae331d128",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Raiders teammates debate animals they could fight",
+      "link": "https://www.masslive.com/sports/2026/10/kirk-cousins-makes-wild-claim-that-leaves-raiders-teammate-maxx-crosby-stunned.html",
+      "published": "2026-10-25T17:34:15+00:00",
+      "summary": "Las Vegas Raiders quarterback Kirk Cousins made a surprising claim during a funny animal debate that left teammate Maxx Crosby stunned."
+    },
+    {
+      "id": "db36d7fcfd49",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Player throws punch, fan gets pushed in field storming",
+      "link": "https://www.masslive.com/sports/2026/10/tennessee-player-throws-punch-fan-gets-pushed-after-south-carolina-storms-field.html",
+      "published": "2026-10-25T17:00:07+00:00",
+      "summary": "Things got testy after South Carolina's game-winning field goal."
+    },
+    {
+      "id": "2d6c3bc48fff",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Driver faces OUI after pickup truck smashes into home on Route 6 in Swansea",
+      "link": "https://www.masslive.com/news/2026/10/driver-arrested-on-oui-after-truck-smashes-into-home-on-route-6-in-swansea.html",
+      "published": "2026-10-25T16:48:57+00:00",
+      "summary": "A Swansea man was arrested on a drunken driving charge after crashing his pickup truck into a home on Route 6, according to police."
+    },
+    {
+      "id": "1c43d2c46808",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Longmeadow shopping area roadwork might cost millions more than expected",
+      "link": "https://www.masslive.com/westernmass/2026/10/longmeadow-shopping-area-roadwork-might-cost-millions-more-than-expected.html",
+      "published": "2026-10-25T16:45:53+00:00",
+      "summary": "The need for additional funding, included in a draft warrant for the Dec. 1 Town Meeting, came as news to the Select Board at its Oct. 19 meeting."
+    },
+    {
+      "id": "0d60a0aec007",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Kalshi code “MASSLIVE1” $55 bonus upgraded for NFL Week 7",
+      "link": "https://www.masslive.com/betting/2026/10/kalshi-code-masslive1-55-bonus-upgraded-for-nfl-week-7.html",
+      "published": "2026-10-25T16:45:00+00:00",
+      "summary": "The Kalshi code MASSLIVE1 has been upgraded for NFL Week 7: which type of Kalshi code it is, where it goes at sign-up, and how the $55 bonus on a $25 deposit works."
+    },
+    {
+      "id": "16881d595154",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Teen boy dies in head-on crash after driving the wrong way on Route 1, State Police say",
+      "link": "https://www.masslive.com/news/2026/10/teen-boy-dies-in-head-on-crash-in-revere-after-driving-the-wrong-way-on-route-1-state-police-say.html",
+      "published": "2026-10-25T16:30:30+00:00",
+      "summary": "A teen boy died early Sunday morning after driving the wrong way on Route 1 and colliding head-on with another vehicle, according to State Police."
+    },
+    {
+      "id": "a2f0cff909b7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sites like Ding Ding Ding: The 5 picks players are opening this Sunday",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/sites-like-ding-ding-ding-the-5-picks-players-are-opening-this-sunday.html",
+      "published": "2026-10-25T16:14:00+00:00",
+      "summary": "Ready for a bigger lobby this Sunday? Read our expert review of the top five sites like Ding Ding Ding. See our comparative table and final verdict. Learn more."
+    },
+    {
+      "id": "5fbcc52b1378",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved TV star dies at 51",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-tv-star-dies-at-51.html",
+      "published": "2026-10-25T16:07:47+00:00",
+      "summary": "Actress Georgina Cates, the former wife of “Scream” star Skeet Ulrich, died at 51 in May. Their daughter Naiia Rose Ulrich has shared a tribute."
+    },
+    {
+      "id": "633986156606",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Who has been eliminated on ‘Dancing With the Stars’ season 35 so far?",
+      "link": "https://www.masslive.com/entertainment/2026/10/who-has-been-eliminated-on-dancing-with-the-stars-season-35-so-far.html",
+      "published": "2026-10-25T15:59:54+00:00",
+      "summary": "Season 35 of 'Dancing With the Stars' is down to the final 10"
+    }
+  ]
+}
