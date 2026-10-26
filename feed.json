@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:07:32+00:00",
+  "generated_at": "2026-10-26T14:11:32+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -25,6 +25,16 @@
     }
   },
   "items": [
+    {
+      "id": "9ffa0ff77ad0",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+      "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+      "published": "2026-10-26T11:00:15+00:00",
+      "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground."
+    },
     {
       "id": "7e7984ce45f7",
       "source": "Ars Technica",
@@ -146,14 +156,44 @@
       "summary": "Sound designer lets Half Life-related codename slip at a conference."
     },
     {
-      "id": "a39371ef5d6b",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "df88ce95d957",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-      "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-      "published": "2026-10-23T13:43:21+00:00",
-      "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over."
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "published": "2026-10-26T14:00:00+00:00",
+      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton…"
+    },
+    {
+      "id": "a0064ee100f0",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "published": "2026-10-26T13:32:49+00:00",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company…"
+    },
+    {
+      "id": "9c0a98fa46a8",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Can AI help solve the COBOL code crisis?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "published": "2026-10-26T13:15:00+00:00",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted…"
+    },
+    {
+      "id": "a010e5c203ad",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple updates the iPad Mini with a larger OLED display",
+      "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+      "published": "2026-10-26T13:05:03+00:00",
+      "summary": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini is thinner and…"
     },
     {
       "id": "4c9bba509c66",
@@ -216,44 +256,124 @@
       "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2,…"
     },
     {
-      "id": "6cc3d7a00b17",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Now you can watch Instagram Reels on your Apple TV",
-      "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "published": "2026-10-25T16:20:17+00:00",
-      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew…"
+      "id": "76d1972a0c60",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rodney Hinton Jr. convicted of murder in Ohio deputy's death",
+      "link": "https://www.masslive.com/news/2026/10/ohio-father-convicted-of-deputys-murder-after-a-day-of-tragedy.html",
+      "published": "2026-10-26T14:03:04+00:00",
+      "summary": "An Ohio jury convicted Rodney Hinton Jr. of murder in Deputy Larry Henderson’s death after rejecting his insanity defense. Sentencing is Nov. 16."
     },
     {
-      "id": "b366ba776fde",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "published": "2026-10-25T13:25:32+00:00",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to…"
+      "id": "a7f9e7194737",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump unleashes in his longest social media post on record: ‘You’re a Loser!’",
+      "link": "https://www.masslive.com/politics/2026/10/trump-unleashes-in-his-longest-social-media-post-on-record-youre-a-loser.html",
+      "published": "2026-10-26T13:55:19+00:00",
+      "summary": "The over 1,300-word tirade came just days after the president called their White House dinner \"great.\""
     },
     {
-      "id": "99c99157c7fa",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Google’s AI search changes upended online publishing",
-      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "published": "2026-10-25T12:00:00+00:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing…"
+      "id": "a3b261128f4c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jake Luppen, 31, preparing for surgery to remove suspected brain tumor",
+      "link": "https://www.masslive.com/entertainment/2026/10/rock-frontman-31-reveals-brain-tumor-ahead-of-major-surgery.html",
+      "published": "2026-10-26T13:49:59+00:00",
+      "summary": "Hippo Campus singer Jake Luppen, 31, revealed plans for brain surgery after doctors detected possible growth in a lesion monitored for seven years."
     },
     {
-      "id": "0509c80e85fb",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "published": "2026-10-24T21:29:12+00:00",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too…"
+      "id": "2a8ee2db8dee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Florida A&M shooting: 15-year-old boy arrested; 11 people shot near football stadium",
+      "link": "https://www.masslive.com/news/2026/10/florida-am-shooting-15-year-old-boy-arrested-11-people-shot-near-football-stadium.html",
+      "published": "2026-10-26T13:34:25+00:00",
+      "summary": "None of the victims were intended targets, police said."
+    },
+    {
+      "id": "33cc5af188ba",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Nobody knows where or when Game 6 of the WNBA Finals will be. Here’s why",
+      "link": "https://www.masslive.com/sports/2026/10/nobody-knows-where-or-when-game-6-of-the-wnba-finals-will-be-heres-why.html",
+      "published": "2026-10-26T13:26:51+00:00",
+      "summary": "The Atlanta Dream and Golden State Valkyries are currently tied 2-2."
+    },
+    {
+      "id": "45a96eaea1d9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Worcester man found guilty of killing man in 2022, leaving body in snowy woods",
+      "link": "https://www.masslive.com/centralmass/2026/10/worcester-man-found-guilty-of-killing-man-in-2022-leaving-body-in-snow.html",
+      "published": "2026-10-26T13:10:32+00:00",
+      "summary": "A Worcester man was convicted of murder in the 2022 killing of a 29-year-old man whose body was found covered in snow in the woods."
+    },
+    {
+      "id": "72f309e8eeee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Lemon Grove marks 100 years since landmark desegregation case",
+      "link": "https://www.masslive.com/palabra/2026/10/lemon-grove-marks-100-years-since-landmark-desegregation-case.html",
+      "published": "2026-10-26T13:00:01+00:00",
+      "summary": "In 1931, Mexican American families in San Diego County won a court order forcing their children's reinstatement at a local school."
+    },
+    {
+      "id": "54db2aef57fb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sullivan, Peltola seek support from Alaska Native voters ahead of crucial Senate race",
+      "link": "https://www.masslive.com/native-american-news/2026/10/sullivan-peltola-seek-support-from-alaska-native-voters-ahead-of-crucial-senate-race.html",
+      "published": "2026-10-26T13:00:01+00:00",
+      "summary": "The major candidates in Alaska’s U.S. Senate race are both casting themselves as strong voices on Alaska Native issues."
+    },
+    {
+      "id": "4a8173b62d1d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: I feel a bit guilty, but I think hanging up was warranted",
+      "link": "https://www.masslive.com/advice/2026/10/miss-manners-i-feel-a-bit-guilty-but-i-think-hanging-up-was-warranted.html",
+      "published": "2026-10-26T13:00:00+00:00",
+      "summary": "I’m registering a vote to abandon manners in a certain context."
+    },
+    {
+      "id": "d4aaa17b0166",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Fate of landmark Mass. theater no longer in limbo after owners purchase building",
+      "link": "https://www.masslive.com/news/2026/10/landmark-boston-area-theater-secures-home-as-owners-purchase-historic-building.html",
+      "published": "2026-10-26T12:54:58+00:00",
+      "summary": "\"We dreamed of buying the building some day, but that day came sooner than anticipated.\""
+    },
+    {
+      "id": "9d462970791f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Celtics injury report: Two-way guard listed for Bulls game Monday",
+      "link": "https://www.masslive.com/celtics/2026/10/celtics-injury-report-two-way-guard-listed-for-bulls-game-monday.html",
+      "published": "2026-10-26T12:51:44+00:00",
+      "summary": "Devin Carter continues to remain out due to an illness and it's unclear when he'll return."
+    },
+    {
+      "id": "23ac35b59a9b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Homeless encampment attack in Fall River leads to 1 arrest, 1 wanted, police say",
+      "link": "https://www.masslive.com/news/2026/10/homeless-encampment-attack-in-fall-river-leads-to-1-arrest-1-wanted-police-say.html",
+      "published": "2026-10-26T12:06:56+00:00",
+      "summary": "Police say a machete attack at a homeless encampment in Fall River last week has led to one arrest, with another suspect still at large."
     },
     {
       "id": "c2d530829858",
@@ -286,24 +406,14 @@
       "summary": "Dreaming of a San Francisco getaway? Bradley International Airport is about to make the trip a whole lot easier."
     },
     {
-      "id": "676cac3e2a20",
+      "id": "2d5d07aa0fed",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Daylight saving time 2026: Clocks ‘fall back’ in a few days",
-      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-2026-clocks-fall-back-in-a-few-days.html",
+      "title": "Pioneering rock frontman dead at 72: ‘A titan amongst men’",
+      "link": "https://www.masslive.com/entertainment/2026/10/pioneering-rock-frontman-dead-at-72-a-titan-amongst-men.html",
       "published": "2026-10-26T11:00:00+00:00",
-      "summary": "Daylight saving time ends the day after Halloween."
-    },
-    {
-      "id": "df1cccb441d1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Clocks ‘fall back’ for daylight saving time’s end very soon",
-      "link": "https://www.masslive.com/news/2026/10/clocks-fall-back-for-daylight-saving-times-end-very-soon.html",
-      "published": "2026-10-26T11:00:00+00:00",
-      "summary": "Daylight saving time 2026 is almost at an end."
+      "summary": "His body was discovered in his home by his niece."
     },
     {
       "id": "1b9ab68fbe57",
@@ -326,14 +436,24 @@
       "summary": "ESPN host Mike Greenberg called for major changes after the New York Jets’ 28-25 loss to the previously winless Miami Dolphins."
     },
     {
-      "id": "2d5d07aa0fed",
+      "id": "df1cccb441d1",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Pioneering rock frontman dead at 72: ‘A titan amongst men’",
-      "link": "https://www.masslive.com/entertainment/2026/10/pioneering-rock-frontman-dead-at-72-a-titan-amongst-men.html",
+      "title": "Clocks ‘fall back’ for daylight saving time’s end very soon",
+      "link": "https://www.masslive.com/news/2026/10/clocks-fall-back-for-daylight-saving-times-end-very-soon.html",
       "published": "2026-10-26T11:00:00+00:00",
-      "summary": "His body was discovered in his home by his niece."
+      "summary": "Daylight saving time 2026 is almost at an end."
+    },
+    {
+      "id": "676cac3e2a20",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daylight saving time 2026: Clocks ‘fall back’ in a few days",
+      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-2026-clocks-fall-back-in-a-few-days.html",
+      "published": "2026-10-26T11:00:00+00:00",
+      "summary": "Daylight saving time ends the day after Halloween."
     },
     {
       "id": "b242bd5047dc",
@@ -386,76 +506,6 @@
       "summary": "UMass Amherst's mascot Sam the Minuteman visited Westfield Intermediate School to award $1,000 in grants to teachers for 3D printing and flexible seating projects."
     },
     {
-      "id": "17b7de6fd383",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Today’s horoscope: Aries - Trust your instincts, and do what must be done (Oct. 26, 2026)",
-      "link": "https://www.masslive.com/advice/2026/10/todays-horoscope-aries-trust-your-instincts-and-do-what-must-be-done-oct-26-2026.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Celebrities born on this day: Seth MacFarlane, 53; Cary Elwes, 64; James Pickens Jr., 72; Pat Sajak, 80."
-    },
-    {
-      "id": "611383268e36",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: Son wants to dig into our family's past - I'm afraid of what he'll find there",
-      "link": "https://www.masslive.com/advice/2026/10/dear-abby-son-wants-to-dig-into-our-familys-past-im-afraid-of-what-hell-find-there.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Grandma was manipulative and selfish even into her last days, which grandson never saw."
-    },
-    {
-      "id": "57eac9de34e6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock singer dies after cancer battle: ‘A real rock star if there ever was one’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-singer-dies-after-cancer-battle-a-real-rock-star-if-there-ever-was-one.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "A GoFundMe for him launched in the spring noted that he has moved to hospice care."
-    },
-    {
-      "id": "3a97dc7b605b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player from NH wins jackpot prize with $35 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-from-nh-wins-jackpot-prize-with-35-bet.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "2026d316e83f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "People in Business: Oct. 26, 2026",
-      "link": "https://www.masslive.com/business/2026/10/people-in-business-oct-26-2026.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "People in Business"
-    },
-    {
-      "id": "399d5421fbad",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Walmart, Target issue recall for high chairs over deadly entrapment risks: Stop use",
-      "link": "https://www.masslive.com/news/2026/10/walmart-target-issue-recall-for-high-chairs-over-deadly-entrapment-risks-stop-use.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "High chairs sold nationwide are being recalled for violating federal safety standards. Regulators urge consumers to stop using the recalled products and request a replacement chair."
-    },
-    {
-      "id": "f50208766441",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "JetBlue is launching ‘adults-only’ flights in this new partnership",
-      "link": "https://www.masslive.com/news/2026/10/jetblue-is-launching-adults-only-flights-in-this-new-partnership.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "JetBlue is launching \"adults-only\" flights as part of a new partnership"
-    },
-    {
       "id": "620f3b54c2f3",
       "source": "MassLive",
       "source_id": "masslive",
@@ -476,84 +526,34 @@
       "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
-      "id": "1fb96c5269b9",
+      "id": "f50208766441",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Community Preservation Committee approves application to build new playground at Woodland School",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/community-preservation-committee-approves-application-to-build-new-playground-at-woodland-school.html",
+      "title": "JetBlue is launching ‘adults-only’ flights in this new partnership",
+      "link": "https://www.masslive.com/news/2026/10/jetblue-is-launching-adults-only-flights-in-this-new-partnership.html",
       "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Woodland School principal Emma Rood showed she was paying attention, like any good student, to feedback from the members of the Community Preservation Committee when she appeared before the committee requesting funds for a new playground at the school."
+      "summary": "JetBlue is launching \"adults-only\" flights as part of a new partnership"
     },
     {
-      "id": "9345423579d8",
+      "id": "d8b5ed422900",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Medical examiner who autopsied Sandra Birchmore to testify Monday at Matthew Farwell trial",
-      "link": "https://www.masslive.com/news/2026/10/medical-examiner-who-autopsied-sandra-birchmore-to-testify-at-matthew-farwell-trial-monday.html",
+      "title": "HS Girls Soccer: Who are the top regular-season stats leaders in WMass?",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-girls-soccer-who-are-the-top-regular-season-stats-leaders-in-wmass.html",
       "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The forensic pathologist who ruled Sandra Birchmore's death a suicide in 2021 is expected to testify Monday at Matthew Farwell's trial."
+      "summary": "Who are the top reported regular-season girls soccer statistic leaders in Western Massachusetts?"
     },
     {
-      "id": "201ff1a143ee",
+      "id": "83ed03fe7ee4",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Business Monday ETC: Oct. 26, 2026",
-      "link": "https://www.masslive.com/business/2026/10/business-monday-etc-oct-26-2026.html",
+      "title": "Amazon issues nationwide recall for 6K toys over ‘serious injury’ risks: Return ASAP",
+      "link": "https://www.masslive.com/news/2026/10/amazon-issues-nationwide-recall-for-6k-toys-over-serious-injury-risks-return-asap.html",
       "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Business Monday ETC"
-    },
-    {
-      "id": "0bbb51f9d3f1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Social Security recipients might be paying $54 unnecessarily",
-      "link": "https://www.masslive.com/news/2026/10/social-security-recipients-might-be-paying-54-unnecessarily.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "People can also file their taxes for free."
-    },
-    {
-      "id": "78387ff492de",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $5.28 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-528-bet.html-2",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "5ff614e5eb7e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "HS Boys Soccer: Who are the top regular-season stats leaders in WMass?",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-boys-soccer-who-are-the-top-regular-season-stats-leaders-in-wmass.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Who are the top reported regular-season boys soccer statistic leaders in Western Massachusetts?"
-    },
-    {
-      "id": "f70e74353c0d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $12.50 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-1250-bet.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "32e2f2ac00d4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "HS Girls Volleyball: Who are the top regular-season stats leaders in WMass?",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-girls-volleyball-who-are-the-top-regular-season-stats-leaders-in-wmass.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Who are the top reported regular-season girls volleyball statistic leaders in Western Massachusetts?"
+      "summary": "More than 6,500 toys sold on Amazon are being recalled over deadly ingestion risks. Here's how to tell if you have one and how to request a refund."
     }
   ]
 }
