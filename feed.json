@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T20:12:00+00:00",
+  "generated_at": "2026-10-26T22:09:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 12,
+      "count": 14,
       "errors": []
     },
     "verge": {
@@ -26,11 +26,51 @@
   },
   "items": [
     {
+      "id": "3013e4fb2f56",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+      "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+      "published": "2026-10-26T20:27:00+00:00",
+      "summary": "Case study gives a whole new meaning to \"bedroom eyes.\""
+    },
+    {
+      "id": "283bfb813f45",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+      "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+      "published": "2026-10-26T20:15:07+00:00",
+      "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes ."
+    },
+    {
+      "id": "5d5ff332a0b6",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "published": "2026-10-26T20:04:16+00:00",
+      "summary": "Included is the ability to limit which applications Siri can directly access."
+    },
+    {
+      "id": "668d9a95d516",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+      "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+      "published": "2026-10-26T19:04:40+00:00",
+      "summary": "Apple claims this is the most significant update ever for the iPad mini line."
+    },
+    {
       "id": "830f46d3a8fd",
       "source": "Ars Technica",
       "source_id": "ars",
       "category": "tech",
-      "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
       "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
       "published": "2026-10-26T18:50:41+00:00",
       "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk."
@@ -126,24 +166,24 @@
       "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
     },
     {
-      "id": "32c644453d6d",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "73fed1e20a12",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-      "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-      "published": "2026-10-23T20:28:43+00:00",
-      "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations."
+      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+      "published": "2026-10-26T21:56:36+00:00",
+      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the…"
     },
     {
-      "id": "3e249e7fc631",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "96b9f45bb2e6",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "published": "2026-10-23T20:19:55+00:00",
-      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting."
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "published": "2026-10-26T21:45:31+00:00",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission…"
     },
     {
       "id": "a95cbb9d120c",
@@ -226,24 +266,144 @@
       "summary": "When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not one that came out in 2020. Beyond a few minor tweaks, though, the XM4C are…"
     },
     {
-      "id": "ebe79df37e2d",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Instagram chases YouTube with a push for longer, widescreen videos",
-      "link": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
-      "published": "2026-10-26T16:05:44+00:00",
-      "summary": "Instagram is announcing a big push into longform horizontal video, which the platform is calling \"Features.\" Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he says in a six-and-a-half-minute video (here's the widescreen version) with VP of…"
+      "id": "b869caaa10aa",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Keanu Reeves to star in Netflix thriller inspired by ‘Die Hard’",
+      "link": "https://www.masslive.com/entertainment/2026/10/keanu-reeves-to-star-in-netflix-thriller-inspired-by-die-hard.html",
+      "published": "2026-10-26T21:30:00+00:00",
+      "summary": "Keanu Reeves will star in \"Maelstrom,\" a Netflix thriller based on a script sold in 1993, playing a federal agent protecting a witness during a hurricane."
     },
     {
-      "id": "b8f740314eab",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Microsoft offers buyouts to 60,000 employees",
-      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "published": "2026-10-26T15:58:27+00:00",
-      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning…"
+      "id": "dd1c835af766",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Walmart reveals Black Friday dates, and the deals start sooner than you think",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/walmart-reveals-black-friday-dates-and-the-deals-start-sooner-than-you-think.html",
+      "published": "2026-10-26T21:18:26+00:00",
+      "summary": "Walmart has announced three holiday shopping events for 2026, beginning Nov. 12, with Walmart+ members receiving early access to exclusive online deals."
+    },
+    {
+      "id": "8e6cba9c96db",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "This Hollywood couple is officially divorced after 8 years of marriage",
+      "link": "https://www.masslive.com/entertainment/2026/10/this-hollywood-couple-is-officially-divorced-after-8-years-of-marriage.html",
+      "published": "2026-10-26T21:14:58+00:00",
+      "summary": "A popular actress and comedian has finalized her divorce 10 months after making a separation announcement"
+    },
+    {
+      "id": "2eab48692544",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Holyoke seeks feedback on comprehensive plan at community forum this week",
+      "link": "https://www.masslive.com/westernmass/2026/10/holyoke-seeks-feedback-on-comprehensive-plan-at-community-forum-this-week.html",
+      "published": "2026-10-26T20:53:32+00:00",
+      "summary": "Holyoke will host a community forum Wednesday to gather resident input on implementing the city's newly adopted comprehensive plan, which will guide growth over the next 20 years."
+    },
+    {
+      "id": "ef86da7b9385",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mt. Holyoke launches campaign to expand scholarships, reimagine college life",
+      "link": "https://www.masslive.com/westernmass/2026/10/mt-holyoke-launches-campaign-to-expand-scholarships-reimagine-college-life.html",
+      "published": "2026-10-26T20:46:15+00:00",
+      "summary": "There are just over 2,000 students at Mount Holyoke from 45 states and 75 countries, according to the college."
+    },
+    {
+      "id": "a7e803611a06",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pat McAfee blasts college following GameDay: ‘I hate this place’",
+      "link": "https://www.masslive.com/sports/2026/10/pat-mcafee-blasts-college-following-gameday-i-hate-this-place.html",
+      "published": "2026-10-26T20:40:42+00:00",
+      "summary": "The ESPN College GameDay star did not enjoy his trip to Utah."
+    },
+    {
+      "id": "3946924be3bc",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved soap opera star dead at 75",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-soap-opera-star-dead-at-75.html",
+      "published": "2026-10-26T20:39:58+00:00",
+      "summary": "“My heart is broken as I share that my beloved husband, Alan, passed away on October 23, 2026,” began a Facebook post penned by his wife."
+    },
+    {
+      "id": "bfa6b4e901eb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jaylen Brown requested trade from Celtics, says Brian Scalabrine",
+      "link": "https://www.masslive.com/celtics/2026/10/jaylen-brown-requested-trade-from-celtics-says-brian-scalabrine.html",
+      "published": "2026-10-26T20:38:21+00:00",
+      "summary": "Jaylen Brown is now with the Sixers and has been a hot topic of conversation in the past week."
+    },
+    {
+      "id": "d0083884ebfd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Liberty Junction to hold community meeting on Springfield courthouse project",
+      "link": "https://www.masslive.com/westernmass/2026/10/liberty-junction-to-hold-community-meeting-on-springfield-courthouse-project.html",
+      "published": "2026-10-26T20:33:01+00:00",
+      "summary": "Liberty Junction was selected as prefered developer for the $1.94 billion, 40-year project."
+    },
+    {
+      "id": "bc963dee0e42",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Matthew Farwell's twin gets immunity to testify at murder trial",
+      "link": "https://www.masslive.com/news/2026/10/matthew-farwells-twin-given-immunity-for-testimony-at-brothers-murder-trial.html",
+      "published": "2026-10-26T20:27:23+00:00",
+      "summary": "William Farwell said he feared being charged with a crime for having sex with Sandra Birchmore while on the clock as a Stoughton police officer."
+    },
+    {
+      "id": "d3777f490eca",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Surge in popularity forcing most of 6,000-acre state park to close until fall 2027",
+      "link": "https://www.masslive.com/news/2026/10/surge-in-popularity-forcing-most-of-6000-acre-state-park-to-close-until-fall-2027.html",
+      "published": "2026-10-26T20:26:10+00:00",
+      "summary": "A few recreational opportunities will remain accessible at Banning State Park."
+    },
+    {
+      "id": "ae3bb52a7b1f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield Crossing housing receives backing for needed zone change",
+      "link": "https://www.masslive.com/westernmass/2026/10/springfield-crossing-housing-receives-backing-for-needed-zone-change.html",
+      "published": "2026-10-26T20:26:03+00:00",
+      "summary": "The project calls for 32 new condominiums."
+    },
+    {
+      "id": "e014403de453",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "‘Big Brother’ star’s wife shares the shocking health news that came right after his historic victory",
+      "link": "https://www.masslive.com/entertainment/2026/10/big-brother-stars-wife-shares-the-shocking-health-news-that-came-right-after-his-historic-victory.html",
+      "published": "2026-10-26T20:11:58+00:00",
+      "summary": "After winning the biggest prize in the show's history, a 'Big Brother' winner is navigating a challenging chapter"
+    },
+    {
+      "id": "edf791fab03c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Eric Bauza remembered by Hollywood colleagues after death at 46",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-voice-behind-childhood-cartoon-favorites-dies-at-46.html",
+      "published": "2026-10-26T20:11:55+00:00",
+      "summary": "Emmy-winning voice actor Eric Bauza, known for Bugs Bunny and Daffy Duck, died at 46 as Hollywood colleagues shared tributes."
     },
     {
       "id": "5ca7b8598ffd",
@@ -404,146 +564,6 @@
       "link": "https://www.masslive.com/nytcooking/2026/10/792689956-rof-senegalese-pepper-paste.html",
       "published": "2026-10-26T18:58:50+00:00",
       "summary": "Rof is a vibrant, aromatic Senegalese pepper paste made from parsley, scallions, garlic, and chiles, perfect for marinating or seasoning seafood, poultry, meat, and vegetables."
-    },
-    {
-      "id": "68e347802f03",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Garlic-butter roast chicken",
-      "link": "https://www.masslive.com/nytcooking/2026/10/792085885-garlic-butter-roast-chicken.html",
-      "published": "2026-10-26T18:58:46+00:00",
-      "summary": "Indulge in a succulent garlic-butter roast chicken, enhanced by 40 cloves of roasted garlic and rich pan juices, perfect for spreading on crusty bread."
-    },
-    {
-      "id": "0193c0877784",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Christy Carlson Romano gives update on birdshot lodged behind eye",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-tv-star-faces-permanent-vision-loss-after-being-shot.html",
-      "published": "2026-10-26T18:55:23+00:00",
-      "summary": "Christy Carlson Romano says a birdshot fragment remains lodged behind her eye nearly a year after a shooting accident and could threaten her vision."
-    },
-    {
-      "id": "8cd9498b8716",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "ESPN personality: This team should make CFP with 3 losses",
-      "link": "https://www.masslive.com/sports/2026/10/espn-personality-says-this-team-should-make-cfp-even-with-3-losses.html",
-      "published": "2026-10-26T18:42:36+00:00",
-      "summary": "Analyst makes case for team coming off big win."
-    },
-    {
-      "id": "2ea41e4f030c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary ‘Star Trek’ actor dies at 90: ‘My heart is heavy’",
-      "link": "https://www.masslive.com/entertainment/2026/10/legendary-star-trek-actor-dies-at-90-my-heart-is-heavy.html",
-      "published": "2026-10-26T18:42:11+00:00",
-      "summary": "An actor who starred in the original 'Star Trek' series and seven 'Star Trek' films has died"
-    },
-    {
-      "id": "b1c35a3003f5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Instacart is exploring a sale — and Uber and DoorDash are both in the mix",
-      "link": "https://www.masslive.com/food/2026/10/could-uber-or-doordash-soon-own-instacart-heres-what-we-know-so-far.html",
-      "published": "2026-10-26T18:41:10+00:00",
-      "summary": "The grocery-delivery company hired an investment bank as it weighs a potential sale to a larger rival."
-    },
-    {
-      "id": "b516b9b4d6c3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "October VA disability payments coming earlier than usual: What to know",
-      "link": "https://www.masslive.com/news/2026/10/october-va-disability-payments-coming-earlier-than-usual-what-to-know.html",
-      "published": "2026-10-26T18:35:12+00:00",
-      "summary": "The VA estimates that by 2027, 6.8 million veterans will be receiving disability compensation."
-    },
-    {
-      "id": "548f4e3ed8c4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump Cabinet member warned he’ll be run ‘out of town’ amid exit strategy rumor",
-      "link": "https://www.masslive.com/politics/2026/10/trump-cabinet-member-warned-hell-be-run-out-of-town-amid-exit-strategy-rumor.html",
-      "published": "2026-10-26T18:33:00+00:00",
-      "summary": "The top Democrat pledged to hold the secretary accountable."
-    },
-    {
-      "id": "0ea550f25783",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "SKIMS, fashion brand owned by Kim Kardashian, opens first Boston store",
-      "link": "https://www.masslive.com/boston/2026/10/skims-fashion-brand-owned-by-kim-kardashian-opens-first-boston-store.html",
-      "published": "2026-10-26T18:31:20+00:00",
-      "summary": "Anticipation over the opening first started brewing in December 2025 when pictures of its storefront were posted on social media."
-    },
-    {
-      "id": "6d54d85a6f09",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "WNBA Finals Game 6 location, tip-off time revealed",
-      "link": "https://www.masslive.com/sports/2026/10/wnba-finals-game-6-location-tip-off-time-revealed.html",
-      "published": "2026-10-26T18:27:52+00:00",
-      "summary": "The matchup has been locked in after the NBA and WNBA were working through a scheduling conflict."
-    },
-    {
-      "id": "f13568e8a829",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is Jaylen Brown chasing drama with Jayson Tatum?",
-      "link": "https://www.masslive.com/celtics/2026/10/is-jaylen-brown-chasing-drama-with-jayson-tatum.html",
-      "published": "2026-10-26T18:26:44+00:00",
-      "summary": "Matt Vautour and Chris Mason dive into the latest developments in the Jaylen Brown and Jayson Tatum \"lamb chops\" quarrel, plus the Bruins' hot start and NFL chaos."
-    },
-    {
-      "id": "9cf6ccdf3146",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sites like Wow Vegas: 5 picks our team is backing on free Sweeps Coins this week",
-      "link": "https://www.masslive.com/sweepstakes/2026/10/sites-like-wow-vegas-5-picks-our-team-is-backing-on-free-sweeps-coins-this-week.html",
-      "published": "2026-10-26T18:26:00+00:00",
-      "summary": "Roll into a great gaming week with the top 5 sites like Wow Vegas. We review the top casinos like Wow Vegas for sweepstakes games & bonuses to win cash prizes."
-    },
-    {
-      "id": "dbd4c4b3b528",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "I put the $125 Caraway ceramic fry pan to the test — the results surprised me",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/i-put-the-125-caraway-ceramic-fry-pan-to-the-test-the-results-surprised-me.html",
-      "published": "2026-10-26T18:06:33+00:00",
-      "summary": "The Caraway 10.5-inch Ceramic Fry Pan offers a stylish, PTFE-free nonstick surface for $125, best suited for everyday cooking with proper low-heat care."
-    },
-    {
-      "id": "94d941d07d25",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Family of Springfield officer killed 80 years ago claims memorial plaque",
-      "link": "https://www.masslive.com/business/2026/10/family-of-springfield-officer-killed-80-years-ago-claims-memorial-plaque.html",
-      "published": "2026-10-26T18:05:22+00:00",
-      "summary": "After finding discarded plaques in a scrapyard three months ago, Fred Basile of Springfield has found four additional family members who want the plaques."
-    },
-    {
-      "id": "6ab5db30c4f4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "World leader puts Trump official on blast over stalled Patriot missiles",
-      "link": "https://www.masslive.com/politics/2026/10/world-leader-puts-trump-official-on-blast-over-stalled-patriot-missiles.html",
-      "published": "2026-10-26T18:01:57+00:00",
-      "summary": "The relationship between Ukraine and the U.S. has grown tense since the start of President Donald Trump’s second term, despite Trump promising to end the Russia-Ukraine war “in 24 hours.”"
     }
   ]
 }
