@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T10:09:32+00:00",
+  "generated_at": "2026-10-26T12:07:32+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 16,
+      "count": 13,
       "errors": []
     },
     "verge": {
@@ -156,36 +156,6 @@
       "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over."
     },
     {
-      "id": "dc1383425a6f",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-      "published": "2026-10-23T11:30:22+00:00",
-      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink."
-    },
-    {
-      "id": "57c7fcd34eb2",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-      "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
-      "published": "2026-10-23T11:15:03+00:00",
-      "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein."
-    },
-    {
-      "id": "7e041e1086dd",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-      "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-      "published": "2026-10-23T11:00:57+00:00",
-      "summary": "\"We believe Canada should be able to reach orbit on its own terms.\""
-    },
-    {
       "id": "4c9bba509c66",
       "source": "The Verge",
       "source_id": "verge",
@@ -286,6 +256,116 @@
       "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too…"
     },
     {
+      "id": "c2d530829858",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What’s the best age to start getting Social Security benefits? What the numbers say",
+      "link": "https://www.masslive.com/news/2026/10/whats-the-best-age-to-start-getting-social-security-benefits-what-the-numbers-say.html",
+      "published": "2026-10-26T12:00:00+00:00",
+      "summary": "Claiming benefits before Full Retirement Age (FRA) can reduce your monthly benefits by as much as 30%."
+    },
+    {
+      "id": "50c13e786296",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "NY woman stabbed 2 Jewish men with syringe, police say; charged with hate crimes",
+      "link": "https://www.masslive.com/news/2026/10/ny-woman-stabbed-2-jewish-men-with-syringe-police-say-charged-with-hate-crimes.html",
+      "published": "2026-10-26T11:52:14+00:00",
+      "summary": "Hate crimes in NYC have increased this year, according to police data."
+    },
+    {
+      "id": "0a182b220aee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daily nonstop flights to West Coast added at Bradley International. Here's when they start",
+      "link": "https://www.masslive.com/news/2026/10/bradley-international-airport-to-launch-daily-nonstop-flights-to-san-francisco.html",
+      "published": "2026-10-26T11:07:29+00:00",
+      "summary": "Dreaming of a San Francisco getaway? Bradley International Airport is about to make the trip a whole lot easier."
+    },
+    {
+      "id": "676cac3e2a20",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daylight saving time 2026: Clocks ‘fall back’ in a few days",
+      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-2026-clocks-fall-back-in-a-few-days.html",
+      "published": "2026-10-26T11:00:00+00:00",
+      "summary": "Daylight saving time ends the day after Halloween."
+    },
+    {
+      "id": "df1cccb441d1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Clocks ‘fall back’ for daylight saving time’s end very soon",
+      "link": "https://www.masslive.com/news/2026/10/clocks-fall-back-for-daylight-saving-times-end-very-soon.html",
+      "published": "2026-10-26T11:00:00+00:00",
+      "summary": "Daylight saving time 2026 is almost at an end."
+    },
+    {
+      "id": "1b9ab68fbe57",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Months of burning leg pain with no answers — a doctor explains what might be going on",
+      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-ive-had-constant-burning-leg-pain-for-months-and-cant-find-answers.html",
+      "published": "2026-10-26T11:00:00+00:00",
+      "summary": "Tight waistbands, a thick wallet and even recent surgery are among the little-known triggers of this nerve condition."
+    },
+    {
+      "id": "be6425b2a726",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "ESPN's Mike Greenberg calls Jets loss an 'absolute disgrace'",
+      "link": "https://www.masslive.com/sports/2026/10/espns-mike-greenberg-changes-his-tune-on-jets-after-crushing-dolphins-loss.html",
+      "published": "2026-10-26T11:00:00+00:00",
+      "summary": "ESPN host Mike Greenberg called for major changes after the New York Jets’ 28-25 loss to the previously winless Miami Dolphins."
+    },
+    {
+      "id": "2d5d07aa0fed",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pioneering rock frontman dead at 72: ‘A titan amongst men’",
+      "link": "https://www.masslive.com/entertainment/2026/10/pioneering-rock-frontman-dead-at-72-a-titan-amongst-men.html",
+      "published": "2026-10-26T11:00:00+00:00",
+      "summary": "His body was discovered in his home by his niece."
+    },
+    {
+      "id": "b242bd5047dc",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. man killed in N.H. crash with tractor-trailer",
+      "link": "https://www.masslive.com/news/2026/10/mass-man-killed-in-nh-crash-with-tractor-trailer.html",
+      "published": "2026-10-26T10:57:22+00:00",
+      "summary": "A man from Massachusetts died after his Toyota Solara struck the rear of a tractor-trailer on a highway in New Hampshire early Thursday morning."
+    },
+    {
+      "id": "9bd9136c3f55",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rock band changes lineup at last minute for tour: ‘Important matters at home’",
+      "link": "https://www.masslive.com/entertainment/2026/10/rock-band-changes-lineup-at-last-minute-for-tour-important-matters-at-home.html",
+      "published": "2026-10-26T10:54:18+00:00",
+      "summary": "The Grammy-nominated group begins its new tour this week."
+    },
+    {
+      "id": "f6ef4c1d30c6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Cold front to bring frost, freeze risk to Massachusetts",
+      "link": "https://www.masslive.com/weather/2026/10/warm-spell-ends-as-massachusetts-braces-for-sharp-temperature-drop.html",
+      "published": "2026-10-26T10:16:19+00:00",
+      "summary": "Massachusetts may go from near 70 degrees to frost and freezing temperatures in just a few days. Here’s what to expect this week."
+    },
+    {
       "id": "67a5bf840e6a",
       "source": "MassLive",
       "source_id": "masslive",
@@ -304,176 +384,6 @@
       "link": "https://www.masslive.com/westfieldnews/2026/10/sam-the-minuteman-surprises-westfield-teachers-with-a-special-donation.html",
       "published": "2026-10-26T10:00:00+00:00",
       "summary": "UMass Amherst's mascot Sam the Minuteman visited Westfield Intermediate School to award $1,000 in grants to teachers for 3D printing and flexible seating projects."
-    },
-    {
-      "id": "0bbb51f9d3f1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Social Security recipients might be paying $54 unnecessarily",
-      "link": "https://www.masslive.com/news/2026/10/social-security-recipients-might-be-paying-54-unnecessarily.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "People can also file their taxes for free."
-    },
-    {
-      "id": "201ff1a143ee",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Business Monday ETC: Oct. 26, 2026",
-      "link": "https://www.masslive.com/business/2026/10/business-monday-etc-oct-26-2026.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Business Monday ETC"
-    },
-    {
-      "id": "9345423579d8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Medical examiner who autopsied Sandra Birchmore to testify Monday at Matthew Farwell trial",
-      "link": "https://www.masslive.com/news/2026/10/medical-examiner-who-autopsied-sandra-birchmore-to-testify-at-matthew-farwell-trial-monday.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The forensic pathologist who ruled Sandra Birchmore's death a suicide in 2021 is expected to testify Monday at Matthew Farwell's trial."
-    },
-    {
-      "id": "57eac9de34e6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock singer dies after cancer battle: ‘A real rock star if there ever was one’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-singer-dies-after-cancer-battle-a-real-rock-star-if-there-ever-was-one.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "A GoFundMe for him launched in the spring noted that he has moved to hospice care."
-    },
-    {
-      "id": "399d5421fbad",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Walmart, Target issue recall for high chairs over deadly entrapment risks: Stop use",
-      "link": "https://www.masslive.com/news/2026/10/walmart-target-issue-recall-for-high-chairs-over-deadly-entrapment-risks-stop-use.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "High chairs sold nationwide are being recalled for violating federal safety standards. Regulators urge consumers to stop using the recalled products and request a replacement chair."
-    },
-    {
-      "id": "2026d316e83f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "People in Business: Oct. 26, 2026",
-      "link": "https://www.masslive.com/business/2026/10/people-in-business-oct-26-2026.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "People in Business"
-    },
-    {
-      "id": "3a97dc7b605b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player from NH wins jackpot prize with $35 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-from-nh-wins-jackpot-prize-with-35-bet.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "13819fd6d1f6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $1.76 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-176-bet.html-2",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "620f3b54c2f3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "All that unfinished work? Mass. lawmakers have little to fear | Bay State Briefing",
-      "link": "https://www.masslive.com/politics/2026/10/beacon-hill-left-a-lot-undone-dont-expect-voters-to-punish-lawmakers-bay-state-briefing.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Beacon Hill has a long to-do list and Election Day is closing in. But there’s not much reason for lawmakers to sweat it."
-    },
-    {
-      "id": "f50208766441",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "JetBlue is launching ‘adults-only’ flights in this new partnership",
-      "link": "https://www.masslive.com/news/2026/10/jetblue-is-launching-adults-only-flights-in-this-new-partnership.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "JetBlue is launching \"adults-only\" flights as part of a new partnership"
-    },
-    {
-      "id": "f70e74353c0d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $12.50 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-1250-bet.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "5ff614e5eb7e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "HS Boys Soccer: Who are the top regular-season stats leaders in WMass?",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-boys-soccer-who-are-the-top-regular-season-stats-leaders-in-wmass.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Who are the top reported regular-season boys soccer statistic leaders in Western Massachusetts?"
-    },
-    {
-      "id": "32e2f2ac00d4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "HS Girls Volleyball: Who are the top regular-season stats leaders in WMass?",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-girls-volleyball-who-are-the-top-regular-season-stats-leaders-in-wmass.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Who are the top reported regular-season girls volleyball statistic leaders in Western Massachusetts?"
-    },
-    {
-      "id": "d8b5ed422900",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "HS Girls Soccer: Who are the top regular-season stats leaders in WMass?",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-girls-soccer-who-are-the-top-regular-season-stats-leaders-in-wmass.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Who are the top reported regular-season girls soccer statistic leaders in Western Massachusetts?"
-    },
-    {
-      "id": "83ed03fe7ee4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Amazon issues nationwide recall for 6K toys over ‘serious injury’ risks: Return ASAP",
-      "link": "https://www.masslive.com/news/2026/10/amazon-issues-nationwide-recall-for-6k-toys-over-serious-injury-risks-return-asap.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "More than 6,500 toys sold on Amazon are being recalled over deadly ingestion risks. Here's how to tell if you have one and how to request a refund."
-    },
-    {
-      "id": "1fb96c5269b9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Community Preservation Committee approves application to build new playground at Woodland School",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/community-preservation-committee-approves-application-to-build-new-playground-at-woodland-school.html",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Woodland School principal Emma Rood showed she was paying attention, like any good student, to feedback from the members of the Community Preservation Committee when she appeared before the committee requesting funds for a new playground at the school."
-    },
-    {
-      "id": "78387ff492de",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $5.28 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-528-bet.html-2",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
       "id": "17b7de6fd383",
@@ -496,94 +406,154 @@
       "summary": "Grandma was manipulative and selfish even into her last days, which grandson never saw."
     },
     {
-      "id": "8f19589c8152",
+      "id": "57eac9de34e6",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Why the MBTA is buying diesel locomotives as it pushes toward electric rail",
-      "link": "https://www.masslive.com/politics/2026/10/mbta-approves-new-electric-and-diesel-trains-in-310m-deal.html",
-      "published": "2026-10-26T09:44:00+00:00",
-      "summary": "The T says it’s making progress toward cleaner commuter rail. Transit advocates question whether its latest purchase gets it there."
+      "title": "Beloved rock singer dies after cancer battle: ‘A real rock star if there ever was one’",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-singer-dies-after-cancer-battle-a-real-rock-star-if-there-ever-was-one.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "A GoFundMe for him launched in the spring noted that he has moved to hospice care."
     },
     {
-      "id": "96d881d9ba7c",
+      "id": "3a97dc7b605b",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Kai Trump shares emotional cancer video that fans are loving: ‘Thank God’",
-      "link": "https://www.masslive.com/entertainment/2026/10/kai-trump-shares-emotional-cancer-video-that-fans-are-loving-thank-god.html",
-      "published": "2026-10-26T09:30:00+00:00",
-      "summary": "Donald Trump's granddaughter shared a video that her followers are loving."
+      "title": "Mass. casino player from NH wins jackpot prize with $35 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-from-nh-wins-jackpot-prize-with-35-bet.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
-      "id": "00582a8e6338",
+      "id": "2026d316e83f",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Pro wrestling world mourns as former champion, actor dies at 79. Here’s the latest",
-      "link": "https://www.masslive.com/entertainment/2026/10/pro-wrestling-world-mourns-as-former-champion-actor-dies-at-79-heres-the-latest.html",
-      "published": "2026-10-26T09:00:00+00:00",
-      "summary": "He had been batlting several serious health issues."
+      "title": "People in Business: Oct. 26, 2026",
+      "link": "https://www.masslive.com/business/2026/10/people-in-business-oct-26-2026.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "People in Business"
     },
     {
-      "id": "61cfad64c506",
+      "id": "399d5421fbad",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Howard Stern Wack Pack member says ICE almost snatched her up: ‘They’re very racist’",
-      "link": "https://www.masslive.com/entertainment/2026/10/howard-stern-wack-pack-member-says-ice-almost-snatched-her-up-theyre-very-racist.html",
-      "published": "2026-10-26T09:00:00+00:00",
-      "summary": "She made the revelation during a recent podcast appearance."
+      "title": "Walmart, Target issue recall for high chairs over deadly entrapment risks: Stop use",
+      "link": "https://www.masslive.com/news/2026/10/walmart-target-issue-recall-for-high-chairs-over-deadly-entrapment-risks-stop-use.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "High chairs sold nationwide are being recalled for violating federal safety standards. Regulators urge consumers to stop using the recalled products and request a replacement chair."
     },
     {
-      "id": "7ec712a34ea5",
+      "id": "f50208766441",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Cowboys tap Miranda Lambert for Thanksgiving Day halftime show",
-      "link": "https://www.masslive.com/sports/2026/10/dallas-cowboys-reveal-big-name-star-for-thanksgiving-day-halftime-show.html",
-      "published": "2026-10-26T09:00:00+00:00",
-      "summary": "The Dallas Cowboys have revealed the Grammy-winning country star who will headline their 2026 Thanksgiving halftime show against the Philadelphia Eagles."
+      "title": "JetBlue is launching ‘adults-only’ flights in this new partnership",
+      "link": "https://www.masslive.com/news/2026/10/jetblue-is-launching-adults-only-flights-in-this-new-partnership.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "JetBlue is launching \"adults-only\" flights as part of a new partnership"
     },
     {
-      "id": "306ed1a609ea",
+      "id": "620f3b54c2f3",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Folk music legend dead at 79: ‘A giant of a musician’",
-      "link": "https://www.masslive.com/entertainment/2026/10/folk-music-legend-dead-at-79-a-giant-of-a-musician.html",
-      "published": "2026-10-26T09:00:00+00:00",
-      "summary": "The singer had been battling cancer."
+      "title": "All that unfinished work? Mass. lawmakers have little to fear | Bay State Briefing",
+      "link": "https://www.masslive.com/politics/2026/10/beacon-hill-left-a-lot-undone-dont-expect-voters-to-punish-lawmakers-bay-state-briefing.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "Beacon Hill has a long to-do list and Election Day is closing in. But there’s not much reason for lawmakers to sweat it."
     },
     {
-      "id": "5979142ec9f6",
+      "id": "13819fd6d1f6",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Asking Eric: She's been a life-long friend. How do I tell her she's no longer welcome without crushing her?",
-      "link": "https://www.masslive.com/advice/2026/10/asking-eric-shes-been-a-life-long-friend-how-do-i-tell-her-shes-no-longer-welcome-without-crushing-her.html",
-      "published": "2026-10-26T09:00:00+00:00",
-      "summary": "Family has grown tired of me including her in holiday events and have asked that I not include her moving forward."
+      "title": "Mass. casino player wins jackpot prize with $1.76 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-176-bet.html-2",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
-      "id": "45cb1169781c",
+      "id": "1fb96c5269b9",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Beloved rocker who rose to fame in the ’70s has died: ‘A giant of a musician’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rocker-who-rose-to-fame-in-the-70s-has-died-a-giant-of-a-musician.html",
-      "published": "2026-10-26T09:00:00+00:00",
-      "summary": "His band shared the news of his death on social media."
+      "title": "Community Preservation Committee approves application to build new playground at Woodland School",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/community-preservation-committee-approves-application-to-build-new-playground-at-woodland-school.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "Woodland School principal Emma Rood showed she was paying attention, like any good student, to feedback from the members of the Community Preservation Committee when she appeared before the committee requesting funds for a new playground at the school."
     },
     {
-      "id": "a19b64d3b22d",
+      "id": "9345423579d8",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Popular rock frontman dying from cancer gets married at 61. Here’s what we know",
-      "link": "https://www.masslive.com/entertainment/2026/10/popular-rock-frontman-dying-from-cancer-gets-married-at-61-heres-what-we-know.html",
-      "published": "2026-10-26T09:00:00+00:00",
-      "summary": "The singer revealed the move on social media."
+      "title": "Medical examiner who autopsied Sandra Birchmore to testify Monday at Matthew Farwell trial",
+      "link": "https://www.masslive.com/news/2026/10/medical-examiner-who-autopsied-sandra-birchmore-to-testify-at-matthew-farwell-trial-monday.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "The forensic pathologist who ruled Sandra Birchmore's death a suicide in 2021 is expected to testify Monday at Matthew Farwell's trial."
+    },
+    {
+      "id": "201ff1a143ee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Business Monday ETC: Oct. 26, 2026",
+      "link": "https://www.masslive.com/business/2026/10/business-monday-etc-oct-26-2026.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "Business Monday ETC"
+    },
+    {
+      "id": "0bbb51f9d3f1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Social Security recipients might be paying $54 unnecessarily",
+      "link": "https://www.masslive.com/news/2026/10/social-security-recipients-might-be-paying-54-unnecessarily.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "People can also file their taxes for free."
+    },
+    {
+      "id": "78387ff492de",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $5.28 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-528-bet.html-2",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "5ff614e5eb7e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "HS Boys Soccer: Who are the top regular-season stats leaders in WMass?",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-boys-soccer-who-are-the-top-regular-season-stats-leaders-in-wmass.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "Who are the top reported regular-season boys soccer statistic leaders in Western Massachusetts?"
+    },
+    {
+      "id": "f70e74353c0d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $12.50 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-1250-bet.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "32e2f2ac00d4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "HS Girls Volleyball: Who are the top regular-season stats leaders in WMass?",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-girls-volleyball-who-are-the-top-regular-season-stats-leaders-in-wmass.html",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "Who are the top reported regular-season girls volleyball statistic leaders in Western Massachusetts?"
     }
   ]
 }
