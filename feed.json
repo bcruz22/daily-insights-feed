@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:09:04+00:00",
+  "generated_at": "2026-10-27T04:09:50+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -266,6 +266,106 @@
       "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I […]"
     },
     {
+      "id": "a63040dd48f1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What ‘ate away at’ Celtics’ Payton Pritchard before 28-point show vs. Bulls",
+      "link": "https://www.masslive.com/celtics/2026/10/what-ate-away-at-celtics-payton-pritchard-before-28-point-show-vs-bulls.html",
+      "published": "2026-10-27T04:01:44+00:00",
+      "summary": "Payton Pritchard was frustrated with the way that he played in the Celtics’ first two games. \"It ate away at me.\""
+    },
+    {
+      "id": "c55d2b5220eb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Girls Volleyball Tournament: 6 local teams move past quarterfinals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-volleyball-tournament-6-local-teams-move-past-quarterfinals.html",
+      "published": "2026-10-27T03:55:14+00:00",
+      "summary": "The Pioneer Valley Interscholastic Athletic Conference girls volleyball tournament was in full action on Monday."
+    },
+    {
+      "id": "e3eb21c86e0a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jaylen Brown denies he demanded trade from Celtics",
+      "link": "https://www.masslive.com/celtics/2026/10/jaylen-brown-denies-he-demanded-trade-from-celtics.html",
+      "published": "2026-10-27T03:38:59+00:00",
+      "summary": "The fallout of the Celtics trading Jaylen Brown has led to multiple details coming out."
+    },
+    {
+      "id": "033c5dcaf718",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Boys Soccer Tournament: 6 local teams move past local quarterfinals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-boys-soccer-tournament-6-local-teams-move-past-local-quarterfinals.html",
+      "published": "2026-10-27T03:33:35+00:00",
+      "summary": "The Pioneer Valley Interscholastic Athletic Conference boys soccer tournament continued on Monday."
+    },
+    {
+      "id": "e6a1017b8ff9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Girls Soccer Tournament: Eight local teams find success in quarterfinals (photos)",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-soccer-tournament-eight-local-teams-find-success-in-quarterfinals-photos.html",
+      "published": "2026-10-27T03:10:31+00:00",
+      "summary": "The Pioneer Valley Interscholastic Athletic Conference girls soccer tournament continued on Monday."
+    },
+    {
+      "id": "720fdc7274ff",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball: See the winning numbers in Monday’s $687 million drawing",
+      "link": "https://www.masslive.com/lottery/2026/10/powerball-see-the-winning-numbers-in-mondays-687-million-drawing.html",
+      "published": "2026-10-27T03:09:44+00:00",
+      "summary": "Check your numbers to see if you hit it big in Monday's jackpot."
+    },
+    {
+      "id": "675d4801828b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What we learned from Celtics’ blowout win over Bulls on Monday",
+      "link": "https://www.masslive.com/celtics/2026/10/what-we-learned-from-celtics-blowout-win-over-bulls-on-monday.html",
+      "published": "2026-10-27T03:06:13+00:00",
+      "summary": "The Celtics blew out the Bulls on Monday with Payton Pritchard going for 28 points off the bench."
+    },
+    {
+      "id": "e705224c7357",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "EMass Field Hockey Roundup: Walpole gets revenge over undefeated Milton",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/emass-field-hockey-roundup-walpole-gets-revenge-over-undefeated-milton.html",
+      "published": "2026-10-27T02:32:20+00:00",
+      "summary": "Seniors Caroline Handwerk, Ella Dacey, and Riley Halloran led Walpole field hockey to a revenge win over Milton on Monday."
+    },
+    {
+      "id": "059decd95ec0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Troy Aikman struggles to fight back tears live on air during MNF announcement",
+      "link": "https://www.masslive.com/sports/2026/10/troy-aikman-struggles-to-fight-back-tears-live-on-air-during-mnf-announcement.html",
+      "published": "2026-10-27T02:31:17+00:00",
+      "summary": "Aikman was visibily emotional as the cameras cut to the booth."
+    },
+    {
+      "id": "1a8d627b3247",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Franklin Tech girls volleyball wins thriller over SICS in WMass Class C quarters",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/franklin-tech-girls-volleyball-wins-thriller-over-sics-in-wmass-class-c-quarters.html",
+      "published": "2026-10-27T02:17:06+00:00",
+      "summary": "Franklin Tech girls volleyball is moving onto the Western Mass. Class C semifinals after a 3-2 victory over SICS on Monday."
+    },
+    {
       "id": "36e2fd3eb098",
       "source": "MassLive",
       "source_id": "masslive",
@@ -464,106 +564,6 @@
       "link": "https://www.masslive.com/westernmass/2026/10/holyoke-seeks-feedback-on-comprehensive-plan-at-community-forum-this-week.html",
       "published": "2026-10-26T20:53:32+00:00",
       "summary": "Holyoke will host a community forum Wednesday to gather resident input on implementing the city's newly adopted comprehensive plan, which will guide growth over the next 20 years."
-    },
-    {
-      "id": "ef86da7b9385",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mt. Holyoke launches campaign to expand scholarships, reimagine college life",
-      "link": "https://www.masslive.com/westernmass/2026/10/mt-holyoke-launches-campaign-to-expand-scholarships-reimagine-college-life.html",
-      "published": "2026-10-26T20:46:15+00:00",
-      "summary": "There are just over 2,000 students at Mount Holyoke from 45 states and 75 countries, according to the college."
-    },
-    {
-      "id": "a7e803611a06",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pat McAfee blasts college following GameDay: ‘I hate this place’",
-      "link": "https://www.masslive.com/sports/2026/10/pat-mcafee-blasts-college-following-gameday-i-hate-this-place.html",
-      "published": "2026-10-26T20:40:42+00:00",
-      "summary": "The ESPN College GameDay star did not enjoy his trip to Utah."
-    },
-    {
-      "id": "3946924be3bc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved soap opera star dead at 75",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-soap-opera-star-dead-at-75.html",
-      "published": "2026-10-26T20:39:58+00:00",
-      "summary": "“My heart is broken as I share that my beloved husband, Alan, passed away on October 23, 2026,” began a Facebook post penned by his wife."
-    },
-    {
-      "id": "bfa6b4e901eb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Jaylen Brown requested trade from Celtics, says Brian Scalabrine",
-      "link": "https://www.masslive.com/celtics/2026/10/jaylen-brown-requested-trade-from-celtics-says-brian-scalabrine.html",
-      "published": "2026-10-26T20:38:21+00:00",
-      "summary": "Jaylen Brown is now with the Sixers and has been a hot topic of conversation in the past week."
-    },
-    {
-      "id": "d0083884ebfd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Liberty Junction to hold community meeting on Springfield courthouse project",
-      "link": "https://www.masslive.com/westernmass/2026/10/liberty-junction-to-hold-community-meeting-on-springfield-courthouse-project.html",
-      "published": "2026-10-26T20:33:01+00:00",
-      "summary": "Liberty Junction was selected as prefered developer for the $1.94 billion, 40-year project."
-    },
-    {
-      "id": "bc963dee0e42",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Matthew Farwell's twin gets immunity to testify at murder trial",
-      "link": "https://www.masslive.com/news/2026/10/matthew-farwells-twin-given-immunity-for-testimony-at-brothers-murder-trial.html",
-      "published": "2026-10-26T20:27:23+00:00",
-      "summary": "William Farwell said he feared being charged with a crime for having sex with Sandra Birchmore while on the clock as a Stoughton police officer."
-    },
-    {
-      "id": "d3777f490eca",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Surge in popularity forcing most of 6,000-acre state park to close until fall 2027",
-      "link": "https://www.masslive.com/news/2026/10/surge-in-popularity-forcing-most-of-6000-acre-state-park-to-close-until-fall-2027.html",
-      "published": "2026-10-26T20:26:10+00:00",
-      "summary": "A few recreational opportunities will remain accessible at Banning State Park."
-    },
-    {
-      "id": "ae3bb52a7b1f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield Crossing housing receives backing for needed zone change",
-      "link": "https://www.masslive.com/westernmass/2026/10/springfield-crossing-housing-receives-backing-for-needed-zone-change.html",
-      "published": "2026-10-26T20:26:03+00:00",
-      "summary": "The project calls for 32 new condominiums."
-    },
-    {
-      "id": "e014403de453",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘Big Brother’ star’s wife shares the shocking health news that came right after his historic victory",
-      "link": "https://www.masslive.com/entertainment/2026/10/big-brother-stars-wife-shares-the-shocking-health-news-that-came-right-after-his-historic-victory.html",
-      "published": "2026-10-26T20:11:58+00:00",
-      "summary": "After winning the biggest prize in the show's history, a 'Big Brother' winner is navigating a challenging chapter"
-    },
-    {
-      "id": "edf791fab03c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Eric Bauza remembered by Hollywood colleagues after death at 46",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-voice-behind-childhood-cartoon-favorites-dies-at-46.html",
-      "published": "2026-10-26T20:11:55+00:00",
-      "summary": "Emmy-winning voice actor Eric Bauza, known for Bugs Bunny and Daffy Duck, died at 46 as Hollywood colleagues shared tributes."
     }
   ]
 }
