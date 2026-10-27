@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T00:09:50+00:00",
+  "generated_at": "2026-10-27T02:09:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -266,6 +266,46 @@
       "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I […]"
     },
     {
+      "id": "36e2fd3eb098",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "4 takeaways as Celtics blow out Bulls, Payton Pritchard catches fire",
+      "link": "https://www.masslive.com/celtics/2026/10/4-takeaways-as-celtics-blow-out-bulls-payton-pritchard-catches-fire.html",
+      "published": "2026-10-27T01:58:58+00:00",
+      "summary": "The Celtics overwhelmed the Bulls for their first blowout victory of the season."
+    },
+    {
+      "id": "b1d257ea0ba8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Payton Pritchard is Celtics’ Name to Know Player of the Game in win over Bulls",
+      "link": "https://www.masslive.com/celtics/2026/10/payton-pritchard-is-celtics-name-to-know-player-of-the-game-in-blowout-win-over-bulls.html",
+      "published": "2026-10-27T01:58:54+00:00",
+      "summary": "Payton Pritchard brought the TD Garden to its feet with three straight 3-pointers in the final two minutes of the third quarter."
+    },
+    {
+      "id": "02785da0ace5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Richard Neal, Nadia Milleron set for Nov. 3 congressional rematch",
+      "link": "https://www.masslive.com/westernmass/2026/10/richard-neal-nadia-milleron-set-for-nov-3-congressional-rematch.html",
+      "published": "2026-10-27T00:37:02+00:00",
+      "summary": "The election is next week on Nov. 3."
+    },
+    {
+      "id": "594bb8ec3ee7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Need a last-minute Halloween costume? Target has options that deliver before Oct. 31",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/need-a-last-minute-halloween-costume-target-has-options-that-deliver-before-oct-31.html",
+      "published": "2026-10-27T00:14:17+00:00",
+      "summary": "Target offers last-minute Halloween costumes with same-day delivery and in-store pickup, with select styles discounted 30%."
+    },
+    {
       "id": "f1f742a0910b",
       "source": "MassLive",
       "source_id": "masslive",
@@ -524,46 +564,6 @@
       "link": "https://www.masslive.com/entertainment/2026/10/beloved-voice-behind-childhood-cartoon-favorites-dies-at-46.html",
       "published": "2026-10-26T20:11:55+00:00",
       "summary": "Emmy-winning voice actor Eric Bauza, known for Bugs Bunny and Daffy Duck, died at 46 as Hollywood colleagues shared tributes."
-    },
-    {
-      "id": "5ca7b8598ffd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Feds warn of scheme that threatens targets with arrest, phone deactivation",
-      "link": "https://www.masslive.com/news/2026/10/feds-warn-of-scheme-that-threatens-targets-with-arrest-phone-deactivation.html",
-      "published": "2026-10-26T20:08:01+00:00",
-      "summary": "The scheme tries to convince targets that their phone number has been used in international phone scams and that the target is facing jail time if they don't pay a security deposit."
-    },
-    {
-      "id": "c6a5cc0b9afe",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former NFL star reacts to NC State coaching opening",
-      "link": "https://www.masslive.com/sports/2026/10/former-nfl-star-reacts-to-nc-state-coaching-opening-after-dave-doeren-fired.html",
-      "published": "2026-10-26T20:06:44+00:00",
-      "summary": "His name has been mentioned as a candidate."
-    },
-    {
-      "id": "7f6f1e706b58",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Last Ditch bar in Western Mass. closes, seeks new ownership after backlash",
-      "link": "https://www.masslive.com/westernmass/2026/10/last-ditch-bar-in-greenfield-closes-seeks-new-ownership-after-backlash.html",
-      "published": "2026-10-26T20:06:02+00:00",
-      "summary": "The Western Mass. bar faced national attention after a change to its masking policy sparked intense backlash."
-    },
-    {
-      "id": "d93127930e5e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Polling expert just compared Trump to Obama — and the numbers are brutal",
-      "link": "https://www.masslive.com/politics/2026/10/polling-expert-just-compared-trump-to-obama-and-the-numbers-are-brutal.html",
-      "published": "2026-10-26T20:05:00+00:00",
-      "summary": "Trump had a net favorability rating of -18 percentage points, while Obama had a net favorability rating of +20 points, according to Harry Enten."
     }
   ]
 }
