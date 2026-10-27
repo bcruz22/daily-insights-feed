@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T14:09:00+00:00",
+  "generated_at": "2026-10-27T16:09:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 12,
+      "count": 15,
       "errors": []
     },
     "verge": {
@@ -25,6 +25,46 @@
     }
   },
   "items": [
+    {
+      "id": "5a9a13a86b62",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "published": "2026-10-27T14:20:26+00:00",
+      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it."
+    },
+    {
+      "id": "ec2a619f2f91",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "published": "2026-10-27T14:00:49+00:00",
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens."
+    },
+    {
+      "id": "f85a05bebb58",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+      "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "published": "2026-10-27T13:32:35+00:00",
+      "summary": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe."
+    },
+    {
+      "id": "270fef5bbd91",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+      "published": "2026-10-27T13:22:16+00:00",
+      "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline."
+    },
     {
       "id": "594899e8d92e",
       "source": "Ars Technica",
@@ -106,16 +146,6 @@
       "summary": "Investigators explain how highway thieves stole $100M in data center equipment."
     },
     {
-      "id": "ec2a619f2f91",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Some iPhone Duo screens are already failing",
-      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "published": "2026-10-26T16:51:49+00:00",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens."
-    },
-    {
       "id": "082e41c8ec71",
       "source": "Ars Technica",
       "source_id": "ars",
@@ -144,6 +174,46 @@
       "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
       "published": "2026-10-26T11:00:15+00:00",
       "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground."
+    },
+    {
+      "id": "935659a6b116",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Major League Baseball is looking for a new kind of fan",
+      "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+      "published": "2026-10-27T16:02:43+00:00",
+      "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox,…"
+    },
+    {
+      "id": "3513fbe8e952",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "published": "2026-10-27T16:00:00+00:00",
+      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini…"
+    },
+    {
+      "id": "1951422a9e12",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "My favorite robot vacuum just got quieter, and more expensive",
+      "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+      "published": "2026-10-27T16:00:00+00:00",
+      "summary": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at its highest suction level, the Serene claims to be about as…"
+    },
+    {
+      "id": "9dabce718bc5",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple’s latest AirTag is the cheapest it’s ever been",
+      "link": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+      "published": "2026-10-27T15:34:16+00:00",
+      "summary": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart.…"
     },
     {
       "id": "1b963514a89d",
@@ -206,44 +276,254 @@
       "summary": "We're still a few months away from the official reveal of the Ford Fathom, the automaker's first next-generation electric vehicle. While we wait, Ford has been whetting our appetite with news about the sub-$30,000 pickup - including today's announcement about the Fathom's bidirectional charging…"
     },
     {
-      "id": "5736963566d1",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they’ll be American-made",
-      "link": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
-      "published": "2026-10-27T13:00:00+00:00",
-      "summary": "Anduril and Qualcomm are partnering on a new line of laptops called BlueChip, launching in early 2027. The first prototype is a ruggedized model using Arm-based Snapdragon X series chips and aimed at the US military, but the ultimate focus of the joint venture is to make laptops entirely in the…"
+      "id": "3bdc0b3c3f06",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Child found alive in morgue after being pronounced dead: ‘He’s not the same’",
+      "link": "https://www.masslive.com/news/2026/10/child-found-alive-in-morgue-after-being-pronounced-dead-hes-not-the-same.html",
+      "published": "2026-10-27T16:01:36+00:00",
+      "summary": "The toddler was unresponsive in a swimming pool hours earlier, police said."
     },
     {
-      "id": "c4e26c13e430",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
-      "link": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
-      "published": "2026-10-27T12:31:33+00:00",
-      "summary": "Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a built-in printer. It also enjoys some key…"
+      "id": "981f0094e272",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Check your home: Walmart, Amazon and Target products recalled over serious safety risks",
+      "link": "https://www.masslive.com/news/2026/10/check-your-home-walmart-amazon-and-target-products-recalled-over-serious-safety-risks.html",
+      "published": "2026-10-27T16:00:45+00:00",
+      "summary": "Safety officials are urging consumers to check their homes for five recalled items sold nationwide by major retailers. The products pose risks ranging from fires and burns to entrapment and impact injuries."
     },
     {
-      "id": "0abe68e22bdf",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
-      "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "published": "2026-10-27T11:00:00+00:00",
-      "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free,…"
+      "id": "fcf7c0468c84",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Boston MBTA stop to become ‘Bark Street Station’ for a day",
+      "link": "https://www.masslive.com/boston/2026/10/dogs-are-taking-over-bostons-park-street-station-for-a-special-one-day-event.html",
+      "published": "2026-10-27T15:59:15+00:00",
+      "summary": "Commuters can meet adoptable pups, therapy dogs and other four-legged visitors during a one-day event later this week."
     },
     {
-      "id": "415aa97d276f",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Data center backlash is uniting America",
-      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and…"
+      "id": "e7808c661922",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A free, hand-built haunted castle in Mass. is drawing huge Halloween crowds",
+      "link": "https://www.masslive.com/ne-where/2026/10/hand-built-haunted-house-in-east-boston-draws-crowds-amid-viral-fame.html",
+      "published": "2026-10-27T15:56:49+00:00",
+      "summary": "Nightmare on Moore Street is back for its fourth year, featuring its most extravagant display to date."
+    },
+    {
+      "id": "f37a7ce6e910",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. city ranks among the 10 best in America for Halloween, but it's not the one you think",
+      "link": "https://www.masslive.com/boston/2026/10/mass-city-ranks-among-the-10-best-in-america-for-halloween-study-finds.html",
+      "published": "2026-10-27T15:56:33+00:00",
+      "summary": "Massachusetts is home to one of the nation’s best cities for Halloween, one study found — and it’s not Salem."
+    },
+    {
+      "id": "e136c72fe9ad",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Longtime No. 1 dropped out of the latest MIAA boys soccer power rankings",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/longtime-no-1-drops-down-in-latest-miaa-boys-soccer-power-rankings.html",
+      "published": "2026-10-27T15:55:08+00:00",
+      "summary": "The longest running No. 1 in the MIAA boys soccer power rankings dropped won a peg. Here's what we learned from the update."
+    },
+    {
+      "id": "c35ced341df6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dunkin' drive-thru car fire in Northampton contained before reaching restaurant",
+      "link": "https://www.masslive.com/westernmass/2026/10/northampton-dunkin-drive-thru-car-fire-contained-before-reaching-restaurant.html",
+      "published": "2026-10-27T15:45:35+00:00",
+      "summary": "No one was injured Tuesday morning when a car caught fire in a Dunkin' drive-thru in Northampton."
+    },
+    {
+      "id": "568e43978e3b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Cause of death revealed for beloved ‘Star Trek’ actor",
+      "link": "https://www.masslive.com/entertainment/2026/10/cause-of-death-revealed-for-beloved-star-trek-actor.html",
+      "published": "2026-10-27T15:40:53+00:00",
+      "summary": "A legendary 'Star Trek' actor has died at 90"
+    },
+    {
+      "id": "52c8637a7a2b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "NFL fans had strong feelings about the anthem before Cowboys-Eagles on Monday night",
+      "link": "https://www.masslive.com/sports/2026/10/why-the-anthem-before-cowboys-eagles-has-nfl-fans-talking-for-a-second-straight-week.html",
+      "published": "2026-10-27T15:29:34+00:00",
+      "summary": "Saxophonist Hiruy Tirfe’s jazzy national anthem before the Cowboys-Eagles Monday Night Football game at Lincoln Financial Field split NFL fans. It’s the second straight week an MNF anthem has drawn criticism."
+    },
+    {
+      "id": "d9296c9767df",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Gas prices for 10/27/26: National average down to $4.26 per gallon",
+      "link": "https://www.masslive.com/news/2026/10/gas-prices-for-102726-national-average-down-to-426-per-gallon.html",
+      "published": "2026-10-27T15:26:54+00:00",
+      "summary": "Gasoline prices are down 21 cents over the last month, but remain well above $4 per gallon for the first October ever."
+    },
+    {
+      "id": "7db43cdeb061",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Fan-favorite protein that keeps selling out returning to Chipotle",
+      "link": "https://www.masslive.com/food/2026/10/fan-favorite-protein-that-keeps-selling-out-returning-to-chipotle.html",
+      "published": "2026-10-27T15:21:58+00:00",
+      "summary": "Smoked brisket makes its return across the U.S. and Canada, featuring the same mesquite wood smoking process and plancha searing that made it a hit."
+    },
+    {
+      "id": "033ff7f04a7d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "3 Western Mass. field hockey semifinal matchups to watch as brackets released",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/western-mass-field-hockey-brackets-released-3-semifinal-matchups-to-watch.html",
+      "published": "2026-10-27T15:21:50+00:00",
+      "summary": "The PVIAC released its Western Mass. field hockey tournament brackets, setting up semifinal rounds featuring defending champions, longtime rivals and teams chasing sectional titles."
+    },
+    {
+      "id": "46c027a89ba7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Experts release updated projections ahead of Celtics-Nets on Tuesday night",
+      "link": "https://www.masslive.com/betting/2026/10/experts-release-updated-projections-ahead-of-celtics-nets-on-tuesday-night.html",
+      "published": "2026-10-27T15:15:00+00:00",
+      "summary": "The Celtics host the Brooklyn Nets at the TD Garden on Tuesday. Compare Polymarket odds, spread lines, and score projections before tip off."
+    },
+    {
+      "id": "01153836c15a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ousted White House press secretary clings to 6-word message from Trump",
+      "link": "https://www.masslive.com/politics/2026/10/ousted-white-house-press-secretary-clings-to-6-word-message-from-trump.html",
+      "published": "2026-10-27T15:12:00+00:00",
+      "summary": "Fired after five days, she is still vowing to fight for the president's agenda."
+    },
+    {
+      "id": "a603e29db4ad",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A brand people rely on for low-cost items has been sued",
+      "link": "https://www.masslive.com/news/2026/10/a-brand-people-rely-on-for-low-cost-items-has-been-sued.html",
+      "published": "2026-10-27T15:06:48+00:00",
+      "summary": "Dollar General has been accused by the lawsuit of being aware of overcharging customers at registers."
+    },
+    {
+      "id": "691987a45946",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Annie: Is it unreasonable to want respect from my spouse after five decades together?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-annie-is-it-unreasonable-to-want-respect-from-my-spouse-after-five-decades-together.html",
+      "published": "2026-10-27T15:00:00+00:00",
+      "summary": "He often acts as though I am overreacting or making a big deal out of nothing."
+    },
+    {
+      "id": "060f196b8ad8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Utah apologizes to ESPN analyst over ‘uncomfortable’ experience",
+      "link": "https://www.masslive.com/sports/2026/10/utah-releases-statement-to-espn-gameday-analyst-over-uncomfortable-experience.html",
+      "published": "2026-10-27T14:54:07+00:00",
+      "summary": "The university statement said officials reached out to the ESPN personality."
+    },
+    {
+      "id": "55fec24c6622",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Police say an Ohio breakup turned into a fight over a pet squirrel",
+      "link": "https://www.masslive.com/news/2026/10/what-police-say-happened-when-an-ohio-man-went-back-for-his-pet-squirrel.html",
+      "published": "2026-10-27T14:47:10+00:00",
+      "summary": "Dante Pennachio, 39, of Liberty Township, is held on a $200,000 bond on an aggravated burglary charge after Warren police say he forced his way into his ex-girlfriend’s home to take their shared pet squirrel."
+    },
+    {
+      "id": "44d102ddcba1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved TV actress dead at 80: ‘She never met a stranger’",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-tv-actress-dead-at-80-she-never-met-a-stranger.html",
+      "published": "2026-10-27T14:42:02+00:00",
+      "summary": "Her family released a statement."
+    },
+    {
+      "id": "6422a1bfba07",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "U.S. soldier in Alaska sentenced to 59 years in prison after murdering wife, dumping body in storm drain",
+      "link": "https://www.masslive.com/news/2026/10/us-soldier-sentenced-to-59-years-in-prison-after-murdering-wife-dumping-body-in-storm-drain.html",
+      "published": "2026-10-27T14:33:26+00:00",
+      "summary": "A former Army soldier was sentenced for the 2023 murder of his wife, who was a member of the National Guard."
+    },
+    {
+      "id": "d3b18780066a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved TV star accused of ignoring daughter’s birthday",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-tv-star-accused-of-ignoring-daughters-birthday.html",
+      "published": "2026-10-27T14:29:37+00:00",
+      "summary": "Camille Grammer publicly criticized ex-husband Kelsey Grammer, claiming he failed to call or text their daughter Mason on her 25th birthday."
+    },
+    {
+      "id": "a7ff54205e1e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Actress and musician split after 3 years of marriage: ‘I feel like a little bit of a failure’",
+      "link": "https://www.masslive.com/entertainment/2026/10/actress-and-musician-split-after-3-years-of-marriage-i-feel-like-a-little-bit-of-a-failure.html",
+      "published": "2026-10-27T14:21:17+00:00",
+      "summary": "Fans were shocked by this beloved celebrity couple's split"
+    },
+    {
+      "id": "963bbf9b2095",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Over 462 flights delayed, 32 canceled amid widespread U.S. travel disruptions",
+      "link": "https://www.masslive.com/news/2026/10/over-462-flights-delayed-32-canceled-amid-widespread-us-travel-disruptions.html",
+      "published": "2026-10-27T14:15:20+00:00",
+      "summary": "Flight cancellations and delays disrupted operations at multiple airports across the U.S."
+    },
+    {
+      "id": "48cef84edf76",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular comedian brutally mocks Trump’s obsession with butts: ‘He’s transfixed’",
+      "link": "https://www.masslive.com/politics/2026/10/popular-comedian-brutally-mocks-trumps-obsession-with-butts-hes-transfixed.html",
+      "published": "2026-10-27T14:11:10+00:00",
+      "summary": "Jon Stewart, host of “The Daily Show,” quipped on Monday that Trump’s comments about people’s backsides would be the GOP's closing message heading into next week’s midterms."
+    },
+    {
+      "id": "2794c379fd1e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Kirk Herbstreit updates who the top college football teams are",
+      "link": "https://www.masslive.com/sports/2026/10/kirk-herbstreit-updates-who-the-top-college-football-teams-are.html",
+      "published": "2026-10-27T14:07:56+00:00",
+      "summary": "The ESPN college football analyst still has question marks about several teams."
     },
     {
       "id": "32c26f068ab5",
@@ -294,256 +574,6 @@
       "link": "https://www.masslive.com/business/2026/10/how-you-can-try-chocolate-covered-cherry-flavored-stout-this-winter.html",
       "published": "2026-10-27T13:22:31+00:00",
       "summary": "Samuel Adams has introduced a new beer in its winter seasonal lineup."
-    },
-    {
-      "id": "2a9294ef120e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Duxbury man sentenced for sharing child sex abuse videos of toddlers on Kik",
-      "link": "https://www.masslive.com/news/2026/10/duxbury-man-sentenced-for-sharing-child-sex-abuse-videos-of-toddlers-on-kik.html",
-      "published": "2026-10-27T13:20:07+00:00",
-      "summary": "A Duxbury man was sentenced to prison after he shared child sex abuse videos of young children on Kik, in the span of just about two weeks between November and December 2023."
-    },
-    {
-      "id": "2aa59b7bc8cf",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Italian brand has launched its first frozen pizza exclusively at Costco",
-      "link": "https://www.masslive.com/food/2026/10/italian-brand-has-launched-its-first-frozen-pizza-exclusively-at-costco-in-four-states.html",
-      "published": "2026-10-27T13:14:49+00:00",
-      "summary": "The pizzas are sold in packages of two for $15. Each one bakes in just 8 to 10 minutes."
-    },
-    {
-      "id": "692c0b2edab4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Walmart promises easier, more ‘shoppable’ healthcare options",
-      "link": "https://www.masslive.com/business/2026/10/walmart-promises-easier-more-shoppable-healthcare-options.html",
-      "published": "2026-10-27T13:13:02+00:00",
-      "summary": "Walmart is building a network it hopes will be a “consumer market” that helps people search and find their best options."
-    },
-    {
-      "id": "70aeebb5a810",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Here’s the word of year, what it means and how it went viral",
-      "link": "https://www.masslive.com/entertainment/2026/10/heres-the-word-of-year-what-it-means-and-how-it-went-viral.html",
-      "published": "2026-10-27T13:09:50+00:00",
-      "summary": "Have you added this word to your lexicon?"
-    },
-    {
-      "id": "ec692dd83f1e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Miss Manners: My husband and his brother have hosting expectations I don’t like",
-      "link": "https://www.masslive.com/advice/2026/10/miss-manners-my-husband-and-his-brother-have-hosting-expectations-i-dont-like.html",
-      "published": "2026-10-27T13:00:00+00:00",
-      "summary": "Are you familiar with the Thanksgiving legend?"
-    },
-    {
-      "id": "5402ac919a35",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A beloved Mass. taco spot is leaving its longtime home — but not the area",
-      "link": "https://www.masslive.com/news/2026/10/beloved-boston-area-taco-spot-to-close-after-11-years-relocate-nearby.html",
-      "published": "2026-10-27T12:42:03+00:00",
-      "summary": "While the restaurant is moving, its tacos aren't going anywhere."
-    },
-    {
-      "id": "8504a79beeb9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mom arrested after leaving kids home alone as she went to Las Vegas, police say",
-      "link": "https://www.masslive.com/news/2026/10/mom-arrested-after-leaving-kids-home-alone-as-she-went-to-las-vegas-police-say.html",
-      "published": "2026-10-27T12:17:27+00:00",
-      "summary": "A 9-year-old boy was injured when a dumbbell fell on his head."
-    },
-    {
-      "id": "6a184d39dfee",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A frigid night is coming to Mass. Then temperatures could hit 70",
-      "link": "https://www.masslive.com/weather/2026/10/parts-of-mass-could-plunge-near-20-degrees-before-big-warm-up.html",
-      "published": "2026-10-27T11:52:18+00:00",
-      "summary": "From near 20 degrees to near 70 in a matter of days: Massachusetts is in for a big temperature swing this week."
-    },
-    {
-      "id": "9e86ec5f7ddf",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Want to vote by mail in Mass.? Tuesday is the deadline to apply",
-      "link": "https://www.masslive.com/news/2026/10/last-day-to-request-a-mail-ballot-in-mass-heres-how.html",
-      "published": "2026-10-27T11:12:38+00:00",
-      "summary": "Want to vote by mail in the Massachusetts election? Tuesday is your last day to request a ballot. The deadline is 5 p.m."
-    },
-    {
-      "id": "152ffc862c07",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Fortune 500 company lands $2.4 billion deal for military nuclear work",
-      "link": "https://www.masslive.com/news/2026/10/fortune-500-company-lands-24-billion-deal-for-military-nuclear-work.html",
-      "published": "2026-10-27T11:00:01+00:00",
-      "summary": "The lab develops advanced naval nuclear propulsion technology and trains nuclear operators for submarine and aircraft carrier fleets."
-    },
-    {
-      "id": "86968fa404e7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "New lawsuit: Feds, 20 states accuse Dollar General of years of misleading pricing",
-      "link": "https://www.masslive.com/news/2026/10/new-lawsuit-feds-20-states-accuse-dollar-general-of-years-of-misleading-pricing.html",
-      "published": "2026-10-27T11:00:01+00:00",
-      "summary": "According to the suit, Dollar General received thousands of complaints from consumers who said the company did not honor the advertised prices and, even after being made aware of the problem, failed to correct the issue."
-    },
-    {
-      "id": "d1f5052f1e07",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Daylight saving time ends Sunday: Where the move to make it permanent now stands",
-      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-ends-sunday-where-the-move-to-make-it-permanent-now-stands.html",
-      "published": "2026-10-27T11:00:00+00:00",
-      "summary": "Daylight saving time is ending this Sunday, the night after Halloween ends. Here's where the move to make it permanent now stands"
-    },
-    {
-      "id": "d4ba67def6a3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pat McAfee references Charlie Kirk shooting, says he was ‘very uncomfortable’ at Utah",
-      "link": "https://www.masslive.com/sports/2026/10/pat-mcafee-references-charlie-kirk-shooting-says-he-was-very-uncomfortable-at-utah.html",
-      "published": "2026-10-27T11:00:00+00:00",
-      "summary": "The ESPN College GameDay star did not enjoy his trip to Utah."
-    },
-    {
-      "id": "50ad64bf5b3d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "No supplement can boost your immune system — and a doctor says you wouldn't want it to anyway",
-      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-my-nursing-student-daughter-catches-everything-what-can-she-do-to-stay-healthy.html",
-      "published": "2026-10-27T11:00:00+00:00",
-      "summary": "A doctor advises a nursing student to prioritize sleep and exercise over supplements for immunity, and explains that early graying hair is largely genetic."
-    },
-    {
-      "id": "f12d2e75b0d2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock singer dead at 83: ‘He was in pain’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-singer-dead-at-83-he-was-in-pain.html",
-      "published": "2026-10-27T10:59:59+00:00",
-      "summary": "He had multiple hits on the Billboard Hot 100."
-    },
-    {
-      "id": "901f500b39e5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "3,000 gallons of heating oil spill after tanker rolls over on Route 1",
-      "link": "https://www.masslive.com/news/2026/10/route-1-reopens-after-tanker-rollover-spills-3000-gallons-of-heating-oil.html",
-      "published": "2026-10-27T10:43:52+00:00",
-      "summary": "Route 1 South in Danvers has reopened after a tanker rollover spilled about 3,000 gallons of heating oil and closed the highway for hours."
-    },
-    {
-      "id": "5bffbf2c0eea",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Big Ten quarterback, projected first-round pick out for the season",
-      "link": "https://www.masslive.com/sports/2026/10/big-ten-quarterback-projected-first-round-pick-out-for-the-season.html",
-      "published": "2026-10-27T10:36:18+00:00",
-      "summary": "Oregon coach Dan Lanning made the announcement Monday night."
-    },
-    {
-      "id": "a7a5d547743e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield field hockey blanks Northampton 3-0 on senior night",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/westfield-field-hockey-blanks-northampton-3-0-on-senior-night.html",
-      "published": "2026-10-27T10:35:52+00:00",
-      "summary": "Westfield field hockey honored seven seniors with a dominant 3-0 shutout win over Northampton, getting goals from Lyla Harris, Ellie Adams, and Maddy Bilodeau."
-    },
-    {
-      "id": "6840e193cfff",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The Giants' best tackle Sunday came from an unlikely player",
-      "link": "https://www.masslive.com/sports/2026/10/john-harbaughs-wild-celebration-didnt-go-as-planned.html",
-      "published": "2026-10-27T10:35:10+00:00",
-      "summary": "Giants coach John Harbaugh tumbled while hugging Devin Singletary after his overtime touchdown beat the Texans 27-21. Here’s what Harbaugh said about the fall."
-    },
-    {
-      "id": "42a178ff187c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Gov. Healey activates National Guard as wildfire spreads into Western Mass.",
-      "link": "https://www.masslive.com/news/2026/10/mass-national-guard-activated-as-wildfire-crosses-new-york-border.html",
-      "published": "2026-10-27T10:28:43+00:00",
-      "summary": "A wildfire that started in New York has crossed into Western Massachusetts, prompting Gov. Maura Healey to activate the National Guard to help firefighters battle the blaze."
-    },
-    {
-      "id": "fb1831e0c1fa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield girls soccer season ends in PVIAC quarterfinals",
-      "link": "https://www.masslive.com/westernmass/2026/10/westfield-girls-soccer-season-ends-in-pviac-quarterfinals.html",
-      "published": "2026-10-27T10:22:48+00:00",
-      "summary": "Freshman Lucy Dalessio scored the only goal as fourth-seeded Longmeadow eliminated fifth-seeded Westfield 1-0 in the PVIAC Class A quarterfinals, despite eight saves from Bombers goalkeeper Olivia Morrissey."
-    },
-    {
-      "id": "5ad94cd80b8c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Kamala Harris offers clearest signal yet on 2028 plans: ‘I know that I can help’",
-      "link": "https://www.masslive.com/politics/2026/10/kamala-harris-offers-clearest-signal-yet-on-2028-plans-i-know-that-i-can-help.html",
-      "published": "2026-10-27T10:15:00+00:00",
-      "summary": "She leads early polling but faces pressure from party insiders who would prefer she doesn't run."
-    },
-    {
-      "id": "dbbc80bb1bfe",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2027 Super Bowl halftime show performer is officially announced",
-      "link": "https://www.masslive.com/entertainment/2026/10/2027-super-bowl-halftime-show-performer-is-officially-announced.html",
-      "published": "2026-10-27T10:00:40+00:00",
-      "summary": "This year's NFL championship will take place Feb. 14 at SoFi Stadium."
-    },
-    {
-      "id": "6093a4e7ece2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Planning Board OKs permit for mobile truck repair service base",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/planning-board-oks-permit-for-mobile-truck-repair-service-base.html",
-      "published": "2026-10-27T10:00:01+00:00",
-      "summary": "Westfield Planning Board approved special permit for base for MS Truck-Trailer & Heavy Equipment Repair at 571 Southampton Road."
-    },
-    {
-      "id": "3791433a17d8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "NY, NJ cities making top 3 best Halloween spots rankings",
-      "link": "https://www.masslive.com/news/2026/10/uss-top-3-halloween-cities-provide-safety-good-weather.html",
-      "published": "2026-10-27T10:00:01+00:00",
-      "summary": "Cities in New York and New Jersey have ranked among the top three best for Halloween celebrations."
     }
   ]
 }
