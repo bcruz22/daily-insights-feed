@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:09:04+00:00",
+  "generated_at": "2026-10-27T00:09:50+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -25,6 +25,16 @@
     }
   },
   "items": [
+    {
+      "id": "594899e8d92e",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "published": "2026-10-26T22:36:06+00:00",
+      "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today."
+    },
     {
       "id": "3013e4fb2f56",
       "source": "Ars Technica",
@@ -156,14 +166,14 @@
       "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
     },
     {
-      "id": "5dac0b35abef",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "bba291662c45",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-      "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-      "published": "2026-10-23T22:48:25+00:00",
-      "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "published": "2026-10-26T23:34:58+00:00",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts…"
     },
     {
       "id": "73fed1e20a12",
@@ -256,14 +266,124 @@
       "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I […]"
     },
     {
-      "id": "8033849e5fa9",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
-      "link": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
-      "published": "2026-10-26T16:45:00+00:00",
-      "summary": "When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not one that came out in 2020. Beyond a few minor tweaks, though, the XM4C are…"
+      "id": "f1f742a0910b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Freezing temps likely in Mass. Tuesday night following Monday night cold front",
+      "link": "https://www.masslive.com/weather/2026/10/freezing-temps-likely-in-mass-tuesday-night-following-monday-night-cold-front.html",
+      "published": "2026-10-27T00:02:17+00:00",
+      "summary": "A cold front arriving Monday night will bring freezing temperatures to inland Massachusetts by Tuesday night, followed by a gradual warming trend later in the week."
+    },
+    {
+      "id": "728bdbdf3fb6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Oliver Kirby proud to have represented Lenox in D-III states",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/old-rochester-golf-team-hopedales-colin-hayes-win-d-iii-state-crowns-photos.html",
+      "published": "2026-10-26T23:39:49+00:00",
+      "summary": "The MIAA Div. III golf tournament took place on Monday afternoon, with Old Rochester taking the team crown."
+    },
+    {
+      "id": "4db24287c1d4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "These 3 New England hospitals rank among the nation’s most beautiful in contest",
+      "link": "https://www.masslive.com/news/2026/10/3-new-england-hospitals-earn-spots-among-americas-20-most-beautiful-in-recent-contest.html",
+      "published": "2026-10-26T23:30:00+00:00",
+      "summary": "A Massachusetts hospital with weathered cedar shingles, multi-gable rooflines and a bronze whale-tail sculpture was among those voted most beautiful."
+    },
+    {
+      "id": "546117483631",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mount Greylock golf earns 4th place at D-II state championship",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/norton-boys-golf-team-wakefields-patrick-maloney-crowned-d-ii-state-champs-in-thrilling-fashion.html",
+      "published": "2026-10-26T23:17:45+00:00",
+      "summary": "Both team and individual tournaments came down to the very end in the D-II golf state championship on Monday."
+    },
+    {
+      "id": "28258a021b39",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Suspect arrested after Everett police find car stolen from Lynn with child inside",
+      "link": "https://www.masslive.com/news/2026/10/suspect-arrested-after-everett-police-find-car-stolen-from-lynn-with-child-inside.html",
+      "published": "2026-10-26T23:11:36+00:00",
+      "summary": "A suspect was arrested Monday afternoon after a car with a child inside that had been stolen from Lynn was located in Everett."
+    },
+    {
+      "id": "f7bd86dbf541",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Michael Kors Outlet has holiday-ready handbags on sale starting at only $39",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/michael-kors-outlet-has-holiday-ready-handbags-on-sale-starting-at-only-39.html",
+      "published": "2026-10-26T22:56:51+00:00",
+      "summary": "Michael Kors Outlet is offering discounted handbags and accessories starting at $39, with holiday-friendly colors and styles available for budget-conscious gift shoppers."
+    },
+    {
+      "id": "6f2516799d82",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "It took another playoff, but Chris Morrow and Xaverian repeated as D-I golf state champs",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/chris-morrow-leads-xaverian-golf-to-back-to-back-d-i-state-titles.html",
+      "published": "2026-10-26T22:48:04+00:00",
+      "summary": "Chris Morrow kept his nerve in a playoff again to win his second consecutive individual D-I golf state title. Xaverian also went back to back behind its captains."
+    },
+    {
+      "id": "2540cd027d4e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ex-Red Sox coach fired with Alex Cora named Phillies hitting coach",
+      "link": "https://www.masslive.com/redsox/2026/10/ex-red-sox-coach-fired-with-alex-cora-named-phillies-hitting-coach.html",
+      "published": "2026-10-26T22:46:05+00:00",
+      "summary": "The Philadelphia Phillies have hired former Boston Red Sox coach Pete Fatse to be their hitting coach."
+    },
+    {
+      "id": "af6d0e11d2e3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Medical examiner says investigators gave her limited evidence in Sandra Birchmore death",
+      "link": "https://www.masslive.com/news/2026/10/medical-examiner-says-key-evidence-was-missing-before-sandra-birchmore-suicide-ruling.html",
+      "published": "2026-10-26T22:32:12+00:00",
+      "summary": "Federal prosecutors again poked holes in the initial investigation into Sandra Birchmore's death during the trial of Matthew Farwell on Monday."
+    },
+    {
+      "id": "1334e15c2151",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Driver dies after head-on, 3-vehicle crash on Route 20 in Shrewsbury",
+      "link": "https://www.masslive.com/centralmass/2026/10/driver-killed-in-3-vehicle-crash-on-route-20-in-shrewsbury.html",
+      "published": "2026-10-26T22:31:48+00:00",
+      "summary": "The driver of a Honda Accord died Monday after a head-on collision with a Ford F-250 on Route 20 in Shrewsbury, which also involved an oil tanker."
+    },
+    {
+      "id": "0d9e2cdd44ae",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Lucy Dalessio guides Longmeadow girls soccer into WMass Class A semifinals (video)",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/lucy-dalessio-guides-longmeadow-girls-soccer-into-wmass-class-a-semifinals-video.html",
+      "published": "2026-10-26T22:29:45+00:00",
+      "summary": "The Longmeadow girls soccer team is moving forward."
+    },
+    {
+      "id": "04eafd53a1c6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Woman rescued from Springfield apartment fire dies; cause under investigation",
+      "link": "https://www.masslive.com/westernmass/2026/10/woman-rescued-from-springfield-apartment-fire-dies-cause-under-investigation.html",
+      "published": "2026-10-26T22:04:25+00:00",
+      "summary": "A woman pulled from a burning Springfield apartment was hospitalized after being revived by paramedics, but died from her injuries over the weekend."
     },
     {
       "id": "b869caaa10aa",
@@ -444,126 +564,6 @@
       "link": "https://www.masslive.com/politics/2026/10/polling-expert-just-compared-trump-to-obama-and-the-numbers-are-brutal.html",
       "published": "2026-10-26T20:05:00+00:00",
       "summary": "Trump had a net favorability rating of -18 percentage points, while Obama had a net favorability rating of +20 points, according to Harry Enten."
-    },
-    {
-      "id": "a483e6f8567f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Roster analysis: Red Sox face big decisions at shortstop this winter",
-      "link": "https://www.masslive.com/redsox/2026/10/red-sox-roster-shortstop-question-trevor-story-franklin-arias-and-potential-big-move-may-define-winter.html",
-      "published": "2026-10-26T19:54:37+00:00",
-      "summary": "As the Red Sox begin their offseason, the questions in the middle infield might be the most important to answer. Is a big trade for a blue-chip shortstop in play?"
-    },
-    {
-      "id": "6c1b648bd5da",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Starbucks is dropping a mystery Bearista box, and no one knows what's inside",
-      "link": "https://www.masslive.com/business/2026/10/the-beloved-starbucks-bearista-cup-is-coming-back-and-theres-a-surprise-drop-before-it-does.html",
-      "published": "2026-10-26T19:50:18+00:00",
-      "summary": "The surprise collection of Glass Bearista figures arrives Nov. 10 in limited quantities, ahead of the original's Dec. 1 return."
-    },
-    {
-      "id": "b9f127050c19",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Agawam High’s mascot is dressed for distress | The Republican Editorials",
-      "link": "https://www.masslive.com/opinion/2026/10/agawam-highs-mascot-is-dressed-for-distress-the-republican-editorials.html",
-      "published": "2026-10-26T19:49:30+00:00",
-      "summary": "The city needs to have an open and honest discussion about a mascot and logo that is out of date and badly misses the target."
-    },
-    {
-      "id": "0d1372b2447a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular fast-food chain bringing back deep-fried Thanksgiving sandwiches",
-      "link": "https://www.masslive.com/food/2026/10/popular-fast-food-chain-bringing-back-deep-fried-thanksgiving-sandwiches.html",
-      "published": "2026-10-26T19:45:01+00:00",
-      "summary": "The Deep Fried Turkey Gobbler and Club are available at participating locations while supplies last."
-    },
-    {
-      "id": "1a147501fec8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2 Massachusetts hikers injured on N.H. mountains this weekend",
-      "link": "https://www.masslive.com/news/2026/10/2-massachusetts-men-injured-while-hiking-new-hampshire-mountains-over-the-weekend.html",
-      "published": "2026-10-26T19:40:47+00:00",
-      "summary": "Two Massachusetts men were rescued from New Hampshire mountains over the weekend after falling during hikes."
-    },
-    {
-      "id": "ae80a21d32a8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The Pentagon wants military bases ready to run alone for 90 days",
-      "link": "https://www.masslive.com/news/2026/10/why-the-pentagon-wants-major-us-military-bases-ready-to-stand-alone.html",
-      "published": "2026-10-26T19:38:31+00:00",
-      "summary": "The Pentagon’s FORTRESS America initiative aims to keep major U.S. military bases working for 90 days if power and supply lines fail."
-    },
-    {
-      "id": "c29f5b12ab8a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Worcester's 911 commissioner charged with OUI while on the clock; now on leave",
-      "link": "https://www.masslive.com/centralmass/2026/10/worcesters-emergency-dispatch-commissioner-on-leave-after-oui-arrest-while-on-the-clock.html",
-      "published": "2026-10-26T19:32:12+00:00",
-      "summary": "When he exited a city vehicle to perform a sobriety test, Worcester's commissioner of emergency communications and management told officers he was “currently working,” according to a statement of facts."
-    },
-    {
-      "id": "72590ed0e245",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "50,000 Americans are receiving $5,000 payments, IRS says: Do you qualify?",
-      "link": "https://www.masslive.com/news/2026/10/50000-americans-are-receiving-5000-payments-irs-says-do-you-qualify.html",
-      "published": "2026-10-26T19:24:15+00:00",
-      "summary": "The change applies to the 2025 tax year only."
-    },
-    {
-      "id": "a997f9d23cc5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "UGG turns up the whimsy with new slip-ons that are anything but basic this holiday season",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/ugg-turns-up-the-whimsy-with-new-slip-ons-that-are-anything-but-basic-this-holiday-season.html",
-      "published": "2026-10-26T19:17:35+00:00",
-      "summary": "UGG has launched the Hop and Ears slip-on styles for the holiday season, priced from $105 to $155, blending signature comfort with whimsical designs."
-    },
-    {
-      "id": "3f3a910cf70e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots takeaways: Injury updates on Alijah Vera-Tucker and Ben Brown",
-      "link": "https://www.masslive.com/patriots/2026/10/patriots-takeaways-injury-updates-on-offensive-linemen-alijah-vera-tucker-and-ben-brown.html",
-      "published": "2026-10-26T19:06:47+00:00",
-      "summary": "Alijah Vera-Tucker was placed on injured reserve, but teammates say the Patriots guard is encouraged about a possible return."
-    },
-    {
-      "id": "3b44e1783419",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Banana bread pancakes",
-      "link": "https://www.masslive.com/nytcooking/2026/10/792681050-banana-bread-pancakes.html",
-      "published": "2026-10-26T18:59:00+00:00",
-      "summary": "These banana bread pancakes combine the rich, buttery flavor of banana bread with the light, fluffy texture of pancakes, creating a tender and moist breakfast treat perfect with maple syrup."
-    },
-    {
-      "id": "b33d9884d0fa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rof (Senegalese pepper paste)",
-      "link": "https://www.masslive.com/nytcooking/2026/10/792689956-rof-senegalese-pepper-paste.html",
-      "published": "2026-10-26T18:58:50+00:00",
-      "summary": "Rof is a vibrant, aromatic Senegalese pepper paste made from parsley, scallions, garlic, and chiles, perfect for marinating or seasoning seafood, poultry, meat, and vegetables."
     }
   ]
 }
