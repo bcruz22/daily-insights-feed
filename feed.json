@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T10:11:00+00:00",
+  "generated_at": "2026-10-27T12:08:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 14,
+      "count": 12,
       "errors": []
     },
     "verge": {
@@ -146,24 +146,14 @@
       "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground."
     },
     {
-      "id": "7e7984ce45f7",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "0abe68e22bdf",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-      "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-      "published": "2026-10-24T11:50:28+00:00",
-      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before."
-    },
-    {
-      "id": "6ca78a386877",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-      "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-      "published": "2026-10-24T11:00:09+00:00",
-      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
+      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+      "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "published": "2026-10-27T11:00:00+00:00",
+      "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free,…"
     },
     {
       "id": "415aa97d276f",
@@ -256,14 +246,154 @@
       "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If…"
     },
     {
-      "id": "46af7b57ae99",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
-      "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "published": "2026-10-26T17:25:34+00:00",
-      "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20…"
+      "id": "6a184d39dfee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A frigid night is coming to Mass. Then temperatures could hit 70",
+      "link": "https://www.masslive.com/weather/2026/10/parts-of-mass-could-plunge-near-20-degrees-before-big-warm-up.html",
+      "published": "2026-10-27T11:52:18+00:00",
+      "summary": "From near 20 degrees to near 70 in a matter of days: Massachusetts is in for a big temperature swing this week."
+    },
+    {
+      "id": "9e86ec5f7ddf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Want to vote by mail in Mass.? Tuesday is the deadline to apply",
+      "link": "https://www.masslive.com/news/2026/10/last-day-to-request-a-mail-ballot-in-mass-heres-how.html",
+      "published": "2026-10-27T11:12:38+00:00",
+      "summary": "Want to vote by mail in the Massachusetts election? Tuesday is your last day to request a ballot. The deadline is 5 p.m."
+    },
+    {
+      "id": "152ffc862c07",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Fortune 500 company lands $2.4 billion deal for military nuclear work",
+      "link": "https://www.masslive.com/news/2026/10/fortune-500-company-lands-24-billion-deal-for-military-nuclear-work.html",
+      "published": "2026-10-27T11:00:01+00:00",
+      "summary": "The lab develops advanced naval nuclear propulsion technology and trains nuclear operators for submarine and aircraft carrier fleets."
+    },
+    {
+      "id": "86968fa404e7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "New lawsuit: Feds, 20 states accuse Dollar General of years of misleading pricing",
+      "link": "https://www.masslive.com/news/2026/10/new-lawsuit-feds-20-states-accuse-dollar-general-of-years-of-misleading-pricing.html",
+      "published": "2026-10-27T11:00:01+00:00",
+      "summary": "According to the suit, Dollar General received thousands of complaints from consumers who said the company did not honor the advertised prices and, even after being made aware of the problem, failed to correct the issue."
+    },
+    {
+      "id": "d1f5052f1e07",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daylight saving time ends Sunday: Where the move to make it permanent now stands",
+      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-ends-sunday-where-the-move-to-make-it-permanent-now-stands.html",
+      "published": "2026-10-27T11:00:00+00:00",
+      "summary": "Daylight saving time is ending this Sunday, the night after Halloween ends. Here's where the move to make it permanent now stands"
+    },
+    {
+      "id": "d4ba67def6a3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pat McAfee references Charlie Kirk shooting, says he was ‘very uncomfortable’ at Utah",
+      "link": "https://www.masslive.com/sports/2026/10/pat-mcafee-references-charlie-kirk-shooting-says-he-was-very-uncomfortable-at-utah.html",
+      "published": "2026-10-27T11:00:00+00:00",
+      "summary": "The ESPN College GameDay star did not enjoy his trip to Utah."
+    },
+    {
+      "id": "50ad64bf5b3d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "No supplement can boost your immune system — and a doctor says you wouldn't want it to anyway",
+      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-my-nursing-student-daughter-catches-everything-what-can-she-do-to-stay-healthy.html",
+      "published": "2026-10-27T11:00:00+00:00",
+      "summary": "A doctor advises a nursing student to prioritize sleep and exercise over supplements for immunity, and explains that early graying hair is largely genetic."
+    },
+    {
+      "id": "f12d2e75b0d2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved rock singer dead at 83: ‘He was in pain’",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-singer-dead-at-83-he-was-in-pain.html",
+      "published": "2026-10-27T10:59:59+00:00",
+      "summary": "He had multiple hits on the Billboard Hot 100."
+    },
+    {
+      "id": "901f500b39e5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "3,000 gallons of heating oil spill after tanker rolls over on Route 1",
+      "link": "https://www.masslive.com/news/2026/10/route-1-reopens-after-tanker-rollover-spills-3000-gallons-of-heating-oil.html",
+      "published": "2026-10-27T10:43:52+00:00",
+      "summary": "Route 1 South in Danvers has reopened after a tanker rollover spilled about 3,000 gallons of heating oil and closed the highway for hours."
+    },
+    {
+      "id": "5bffbf2c0eea",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Big Ten quarterback, projected first-round pick out for the season",
+      "link": "https://www.masslive.com/sports/2026/10/big-ten-quarterback-projected-first-round-pick-out-for-the-season.html",
+      "published": "2026-10-27T10:36:18+00:00",
+      "summary": "Oregon coach Dan Lanning made the announcement Monday night."
+    },
+    {
+      "id": "a7a5d547743e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield field hockey blanks Northampton 3-0 on senior night",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/westfield-field-hockey-blanks-northampton-3-0-on-senior-night.html",
+      "published": "2026-10-27T10:35:52+00:00",
+      "summary": "Westfield field hockey honored seven seniors with a dominant 3-0 shutout win over Northampton, getting goals from Lyla Harris, Ellie Adams, and Maddy Bilodeau."
+    },
+    {
+      "id": "6840e193cfff",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The Giants' best tackle Sunday came from an unlikely player",
+      "link": "https://www.masslive.com/sports/2026/10/john-harbaughs-wild-celebration-didnt-go-as-planned.html",
+      "published": "2026-10-27T10:35:10+00:00",
+      "summary": "Giants coach John Harbaugh tumbled while hugging Devin Singletary after his overtime touchdown beat the Texans 27-21. Here’s what Harbaugh said about the fall."
+    },
+    {
+      "id": "42a178ff187c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Gov. Healey activates National Guard as wildfire spreads into Western Mass.",
+      "link": "https://www.masslive.com/news/2026/10/mass-national-guard-activated-as-wildfire-crosses-new-york-border.html",
+      "published": "2026-10-27T10:28:43+00:00",
+      "summary": "A wildfire that started in New York has crossed into Western Massachusetts, prompting Gov. Maura Healey to activate the National Guard to help firefighters battle the blaze."
+    },
+    {
+      "id": "fb1831e0c1fa",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield girls soccer season ends in PVIAC quarterfinals",
+      "link": "https://www.masslive.com/westernmass/2026/10/westfield-girls-soccer-season-ends-in-pviac-quarterfinals.html",
+      "published": "2026-10-27T10:22:48+00:00",
+      "summary": "Freshman Lucy Dalessio scored the only goal as fourth-seeded Longmeadow eliminated fifth-seeded Westfield 1-0 in the PVIAC Class A quarterfinals, despite eight saves from Bombers goalkeeper Olivia Morrissey."
+    },
+    {
+      "id": "5ad94cd80b8c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Kamala Harris offers clearest signal yet on 2028 plans: ‘I know that I can help’",
+      "link": "https://www.masslive.com/politics/2026/10/kamala-harris-offers-clearest-signal-yet-on-2028-plans-i-know-that-i-can-help.html",
+      "published": "2026-10-27T10:15:00+00:00",
+      "summary": "She leads early polling but faces pressure from party insiders who would prefer she doesn't run."
     },
     {
       "id": "dbbc80bb1bfe",
@@ -306,12 +436,42 @@
       "summary": "I could understand if she had used the gifts for a while and then her kids weren’t interested anymore - but that's not what's happening."
     },
     {
-      "id": "d347aa362d3b",
+      "id": "a7e5df45560d",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $60 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-60-bet.html",
+      "title": "Amazon issues nationwide recall for heaters over serious burn risks, death: Return ASAP",
+      "link": "https://www.masslive.com/business/2026/10/amazon-issues-nationwide-recall-for-heaters-over-serious-burn-risks-death-return-asap.html",
+      "published": "2026-10-27T10:00:00+00:00",
+      "summary": "A popular outdoor heating device is being recalled over serious burn, death and injury concerns. Here's what to look for to see if you have one."
+    },
+    {
+      "id": "6200038fecc9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $5 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-5-bet.html-7",
+      "published": "2026-10-27T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "c1e7d0996269",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $3.20 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-320-bet.html",
+      "published": "2026-10-27T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "d930443082d1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $1.76 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-176-bet.html",
       "published": "2026-10-27T10:00:00+00:00",
       "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
@@ -326,14 +486,14 @@
       "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
-      "id": "a7e5df45560d",
+      "id": "d347aa362d3b",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Amazon issues nationwide recall for heaters over serious burn risks, death: Return ASAP",
-      "link": "https://www.masslive.com/business/2026/10/amazon-issues-nationwide-recall-for-heaters-over-serious-burn-risks-death-return-asap.html",
+      "title": "Mass. casino player wins jackpot prize with $60 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-60-bet.html",
       "published": "2026-10-27T10:00:00+00:00",
-      "summary": "A popular outdoor heating device is being recalled over serious burn, death and injury concerns. Here's what to look for to see if you have one."
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
       "id": "c464fe7947d2",
@@ -366,36 +526,6 @@
       "summary": "He urged everyone to get out and vote."
     },
     {
-      "id": "6200038fecc9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $5 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-5-bet.html-7",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "d930443082d1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $1.76 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-176-bet.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "c1e7d0996269",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $3.20 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-320-bet.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
       "id": "bb0570369180",
       "source": "MassLive",
       "source_id": "masslive",
@@ -414,156 +544,6 @@
       "link": "https://www.masslive.com/westernmass/2026/10/boston-city-council-probes-springfield-mans-homicide-in-suffolk-county-jail.html",
       "published": "2026-10-27T09:44:00+00:00",
       "summary": "“I could bear this if he died of cancer,” she said. “I could bear it if he got hit by a car. What I can’t bear here today and right now is that his life was taken by the COs,” she said."
-    },
-    {
-      "id": "d193e3ee3db9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A 120-year-old Charlestown Navy Yard building is getting new life. Here's what to know",
-      "link": "https://www.masslive.com/boston/2026/10/national-park-service-begins-502m-renovation-of-historic-charlestown-navy-yard-building-heres-why.html",
-      "published": "2026-10-27T09:40:00+00:00",
-      "summary": "A major renovation will restore a 1904 Charlestown Navy Yard building into a unified headquarters for Boston's National Park Service employees."
-    },
-    {
-      "id": "4b0f3a437ed2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Can Boston Dynamics keep up in the humanoid robot race?",
-      "link": "https://www.masslive.com/news/2026/10/can-boston-dynamics-keep-up-with-tesla-and-china-in-the-humanoid-robot-race.html",
-      "published": "2026-10-27T09:33:00+00:00",
-      "summary": "Boston Dynamics, under new CEO Rohit Prasad, faces pressure to commercialize its Atlas humanoid robot as Tesla, Agility and China's Unitree race to market with competing products."
-    },
-    {
-      "id": "c40b6409e3c2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary rock singer was ‘dead man walking’ when she was admitted to hospital",
-      "link": "https://www.masslive.com/entertainment/2026/10/legendary-rock-singer-was-dead-man-walking-when-she-was-admitted-to-hospital.html",
-      "published": "2026-10-27T09:30:00+00:00",
-      "summary": "The singer had a very scary health issue."
-    },
-    {
-      "id": "89912adec45f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Best of Mass. Burgers, Part 1: See who kicks off our top burger picks",
-      "link": "https://www.masslive.com/ne-where/2026/10/best-of-mass-burgers-part-1-see-who-kicks-off-our-top-burger-picks.html",
-      "published": "2026-10-27T09:25:00+00:00",
-      "summary": "Who has the best burgers in Mass.? Here's Part 1 of our ranking of the 30 best burger joints in the state."
-    },
-    {
-      "id": "065e5a459811",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Matthew Farwell's twin brother back on stand Tuesday at trial over Sandra Birchmore's death",
-      "link": "https://www.masslive.com/news/2026/10/matthew-farwells-twin-brother-to-continue-testimony-at-brothers-trial-tuesday.html",
-      "published": "2026-10-27T09:10:00+00:00",
-      "summary": "William Farwell, like his brother, is a former Stoughton police officer. He is testifying under a grant of immunity."
-    },
-    {
-      "id": "947f610ee42a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: The way she treats her men makes me cringe. Should I tell her before I bail?",
-      "link": "https://www.masslive.com/advice/2026/10/asking-eric-the-way-she-treats-her-men-makes-me-cringe-should-i-tell-her-before-i-bail.html",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "Also: Eric asks for help with two upcoming themed columns."
-    },
-    {
-      "id": "fedee5968b19",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Donald Trump hit with $10 million lawsuit from rock legend. Here’s what to know",
-      "link": "https://www.masslive.com/entertainment/2026/10/donald-trump-hit-with-10-million-lawsuit-from-rock-legend-heres-what-to-know.html",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "The singer has made it clear that he is not a fan of the president."
-    },
-    {
-      "id": "3e0e0ec9dcbb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Kohl's is changing how it shows prices — and shoppers are already showing up in bigger numbers",
-      "link": "https://www.masslive.com/business/2026/10/kohls-is-making-a-bold-holiday-push-and-inflation-squeezed-shoppers-are-already-responding.html",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "About 80% of customers using Kohl's same-day delivery partners are new to the retailer, making delivery a powerful tool for growth."
-    },
-    {
-      "id": "13f0b08c9524",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How Efton Chism’s name originated with a mailman",
-      "link": "https://www.masslive.com/patriots/2026/10/how-efton-chisms-name-originated-with-a-mailman-in-karens-corner.html",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "Fewer than 100 people in the United States have the name Efton."
-    },
-    {
-      "id": "b342c19595f4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Iconic pop singer, actress dies at 96: ‘Beautiful voice from television’s golden age’",
-      "link": "https://www.masslive.com/entertainment/2026/10/iconic-pop-singer-actress-dies-at-96-beautiful-voice-from-televisions-golden-age.html",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "She had an impressive career on the screen and as a singer."
-    },
-    {
-      "id": "ccc5d0a77b56",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved country music duo is splitting up: ‘Last chance to see us for a very long time’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-country-music-duo-is-splitting-up-last-chance-to-see-us-for-a-very-long-time.html",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "They have been together since 2013."
-    },
-    {
-      "id": "d8ae583df8cc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Karen Guregian: With the trade deadline approaching, what will the Patriots do?",
-      "link": "https://www.masslive.com/patriots/2026/10/with-the-trade-deadline-two-weeks-away-what-will-the-patriots-do-karen-guregian.html",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "Discussing trade deadline options for the Patriots, and to what extent they'll be buyers."
-    },
-    {
-      "id": "40a849191b34",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock frontman dies at 83, just weeks after retiring: ‘He was King Cool’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-frontman-dies-at-83-just-weeks-after-retiring-he-was-king-cool.html",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "He was diagnosed with bladder cancer in 2023."
-    },
-    {
-      "id": "b24c36d456ba",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Click to see results from across the state on Oct. 26",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-scoreboard-click-to-see-results-from-across-the-state-on-oct-26.html",
-      "published": "2026-10-27T04:07:43+00:00",
-      "summary": "Check out the reported scores from across the state on Monday."
-    },
-    {
-      "id": "a63040dd48f1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "What ‘ate away at’ Celtics’ Payton Pritchard before 28-point show vs. Bulls",
-      "link": "https://www.masslive.com/celtics/2026/10/what-ate-away-at-celtics-payton-pritchard-before-28-point-show-vs-bulls.html",
-      "published": "2026-10-27T04:01:44+00:00",
-      "summary": "Payton Pritchard was frustrated with the way that he played in the Celtics’ first two games. \"It ate away at me.\""
     }
   ]
 }
