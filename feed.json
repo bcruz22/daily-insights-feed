@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:08:00+00:00",
+  "generated_at": "2026-10-27T14:09:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -146,6 +146,86 @@
       "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground."
     },
     {
+      "id": "1b963514a89d",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
+      "link": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
+      "published": "2026-10-27T14:00:00+00:00",
+      "summary": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event. A laptop with a touchscreen should be no big deal - we've had them for […]"
+    },
+    {
+      "id": "0d516a24ee36",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "published": "2026-10-27T13:50:51+00:00",
+      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages,…"
+    },
+    {
+      "id": "0c5a628434dc",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple refreshes the iMac with M6 chips",
+      "link": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
+      "published": "2026-10-27T13:05:26+00:00",
+      "summary": "Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August. Prices start from $1,499, and the design otherwise appears largely unchanged. The…"
+    },
+    {
+      "id": "5a012bc20118",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple updates the MacBook Pro with M6 chips",
+      "link": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+      "published": "2026-10-27T13:04:28+00:00",
+      "summary": "Apple is giving its entry-level MacBook Pro a spec bump. After upgrading the entry-level MacBook Pro with its M5 chip a year ago, Apple is refreshing the laptop today with the M6 chip, which the company launched in August as part of recent upgrades to the new Mac Mini. Last year's entry-level…"
+    },
+    {
+      "id": "22d5174b426e",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
+      "link": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
+      "published": "2026-10-27T13:00:00+00:00",
+      "summary": "Twelve South has announced a new version of its Airfly dongle that simplifies the pairing process when connecting wireless headphones to devices that don't natively support Bluetooth. Instead of having to decode flashing or color-changing LEDs, the new Airfly View adds a built-in screen that…"
+    },
+    {
+      "id": "ee48ec72557e",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle",
+      "link": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
+      "published": "2026-10-27T13:00:00+00:00",
+      "summary": "We're still a few months away from the official reveal of the Ford Fathom, the automaker's first next-generation electric vehicle. While we wait, Ford has been whetting our appetite with news about the sub-$30,000 pickup - including today's announcement about the Fathom's bidirectional charging…"
+    },
+    {
+      "id": "5736963566d1",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they’ll be American-made",
+      "link": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
+      "published": "2026-10-27T13:00:00+00:00",
+      "summary": "Anduril and Qualcomm are partnering on a new line of laptops called BlueChip, launching in early 2027. The first prototype is a ruggedized model using Arm-based Snapdragon X series chips and aimed at the US military, but the ultimate focus of the joint venture is to make laptops entirely in the…"
+    },
+    {
+      "id": "c4e26c13e430",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
+      "link": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
+      "published": "2026-10-27T12:31:33+00:00",
+      "summary": "Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a built-in printer. It also enjoys some key…"
+    },
+    {
       "id": "0abe68e22bdf",
       "source": "The Verge",
       "source_id": "verge",
@@ -166,84 +246,124 @@
       "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and…"
     },
     {
-      "id": "4103d6bc510a",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-      "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-      "published": "2026-10-27T09:54:22+00:00",
-      "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on […]"
+      "id": "32c26f068ab5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jerry Jones had a surprise guest in his suite for the Cowboys’ win over the Eagles",
+      "link": "https://www.masslive.com/sports/2026/10/jerry-jones-watched-the-cowboys-beat-the-eagles-with-one-of-the-teams-loudest-critics.html",
+      "published": "2026-10-27T14:00:34+00:00",
+      "summary": "Dallas Cowboys owner Jerry Jones watched his team beat the Philadelphia Eagles 38-21 on Monday Night Football while sitting with ESPN’s Stephen A. Smith, a longtime Cowboys critic. Here’s why fans are upset."
     },
     {
-      "id": "bba291662c45",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "published": "2026-10-26T23:34:58+00:00",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts…"
+      "id": "59e1ed277008",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Home-repair scheme, sex abuse smear campaign land former Mass. sheriff official in prison",
+      "link": "https://www.masslive.com/news/2026/10/home-repair-scheme-lands-former-mass-sheriff-official-in-prison.html",
+      "published": "2026-10-27T13:58:25+00:00",
+      "summary": "A former Norfolk County sheriff’s official was sentenced to federal prison for pressuring employees for home repairs, with a child sex abuse smear campaign against witnesses also factoring into his sentence."
     },
     {
-      "id": "73fed1e20a12",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-      "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-      "published": "2026-10-26T21:56:36+00:00",
-      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the…"
+      "id": "a7a5c078f757",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Judge rejects Tampa murder defendant’s offer to plead guilty for a cheesesteak",
+      "link": "https://www.masslive.com/news/2026/10/florida-murder-defendant-tells-judge-what-it-would-take-for-him-to-plead-guilty.html",
+      "published": "2026-10-27T13:57:21+00:00",
+      "summary": "Robert Kessler, 74, on trial in the 2021 death of Stephanie Crone-Overholts in Tampa’s McKay Bay, told a Hillsborough County judge he would plead guilty in exchange for a Philly cheesesteak. The judge refused."
     },
     {
-      "id": "96b9f45bb2e6",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "published": "2026-10-26T21:45:31+00:00",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission…"
+      "id": "57947ed86f00",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump gets annoyed by Obama, snaps back twice: ‘He doesn’t see filth’",
+      "link": "https://www.masslive.com/politics/2026/10/trump-gets-annoyed-by-obama-and-snaps-back-he-doesnt-see-filth.html",
+      "published": "2026-10-27T13:32:00+00:00",
+      "summary": "The president emphasized the need to maintain the historic building's exterior and decorations."
     },
     {
-      "id": "a95cbb9d120c",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-      "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-      "published": "2026-10-26T18:51:06+00:00",
-      "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil…"
+      "id": "28eff142b623",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How you can try Cherry Chocolate Stout this winter",
+      "link": "https://www.masslive.com/business/2026/10/how-you-can-try-chocolate-covered-cherry-flavored-stout-this-winter.html",
+      "published": "2026-10-27T13:22:31+00:00",
+      "summary": "Samuel Adams has introduced a new beer in its winter seasonal lineup."
     },
     {
-      "id": "3676c5b47e2c",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-      "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-      "published": "2026-10-26T18:22:06+00:00",
-      "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for…"
+      "id": "2a9294ef120e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Duxbury man sentenced for sharing child sex abuse videos of toddlers on Kik",
+      "link": "https://www.masslive.com/news/2026/10/duxbury-man-sentenced-for-sharing-child-sex-abuse-videos-of-toddlers-on-kik.html",
+      "published": "2026-10-27T13:20:07+00:00",
+      "summary": "A Duxbury man was sentenced to prison after he shared child sex abuse videos of young children on Kik, in the span of just about two weeks between November and December 2023."
     },
     {
-      "id": "2500a6aad874",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "published": "2026-10-26T17:30:55+00:00",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve…"
+      "id": "2aa59b7bc8cf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Italian brand has launched its first frozen pizza exclusively at Costco",
+      "link": "https://www.masslive.com/food/2026/10/italian-brand-has-launched-its-first-frozen-pizza-exclusively-at-costco-in-four-states.html",
+      "published": "2026-10-27T13:14:49+00:00",
+      "summary": "The pizzas are sold in packages of two for $15. Each one bakes in just 8 to 10 minutes."
     },
     {
-      "id": "7adce899d2ab",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
-      "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-      "published": "2026-10-26T17:28:07+00:00",
-      "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If…"
+      "id": "692c0b2edab4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Walmart promises easier, more ‘shoppable’ healthcare options",
+      "link": "https://www.masslive.com/business/2026/10/walmart-promises-easier-more-shoppable-healthcare-options.html",
+      "published": "2026-10-27T13:13:02+00:00",
+      "summary": "Walmart is building a network it hopes will be a “consumer market” that helps people search and find their best options."
+    },
+    {
+      "id": "70aeebb5a810",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Here’s the word of year, what it means and how it went viral",
+      "link": "https://www.masslive.com/entertainment/2026/10/heres-the-word-of-year-what-it-means-and-how-it-went-viral.html",
+      "published": "2026-10-27T13:09:50+00:00",
+      "summary": "Have you added this word to your lexicon?"
+    },
+    {
+      "id": "ec692dd83f1e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: My husband and his brother have hosting expectations I don’t like",
+      "link": "https://www.masslive.com/advice/2026/10/miss-manners-my-husband-and-his-brother-have-hosting-expectations-i-dont-like.html",
+      "published": "2026-10-27T13:00:00+00:00",
+      "summary": "Are you familiar with the Thanksgiving legend?"
+    },
+    {
+      "id": "5402ac919a35",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A beloved Mass. taco spot is leaving its longtime home — but not the area",
+      "link": "https://www.masslive.com/news/2026/10/beloved-boston-area-taco-spot-to-close-after-11-years-relocate-nearby.html",
+      "published": "2026-10-27T12:42:03+00:00",
+      "summary": "While the restaurant is moving, its tacos aren't going anywhere."
+    },
+    {
+      "id": "8504a79beeb9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mom arrested after leaving kids home alone as she went to Las Vegas, police say",
+      "link": "https://www.masslive.com/news/2026/10/mom-arrested-after-leaving-kids-home-alone-as-she-went-to-las-vegas-police-say.html",
+      "published": "2026-10-27T12:17:27+00:00",
+      "summary": "A 9-year-old boy was injured when a dumbbell fell on his head."
     },
     {
       "id": "6a184d39dfee",
@@ -424,126 +544,6 @@
       "link": "https://www.masslive.com/news/2026/10/uss-top-3-halloween-cities-provide-safety-good-weather.html",
       "published": "2026-10-27T10:00:01+00:00",
       "summary": "Cities in New York and New Jersey have ranked among the top three best for Halloween celebrations."
-    },
-    {
-      "id": "c0af8fb2a170",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: Why is this mom selling gifts I send to her children on Marketplace?",
-      "link": "https://www.masslive.com/advice/2026/10/dear-abby-why-is-this-mom-selling-gifts-i-send-to-her-children-on-marketplace.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "I could understand if she had used the gifts for a while and then her kids weren’t interested anymore - but that's not what's happening."
-    },
-    {
-      "id": "a7e5df45560d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Amazon issues nationwide recall for heaters over serious burn risks, death: Return ASAP",
-      "link": "https://www.masslive.com/business/2026/10/amazon-issues-nationwide-recall-for-heaters-over-serious-burn-risks-death-return-asap.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "A popular outdoor heating device is being recalled over serious burn, death and injury concerns. Here's what to look for to see if you have one."
-    },
-    {
-      "id": "6200038fecc9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $5 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-5-bet.html-7",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "c1e7d0996269",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $3.20 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-320-bet.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "d930443082d1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $1.76 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-176-bet.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "adf64e3f186a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $32 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-32-bet.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "d347aa362d3b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $60 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-60-bet.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "c464fe7947d2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "11K+ light fixtures recalled over ‘serious injury from impact’ hazard: ‘Keep clear’",
-      "link": "https://www.masslive.com/news/2026/10/11k-light-fixtures-recalled-over-serious-injury-from-impact-hazard-keep-clear.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "Thousands of light fixtures are being recalled after 13 reports of the mount breaking and four cases of the fixtures falling. Officials warn that the defective mounts pose serious injury and impact hazards."
-    },
-    {
-      "id": "b4087b630d47",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Today’s horoscope: Taurus - Don’t let let stubbornness or ego work against you (Oct. 27, 2026)",
-      "link": "https://www.masslive.com/advice/2026/10/todays-horoscope-taurus-dont-let-let-stubbornness-or-ego-work-against-you-oct-27-2026.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "Celebrities born on this day: Skywalker Hughes, 15; Kelly Osbourne, 42; Patrick Fugit, 44; John Cleese, 87."
-    },
-    {
-      "id": "7e39ee3e5e71",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Donald Trump is ‘like a nightmare’, popular rock frontman says: ‘I’m voting Blue’",
-      "link": "https://www.masslive.com/entertainment/2026/10/donald-trump-is-like-a-nightmare-popular-rock-frontman-says-im-voting-blue.html",
-      "published": "2026-10-27T10:00:00+00:00",
-      "summary": "He urged everyone to get out and vote."
-    },
-    {
-      "id": "bb0570369180",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved Mass. furniture store closing its doors, but not before auctioning off 500+ items",
-      "link": "https://www.masslive.com/centralmass/2026/10/closing-central-mass-furniture-store-to-auction-off-more-than-500-items.html",
-      "published": "2026-10-27T09:55:00+00:00",
-      "summary": "The Central Mass. retailer is closing after three years, with furniture, mattresses, rugs and other home goods still available."
-    },
-    {
-      "id": "c74ebabbb541",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Boston City Council probes Springfield man’s homicide in Suffolk County jail",
-      "link": "https://www.masslive.com/westernmass/2026/10/boston-city-council-probes-springfield-mans-homicide-in-suffolk-county-jail.html",
-      "published": "2026-10-27T09:44:00+00:00",
-      "summary": "“I could bear this if he died of cancer,” she said. “I could bear it if he got hit by a car. What I can’t bear here today and right now is that his life was taken by the COs,” she said."
     }
   ]
 }
