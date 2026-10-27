@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:09:50+00:00",
+  "generated_at": "2026-10-27T06:08:56+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -264,6 +264,16 @@
       "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
       "published": "2026-10-26T17:00:00+00:00",
       "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I […]"
+    },
+    {
+      "id": "b24c36d456ba",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Click to see results from across the state on Oct. 26",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-scoreboard-click-to-see-results-from-across-the-state-on-oct-26.html",
+      "published": "2026-10-27T04:07:43+00:00",
+      "summary": "Check out the reported scores from across the state on Monday."
     },
     {
       "id": "a63040dd48f1",
@@ -554,16 +564,6 @@
       "link": "https://www.masslive.com/entertainment/2026/10/this-hollywood-couple-is-officially-divorced-after-8-years-of-marriage.html",
       "published": "2026-10-26T21:14:58+00:00",
       "summary": "A popular actress and comedian has finalized her divorce 10 months after making a separation announcement"
-    },
-    {
-      "id": "2eab48692544",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Holyoke seeks feedback on comprehensive plan at community forum this week",
-      "link": "https://www.masslive.com/westernmass/2026/10/holyoke-seeks-feedback-on-comprehensive-plan-at-community-forum-this-week.html",
-      "published": "2026-10-26T20:53:32+00:00",
-      "summary": "Holyoke will host a community forum Wednesday to gather resident input on implementing the city's newly adopted comprehensive plan, which will guide growth over the next 20 years."
     }
   ]
 }
