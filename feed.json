@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:08:50+00:00",
+  "generated_at": "2026-10-28T14:12:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -226,6 +226,56 @@
       "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes ."
     },
     {
+      "id": "4bd953b52fd5",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "This is how badly X wants you to pay to promote your posts",
+      "link": "https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts",
+      "published": "2026-10-28T13:26:39+00:00",
+      "summary": "After Elon Musk warned that \"advertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising\" on X earlier this month, the platform now appears to be using a jarring animated arm that reaches across the screen to draw attention to…"
+    },
+    {
+      "id": "59961c91f6b1",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+      "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+      "published": "2026-10-28T13:00:00+00:00",
+      "summary": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature…"
+    },
+    {
+      "id": "89889ee62881",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Inside Amazon’s Echo hardware event",
+      "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+      "published": "2026-10-28T12:46:42+00:00",
+      "summary": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K…"
+    },
+    {
+      "id": "e82502d7d847",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Almost all of Amazon’s new Echo gear is available now",
+      "link": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
+      "published": "2026-10-28T12:29:52+00:00",
+      "summary": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product with its own launch. The latest round of launches focuses on Echo products, including speakers, smart…"
+    },
+    {
+      "id": "fe115e640962",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Everything announced at Amazon’s October 2026 hardware launch",
+      "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+      "published": "2026-10-28T12:20:40+00:00",
+      "summary": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the big news this year is screens: devices with big, beautiful ones, and those that lack them entirely.…"
+    },
+    {
       "id": "2acf8c77b306",
       "source": "The Verge",
       "source_id": "verge",
@@ -276,54 +326,154 @@
       "summary": "Amazon is giving its premium smart speaker a camera. The new Echo Studio with Home Camera, announced today as part of Amazon's big blast of announcements, has a built-in camera for monitoring a room while you're away, showing things to Alexa, and, soon, to use with video calls on Fire TV devices.…"
     },
     {
-      "id": "c25c6d38220d",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Our first look at Amazon’s big new Echo Show 16",
-      "link": "https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles",
-      "published": "2026-10-28T12:00:00+00:00",
-      "summary": "Amazon's latest Echo Show smart display is big, gorgeous, and eye-wateringly expensive. Announced today, the Echo Show 16 costs $499.99 (wall mount included) and is available to preorder now. There's a Nanomatte display option for $569.99, plus a $100 preorder discount ahead of its release later…"
+      "id": "8867b0699821",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Over 374 flights delayed, 59 canceled amid widespread U.S. travel disruptions",
+      "link": "https://www.masslive.com/news/2026/10/over-374-flights-delayed-59-canceled-amid-widespread-us-travel-disruptions.html",
+      "published": "2026-10-28T13:59:11+00:00",
+      "summary": "Flight cancellations and delays disrupted operations at multiple airports across the U.S."
     },
     {
-      "id": "19b3bf2cef93",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Spending time with the Echo Time — a smart clock that senses you sleeping",
-      "link": "https://www.theverge.com/tech/1020352/amazon-echo-time-smart-alarm-clock-hands-on",
-      "published": "2026-10-28T12:00:00+00:00",
-      "summary": "Amazon just announced its newest smart alarm clock - the Echo Time. The baseball-sized smart speaker with a screen, the Time looks like an Echo Dot with Clock and an Echo Spot had a much bigger baby. It features a 3.2-inch touchscreen that prominently displays your choice of a huge selection of…"
+      "id": "4b18f300c18f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Maura T. Healey deserves second term as Massachusetts governor | The Republican Editorials",
+      "link": "https://www.masslive.com/opinion/2026/10/maura-t-healey-deserves-second-term-as-massachusetts-governor-the-republican-editorials.html",
+      "published": "2026-10-28T13:57:09+00:00",
+      "summary": "We believe Healey is by far best suited to rise to the challenges that lie ahead for all of us in Massachusetts."
     },
     {
-      "id": "4dc4d1595d88",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Amazon’s Alexa Home Map is getting a smarter 3D redesign",
-      "link": "https://www.theverge.com/tech/1020392/amazon-alexa-home-view-3d-update-external-view",
-      "published": "2026-10-28T12:00:00+00:00",
-      "summary": "Amazon's smart home map interface that shows you where all your connected devices are has been overhauled with new graphics, features, and dynamic effects. The new Alexa Home Map is now an interactive 3D view of not just everything that's inside your property, but outside of it too - using…"
+      "id": "089dcc85ad10",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Election forecaster makes major shift in 2026 midterms: One party has ‘slight advantage’",
+      "link": "https://www.masslive.com/politics/2026/10/election-forecaster-makes-major-shift-in-2026-midterms-one-party-has-slight-advantage.html",
+      "published": "2026-10-28T13:55:13+00:00",
+      "summary": "Sabato’s Crystal Ball shifted 16 House races, three Senate races and two gubernatorial races toward the Democrats."
     },
     {
-      "id": "e372ef3c432e",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
-      "link": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
-      "published": "2026-10-28T11:30:00+00:00",
-      "summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt. Newly filed court documents show that in March 2023, Meta discussed a \"Whisper…"
+      "id": "ce0216d7d259",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Election 2026: See who won and lost for U.S. House in Massachusetts",
+      "link": "https://www.masslive.com/politics/2026/10/election-2026-results-for-mass-congressional-races.html",
+      "published": "2026-10-28T13:54:19+00:00",
+      "summary": "Here are the candidates and the results for the 2026 election to the U.S. House of Representatives for Massachusetts."
     },
     {
-      "id": "6da995572c9c",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Meta quietly launched an ‘AI pet journal’ app",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "published": "2026-10-28T11:27:30+00:00",
-      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a…"
+      "id": "656f64eaccb9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved singer, 34, hospitalized",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-singer-34-hospitalized.html",
+      "published": "2026-10-28T13:51:55+00:00",
+      "summary": "Demi Lovato, 34, was hospitalized after a suspected allergic reaction. The singer shared an IV photo and later reassured fans that she was fine."
+    },
+    {
+      "id": "d24fa36f7471",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mega Millions results for 10/27/26: Did anyone win the $443 million jackpot?",
+      "link": "https://www.masslive.com/news/2026/10/mega-millions-results-for-102726-did-anyone-win-the-443-million-jackpot.html",
+      "published": "2026-10-28T13:37:54+00:00",
+      "summary": "Six players were one ball away from winning the grand prize. The Mega Millions jackpot was last won on July 28, 2026."
+    },
+    {
+      "id": "5cfc117609b1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump’s meat gesture goes viral: ‘F---ing insane’",
+      "link": "https://www.masslive.com/politics/2026/10/trumps-meat-gesture-goes-viral-f-ing-insane.html",
+      "published": "2026-10-28T13:36:22+00:00",
+      "summary": "The president drew comparisons to his continued comments on a senator's physique."
+    },
+    {
+      "id": "d00907e84a8b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Gaming commission must face up to MGM’s broken promises to Springfield| Michael Albano",
+      "link": "https://www.masslive.com/opinion/2026/10/gaming-commission-must-face-up-to-mgms-broken-promises-to-springfield-michael-albano.html",
+      "published": "2026-10-28T13:30:13+00:00",
+      "summary": "A gaming license is a public privilege secured by public commitments. It is not a disposable corporate asset, and its obligations do not shrink merely because a market underperforms or MGM discovers a more attractive corporate priority."
+    },
+    {
+      "id": "6de60261c28b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Chiefs sign 8-time All-Pro who was suspended after allegations of sexual misconduct",
+      "link": "https://www.masslive.com/sports/2026/10/chiefs-sign-8-time-all-pro-who-was-suspended-after-allegations-of-sexual-misconduct.html",
+      "published": "2026-10-28T13:18:13+00:00",
+      "summary": "Former Baltimore Ravens star Justin Tucker is joining Kansas City's practice squad."
+    },
+    {
+      "id": "a52126d0690f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Williams College student jailed for hidden restroom camera",
+      "link": "https://www.masslive.com/westernmass/2026/10/man-pleads-guilty-to-placing-hidden-cameras-in-campus-restroom-at-western-mass-college.html",
+      "published": "2026-10-28T13:10:10+00:00",
+      "summary": "Police said the camera, which was placed in a gym restroom, was disguised as a phone charger."
+    },
+    {
+      "id": "bbbe3b2a105a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "'Love Is Blind' Boston: See which couples are no longer together ahead of finale",
+      "link": "https://www.masslive.com/entertainment/2026/10/love-is-blind-boston-2-couples-split-ahead-of-season-11-finale.html",
+      "published": "2026-10-28T13:05:52+00:00",
+      "summary": "Some couples on the Boston season of \"Love Is Blind\" have decided to call it quits despite initially being engaged."
+    },
+    {
+      "id": "7d7c3d593ef3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: I’m conflicted with how I feel when grief pops up during fun times",
+      "link": "https://www.masslive.com/advice/2026/10/miss-manners-im-conflicted-with-how-i-feel-when-grief-pops-up-during-fun-times.html",
+      "published": "2026-10-28T13:00:00+00:00",
+      "summary": "Every message talked about how Christmas had been ruined and how she couldn’t stop crying."
+    },
+    {
+      "id": "541481ef4f71",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox cuts coming — but few easy choices on the roster",
+      "link": "https://www.masslive.com/redsox/2026/10/red-sox-roster-moves-coming-soon-including-possible-early-trades-due-to-40-man-crunch.html",
+      "published": "2026-10-28T12:25:56+00:00",
+      "summary": "As soon as the World Series ends, the Red Sox have some cuts to make. There are few easy decisions on the back end of their 40-man roster."
+    },
+    {
+      "id": "d2f2e34c71cd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. man convicted of rape at house party faces prison",
+      "link": "https://www.masslive.com/news/2026/10/mass-man-convicted-of-rape-at-house-party-faces-decades-in-prison.html",
+      "published": "2026-10-28T12:25:17+00:00",
+      "summary": "A woman went to South Shore Hospital in Weymouth for treatment and reported being raped."
+    },
+    {
+      "id": "e50f2d3f4de8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dating with autism: Why is it harder to meet new people? (Enable: The Disability Podcast)",
+      "link": "https://www.masslive.com/business/2026/10/dating-with-autism-why-is-it-harder-to-meet-new-people-enable-the-disability-podcast.html",
+      "published": "2026-10-28T12:20:48+00:00",
+      "summary": "\"Social cues are hard for you to read.\""
     },
     {
       "id": "afe4bd479fe1",
@@ -376,16 +526,6 @@
       "summary": "Manufactured homes – often called mobile homes - are built in a factory and moved to a home site."
     },
     {
-      "id": "55d395448ad9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Her doctor suggested B vitamins for anxiety — but are the doses actually safe?",
-      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-my-doctor-suggested-b-vitamins-for-anxiety-but-the-doses-alarm-me.html",
-      "published": "2026-10-28T11:00:00+00:00",
-      "summary": "A 79-year-old widow seeks supplement advice for anxiety after her husband's suicide, and a doctor recommends B vitamins, though experts suggest lavender extract may be more effective for anxiety relief."
-    },
-    {
       "id": "749144aecc16",
       "source": "MassLive",
       "source_id": "masslive",
@@ -394,6 +534,16 @@
       "link": "https://www.masslive.com/news/2026/10/why-daylight-saving-times-end-creates-a-dangerous-spike-in-wildlife-collisions-each-year.html",
       "published": "2026-10-28T11:00:00+00:00",
       "summary": "Daylight saving time not only means that clocks go back an hour. It also means darker days, which lead to hazardous road conditions"
+    },
+    {
+      "id": "55d395448ad9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Her doctor suggested B vitamins for anxiety — but are the doses actually safe?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-my-doctor-suggested-b-vitamins-for-anxiety-but-the-doses-alarm-me.html",
+      "published": "2026-10-28T11:00:00+00:00",
+      "summary": "A 79-year-old widow seeks supplement advice for anxiety after her husband's suicide, and a doctor recommends B vitamins, though experts suggest lavender extract may be more effective for anxiety relief."
     },
     {
       "id": "fc2812bab29a",
@@ -474,156 +624,6 @@
       "link": "https://www.masslive.com/westfieldnews/2026/10/springfield-man-sentenced-to-10-years-in-prison-for-westfield-home-invasion.html",
       "published": "2026-10-28T10:00:01+00:00",
       "summary": "A Springfield man who had already served time in prison for involuntary manslaughter was sentenced to 10 years in prison after pleading guilty in Hampden County Superior Court to three felonies for a home invasion robbery he committed at a Westfield home on Murphy Circle in January 2025, according…"
-    },
-    {
-      "id": "a36dfc8f496b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Digital forensics expert to conclude prosecution's case at trial over Sandra Birchmore's death",
-      "link": "https://www.masslive.com/news/2026/10/prosecution-to-rest-case-against-matthew-farwell-after-calling-digital-forensics-expert.html",
-      "published": "2026-10-28T10:00:01+00:00",
-      "summary": "Federal prosecutors are set to rest their case against Matthew Farwell, the former Stoughton police officer charged with killing Sandra Birchmore."
-    },
-    {
-      "id": "09cbde2ddc9d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Plan ahead: All US Postal Service locations will be closed on Nov. 11, mail deliveries to be delayed",
-      "link": "https://www.masslive.com/news/2026/10/plan-ahead-all-us-postal-service-locations-will-be-closed-on-nov-11-mail-deliveries-to-be-delayed.html",
-      "published": "2026-10-28T10:00:01+00:00",
-      "summary": "All post office locations will be closed on Nov. 11 in observance of Veterans Day. However, self-service kiosks will remain open at select post offices as will some services on the post office's website."
-    },
-    {
-      "id": "d5ed4b248d06",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "WMass Field Hockey Top 10: Who leads as the regular season wraps up",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-field-hockey-top-10-who-leads-as-the-regular-season-wraps-up.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "MassLive has released its weekly WMass Field Hockey Top 10 as the regular season comes to a close."
-    },
-    {
-      "id": "d037165d84ca",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "See who's No. 1 in the Bay State boys soccer power rankings after chaotic shuffle",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/chaos-shuffles-bay-state-conference-boys-soccer-power-rankings.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "The Bay State Conference boys soccer power rankings are shuffling after a chaotic week. See who took over the No. 1 spot and what changed under them."
-    },
-    {
-      "id": "d52ed0a53e16",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Week 8 Western Mass. football rankings: Major shakeup, new team enters Top 20",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/western-mass-football-top-20-week-8-shakeup-after-south-hadleys-first-loss.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "See MassLive’s Week 8 Western Massachusetts football rankings as South Hadley drops after its first loss, Wahconah climbs and Smith Vocational enters the Top 20."
-    },
-    {
-      "id": "99c851868b9b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: Traveling friends were miffed AT US when we couldn't rearrange our lives with 2 hours notice",
-      "link": "https://www.masslive.com/advice/2026/10/dear-abby-traveling-friends-were-miffed-at-us-when-we-couldnt-rearrange-our-lives-with-2-hours-notice.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "Abby: I would not agree to host that presumptuous couple again. Ever."
-    },
-    {
-      "id": "d59c431a146e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Many Americans drop streaming platforms for being ‘too expensive’",
-      "link": "https://www.masslive.com/news/2026/10/many-americans-drop-streaming-platforms-for-being-too-expensive.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "Buying all eight major streaming services costs people an average $151 a month, according to The Hollywood Reporter."
-    },
-    {
-      "id": "1d20ba6c2029",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $5 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-5-bet.html-6",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "6ab2307927cd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins 2 jackpot prizes in 1 day",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-2-jackpot-prizes-in-1-day.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "d6b30bb93480",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $25 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-25-bet.html-2",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "6725872e82e7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Derrick White MVP chants, Paul George, late-game decisions (Celtics Notebook)",
-      "link": "https://www.masslive.com/celtics/2026/10/derrick-white-mvp-chants-paul-george-late-game-decisions-celtics-notebook.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "Derrick White received some MVP chants in the Celtics' overtime win over the Nets, which he admitted confused him."
-    },
-    {
-      "id": "0b7c35a46b5d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "An 8-game winning streak keeps this team No. 1in the Bay State Girls Soccer Power Rankings",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/its-wellesleys-world-in-the-bay-state-girls-soccer-power-rankings.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "Wellesley has won its last eight games and is on a 12-game unbeaten streak. That keeps the Raiders atop the Bay State Conference Girls Soccer Power Rankings."
-    },
-    {
-      "id": "5591b2854893",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $4.40 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-440-bet.html-3",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "bb336de0fd7e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Garden Notes: Oct. 28, 2026",
-      "link": "https://www.masslive.com/living/2026/10/garden-notes-oct-28-2026.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "Garden Notes"
-    },
-    {
-      "id": "b05deed68228",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ed Markey sees an opening for Democrats and another shot at his biggest ideas",
-      "link": "https://www.masslive.com/politics/2026/10/ed-markeys-pitch-to-voters-think-big-take-the-wins-keep-going.html",
-      "published": "2026-10-28T09:50:00+00:00",
-      "summary": "As he runs for a third term, Ed Markey is betting that big ideas, small wins and a willingness to keep pushing can still change Washington."
     }
   ]
 }
