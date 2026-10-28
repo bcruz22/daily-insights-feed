@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:11:00+00:00",
+  "generated_at": "2026-10-28T18:09:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -25,6 +25,16 @@
     }
   },
   "items": [
+    {
+      "id": "180cb4624042",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+      "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+      "published": "2026-10-28T15:48:12+00:00",
+      "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\""
+    },
     {
       "id": "7e3f361561d5",
       "source": "Ars Technica",
@@ -216,114 +226,384 @@
       "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today."
     },
     {
-      "id": "3013e4fb2f56",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-      "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
-      "published": "2026-10-26T20:27:00+00:00",
-      "summary": "Case study gives a whole new meaning to \"bedroom eyes.\""
-    },
-    {
-      "id": "2ad72b864b34",
+      "id": "be6c3567a317",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Reddit is getting a For You feed",
-      "link": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
-      "published": "2026-10-28T16:00:00+00:00",
-      "summary": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and a For You feed that includes posts from your subreddits and \"recommendations related…"
+      "title": "You can see every red flag in Theranos 2.0",
+      "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
+      "published": "2026-10-28T18:00:00+00:00",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From afar, it's easy to look back at the Theranos debacle and scream at Nathan…"
     },
     {
-      "id": "7fd9a3537848",
+      "id": "35c6860bc986",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Govee’s colorful smart string lights are down to their best price of the year",
-      "link": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
-      "published": "2026-10-28T15:34:43+00:00",
-      "summary": "Halloween isn’t even here yet, but it’s never too early to start thinking about holiday decorations, especially when there are already deals on smart, programmable lights. If you want your house, tree, fireplace, or whatever else to stand out this year, Govee’s Christmas String Lights 2 are on…"
+      "title": "Here’s how macOS is changing for touchscreens",
+      "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
+      "published": "2026-10-28T17:48:28+00:00",
+      "summary": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though; most of the touch action will be in the apps themselves, it seems. As far as…"
     },
     {
-      "id": "dd501919f350",
+      "id": "7af8dbf23536",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Sony has new transparent PS5 controllers launching next year",
-      "link": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent",
-      "published": "2026-10-28T15:31:02+00:00",
-      "summary": "Sony announced a new Prism Collection line of PlayStation 5 accessories today that revisits \"the iconic see-through trend of the late '90s in a fresh, modern way\" for its DualSense wireless controllers and matching console covers for the PS5 that reveal some of their internal components. The Prism…"
+      "title": "Apple ‘Pro and Tell’ event: everything announced this week",
+      "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
+      "published": "2026-10-28T17:27:38+00:00",
+      "summary": "Apple closed out its week of product announcements with a \"Pro and Tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades and updates in the…"
     },
     {
-      "id": "e71dbd05d499",
+      "id": "b2138757145a",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
-      "link": "https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on",
-      "published": "2026-10-28T15:00:00+00:00",
-      "summary": "It's hard to make an Xbox controller that stands out these days, especially one that's expensive, due to a wealth of great semi-affordable options. Still, 8BitDo's $150 Ultimate 3E is a bold controller that holds its own against other feature-packed options. It's made for Xbox and PC gamers who…"
+      "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
+      "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
+      "published": "2026-10-28T17:19:23+00:00",
+      "summary": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED XDR touch display…"
     },
     {
-      "id": "7646eaca00b8",
+      "id": "9debcc1c98c3",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Apple raises the MacBook Neo’s student pricing again",
-      "link": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store",
-      "published": "2026-10-28T14:47:28+00:00",
-      "summary": "The MacBook Neo now starts at $649 on Apple's Education Store, up $150 from its initial $499 education starting price. As reported earlier by MacRumors, the student discount for the Neo received a $50 price bump in recent days, following a $100 price bump back in June. Apple's budget MacBook is…"
+      "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+      "link": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+      "published": "2026-10-28T17:16:55+00:00",
+      "summary": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a touch interface. While it's unlikely that Apple can fix all the \"terrible\"…"
     },
     {
-      "id": "5283652bd524",
+      "id": "bd935ab905ad",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "published": "2026-10-28T14:44:00+00:00",
-      "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood…"
+      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
+      "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
+      "published": "2026-10-28T17:12:47+00:00",
+      "summary": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves until November 6th;…"
     },
     {
-      "id": "a1869351f41d",
+      "id": "491dc0187eea",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Here’s Virgin Galactic’s new Apeiron spaceship",
-      "link": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
-      "published": "2026-10-28T14:17:43+00:00",
-      "summary": "Virgin Galactic's new spaceship is here, dubbed \"Apeiron\" by popular vote from a public poll. Apeiron is the first of the company's new Delta-class spacecraft, but it isn't slated to launch for nearly another year. Earlier this week, Virgin Galactic announced another delay in its launch timeline:…"
+      "title": "Instagram doesn’t have a plan to pay long-form video creators",
+      "link": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
+      "published": "2026-10-28T17:10:46+00:00",
+      "summary": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on Monday, creators immediately started voicing their complaints on Threads and Reddit…"
     },
     {
-      "id": "4bd953b52fd5",
+      "id": "c34d9265db14",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "This is how badly X wants you to pay to promote your posts",
-      "link": "https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts",
-      "published": "2026-10-28T13:26:39+00:00",
-      "summary": "After Elon Musk warned that \"advertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising\" on X earlier this month, the platform now appears to be using a jarring animated arm that reaches across the screen to draw attention to…"
+      "title": "Apple announces its first touchscreen MacBook Pro",
+      "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
+      "published": "2026-10-28T17:05:56+00:00",
+      "summary": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it's available to preorder today ahead of its release on November 6th. The new MacBook Pro has what…"
     },
     {
-      "id": "59961c91f6b1",
+      "id": "c802108aab79",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
-      "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
-      "published": "2026-10-28T13:00:00+00:00",
-      "summary": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature…"
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "published": "2026-10-28T17:00:00+00:00",
+      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use…"
     },
     {
-      "id": "89889ee62881",
+      "id": "869786dcc211",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Inside Amazon’s Echo hardware event",
-      "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
-      "published": "2026-10-28T12:46:42+00:00",
-      "summary": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K…"
+      "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+      "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+      "published": "2026-10-28T16:33:32+00:00",
+      "summary": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors.…"
+    },
+    {
+      "id": "e643500a3c16",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Veteran zookeeper dies after being attacked by leopard",
+      "link": "https://www.masslive.com/news/2026/10/veteran-zookeeper-dies-after-being-attacked-by-leopard.html",
+      "published": "2026-10-28T18:02:05+00:00",
+      "summary": "She began working at the safari park when she was 17 and continued doing so for nearly 40 years."
+    },
+    {
+      "id": "f44463e7a077",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Frontier airfare jumps 71% — but passengers keep booking",
+      "link": "https://www.masslive.com/news/2026/10/frontier-reports-71-increase-in-airfare-heres-why.html",
+      "published": "2026-10-28T18:00:58+00:00",
+      "summary": "Frontier, America's largest budget airline, reported a 71% increase in airfare in the third quarter. Here's why"
+    },
+    {
+      "id": "f57b2ce5231b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump critic makes prediction on 2026 midterms: ‘Too close to call’",
+      "link": "https://www.masslive.com/politics/2026/10/trump-critic-makes-prediction-on-2026-midterms-too-close-to-call.html",
+      "published": "2026-10-28T18:00:00+00:00",
+      "summary": "Liz Cheney predicted that Democrats would win the House, but the Senate would remain a toss-up."
+    },
+    {
+      "id": "f41ed03289b9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Abby: After 20 years married, an ex-boyfriend is occupying too much of my mind",
+      "link": "https://www.masslive.com/advice/2026/10/dear-abby-after-20-years-married-an-ex-boyfriend-is-occupying-too-much-of-my-mind.html",
+      "published": "2026-10-28T18:00:00+00:00",
+      "summary": "A few of my ex-boyfriends have reached out to me over the last 18 months."
+    },
+    {
+      "id": "ca7da485ed31",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. lottery players can chase 3 massive jackpots this week",
+      "link": "https://www.masslive.com/lottery/2026/10/mass-lottery-players-have-3-chances-at-multimillion-dollar-jackpots-this-week.html",
+      "published": "2026-10-28T17:51:46+00:00",
+      "summary": "There’s plenty on the line for Massachusetts lottery players, from a soaring national prize to a homegrown game."
+    },
+    {
+      "id": "4c295d6eaedb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Taser incident involving 'preachers' at Salem's Bewitched statue leads to arrest of Ohio man",
+      "link": "https://www.masslive.com/news/2026/10/taser-incident-involving-preachers-at-salems-bewitched-statue-leads-to-arrest-of-ohio-man.html",
+      "published": "2026-10-28T17:50:42+00:00",
+      "summary": "An Ohio man was arrested in Salem Tuesday night after he \"zapped\" a taser at a man protesting preachers near the Bewitched statue, according to police."
+    },
+    {
+      "id": "500085de2d16",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Some Social Security recipients will get November payments this week: Benefit schedule",
+      "link": "https://www.masslive.com/news/2026/10/some-social-security-recipients-will-get-november-payments-this-week-benefit-schedule.html",
+      "published": "2026-10-28T17:50:36+00:00",
+      "summary": "More than 56 million retirees, dependents and disabled workers receive Social Security benefits."
+    },
+    {
+      "id": "8ce504124819",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Vegetarian borscht with potato pierogies",
+      "link": "https://www.masslive.com/nytcooking/2026/10/792612385-vegetarian-borscht-with-potato-pierogies.html",
+      "published": "2026-10-28T17:46:59+00:00",
+      "summary": "This quick vegetarian borscht pairs the earthy sweetness of beets with tangy dill pickles and hearty potato pierogies for a satisfying meal that's delicious hot or cold."
+    },
+    {
+      "id": "3990c015c2aa",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sheet-pan thanksgiving stuffing",
+      "link": "https://www.masslive.com/nytcooking/2026/10/792771373-sheet-pan-thanksgiving-stuffing.html",
+      "published": "2026-10-28T17:46:55+00:00",
+      "summary": "This sheet-pan Thanksgiving stuffing offers a delightful mix of crunchy edges and tender center, combining traditional ingredients like celery, onion, apple, and herbs for a flavorful holiday side."
+    },
+    {
+      "id": "649c937a17b4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Crawford County fried chicken",
+      "link": "https://www.masslive.com/nytcooking/2026/10/792770421-crawford-county-fried-chicken.html",
+      "published": "2026-10-28T17:46:50+00:00",
+      "summary": "Experience the extra-crunchy delight of Crawford County fried chicken, a lard-fried homage to Kansas' chicken houses, perfect with German potato salad and coleslaw for a taste of tradition."
+    },
+    {
+      "id": "f8705340a896",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved actor who survived being shot in the face dies at 68",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-actor-who-survived-being-shot-in-the-face-dies-at-68.html",
+      "published": "2026-10-28T17:43:17+00:00",
+      "summary": "Actor Matthew Posey, known for “No Country for Old Men” and “Lonesome Dove,” has died at 68. He survived being shot in the face in 2017."
+    },
+    {
+      "id": "30f4037863aa",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Chelsea mother sues ICE, says agents slammed her face-first into sidewalk",
+      "link": "https://www.masslive.com/news/2026/10/family-files-federal-lawsuit-accusing-ice-agents-of-brutality-in-chelsea-courthouse-incident.html",
+      "published": "2026-10-28T17:42:29+00:00",
+      "summary": "A Chelsea mother who has lived legally in the U.S. for more than 20 years is suing ICE, alleging agents dragged her from her car and slammed her face-first into a sidewalk in front of her children and near a courthouse."
+    },
+    {
+      "id": "e8f57aec5973",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "When veterans can expect VA disability checks for October",
+      "link": "https://www.masslive.com/news/2026/10/when-veterans-can-expect-va-disability-checks-for-october.html",
+      "published": "2026-10-28T17:41:48+00:00",
+      "summary": "For a single veteran, compensation can range from $180 a month for a disability rating of 10% to $3,939 for a 100% rating."
+    },
+    {
+      "id": "562917f68e9a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bird flu has been spreading on a Utah mink farm for months. Experts want to know why no one stopped it",
+      "link": "https://www.masslive.com/news/2026/10/why-experts-are-worried-about-bird-flu-on-a-utah-mink-farm.html",
+      "published": "2026-10-28T17:41:35+00:00",
+      "summary": "Bird flu has spread on a Utah mink farm for two months. Experts say the animals could help the virus change to infect people. Here’s what to know."
+    },
+    {
+      "id": "6b033c7c2e4c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Former ‘Jeopardy!’ champion arrested on child exploitation charges",
+      "link": "https://www.masslive.com/entertainment/2026/10/former-jeopardy-champion-arrested-on-child-exploitation-charges.html",
+      "published": "2026-10-28T17:37:07+00:00",
+      "summary": "This arrest marks his second set of criminal charges in recent months."
+    },
+    {
+      "id": "f4934c08cdef",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Walmart has everything you need for a holiday dinner for less than 2025",
+      "link": "https://www.masslive.com/business/2026/10/thanksgiving-dinner-for-350-per-person-walmart-gathered-everything-you-need.html",
+      "published": "2026-10-28T17:37:07+00:00",
+      "summary": "From now until Dec. 24, Walmart is selling all the ingredients needed for Thanksgiving for $35."
+    },
+    {
+      "id": "4e0da7ed8fe9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sites like Pulsz: The 5 picks players are opening before Halloween",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/sites-like-pulsz-the-5-picks-players-are-opening-before-halloween.html",
+      "published": "2026-10-28T17:27:00+00:00",
+      "summary": "Our experts break down the top five sites like Pulsz to explore leading up to Halloween. See what these alternative platforms deliver that Pulsz leaves out."
+    },
+    {
+      "id": "2df0ce490299",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "‘Dancing With the Stars’ sends home two celebrities in brutal double elimination",
+      "link": "https://www.masslive.com/entertainment/2026/10/dancing-with-the-stars-sends-home-two-celebrities-in-brutal-double-elimination.html",
+      "published": "2026-10-28T17:24:39+00:00",
+      "summary": "After this week's double elimination, there are eight celebrities left competing on season 35 of 'Dancing With the Stars'"
+    },
+    {
+      "id": "bccfcd7e78b4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "From fresh-cut flowers to wedding rentals, Framingham's newest shop designed for creators at every level",
+      "link": "https://www.masslive.com/business/2026/10/new-floral-wholesale-shop-opens-in-downtown-framingham-with-diy-event-rental-options.html",
+      "published": "2026-10-28T17:23:44+00:00",
+      "summary": "Downtown Framingham has a new go-to spot for fresh-cut blooms, house plants and event rental supplies for local creators."
+    },
+    {
+      "id": "38a93a920654",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A 3,156-pound jack-o’-lantern unveiled in Salem just set a new world record",
+      "link": "https://www.masslive.com/entertainment/2026/10/a-3156-pound-jack-o-lantern-unveiled-in-salem-just-set-a-new-world-record.html",
+      "published": "2026-10-28T17:19:41+00:00",
+      "summary": "The colossal pumpkin, grown in Rhode Island and carved by three professional artists, is the first jack-o'-lantern ever to top 3,000 pounds."
+    },
+    {
+      "id": "320227a36b5d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "McDonald's just dropped 5 festive holiday drinks that sound absolutely delicious",
+      "link": "https://www.masslive.com/food/2026/10/mcdonalds-just-dropped-5-festive-holiday-drinks-that-sound-absolutely-delicious.html",
+      "published": "2026-10-28T17:09:00+00:00",
+      "summary": "The new drinks continue a year of drinkable innovation at the Golden Arches."
+    },
+    {
+      "id": "95df1d251ba4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Anthony Edwards wants a judge to change how his child support is paid. His son’s mother is pushing back",
+      "link": "https://www.masslive.com/sports/2026/10/why-anthony-edwards-wants-a-trust-for-his-child-support-payments.html",
+      "published": "2026-10-28T16:55:51+00:00",
+      "summary": "Timberwolves star Anthony Edwards wants part of his $14,000 monthly child support put in a trust. Here’s why, and what his son’s mother says."
+    },
+    {
+      "id": "e5da3bce7a06",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Stanley’s holiday tumblers are here with festive designs starting at $25",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/stanleys-holiday-quencher-tumblers-are-here-with-festive-designs-starting-at-25.html",
+      "published": "2026-10-28T16:46:24+00:00",
+      "summary": "Stanley's limited-edition holiday tumbler collection features festive designs with double-wall vacuum insulation, priced between $25 and $55."
+    },
+    {
+      "id": "c5252f71d78b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Group makes $1.4 billion offer to buy struggling fast-food burger chain, make it private",
+      "link": "https://www.masslive.com/food/2026/10/group-makes-14-billion-offer-to-buy-struggling-fast-food-burger-chain-make-it-private.html",
+      "published": "2026-10-28T16:18:08+00:00",
+      "summary": "Wendy’s has endured a challenging year."
+    },
+    {
+      "id": "a5a1ec8a90fb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "High school football player from famous sports family killed by suspected drunk driver",
+      "link": "https://www.masslive.com/sports/2026/10/high-school-football-player-from-famous-sports-family-killed-by-suspected-drunk-driver.html",
+      "published": "2026-10-28T16:17:01+00:00",
+      "summary": "The brother of Deejay Tuiasosopo's grandfather won a Super Bowl during his time in the NFL."
+    },
+    {
+      "id": "2c78da997dc4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Former talk show host’s future plans revealed amid ongoing health concerns",
+      "link": "https://www.masslive.com/entertainment/2026/10/former-talk-show-hosts-future-plans-revealed-amid-ongoing-health-concerns.html",
+      "published": "2026-10-28T16:09:39+00:00",
+      "summary": "Public speculation began in September 2024 when she appeared to slur her words during an Instagram video."
+    },
+    {
+      "id": "bb8041422e8a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "List of online social casinos: Every site worth playing this Halloween week",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/list-of-online-social-casinos-every-site-worth-playing-this-halloween-week.html",
+      "published": "2026-10-28T16:09:00+00:00",
+      "summary": "Don't waste time on dead-end sites. Here's our ultimate list of online social casinos worth downloading for Halloween week. Grab your spooky promos today!"
+    },
+    {
+      "id": "c40e8de1021a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield’s Pumpkin Stroll needed 400 veggies to display. These students and inmates got carving",
+      "link": "https://www.masslive.com/westernmass/2026/10/springfields-pumpkin-stroll-needed-400-veggies-to-display-these-students-and-inmates-got-carving.html",
+      "published": "2026-10-28T16:08:40+00:00",
+      "summary": "The Pumpkin Stroll will be held from 5 to 8 p.m., Thursday, Friday and Saturday in Forest Park."
     },
     {
       "id": "a5c3a4a84c7a",
@@ -344,286 +624,6 @@
       "link": "https://www.masslive.com/news/2026/10/amazon-paid-for-1000-truck-trips-that-never-happened-now-a-connecticut-man-is-going-to-prison.html",
       "published": "2026-10-28T16:02:53+00:00",
       "summary": "A Connecticut man is going to prison after Amazon paid him $3.5 million for more than 1,000 truck trips that never happened. Here’s how the scheme worked."
-    },
-    {
-      "id": "c99bb42a0063",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A stunning new poll shows South Carolina Senate race tied",
-      "link": "https://www.masslive.com/politics/2026/10/shock-poll-shows-deep-red-state-in-trouble-is-trump-to-blame.html",
-      "published": "2026-10-28T15:55:00+00:00",
-      "summary": "The poll found that Graham and Andrews each received 48% of support when South Carolina voters were asked who they would support if the election were held today"
-    },
-    {
-      "id": "09feae1d1851",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "VA disability payments shift to October and December, leaving November without a deposit",
-      "link": "https://www.masslive.com/news/2026/10/veterans-wont-receive-va-disability-checks-in-november-heres-why.html",
-      "published": "2026-10-28T15:52:05+00:00",
-      "summary": "March, August and November share the same feature."
-    },
-    {
-      "id": "33cdf0e9b36a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ousted Trump official suggests Fox News host contributed to her demise",
-      "link": "https://www.masslive.com/politics/2026/10/ousted-trump-official-suggests-fox-news-host-contributed-to-her-demise.html",
-      "published": "2026-10-28T15:42:00+00:00",
-      "summary": "The former press secretary went into the interview thinking something different."
-    },
-    {
-      "id": "2ee29b88b30c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Tragic cause of death reported for model, 34, once linked to Justin Bieber",
-      "link": "https://www.masslive.com/entertainment/2026/10/tragic-cause-of-death-reported-for-model-34-once-linked-to-justin-bieber.html",
-      "published": "2026-10-28T15:39:42+00:00",
-      "summary": "The Australian model died on Sunday, Oct. 18."
-    },
-    {
-      "id": "08cb894d43ed",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Governor calls deadly tornado in Turkey a very unusual natural phenomenon",
-      "link": "https://www.masslive.com/news/2026/10/what-we-know-about-the-rare-tornado-that-killed-4-workers-in-turkey.html",
-      "published": "2026-10-28T15:38:57+00:00",
-      "summary": "A rare tornado struck a construction site in Antalya, Turkey, killing four workers staying in shipping containers. The governor called it “a very unusual natural phenomenon” ahead of the city’s COP31 climate summit."
-    },
-    {
-      "id": "9e13c86b2de9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Jeremy Jacobs steps down after 51 years as Bruins governor, cedes position to son, Charlie",
-      "link": "https://www.masslive.com/bruins/2026/10/jeremy-jacobs-steps-down-after-51-years-as-bruins-governor-cedes-position-to-son-charlie.html",
-      "published": "2026-10-28T15:33:47+00:00",
-      "summary": "After 51 years as Bruins governor, Jeremy Jacobs is giving the position to his son, Charlie."
-    },
-    {
-      "id": "3b2531f9544a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Butter recalled in 10 states over E. coli, mold: FDA assigns 2nd-highest risk level",
-      "link": "https://www.masslive.com/news/2026/10/butter-recalled-in-10-states-over-e-coli-mold-fda-assigns-2nd-highest-risk-level.html",
-      "published": "2026-10-28T15:27:46+00:00",
-      "summary": "Nearly 8,000 packages of butter sold in 10 states are being recalled over yeast, mold and E. coli concerns. Here’s how to tell if yours is affected."
-    },
-    {
-      "id": "c5d8f224832e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "At least 68 killed after high-speed train slams into another train in Spain",
-      "link": "https://www.masslive.com/news/2026/10/what-we-know-about-the-high-speed-train-crash-that-killed-at-least-68-in-spain.html",
-      "published": "2026-10-28T15:19:27+00:00",
-      "summary": "At least 68 people were killed when a high-speed Renfe train crashed into a stopped Iryo train near Urda in Toledo province, Spain. It’s the country’s second deadly train crash in 2026."
-    },
-    {
-      "id": "5ef279fa9f6d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Watch it live: MassLive streaming St. John’s Prep vs. Catholic Memorial football",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/watch-it-live-masslive-streaming-st-johns-prep-vs-catholic-memorial-football.html",
-      "published": "2026-10-28T15:18:26+00:00",
-      "summary": "Watch Friday night's Catholic Conference showdown on MassLive."
-    },
-    {
-      "id": "d74985cc3bfa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Gas prices for 10/28/26: National average down another 2 cents",
-      "link": "https://www.masslive.com/news/2026/10/gas-prices-for-102826-national-average-down-another-2-cents.html",
-      "published": "2026-10-28T15:10:04+00:00",
-      "summary": "As of Wednesday, Oct. 28, the national average for a gallon of regular unleaded was $4.24, according to AAA."
-    },
-    {
-      "id": "be704e083bec",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Thousands of Mass. residents are about to see their medical debt erased",
-      "link": "https://www.masslive.com/news/2026/10/nearly-70k-people-in-mass-are-getting-a-fresh-start-from-medical-debt-erasure.html",
-      "published": "2026-10-28T15:07:19+00:00",
-      "summary": "A nonprofit coalition has erased $38 million in medical debt for nearly 70,000 low- and moderate-income Mass. residents. Are you one of them?"
-    },
-    {
-      "id": "b5d257ac2781",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Western Mass. wildfire reaches 70% containment Tuesday",
-      "link": "https://www.masslive.com/westernmass/2026/10/firefighters-working-to-contain-200-acre-western-mass-blaze.html",
-      "published": "2026-10-28T15:03:15+00:00",
-      "summary": "By Tuesday, the fire encompassed about 200 acres and the National Guard had been activated to assist local firefighters."
-    },
-    {
-      "id": "463d47d8d1ca",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Check your mailbox: Up to $7.5K might be on its way",
-      "link": "https://www.masslive.com/news/2026/10/check-your-mailbox-up-to-75k-might-be-on-its-way.html",
-      "published": "2026-10-28T15:01:56+00:00",
-      "summary": "A judge gave final approval to a $177 million AT&T settlement earlier this month."
-    },
-    {
-      "id": "b40e46c3f4bd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Annie: How do I protect my teen from TikTok without losing her trust?",
-      "link": "https://www.masslive.com/advice/2026/10/dear-annie-how-do-i-protect-my-teen-from-tiktok-without-losing-her-trust.html",
-      "published": "2026-10-28T15:00:00+00:00",
-      "summary": "I don’t want to become the mother who bans everything and drives her daughter to hide things from her - but..."
-    },
-    {
-      "id": "4f0db423372e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Small grocery chain to offer price margins lower than any other stores",
-      "link": "https://www.masslive.com/business/2026/10/small-grocery-chain-promises-price-margins-lower-than-any-other-stores.html",
-      "published": "2026-10-28T14:59:12+00:00",
-      "summary": "Large retailers like Walmart are able to keep prices low by buying in bulk. Smaller businesses on't have that option."
-    },
-    {
-      "id": "ed32663afe65",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Charles Kelley reveals painful side effects of chemotherapy",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-country-singer-45-reveals-painful-cancer-treatment-update.html",
-      "published": "2026-10-28T14:49:06+00:00",
-      "summary": "Lady A singer Charles Kelley revealed the painful toll of chemotherapy while sharing encouraging news about his cancer treatment."
-    },
-    {
-      "id": "a182c86810fd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Don’t get scammed: Feds warn of Medicare fraud during open enrollment",
-      "link": "https://www.masslive.com/news/2026/10/dont-get-scammed-feds-warn-of-medicare-fraud-during-open-enrollment.html",
-      "published": "2026-10-28T14:45:11+00:00",
-      "summary": "With Medicare open enrollment in full swing, federal officials are warning beneficiaries about fraud schemes and sharing tips to avoid becoming a victim."
-    },
-    {
-      "id": "0a27b0aa0049",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The deadline to vote early in person in Mass. is just days away",
-      "link": "https://www.masslive.com/politics/2026/10/deadline-to-vote-early-in-person-in-massachusetts-is-approaching.html",
-      "published": "2026-10-28T14:34:21+00:00",
-      "summary": "Nine ballot questions and major statewide races are among the choices facing Mass. voters this election."
-    },
-    {
-      "id": "f3c343bdb645",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former reality TV star, 33, expecting 7th child with husband",
-      "link": "https://www.masslive.com/entertainment/2026/10/former-reality-tv-star-33-expecting-7th-child-with-husband.html",
-      "published": "2026-10-28T14:31:40+00:00",
-      "summary": "Jessa Duggar and Ben Seewald are expecting their seventh child. The former TLC star revealed the pregnancy during a podcast appearance."
-    },
-    {
-      "id": "1b7060e567ea",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Cast of popular '90s sitcom reuniting for show’s 30th anniversary in Mass. on Halloween",
-      "link": "https://www.masslive.com/ne-where/2026/10/sabrina-the-teenage-witch-cast-reuniting-for-shows-30th-anniversary-in-mass.html",
-      "published": "2026-10-28T14:18:13+00:00",
-      "summary": "The bewitching reunion will see the cast act out skits, sing songs and reminisce over bloopers from the series."
-    },
-    {
-      "id": "fc119c36a582",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. voters decide on four powerful statewide offices that oversee everything from elections to the lottery",
-      "link": "https://www.masslive.com/politics/2026/10/election-2026-results-for-mass-auditor-attorney-general-treasurer-and-secretary-of-state.html",
-      "published": "2026-10-28T14:16:23+00:00",
-      "summary": "Democratic incumbents hold all four offices and are running for reelection, but only three races feature Republican challengers this year."
-    },
-    {
-      "id": "ced0fed5853c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Early data projections: Can the Patriots meet expectations vs Miami Dolphins in Week 8?",
-      "link": "https://www.masslive.com/betting/2026/10/early-data-projections-can-the-patriots-meet-expectations-vs-miami-dolphins-in-week-8.html",
-      "published": "2026-10-28T14:15:00+00:00",
-      "summary": "The Patriots are back in action on Sunday when the team travels to Miami to take on the Dolphins in a Week 8 AFC East showdown. Compare Polymarket odds, Patriots -7 spread lines, and 25-18 score projections."
-    },
-    {
-      "id": "8867b0699821",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Over 374 flights delayed, 59 canceled amid widespread U.S. travel disruptions",
-      "link": "https://www.masslive.com/news/2026/10/over-374-flights-delayed-59-canceled-amid-widespread-us-travel-disruptions.html",
-      "published": "2026-10-28T13:59:11+00:00",
-      "summary": "Flight cancellations and delays disrupted operations at multiple airports across the U.S."
-    },
-    {
-      "id": "4b18f300c18f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Maura T. Healey deserves second term as Massachusetts governor | The Republican Editorials",
-      "link": "https://www.masslive.com/opinion/2026/10/maura-t-healey-deserves-second-term-as-massachusetts-governor-the-republican-editorials.html",
-      "published": "2026-10-28T13:57:09+00:00",
-      "summary": "We believe Healey is by far best suited to rise to the challenges that lie ahead for all of us in Massachusetts."
-    },
-    {
-      "id": "089dcc85ad10",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Election forecaster makes major shift in 2026 midterms: One party has ‘slight advantage’",
-      "link": "https://www.masslive.com/politics/2026/10/election-forecaster-makes-major-shift-in-2026-midterms-one-party-has-slight-advantage.html",
-      "published": "2026-10-28T13:55:13+00:00",
-      "summary": "Sabato’s Crystal Ball shifted 16 House races, three Senate races and two gubernatorial races toward the Democrats."
-    },
-    {
-      "id": "ce0216d7d259",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Election 2026: See who won and lost for U.S. House in Massachusetts",
-      "link": "https://www.masslive.com/politics/2026/10/election-2026-results-for-mass-congressional-races.html",
-      "published": "2026-10-28T13:54:19+00:00",
-      "summary": "Here are the candidates and the results for the 2026 election to the U.S. House of Representatives for Massachusetts."
-    },
-    {
-      "id": "656f64eaccb9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved singer, 34, hospitalized",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-singer-34-hospitalized.html",
-      "published": "2026-10-28T13:51:55+00:00",
-      "summary": "Demi Lovato, 34, was hospitalized after a suspected allergic reaction. The singer shared an IV photo and later reassured fans that she was fine."
-    },
-    {
-      "id": "d24fa36f7471",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mega Millions results for 10/27/26: Did anyone win the $443 million jackpot?",
-      "link": "https://www.masslive.com/news/2026/10/mega-millions-results-for-102726-did-anyone-win-the-443-million-jackpot.html",
-      "published": "2026-10-28T13:37:54+00:00",
-      "summary": "Six players were one ball away from winning the grand prize. The Mega Millions jackpot was last won on July 28, 2026."
     }
   ]
 }
