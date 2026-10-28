@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:07:43+00:00",
+  "generated_at": "2026-10-28T02:09:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -326,6 +326,46 @@
       "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox,…"
     },
     {
+      "id": "08ce13bf2e7f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield Black leaders announce support of Liberty Junction",
+      "link": "https://www.masslive.com/westernmass/2026/10/springfield-black-leaders-announce-support-of-liberty-junction.html",
+      "published": "2026-10-28T01:42:39+00:00",
+      "summary": "Liberty Junction Team was selected in July as the prefered developer for the $1.94 billion courthouse."
+    },
+    {
+      "id": "4aeffa05ae1f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "'Frightening swing' carries Minnechaug girls volleyball into WMass Class A semifinals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/defending-champion-minnechaug-returns-to-wmass-girls-volleyball-class-a-semifinals.html",
+      "published": "2026-10-28T01:31:45+00:00",
+      "summary": "A 'terrifying swing' carried Minnechaug girls volleyball back into the Western Mass. Class A semifinals."
+    },
+    {
+      "id": "377cf4b1f63d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daily Show writer, presidential speech writer dead at 54",
+      "link": "https://www.masslive.com/entertainment/2026/10/daily-show-writer-former-presidential-speech-writer-dead-at-54-this-one-is-truly-heartbreaking.html",
+      "published": "2026-10-28T01:14:56+00:00",
+      "summary": "His family released a statement about his death."
+    },
+    {
+      "id": "7887f9c29b37",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "YETI drops limited-edition Olive Camo collection across drinkware, coolers and bags",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/yeti-drops-limited-edition-olive-camo-collection-across-drinkware-coolers-and-bags.html",
+      "published": "2026-10-28T00:54:18+00:00",
+      "summary": "YETI has launched a limited-edition Olive Camo collection featuring an earthy camouflage pattern across drinkware, coolers, bags, and accessories, with prices starting at $20."
+    },
+    {
       "id": "be2ec7fbd571",
       "source": "MassLive",
       "source_id": "masslive",
@@ -584,46 +624,6 @@
       "link": "https://www.masslive.com/westernmass/2026/10/driver-who-killed-3-workers-along-i-91-in-west-springfield-pleads-guilty.html",
       "published": "2026-10-27T19:19:05+00:00",
       "summary": "The workers were repairing a guardrail along Interstate 91 in March 2025."
-    },
-    {
-      "id": "154597b04c64",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Target announces early holiday sales",
-      "link": "https://www.masslive.com/business/2026/10/put-these-dates-on-your-calendar-target-announces-early-holiday-sales.html",
-      "published": "2026-10-27T19:08:31+00:00",
-      "summary": "Many stores are holding Black Friday sales early this year."
-    },
-    {
-      "id": "6c37cb806f4e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Talkshow host, 84, returns to air one month after injury ‘worse than childbirth’",
-      "link": "https://www.masslive.com/entertainment/2026/10/talkshow-host-84-returns-to-air-one-month-after-injury-worse-than-childbirth.html",
-      "published": "2026-10-27T19:05:41+00:00",
-      "summary": "It was her first time back on the show since September."
-    },
-    {
-      "id": "4b5036822f6c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The Red Sox have too many outfielders and not enough answers — here's how Craig Breslow might fix it this winter",
-      "link": "https://www.masslive.com/redsox/2026/10/red-sox-roster-how-will-outfield-logjam-pursuit-of-slugging-dh-impact-jarren-duran-others.html",
-      "published": "2026-10-27T19:03:42+00:00",
-      "summary": "How will the Red Sox solve their outfield logjam while adding thump to the DH spot n 2027? It could be an eventful winter toward that end."
-    },
-    {
-      "id": "2d8cc5a8fd44",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Cause of death revealed for ‘Bridesmaids’ actor",
-      "link": "https://www.masslive.com/entertainment/2026/10/cause-of-death-revealed-for-bridesmaids-actor.html",
-      "published": "2026-10-27T19:01:10+00:00",
-      "summary": "An actor who appeared in over 400 film and television projects has died"
     }
   ]
 }
