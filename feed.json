@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:10:58+00:00",
+  "generated_at": "2026-10-28T22:08:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -25,6 +25,46 @@
     }
   },
   "items": [
+    {
+      "id": "d175d4f66bfd",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "published": "2026-10-28T19:30:33+00:00",
+      "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets."
+    },
+    {
+      "id": "39134a7f0350",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+      "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+      "published": "2026-10-28T19:20:36+00:00",
+      "summary": "It has been nearly a year since any space tourism flights occurred."
+    },
+    {
+      "id": "88f09ecccd09",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+      "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+      "published": "2026-10-28T19:10:29+00:00",
+      "summary": "It's not as different from the previous model as you might have expected."
+    },
+    {
+      "id": "bfd6acefc1fb",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "published": "2026-10-28T18:47:27+00:00",
+      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+    },
     {
       "id": "fb777c0e9df7",
       "source": "Ars Technica",
@@ -186,44 +226,64 @@
       "summary": "You can apparently now tell AI tools what sort of protein you want them to make."
     },
     {
-      "id": "70b57af5f2a2",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "d7e14d5839c1",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Warner Bros. drops final trailer for Dune: Part Three",
-      "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-      "published": "2026-10-27T18:05:55+00:00",
-      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\""
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "published": "2026-10-28T21:57:45+00:00",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs…"
     },
     {
-      "id": "04011d5a5c5a",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "e4867209a9cd",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-      "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-      "published": "2026-10-27T16:17:58+00:00",
-      "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house."
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "published": "2026-10-28T21:34:04+00:00",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have…"
     },
     {
-      "id": "a60188d04998",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "8fc3389accad",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "published": "2026-10-27T16:00:22+00:00",
-      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon."
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "published": "2026-10-28T21:16:18+00:00",
+      "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've…"
     },
     {
-      "id": "8b7c3e50fad1",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "4c4418dd5582",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-      "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-      "published": "2026-10-27T15:50:19+00:00",
-      "summary": "Huge price hikes force loyal users to reconsider their favorite apps."
+      "title": "Google says its investments in AI are driving more searches",
+      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "published": "2026-10-28T20:22:26+00:00",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact,…"
+    },
+    {
+      "id": "3905ca1fc76a",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "published": "2026-10-28T20:20:00+00:00",
+      "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company…"
+    },
+    {
+      "id": "0043d35930ac",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+      "published": "2026-10-28T20:12:44+00:00",
+      "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware…"
     },
     {
       "id": "fc7d1d71bde9",
@@ -266,64 +326,164 @@
       "summary": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for…"
     },
     {
-      "id": "d0753be868cc",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "published": "2026-10-28T18:36:26+00:00",
-      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an…"
+      "id": "82e85c45de52",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Watch it live: Weymouth, Milton meet in key Thursday night football game",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/watch-it-live-weymouth-milton-meet-in-key-thursday-night-football-game.html",
+      "published": "2026-10-28T22:00:00+00:00",
+      "summary": "Milton and Weymouth meet in a Bay State Conference Herget Division football matchup Thursday, Oct. 29, at 7 p.m. Watch the game live on MassLive."
     },
     {
-      "id": "aa227aaff791",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
-      "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-      "published": "2026-10-28T18:14:11+00:00",
-      "summary": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens that just went on sale today. Xreal and Google have just announced…"
+      "id": "843045a37dfe",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "MassGOP files ethics complaint against independent running for 3rd Hampden seat",
+      "link": "https://www.masslive.com/westernmass/2026/10/massgop-files-ethics-complaint-against-independent-running-for-3rd-hampden-seat.html",
+      "published": "2026-10-28T21:58:07+00:00",
+      "summary": "According to the state GOP's complaint, Jason Perron allegedly only listed his position on the Southwick Select Board in his disclosure to the state this year."
     },
     {
-      "id": "931401874bd5",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Here’s where to preorder the new MacBook Pros",
-      "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
-      "published": "2026-10-28T18:10:23+00:00",
-      "summary": "As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent \"Pro and tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less exciting, there's also…"
+      "id": "2db947298b22",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Crow Legislature rejects bill to expand enrollment",
+      "link": "https://www.masslive.com/native-american-news/2026/10/crow-legislature-rejects-bill-to-expand-enrollment.html",
+      "published": "2026-10-28T21:55:13+00:00",
+      "summary": "The bill would have loosened blood quantum requirements for tribal membership."
     },
     {
-      "id": "be6c3567a317",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "You can see every red flag in Theranos 2.0",
-      "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
-      "published": "2026-10-28T18:00:00+00:00",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From afar, it's easy to look back at the Theranos debacle and scream at Nathan…"
+      "id": "56bcfb40bd70",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Massachusetts lawmakers call for food to be seen as a constitutional right",
+      "link": "https://www.masslive.com/westernmass/2026/10/massachusetts-lawmakers-call-for-food-to-be-seen-as-a-constitutional-right.html",
+      "published": "2026-10-28T21:51:20+00:00",
+      "summary": "“Hunger is easy. It’s not rocket science,” said U.S. Rep. James McGovern, D-2nd District, at the University of Massachusetts Amherst School of Public Health and Health Sciences Wednesday afternoon."
     },
     {
-      "id": "35c6860bc986",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Here’s how macOS is changing for touchscreens",
-      "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
-      "published": "2026-10-28T17:48:28+00:00",
-      "summary": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it seems. As far as…"
+      "id": "2c206b1ecef0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox hire ex-Astros coach to work with outfielders",
+      "link": "https://www.masslive.com/redsox/2026/10/red-sox-add-new-coach-to-big-league-staff-ex-astros-staffer-will-work-with-outfielders.html",
+      "published": "2026-10-28T21:48:54+00:00",
+      "summary": "A week after creating two vacancies on their major league coaching staff, the Red Sox have added an outfield coach from outside the organization."
     },
     {
-      "id": "7af8dbf23536",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple ‘Pro and tell’ event: Everything announced this week",
-      "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-      "published": "2026-10-28T17:27:38+00:00",
-      "summary": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades and updates in the…"
+      "id": "c1f1b3a47535",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "West Brookfield man seeks dismissal of charges in Agawam gun case",
+      "link": "https://www.masslive.com/westernmass/2026/10/west-brookfield-man-seeks-dismissal-of-charges-in-agawam-gun-case.html",
+      "published": "2026-10-28T21:42:21+00:00",
+      "summary": "Defense attorney Hank Brennan claims investigators failed to preserve evidence and withheld material favorable to Ryan Cosby's defense."
+    },
+    {
+      "id": "6c9a54c35bc9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Discounted iPads, free burgers: Where to get the best Veterans Day deals",
+      "link": "https://www.masslive.com/news/2026/10/discounted-ipads-free-burgers-where-to-get-the-best-veterans-day-deals.html",
+      "published": "2026-10-28T21:35:30+00:00",
+      "summary": "Numerous businesses are offering free meals, discounts on groceries, electronics, and services to veterans, active duty military, and their families."
+    },
+    {
+      "id": "b26f043c9ede",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Actress makes rare comment about the end of her marriage to co-star",
+      "link": "https://www.masslive.com/entertainment/2026/10/actress-makes-rare-comment-about-the-end-of-her-marriage-to-co-star.html",
+      "published": "2026-10-28T21:04:20+00:00",
+      "summary": "The pair married in 2005 after meeting on set two years prior."
+    },
+    {
+      "id": "313a0e0515af",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Speaker Johnson says polls are wrong about Republican support",
+      "link": "https://www.masslive.com/politics/2026/10/cnn-reporter-grills-gop-leader-on-whether-trump-is-a-drag-on-republicans.html",
+      "published": "2026-10-28T21:00:00+00:00",
+      "summary": "CNN reporter Manu Raju asked Mike Johnson whether there was a “drag” on Republicans in the midterm elections while the GOP leader was campaigning in Iowa on Wednesday."
+    },
+    {
+      "id": "cb8230cdb5ad",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "New contract would make Holyoke paraeducators the second highest-paid in the area",
+      "link": "https://www.masslive.com/westernmass/2026/10/new-contract-would-make-holyoke-paraeducators-the-second-highest-paid-in-the-area.html",
+      "published": "2026-10-28T20:58:58+00:00",
+      "summary": "Holyoke paraeducators reached a tentative three-year contract deal after 116 days without one, offering a 16% increase in annual earnings and improved benefits."
+    },
+    {
+      "id": "d739fff8ecf1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patriots takeaways: A.J. Brown isn't making excuses",
+      "link": "https://www.masslive.com/patriots/2026/10/patriots-takeaways-aj-brown-is-making-no-excuses-a-starting-cornerback-returns-and-more.html",
+      "published": "2026-10-28T20:47:45+00:00",
+      "summary": "A.J. Brown has struggled since returning from an injury, but the Pro Bowl receiver says he's not making excuses."
+    },
+    {
+      "id": "a04bb9d55119",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Prosecutors end Matthew Farwell case with focus on Sandra Birchmore’s last steps recorded by phone",
+      "link": "https://www.masslive.com/news/2026/10/prosecutors-end-matthew-farwell-case-with-focus-on-sandra-birchmores-last-steps-recorded-by-phone.html",
+      "published": "2026-10-28T20:47:40+00:00",
+      "summary": "Jurors also heard from the first witness called by Matthew Farwell's defense, as his lawyers refocused the case on Sandra Birchmore's mental health."
+    },
+    {
+      "id": "2041c41295e9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Easthampton’s Tanner Kmetz places fifth at D-II golf state tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/easthamptons-tanner-kmetz-places-fifth-at-d-ii-golf-state-tournament.html",
+      "published": "2026-10-28T20:39:53+00:00",
+      "summary": "Kmetz, a former Pope Francis state champion, returned to Easthampton for his senior year and made his mark at states this week."
+    },
+    {
+      "id": "0ac4d3a45f7b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Lane Kiffin accuses SEC of not wanting LSU to win",
+      "link": "https://www.masslive.com/sports/2026/10/lane-kiffin-jabs-sec-over-alabama-kickoff-says-conference-has-it-out-for-lsu.html",
+      "published": "2026-10-28T20:32:20+00:00",
+      "summary": "The LSU coach was in mid-season form on Wednesday."
+    },
+    {
+      "id": "ca40ded14bee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ex-College GameDay star shares surprising place he expects Arch Manning to play next year",
+      "link": "https://www.masslive.com/sports/2026/10/ex-college-gameday-star-shares-surprising-place-he-expects-arch-manning-to-play-next-year.html",
+      "published": "2026-10-28T20:29:10+00:00",
+      "summary": "Former ESPN College GameDay star David Pollack does not expect Arch Manning back at Texas."
+    },
+    {
+      "id": "ffc09e7cee9b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Timberland is giving first responders 20% off — here’s how to claim the discount",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/timberland-is-giving-first-responders-20-off-heres-how-to-claim-the-discount.html",
+      "published": "2026-10-28T20:27:22+00:00",
+      "summary": "Timberland offers a 20% discount to eligible first responders, including police, EMTs, firefighters, and search-and-rescue personnel, who must verify their credentials online before the discount can be applied at checkout."
     },
     {
       "id": "f6c8fd09111c",
@@ -464,166 +624,6 @@
       "link": "https://www.masslive.com/news/2026/10/authorities-identify-man-struck-and-killed-by-suv-in-haverhill.html",
       "published": "2026-10-28T18:42:09+00:00",
       "summary": "A 67-year-old man was fatally struck by a Ford Bronco Sport while crossing Washington Street in Haverhill Friday morning."
-    },
-    {
-      "id": "6a24ff17ca68",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘Dancing With the Stars’ judge and pro dancer have ‘cathartic’ chat after shocking feud",
-      "link": "https://www.masslive.com/entertainment/2026/10/dancing-with-the-stars-judge-and-pro-dancer-have-cathartic-chat-after-shocking-feud.html",
-      "published": "2026-10-28T18:40:57+00:00",
-      "summary": "'Dancing With the Stars' pro Val Chmerkovskiy was temporarily suspended for a comment he made about a judge"
-    },
-    {
-      "id": "d8153eae0c74",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Aw, jeez Rick! HEYDUDE just dropped a multiverse-inspired ‘Rick and Morty’ collection",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/aw-jeez-rick-heydude-just-dropped-multiverse-inspired-rick-and-morty-collection.html",
-      "published": "2026-10-28T18:22:56+00:00",
-      "summary": "HEYDUDE has launched a Rick and Morty-themed footwear collection, featuring casual slip-on styles with show-inspired designs, available now on their website."
-    },
-    {
-      "id": "3cf97dbf98c1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘Little People, Big World’ family mourns 2nd death in weeks",
-      "link": "https://www.masslive.com/entertainment/2026/10/little-people-big-world-family-mourns-2nd-death-in-weeks.html",
-      "published": "2026-10-28T18:16:23+00:00",
-      "summary": "Gordon Knight, father of “Little People, Big World” star Amy Roloff, died at 97. His grandson Jacob shared an emotional tribute."
-    },
-    {
-      "id": "9716b52866f2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump floats 1 ‘caveat’ for his $5,000 check promise",
-      "link": "https://www.masslive.com/politics/2026/10/trump-floats-1-caveat-for-his-5000-check-promise.html",
-      "published": "2026-10-28T18:12:00+00:00",
-      "summary": "The president renewed his midterm payment pledge at a Texas rally."
-    },
-    {
-      "id": "21c30c71e061",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "SNAP EBT cards might change under new proposal",
-      "link": "https://www.masslive.com/news/2026/10/snap-ebt-cards-might-change-under-new-proposal.html",
-      "published": "2026-10-28T18:07:12+00:00",
-      "summary": "Nearly 10 states have already issued chip-enabled EBT cards. More are vying to do the same."
-    },
-    {
-      "id": "b360e6b3134a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Kirk Herbstreit headlined Alabama PAC dinner weeks after saying he avoids politics",
-      "link": "https://www.masslive.com/sports/2026/10/kirk-herbstreit-said-he-doesnt-get-into-politics-a-new-report-raises-questions.html",
-      "published": "2026-10-28T18:05:44+00:00",
-      "summary": "ESPN’s Kirk Herbstreit headlined a Business Council of Alabama fundraising dinner whose PAC gave $155,000 to Tommy Tuberville the next day, weeks after he said he doesn’t “really get into politics.”"
-    },
-    {
-      "id": "e643500a3c16",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Veteran zookeeper dies after being attacked by leopard",
-      "link": "https://www.masslive.com/news/2026/10/veteran-zookeeper-dies-after-being-attacked-by-leopard.html",
-      "published": "2026-10-28T18:02:05+00:00",
-      "summary": "She began working at the safari park when she was 17 and continued doing so for nearly 40 years."
-    },
-    {
-      "id": "f44463e7a077",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Frontier airfare jumps 71% — but passengers keep booking",
-      "link": "https://www.masslive.com/news/2026/10/frontier-reports-71-increase-in-airfare-heres-why.html",
-      "published": "2026-10-28T18:00:58+00:00",
-      "summary": "Frontier, America's largest budget airline, reported a 71% increase in airfare in the third quarter. Here's why"
-    },
-    {
-      "id": "f41ed03289b9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: After 20 years married, an ex-boyfriend is occupying too much of my mind",
-      "link": "https://www.masslive.com/advice/2026/10/dear-abby-after-20-years-married-an-ex-boyfriend-is-occupying-too-much-of-my-mind.html",
-      "published": "2026-10-28T18:00:00+00:00",
-      "summary": "A few of my ex-boyfriends have reached out to me over the last 18 months."
-    },
-    {
-      "id": "f57b2ce5231b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump critic makes prediction on 2026 midterms: ‘Too close to call’",
-      "link": "https://www.masslive.com/politics/2026/10/trump-critic-makes-prediction-on-2026-midterms-too-close-to-call.html",
-      "published": "2026-10-28T18:00:00+00:00",
-      "summary": "Liz Cheney predicted that Democrats would win the House, but the Senate would remain a toss-up."
-    },
-    {
-      "id": "ca7da485ed31",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. lottery players can chase 3 massive jackpots this week",
-      "link": "https://www.masslive.com/lottery/2026/10/mass-lottery-players-have-3-chances-at-multimillion-dollar-jackpots-this-week.html",
-      "published": "2026-10-28T17:51:46+00:00",
-      "summary": "There’s plenty on the line for Massachusetts lottery players, from a soaring national prize to a homegrown game."
-    },
-    {
-      "id": "4c295d6eaedb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Taser incident involving 'preachers' at Salem's Bewitched statue leads to arrest of Ohio man",
-      "link": "https://www.masslive.com/news/2026/10/taser-incident-involving-preachers-at-salems-bewitched-statue-leads-to-arrest-of-ohio-man.html",
-      "published": "2026-10-28T17:50:42+00:00",
-      "summary": "An Ohio man was arrested in Salem Tuesday night after he \"zapped\" a taser at a man protesting preachers near the Bewitched statue, according to police."
-    },
-    {
-      "id": "500085de2d16",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Some Social Security recipients will get November payments this week: Benefit schedule",
-      "link": "https://www.masslive.com/news/2026/10/some-social-security-recipients-will-get-november-payments-this-week-benefit-schedule.html",
-      "published": "2026-10-28T17:50:36+00:00",
-      "summary": "More than 56 million retirees, dependents and disabled workers receive Social Security benefits."
-    },
-    {
-      "id": "8ce504124819",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Vegetarian borscht with potato pierogies",
-      "link": "https://www.masslive.com/nytcooking/2026/10/792612385-vegetarian-borscht-with-potato-pierogies.html",
-      "published": "2026-10-28T17:46:59+00:00",
-      "summary": "This quick vegetarian borscht pairs the earthy sweetness of beets with tangy dill pickles and hearty potato pierogies for a satisfying meal that's delicious hot or cold."
-    },
-    {
-      "id": "3990c015c2aa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sheet-pan thanksgiving stuffing",
-      "link": "https://www.masslive.com/nytcooking/2026/10/792771373-sheet-pan-thanksgiving-stuffing.html",
-      "published": "2026-10-28T17:46:55+00:00",
-      "summary": "This sheet-pan Thanksgiving stuffing offers a delightful mix of crunchy edges and tender center, combining traditional ingredients like celery, onion, apple, and herbs for a flavorful holiday side."
-    },
-    {
-      "id": "649c937a17b4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Crawford County fried chicken",
-      "link": "https://www.masslive.com/nytcooking/2026/10/792770421-crawford-county-fried-chicken.html",
-      "published": "2026-10-28T17:46:50+00:00",
-      "summary": "Experience the extra-crunchy delight of Crawford County fried chicken, a lard-fried homage to Kansas' chicken houses, perfect with German potato salad and coleslaw for a taste of tradition."
     }
   ]
 }
