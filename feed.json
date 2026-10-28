@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:12:04+00:00",
+  "generated_at": "2026-10-28T06:09:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -326,6 +326,46 @@
       "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox,…"
     },
     {
+      "id": "bac01e801678",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What Jayson Tatum said about game-winner against Nets",
+      "link": "https://www.masslive.com/celtics/2026/10/what-jayson-tatum-said-about-game-winner-against-nets.html",
+      "published": "2026-10-28T05:14:45+00:00",
+      "summary": "It was the Jayson Tatum show as he saved the Celtics in their overtime win over the Nets on Tuesday."
+    },
+    {
+      "id": "db9b705e2fe9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What we learned from Celtics’ overtime win over Nets, Jayson Tatum game-winner",
+      "link": "https://www.masslive.com/celtics/2026/10/what-we-learned-from-celtics-overtime-win-over-nets-jayson-tatum-game-winner.html",
+      "published": "2026-10-28T05:05:34+00:00",
+      "summary": "Jayson Tatum hit the game-winner on his way to 40 points in the Celtics' win over the Nets on Tuesday."
+    },
+    {
+      "id": "1b766e1e3c1c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Wmass Sports Roundup: Smith Vocational girls soccer reaches MVADA final",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-sports-roundup-smith-vocational-girls-soccer-reaches-mvada-final.html",
+      "published": "2026-10-28T04:26:44+00:00",
+      "summary": "Smith Vocational made a statement on Tuesday, advancing to the final of the MVADA Small Vocational State tournament with a 6-0 victory over Franklin County Tech on Tuesday in the semifinals in Northampton."
+    },
+    {
+      "id": "08dec6062708",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass girls volleyball quarterfinals: Favorites hold serve",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-volleyball-quarterfinals-favorites-hold-serve.html",
+      "published": "2026-10-28T04:15:10+00:00",
+      "summary": "Top seeds held serve for much of the Western Mass. Tournament girls volleyball quarterfinals. See who is moving on to the next round."
+    },
+    {
       "id": "4033b9ab7a87",
       "source": "MassLive",
       "source_id": "masslive",
@@ -584,46 +624,6 @@
       "link": "https://www.masslive.com/entertainment/2026/10/cheers-actor-blasted-by-ex-over-daughters-25th-birthday.html",
       "published": "2026-10-27T20:13:42+00:00",
       "summary": "The actor’s ex is airing fresh family grievances involving their daughter and a major milestone."
-    },
-    {
-      "id": "136eded47269",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Paramount Theater boarded up, but owner plans for renovation of building with ‘good bones’",
-      "link": "https://www.masslive.com/westernmass/2026/10/paramount-theater-boarded-up-but-owner-plans-for-renovation-of-building-with-good-bones.html",
-      "published": "2026-10-27T20:11:25+00:00",
-      "summary": "The owner is particularly interested in reviving the long-closed L'uVa restaurant."
-    },
-    {
-      "id": "5401babc342f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "This Cuisinart air fryer toaster oven does the job of 7 appliances for under $160",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/this-cuisinart-air-fryer-toaster-oven-does-the-job-of-7-appliances-for-under-160.html",
-      "published": "2026-10-27T20:09:12+00:00",
-      "summary": "The Cuisinart TOA-FD70 is a 7-in-1 air fryer toaster oven currently discounted 30% to $159.99 at Target, offering a spacious interior and French door design."
-    },
-    {
-      "id": "691272c86ddc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "This 155-year-old Dartmouth telescope is coming home to Greater Boston for restoration",
-      "link": "https://www.masslive.com/education/2026/10/after-155-years-dartmouth-telescope-returns-home-to-greater-boston-for-major-restoration.html",
-      "published": "2026-10-27T20:03:13+00:00",
-      "summary": "Dartmouth College’s telescope is returning to Greater Boston, where it was originally made, to be taken apart piece by piece and restored."
-    },
-    {
-      "id": "d7c779a5a848",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Starbucks just told customers in China: buy something or find another seat",
-      "link": "https://www.masslive.com/food/2026/10/the-surprising-reason-starbucks-is-now-turning-away-non-paying-visitors-in-china.html",
-      "published": "2026-10-27T19:58:47+00:00",
-      "summary": "Weibo erupted with debate after the buy-before-you-sit policy launched across mainland China locations."
     }
   ]
 }
