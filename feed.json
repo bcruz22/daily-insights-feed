@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:09:50+00:00",
+  "generated_at": "2026-10-28T00:07:43+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -26,11 +26,61 @@
   },
   "items": [
     {
+      "id": "5b2f53c32341",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "published": "2026-10-27T22:37:30+00:00",
+      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
+    },
+    {
+      "id": "60c506bba53d",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "published": "2026-10-27T22:22:32+00:00",
+      "summary": "International travel used to be the main risk of measles cases in the US—not anymore."
+    },
+    {
+      "id": "c0a45b82d2e0",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "published": "2026-10-27T22:04:50+00:00",
+      "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space."
+    },
+    {
+      "id": "6849d36ab61f",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "published": "2026-10-27T21:50:04+00:00",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
+    },
+    {
+      "id": "78aca7aaafb2",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "published": "2026-10-27T21:31:14+00:00",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+    },
+    {
       "id": "71d9cb2bf3e5",
       "source": "Ars Technica",
       "source_id": "ars",
       "category": "tech",
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "published": "2026-10-27T20:25:55+00:00",
       "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
@@ -176,54 +226,14 @@
       "summary": "Included is the ability to limit which applications Siri can directly access."
     },
     {
-      "id": "668d9a95d516",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "aadf502f0576",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-      "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-      "published": "2026-10-26T19:04:40+00:00",
-      "summary": "Apple claims this is the most significant update ever for the iPad mini line."
-    },
-    {
-      "id": "830f46d3a8fd",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-      "published": "2026-10-26T18:50:41+00:00",
-      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk."
-    },
-    {
-      "id": "0838a8885736",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-      "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-      "published": "2026-10-26T18:09:08+00:00",
-      "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service."
-    },
-    {
-      "id": "71784ce3534e",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-      "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-      "published": "2026-10-26T17:26:36+00:00",
-      "summary": "Investigators explain how highway thieves stole $100M in data center equipment."
-    },
-    {
-      "id": "082e41c8ec71",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "F1 in Texas: The American race that fans love to attend",
-      "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-      "published": "2026-10-26T14:48:24+00:00",
-      "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas."
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "published": "2026-10-27T22:55:05+00:00",
+      "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with…"
     },
     {
       "id": "ba3cece69efb",
@@ -316,14 +326,54 @@
       "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox,…"
     },
     {
-      "id": "3513fbe8e952",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "published": "2026-10-27T16:00:00+00:00",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini…"
+      "id": "be2ec7fbd571",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Penalties led to an upset in the WMass Boys Soccer Class C quarterfinals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/class-c-quarterfinals-how-lenox-boys-soccer-upset-sics-video.html",
+      "published": "2026-10-27T23:46:47+00:00",
+      "summary": "In a thrilling penalty kick shootout, the Millionaires stepped up to secure the upset win over the Bulldogs to advance in the Western Mass. tournament."
+    },
+    {
+      "id": "9c03ae28c7ff",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Veterans can apply for nearly 30,000 federal jobs right now",
+      "link": "https://www.masslive.com/news/2026/10/veterans-can-apply-for-nearly-30000-federal-jobs-right-now.html",
+      "published": "2026-10-27T23:28:21+00:00",
+      "summary": "Job openings span fields like cybersecurity, emergency management, maritime security and law enforcement."
+    },
+    {
+      "id": "2c3595a08d16",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Legacy kicked off SEC team after arrest",
+      "link": "https://www.masslive.com/sports/2026/10/legacy-kicked-off-sec-team-after-arrest-he-did-not-live-up-to-the-standards.html",
+      "published": "2026-10-27T22:58:03+00:00",
+      "summary": "He was arrested Friday."
+    },
+    {
+      "id": "53b8549f953d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Lynn man faces kidnapping charge in theft of car with 6-year-old in backseat",
+      "link": "https://www.masslive.com/news/2026/10/lynn-man-faces-kidnapping-charge-in-theft-of-car-with-6-year-old-in-backseat.html",
+      "published": "2026-10-27T22:42:20+00:00",
+      "summary": "Prosecutors say a 26-year-old man stole a car with a child inside in Lynn, then struck several police cruisers before he was arrested in Everett."
+    },
+    {
+      "id": "65f955ad19cd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Caraway made a coffee maker — and it might change how you think about your morning brew",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/caraway-made-a-coffee-maker-and-it-might-change-how-you-think-about-your-morning-brew.html",
+      "published": "2026-10-27T22:35:48+00:00",
+      "summary": "Caraway has launched a $495 10-Cup Coffee Maker featuring a plastic-free brew path, precise temperature control, and a design aesthetic consistent with its cookware line."
     },
     {
       "id": "a3e152460487",
@@ -574,56 +624,6 @@
       "link": "https://www.masslive.com/entertainment/2026/10/cause-of-death-revealed-for-bridesmaids-actor.html",
       "published": "2026-10-27T19:01:10+00:00",
       "summary": "An actor who appeared in over 400 film and television projects has died"
-    },
-    {
-      "id": "c16077be9afa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "ESPN analyst still not sold on Arch Manning: ‘What do you mean give credit to him?’",
-      "link": "https://www.masslive.com/sports/2026/10/espn-analyst-still-not-sold-on-arch-manning-what-do-you-mean-give-credit-to-him.html",
-      "published": "2026-10-27T19:00:10+00:00",
-      "summary": "ESPN college football analyst Joey Galloway was not all that impressed with Arch Manning against Ole Miss."
-    },
-    {
-      "id": "6a78611cf8ae",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "James Beard Award-winning Japanese restaurant to make New England debut",
-      "link": "https://www.masslive.com/ne-where/2026/10/james-beard-award-winning-japanese-restaurant-to-make-boston-debut.html",
-      "published": "2026-10-27T18:58:25+00:00",
-      "summary": "The space of a former Mexican restaurant in Boston will be turned into a fine dining Japanese establishment."
-    },
-    {
-      "id": "9ce6d26ee0e9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Angel Reese’s pregame shirt and postgame comments have WNBA fans talking",
-      "link": "https://www.masslive.com/sports/2026/10/what-angel-reese-wore-before-wnba-finals-game-5-and-what-she-said-after-it.html",
-      "published": "2026-10-27T18:52:02+00:00",
-      "summary": "Angel Reese wore a “Protect Black Women” shirt before WNBA Finals Game 5, then criticized the referees after the Golden State Valkyries beat the Atlanta Dream 64-55 to take a 3-2 series lead."
-    },
-    {
-      "id": "71bafed90075",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Susan Saint James' family recalls tragedy after actress' death",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-tv-actress-who-lost-teenage-son-in-plane-crash-dies-at-80.html",
-      "published": "2026-10-27T18:51:24+00:00",
-      "summary": "Susan Saint James, who died at 80, endured the loss of her 14-year-old son Teddy in a 2004 plane crash. Her family recalled how she helped them heal."
-    },
-    {
-      "id": "002e0c278845",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Plain talk with young people is a powerful antidote to hate | Brian Strafach",
-      "link": "https://www.masslive.com/opinion/2026/10/plain-talk-with-young-people-is-a-powerful-antidote-to-hate-brian-strafach.html",
-      "published": "2026-10-27T18:48:03+00:00",
-      "summary": "Hate takes hold where students lack the tools to understand and challenge what they’re seeing."
     }
   ]
 }
