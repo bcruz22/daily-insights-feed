@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:08:00+00:00",
+  "generated_at": "2026-10-28T12:08:50+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -25,6 +25,16 @@
     }
   },
   "items": [
+    {
+      "id": "a08575681f83",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+      "published": "2026-10-28T11:00:49+00:00",
+      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China."
+    },
     {
       "id": "5b2f53c32341",
       "source": "Ars Technica",
@@ -216,114 +226,214 @@
       "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes ."
     },
     {
-      "id": "5d5ff332a0b6",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-      "published": "2026-10-26T20:04:16+00:00",
-      "summary": "Included is the ability to limit which applications Siri can directly access."
-    },
-    {
-      "id": "aadf502f0576",
+      "id": "2acf8c77b306",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-      "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-      "published": "2026-10-27T22:55:05+00:00",
-      "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with…"
+      "title": "Amazon’s new Echo line is here: the 6 biggest updates",
+      "link": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+      "published": "2026-10-28T12:08:15+00:00",
+      "summary": "Amazon has just taken the wraps off a bunch of new devices as part of a string of fall announcements. Today's news focuses largely on new Echo speakers, with a few new smart home gadgets sprinkled in. Here's a roundup of all of the updates Amazon revealed on Wednesday. Echo Show 16 adds a larger […]"
     },
     {
-      "id": "ba3cece69efb",
+      "id": "8030d1b5c635",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "published": "2026-10-27T20:48:58+00:00",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired…"
+      "title": "Voters in Texas agree: They hate data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's…"
     },
     {
-      "id": "d4dc3defcdd4",
+      "id": "58cec9b86b39",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
-      "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-      "published": "2026-10-27T19:24:06+00:00",
-      "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\"…"
+      "title": "Amazon’s first digital picture frame lets you add voice notes to photos",
+      "link": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "Amazon's screen-equipped smart speakers have long been able to display your family's photos, but its new Alexa Photo Frame is purpose-built for that task. It's designed to compete with other digital picture frames from companies like Aura, and Amazon's incorporates a smart speaker with access to…"
     },
     {
-      "id": "5d1ff194b502",
+      "id": "8a3b5ee6f29a",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Trump is making it easier for fossil fuel companies to leak methane",
-      "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
-      "published": "2026-10-27T18:25:13+00:00",
-      "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a 20-year horizon. It's…"
+      "title": "How a grocery merger could expand a surveillance network",
+      "link": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "Kroger's $1.65 billion proposed acquisition of Giant Eagle might not only consolidate the grocery market, but also a vast surveillance network that includes Flock cameras, a new report warns. Beyond standard concerns that a merger could decrease competition and increase prices, the American…"
     },
     {
-      "id": "d8c87d0b4457",
+      "id": "5e88aacf1a7f",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "published": "2026-10-27T17:30:00+00:00",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have…"
+      "title": "Amazon’s new Echo Studio speaker has a camera",
+      "link": "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "Amazon is giving its premium smart speaker a camera. The new Echo Studio with Home Camera, announced today as part of Amazon's big blast of announcements, has a built-in camera for monitoring a room while you're away, showing things to Alexa, and, soon, to use with video calls on Fire TV devices.…"
     },
     {
-      "id": "4422f93ddf66",
+      "id": "c25c6d38220d",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "published": "2026-10-27T17:00:00+00:00",
-      "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can…"
+      "title": "Our first look at Amazon’s big new Echo Show 16",
+      "link": "https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "Amazon's latest Echo Show smart display is big, gorgeous, and eye-wateringly expensive. Announced today, the Echo Show 16 costs $499.99 (wall mount included) and is available to preorder now. There's a Nanomatte display option for $569.99, plus a $100 preorder discount ahead of its release later…"
     },
     {
-      "id": "5d9174dd4f1a",
+      "id": "19b3bf2cef93",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "published": "2026-10-27T16:51:22+00:00",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and…"
+      "title": "Spending time with the Echo Time — a smart clock that senses you sleeping",
+      "link": "https://www.theverge.com/tech/1020352/amazon-echo-time-smart-alarm-clock-hands-on",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "Amazon just announced its newest smart alarm clock - the Echo Time. The baseball-sized smart speaker with a screen, the Time looks like an Echo Dot with Clock and an Echo Spot had a much bigger baby. It features a 3.2-inch touchscreen that prominently displays your choice of a huge selection of…"
     },
     {
-      "id": "fe16a3aa9a31",
+      "id": "4dc4d1595d88",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Meta’s $25 billion legal loss just put blood in the water",
-      "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-      "published": "2026-10-27T16:44:40+00:00",
-      "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around…"
+      "title": "Amazon’s Alexa Home Map is getting a smarter 3D redesign",
+      "link": "https://www.theverge.com/tech/1020392/amazon-alexa-home-view-3d-update-external-view",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "Amazon's smart home map interface that shows you where all your connected devices are has been overhauled with new graphics, features, and dynamic effects. The new Alexa Home Map is now an interactive 3D view of not just everything that's inside your property, but outside of it too - using…"
     },
     {
-      "id": "abb96e9fdd6f",
+      "id": "e372ef3c432e",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "published": "2026-10-27T16:14:18+00:00",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history…"
+      "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+      "link": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+      "published": "2026-10-28T11:30:00+00:00",
+      "summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt. Newly filed court documents show that in March 2023, Meta discussed a \"Whisper…"
     },
     {
-      "id": "935659a6b116",
+      "id": "6da995572c9c",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Major League Baseball is looking for a new kind of fan",
-      "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
-      "published": "2026-10-27T16:02:43+00:00",
-      "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox,…"
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "published": "2026-10-28T11:27:30+00:00",
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a…"
+    },
+    {
+      "id": "afe4bd479fe1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mike McCarthy shares what he was told about Cleveland as a kid in Pittsburgh",
+      "link": "https://www.masslive.com/sports/2026/10/mike-mccarthy-had-a-surprising-admission-about-cleveland-before-browns-steelers.html",
+      "published": "2026-10-28T11:27:27+00:00",
+      "summary": "Steelers coach Mike McCarthy, a Pittsburgh native, said Cleveland surprised him on his first visit, praising its downtown and suburbs before Sunday’s Browns-Steelers game with first place in the AFC North at stake."
+    },
+    {
+      "id": "41ee96009be0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jerry Jones was asked one question about Troy Aikman. His answer turned heads",
+      "link": "https://www.masslive.com/sports/2026/10/could-troy-aikman-trade-the-tv-booth-for-the-cowboys-jerry-jones-answers.html",
+      "published": "2026-10-28T11:25:12+00:00",
+      "summary": "Cowboys owner Jerry Jones says he “could and would” hire Troy Aikman for a front office job as the Hall of Famer’s ESPN contract nears its end."
+    },
+    {
+      "id": "f7cdbdedd4ab",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Tiger Woods and Vanessa Trump have had ‘the talk.’ Here’s what a new report says",
+      "link": "https://www.masslive.com/sports/2026/10/are-tiger-woods-and-vanessa-trump-headed-down-the-aisle-heres-what-a-source-says.html",
+      "published": "2026-10-28T11:24:29+00:00",
+      "summary": "Tiger Woods and Vanessa Trump have talked about marriage after a tough year, a new report says. Here’s what we know about the couple and his golf future."
+    },
+    {
+      "id": "25c9817762dc",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield students mark STEM Week with hands-on learning",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/westfield-students-mark-stem-week-with-hands-on-learning.html",
+      "published": "2026-10-28T11:08:15+00:00",
+      "summary": "Westfield students celebrated STEM Week with engineering challenges, a State House science showcase, and preschool carnivals featuring student-designed games."
+    },
+    {
+      "id": "7421f8fda079",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Manufactured housing may soon be cheaper thanks to federal rules change: What’s new?",
+      "link": "https://www.masslive.com/news/2026/10/manufactured-housing-may-soon-be-cheaper-thanks-to-federal-rules-change-whats-new.html",
+      "published": "2026-10-28T11:00:01+00:00",
+      "summary": "Manufactured homes – often called mobile homes - are built in a factory and moved to a home site."
+    },
+    {
+      "id": "55d395448ad9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Her doctor suggested B vitamins for anxiety — but are the doses actually safe?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-my-doctor-suggested-b-vitamins-for-anxiety-but-the-doses-alarm-me.html",
+      "published": "2026-10-28T11:00:00+00:00",
+      "summary": "A 79-year-old widow seeks supplement advice for anxiety after her husband's suicide, and a doctor recommends B vitamins, though experts suggest lavender extract may be more effective for anxiety relief."
+    },
+    {
+      "id": "749144aecc16",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Why daylight saving time’s end creates a dangerous spike in wildlife collisions each year",
+      "link": "https://www.masslive.com/news/2026/10/why-daylight-saving-times-end-creates-a-dangerous-spike-in-wildlife-collisions-each-year.html",
+      "published": "2026-10-28T11:00:00+00:00",
+      "summary": "Daylight saving time not only means that clocks go back an hour. It also means darker days, which lead to hazardous road conditions"
+    },
+    {
+      "id": "fc2812bab29a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox have baseball's No. 2 prospect; what are realistic expectations in 2027?",
+      "link": "https://www.masslive.com/redsox/2026/10/red-sox-have-baseballs-no-2-prospect-what-are-realistic-expectations-in-2027.html",
+      "published": "2026-10-28T10:55:45+00:00",
+      "summary": "Top Red Sox prospect Franklin Arias is expected to break into the majors at some point in 2027, during his age 21 season. What are realistic expectations?"
+    },
+    {
+      "id": "6573593cee06",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Fugitive escapes N.H. prison, sparks shelter-in-place",
+      "link": "https://www.masslive.com/news/2026/10/police-searching-for-fugitive-who-escaped-from-state-prison.html",
+      "published": "2026-10-28T10:51:45+00:00",
+      "summary": "The fugitive was wanted on several felony charges in addition to his escape, police said."
+    },
+    {
+      "id": "7e7d6a374c37",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "New details emerge after Florida mom left kids home alone for 5-day Las Vegas trip",
+      "link": "https://www.masslive.com/news/2026/10/new-details-emerge-after-mom-left-kids-home-alone-for-5-day-las-vegas-trip.html",
+      "published": "2026-10-28T10:44:47+00:00",
+      "summary": "She was arrested and charged with child neglect."
+    },
+    {
+      "id": "2f12556f9b81",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "After a cold start, Massachusetts is warming up fast",
+      "link": "https://www.masslive.com/weather/2026/10/mass-weather-warm-wednesday-with-temps-to-reach-70s-by-end-of-week.html",
+      "published": "2026-10-28T10:27:55+00:00",
+      "summary": "Massachusetts is warming up Wednesday, kicking off a stretch that could send temperatures into the 70s by the end of the week."
     },
     {
       "id": "d4bd2c6801e2",
@@ -334,26 +444,6 @@
       "link": "https://www.masslive.com/entertainment/2026/10/rock-star-drops-first-new-song-in-10-years-and-its-perfect-for-halloween.html",
       "published": "2026-10-28T10:06:24+00:00",
       "summary": "A full-length album is coming as well."
-    },
-    {
-      "id": "be96b947752a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield man sentenced to 10 years in prison for Westfield home invasion",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/springfield-man-sentenced-to-10-years-in-prison-for-westfield-home-invasion.html",
-      "published": "2026-10-28T10:00:01+00:00",
-      "summary": "A Springfield man who had already served time in prison for involuntary manslaughter was sentenced to 10 years in prison after pleading guilty in Hampden County Superior Court to three felonies for a home invasion robbery he committed at a Westfield home on Murphy Circle in January 2025, according…"
-    },
-    {
-      "id": "a36dfc8f496b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Digital forensics expert to conclude prosecution's case at trial over Sandra Birchmore's death",
-      "link": "https://www.masslive.com/news/2026/10/prosecution-to-rest-case-against-matthew-farwell-after-calling-digital-forensics-expert.html",
-      "published": "2026-10-28T10:00:01+00:00",
-      "summary": "Federal prosecutors are set to rest their case against Matthew Farwell, the former Stoughton police officer charged with killing Sandra Birchmore."
     },
     {
       "id": "6d41cc22f25b",
@@ -374,6 +464,26 @@
       "link": "https://www.masslive.com/highschoolsports/2026/10/welcome-hoophall-girls-showcase-to-the-2027-schedule.html",
       "published": "2026-10-28T10:00:01+00:00",
       "summary": "There will be 44 nationally ranked prospects displaying their talents in Springfield as part of the new HoopHall Classic Girls Showcase."
+    },
+    {
+      "id": "be96b947752a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield man sentenced to 10 years in prison for Westfield home invasion",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/springfield-man-sentenced-to-10-years-in-prison-for-westfield-home-invasion.html",
+      "published": "2026-10-28T10:00:01+00:00",
+      "summary": "A Springfield man who had already served time in prison for involuntary manslaughter was sentenced to 10 years in prison after pleading guilty in Hampden County Superior Court to three felonies for a home invasion robbery he committed at a Westfield home on Murphy Circle in January 2025, according…"
+    },
+    {
+      "id": "a36dfc8f496b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Digital forensics expert to conclude prosecution's case at trial over Sandra Birchmore's death",
+      "link": "https://www.masslive.com/news/2026/10/prosecution-to-rest-case-against-matthew-farwell-after-calling-digital-forensics-expert.html",
+      "published": "2026-10-28T10:00:01+00:00",
+      "summary": "Federal prosecutors are set to rest their case against Matthew Farwell, the former Stoughton police officer charged with killing Sandra Birchmore."
     },
     {
       "id": "09cbde2ddc9d",
@@ -406,46 +516,6 @@
       "summary": "The Bay State Conference boys soccer power rankings are shuffling after a chaotic week. See who took over the No. 1 spot and what changed under them."
     },
     {
-      "id": "1d20ba6c2029",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $5 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-5-bet.html-6",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "d59c431a146e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Many Americans drop streaming platforms for being ‘too expensive’",
-      "link": "https://www.masslive.com/news/2026/10/many-americans-drop-streaming-platforms-for-being-too-expensive.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "Buying all eight major streaming services costs people an average $151 a month, according to The Hollywood Reporter."
-    },
-    {
-      "id": "d6b30bb93480",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $25 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-25-bet.html-2",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "6ab2307927cd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins 2 jackpot prizes in 1 day",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-2-jackpot-prizes-in-1-day.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
       "id": "d52ed0a53e16",
       "source": "MassLive",
       "source_id": "masslive",
@@ -464,6 +534,46 @@
       "link": "https://www.masslive.com/advice/2026/10/dear-abby-traveling-friends-were-miffed-at-us-when-we-couldnt-rearrange-our-lives-with-2-hours-notice.html",
       "published": "2026-10-28T10:00:00+00:00",
       "summary": "Abby: I would not agree to host that presumptuous couple again. Ever."
+    },
+    {
+      "id": "d59c431a146e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Many Americans drop streaming platforms for being ‘too expensive’",
+      "link": "https://www.masslive.com/news/2026/10/many-americans-drop-streaming-platforms-for-being-too-expensive.html",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "Buying all eight major streaming services costs people an average $151 a month, according to The Hollywood Reporter."
+    },
+    {
+      "id": "1d20ba6c2029",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $5 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-5-bet.html-6",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "6ab2307927cd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins 2 jackpot prizes in 1 day",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-2-jackpot-prizes-in-1-day.html",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "d6b30bb93480",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $25 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-25-bet.html-2",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
       "id": "6725872e82e7",
@@ -486,16 +596,6 @@
       "summary": "Wellesley has won its last eight games and is on a 12-game unbeaten streak. That keeps the Raiders atop the Bay State Conference Girls Soccer Power Rankings."
     },
     {
-      "id": "bb336de0fd7e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Garden Notes: Oct. 28, 2026",
-      "link": "https://www.masslive.com/living/2026/10/garden-notes-oct-28-2026.html",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "Garden Notes"
-    },
-    {
       "id": "5591b2854893",
       "source": "MassLive",
       "source_id": "masslive",
@@ -506,6 +606,16 @@
       "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
+      "id": "bb336de0fd7e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Garden Notes: Oct. 28, 2026",
+      "link": "https://www.masslive.com/living/2026/10/garden-notes-oct-28-2026.html",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "Garden Notes"
+    },
+    {
       "id": "b05deed68228",
       "source": "MassLive",
       "source_id": "masslive",
@@ -514,116 +624,6 @@
       "link": "https://www.masslive.com/politics/2026/10/ed-markeys-pitch-to-voters-think-big-take-the-wins-keep-going.html",
       "published": "2026-10-28T09:50:00+00:00",
       "summary": "As he runs for a third term, Ed Markey is betting that big ideas, small wins and a willingness to keep pushing can still change Washington."
-    },
-    {
-      "id": "8ca388ed0fa5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Best of Mass. Burgers, Part 2: Did your favorite make the cut?",
-      "link": "https://www.masslive.com/ne-where/2026/10/best-of-mass-burgers-part-2-did-your-favorite-make-the-cut.html",
-      "published": "2026-10-28T09:45:00+00:00",
-      "summary": "Our ranking of the best burgers continues with Best of Mass. Burgers, Part 2! Check to see who ranks No. 20 to No. 11."
-    },
-    {
-      "id": "c45575bb347f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How an officer’s idea for a safer Halloween led to a 12-year Worcester tradition",
-      "link": "https://www.masslive.com/centralmass/2026/10/how-an-officers-idea-for-a-safer-halloween-led-to-a-12-year-worcester-tradition.html",
-      "published": "2026-10-28T09:44:00+00:00",
-      "summary": "Worcester Police Officer Sean Lovely's idea to give out candy to Union Hill kids has grown into Hill-O-Ween, an annual city-wide Halloween event now drawing thousands."
-    },
-    {
-      "id": "695fd2bee3df",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Silent killer ravaging music world: The disease that has killed nearly 60 stars in 2026",
-      "link": "https://www.masslive.com/entertainment/2026/10/silent-killer-ravaging-music-world-the-disease-that-has-killed-nearly-60-stars-in-2026.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "The list of those lost to the disease continues to grow at a stunning pace."
-    },
-    {
-      "id": "3b9d4dcae407",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Fenway Insider: Submit questions for MassLive’s Chris Cotillo",
-      "link": "https://www.masslive.com/redsox/2026/10/fenway-insider-submit-questions-for-masslives-chris-cotillo.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "Chris Cotillo will be filling in for Sean McAdam on this week's Fenway Insider Live. What Red Sox questions do you have? Drop them in the comments or send them to fenwayinsider@masslive.com"
-    },
-    {
-      "id": "c46d42782db3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Are banks closed on Election Day 2026? Here’s what to know",
-      "link": "https://www.masslive.com/news/2026/10/are-banks-closed-on-election-day-2026-heres-what-to-know.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "Here is everything you need to know about banking hours on Election Day 2026"
-    },
-    {
-      "id": "c7b71bbcb29b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The Trader Joe's mystery bags that cause a frenzy every November are almost here",
-      "link": "https://www.masslive.com/business/2026/10/trader-joes-wildly-popular-3-mystery-bags-are-coming-back-and-fans-are-already-losing-it.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "The $2.99 bags hide 3 surprise city-themed reusable totes and typically sell out within days of arriving in stores."
-    },
-    {
-      "id": "b5b74f35466e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: My brothers' secrets have haunted me for years. Do I still owe them my silence?",
-      "link": "https://www.masslive.com/advice/2026/10/asking-eric-my-brothers-secrets-have-haunted-me-for-years-do-i-still-owe-them-my-silence.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "Eric: One of these is a secret; the other is a crime."
-    },
-    {
-      "id": "705595f94a94",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots players have Halloween party for children battling cancer",
-      "link": "https://www.masslive.com/patriots/2026/10/patriots-revolution-host-halloween-party-for-children-battling-cancer.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "The Patriots and Revolution hosted a Halloween party for kids battling cancer on Tuesday night at the Sports Illustrated Pavilion at Gillette Stadium."
-    },
-    {
-      "id": "2711f20d520a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music stars tie the knot: ‘We make each other better people’",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-music-stars-tie-the-knot-we-make-each-other-better-people.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "The young singers are now officially off the market."
-    },
-    {
-      "id": "225f2687f9c8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music fans are heartbroken as 4 beloved groups split up in 2026",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-music-fans-are-heartbroken-as-4-beloved-groups-split-up-in-2026.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "Country music is losing another talented group."
-    },
-    {
-      "id": "d297d22558dc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Less of popular fruit will be sold at higher prices in 2027: prediction",
-      "link": "https://www.masslive.com/news/2026/10/less-of-popular-fruit-will-be-sold-at-higher-prices-in-2027-prediction.html",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "Extreme weather and geopolitical upheaval have been attributed to this prediction."
     }
   ]
 }
