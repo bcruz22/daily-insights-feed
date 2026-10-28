@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:09:04+00:00",
+  "generated_at": "2026-10-28T04:12:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -326,6 +326,66 @@
       "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox,…"
     },
     {
+      "id": "4033b9ab7a87",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Carolina ends Bruins' 8-game points streak",
+      "link": "https://www.masslive.com/bruins/2026/10/hurricanes-snap-bruins-point-steak-in-battle-of-eastern-conference-leaders.html",
+      "published": "2026-10-28T03:59:04+00:00",
+      "summary": "A late goal lifted Carolina to a 2-1 victory, snapping Boston's eight-game points streak."
+    },
+    {
+      "id": "345311bb416d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Boys Soccer tournament: Overtime winners and a hat trick highlight quarterfinals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-boys-soccer-tournament-overtime-winners-and-a-hat-trick-highlight-quarterfinals.html",
+      "published": "2026-10-28T03:28:31+00:00",
+      "summary": "The opening round of the Western Mass. boys soccer tournament featured scoring showcases and late dramatics. See who's headed to the semifinals."
+    },
+    {
+      "id": "1b7a1c2928f3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mega Millions numbers: Are you the lucky winner of Tuesday’s $443 million jackpot?",
+      "link": "https://www.masslive.com/lottery/2026/10/mega-millions-numbers-are-you-the-lucky-winner-of-tuesdays-443-million-jackpot.html",
+      "published": "2026-10-28T03:10:53+00:00",
+      "summary": "Check your numbers to see if you hit it big in Tuesday's jackpot."
+    },
+    {
+      "id": "ddf7fecba13f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jayson Tatum is Celtics’ Name to Know Player of the Game after OT buzzer-beater",
+      "link": "https://www.masslive.com/celtics/2026/10/jayson-tatum-is-celtics-name-to-know-player-of-the-game-after-ot-buzzer-beater.html",
+      "published": "2026-10-28T02:52:31+00:00",
+      "summary": "Tatum has the biggest numbers and delivered the biggest moment for the Celtics."
+    },
+    {
+      "id": "b5832b478111",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "4 takeaways as Celtics beat Nets in overtime, Jayson Tatum saves the day",
+      "link": "https://www.masslive.com/celtics/2026/10/4-takeaways-as-celtics-beat-nets-in-overtime-jayson-tatum-saves-the-day.html",
+      "published": "2026-10-28T02:30:48+00:00",
+      "summary": "The Celtics had to fight through a clutch game, but they got it done against the Nets with Jayson Tatum leading the way."
+    },
+    {
+      "id": "b1c4387d4961",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass girls soccer tournament: Penalties, upsets and blowouts rule quarterfinals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-soccer-tournament-penalties-upsets-and-blowouts-rule-quarterfinals.html",
+      "published": "2026-10-28T02:25:15+00:00",
+      "summary": "Some favorites rolled, others' runs ended prematurely. Catch up with Tuesday's Western Mass. Tournament girls soccer action."
+    },
+    {
       "id": "08ce13bf2e7f",
       "source": "MassLive",
       "source_id": "masslive",
@@ -564,66 +624,6 @@
       "link": "https://www.masslive.com/food/2026/10/the-surprising-reason-starbucks-is-now-turning-away-non-paying-visitors-in-china.html",
       "published": "2026-10-27T19:58:47+00:00",
       "summary": "Weibo erupted with debate after the buy-before-you-sit policy launched across mainland China locations."
-    },
-    {
-      "id": "91e0d0748b20",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "500+ lbs of seafood recalled over ‘life-threatening illness’ risks: Do not eat",
-      "link": "https://www.masslive.com/news/2026/10/500-lbs-of-seafood-recalled-over-life-threatening-illness-risks-do-not-eat.html",
-      "published": "2026-10-27T19:58:24+00:00",
-      "summary": "More than 500 lbs of smoked fish sold across the Northeast are being recalled over botulinum concerns. Here's what to look for and how to tell if you have any hiding in your home."
-    },
-    {
-      "id": "c9ef932a538f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Northampton High unplugged: Student life shifts with new phone-free policy",
-      "link": "https://www.masslive.com/westernmass/2026/10/northampton-high-unplugged-student-life-shifts-with-new-phone-free-policy.html",
-      "published": "2026-10-27T19:56:10+00:00",
-      "summary": "“When Northampton made the decision to go phone-free, we said it was time for our youth to stop watching life through a screen and start living it,” said Annie Azarloza, superintendent of Northampton Public Schools."
-    },
-    {
-      "id": "060315a4f7bb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Best Buy just made it easier to finance that emergency tech purchase in store",
-      "link": "https://www.masslive.com/business/2026/10/the-surprising-way-best-buy-shoppers-are-now-paying-for-big-ticket-tech-purchases-in-stores.html",
-      "published": "2026-10-27T19:26:03+00:00",
-      "summary": "The flexible payment option that just landed at every Best Buy store in America — and why it matters"
-    },
-    {
-      "id": "2372b6a81746",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary singer, 86, faces another health setback",
-      "link": "https://www.masslive.com/entertainment/2026/10/legendary-singer-86-faces-another-health-setback.html",
-      "published": "2026-10-27T19:22:57+00:00",
-      "summary": "Tom Jones, 86, is postponing two concerts after contracting the flu, following previous health-related concert delays in 2025 and 2022."
-    },
-    {
-      "id": "f6237cd679fc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Florida woman tracks down cheating boyfriend, shoots mistress to ‘make a point’: Police",
-      "link": "https://www.masslive.com/news/2026/10/woman-tracks-down-cheating-boyfriend-shoots-mistress-to-make-a-point-police.html",
-      "published": "2026-10-27T19:20:54+00:00",
-      "summary": "A Florida woman shot her boyfriend's companion after tracking them down, later admitting she wanted to \"make a point.\""
-    },
-    {
-      "id": "6c6ee7ee3c12",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Driver who killed 3 workers along I-91 in West Springfield pleads guilty",
-      "link": "https://www.masslive.com/westernmass/2026/10/driver-who-killed-3-workers-along-i-91-in-west-springfield-pleads-guilty.html",
-      "published": "2026-10-27T19:19:05+00:00",
-      "summary": "The workers were repairing a guardrail along Interstate 91 in March 2025."
     }
   ]
 }
