@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:07:44+00:00",
+  "generated_at": "2026-10-29T10:09:50+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -226,6 +226,16 @@
       "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
     },
     {
+      "id": "9cd5509199bf",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "AI has come for Arizona’s water",
+      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "published": "2026-10-29T10:00:04+00:00",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that…"
+    },
+    {
       "id": "f3c32af069f3",
       "source": "The Verge",
       "source_id": "verge",
@@ -316,314 +326,304 @@
       "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and…"
     },
     {
-      "id": "0b818dc6c8fd",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
-      "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
-      "published": "2026-10-28T19:37:31+00:00",
-      "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US…"
-    },
-    {
-      "id": "5d30824710f6",
+      "id": "483241665b09",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Religion Notes: Oct. 29, 2026",
-      "link": "https://www.masslive.com/living/2026/10/religion-notes-oct-29-2026.html",
-      "published": "2026-10-29T07:00:00+00:00",
-      "summary": "Religion Notes"
+      "title": "Popular ‘90s music group returns with new album, ‘leans back’ into early sound",
+      "link": "https://www.masslive.com/entertainment/2026/10/popular-90s-music-group-returns-with-new-album-leans-back-into-early-sound.html",
+      "published": "2026-10-29T10:00:30+00:00",
+      "summary": "See the music video for their new single."
     },
     {
-      "id": "9ac39d77399c",
+      "id": "c70e97ecd029",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Powerball: See the winning numbers in Wednesday’s $716 million drawing",
-      "link": "https://www.masslive.com/lottery/2026/10/powerball-see-the-winning-numbers-in-wednesdays-716-million-drawing.html",
-      "published": "2026-10-29T03:17:28+00:00",
-      "summary": "Check your numbers to see if you hit it big in Wednesday's jackpot."
+      "title": "Chiefs fans unhappy with Justin Tucker addition: ‘Can we stop signing pieces of crap’",
+      "link": "https://www.masslive.com/sports/2026/10/chiefs-fans-unhappy-with-justin-tucker-addition-can-we-stop-signing-pieces-of-crap.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "The eight-time All-Pro was suspended by the NFL after being accused of sexual misconduct."
     },
     {
-      "id": "2be88fd502cb",
+      "id": "70853da5b3eb",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Jaylen Brown responds to Brian Scalabrine after trade demand report",
-      "link": "https://www.masslive.com/celtics/2026/10/jaylen-brown-responds-to-brian-scalabrine-after-trade-demand-report.html",
-      "published": "2026-10-29T03:15:28+00:00",
-      "summary": "Jaylen Brown has been the talk of the NBA for the past week now, and this time, it was after a report from Celtics commentator Brian Scalabrine."
+      "title": "Pigskin Prophet: 29 high school football game predictions for Week 8",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/pigskin-prophet-29-high-school-football-game-predictions-for-week-8.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "Who do you think will win this week?"
     },
     {
-      "id": "31b482be515d",
+      "id": "1f2c16c6b45b",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Dor Turgeman scores twice, Revs defeat Red Bulls at home",
-      "link": "https://www.masslive.com/sports/2026/10/dor-turgeman-scores-twice-revs-defeat-red-bulls-at-home.html",
-      "published": "2026-10-29T03:03:46+00:00",
-      "summary": "Carles Gil hit 100 career regular-season MLS assists in the win, becoming the first player to do so since 2013."
+      "title": "No more clothespins or cereal clips: Cheerios finally has a Ziploc-style resealable bag",
+      "link": "https://www.masslive.com/food/2026/10/the-simple-cereal-box-change-that-has-breakfast-fans-saying-they-could-have-done-this-30-years-ago.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "From how the Ziploc PantrySeal closure works to which varieties are getting it first, here's what to expect."
     },
     {
-      "id": "c824470ba84c",
+      "id": "301b362a8e9a",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Olivia Perez lifts Mount Greylock girls volleyball over Lenox, into WMass final",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/olivia-perez-lifts-mount-greylock-girls-volleyball-over-lenox-into-wmass-final.html",
-      "published": "2026-10-29T02:28:06+00:00",
-      "summary": "Fifth set heroics powered the Mounties to a win in the semifinal round on Wednesday."
+      "title": "After Anna Maria closed, its football players found a home at Nichols",
+      "link": "https://www.masslive.com/sports/2026/10/just-feeling-wanted-nichols-football-welcomed-anna-maria-transfers-after-closure.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "After Anna Maria College closed last spring, its entire football roster needed new homes. Nichols opened its arms, and both sides are better for it."
     },
     {
-      "id": "b1b7fbe4b8b8",
+      "id": "aac5a05b3214",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Field Hockey Roundup: Addie Harrington leads Frontier to Class A title game",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/field-hockey-roundup-addie-harrington-leads-frontier-to-class-a-title-game.html",
-      "published": "2026-10-29T02:09:23+00:00",
-      "summary": "Four teams got semifinal wins to advance to Western Massachusetts field hockey championships on Saturday."
+      "title": "Sexual assault charges dropped against Level 3 sex offender",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/sexual-assault-charges-dropped-against-level-3-sex-offender.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "After a grand jury decided against indicting a Level 3 sexual offender on several sexual assault charges that allegedly occurred in Westfield, the state decided against pursuing the charges, according to court records."
     },
     {
-      "id": "74aeea0fd83a",
+      "id": "c7f7e3fe5adb",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "WMass Girls Soccer: Hopkins dominates to reach third straight final",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hopkins-academy-girls-soccer-shuts-out-palmer-reaches-third-straight-wmass-final.html",
-      "published": "2026-10-29T01:15:12+00:00",
-      "summary": "Olivia Earle scored two goals for the second game in a row for the Golden Hawks in the semifinal round."
+      "title": "Sandra Birchmore's ex-boyfriend set to testify as Matthew Farwell's defense opens its case",
+      "link": "https://www.masslive.com/news/2026/10/sandra-birchmore-ex-boyfriend-to-testify-for-defense-at-matthew-farwell-trial-thursday.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "The former Stoughton police officer's defense intends to call three witnesses to testify on Thursday."
     },
     {
-      "id": "6e7ef11eee80",
+      "id": "2fb36225fe66",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Boys Soccer Roundup: Talon Dillard leads Pope Francis to WMass Class B title game",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/talon-dillard-leads-pope-francis-boys-soccer-to-class-b-title-game.html",
-      "published": "2026-10-29T01:07:21+00:00",
-      "summary": "Dillard scored three goals to push the Cardinals past Pittsfield in the semifinal round."
+      "title": "State doles out grants to Westfield and Southwick as reward for recycling efforts",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/state-doles-out-grants-to-westfield-and-southwick-as-reward-for-recycling-efforts.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "While the grant amounts are modest, every dollar directly offsets the cost of operating the municipal recycling programs in Westfield and Southwick."
     },
     {
-      "id": "27eacbe00ebd",
+      "id": "7b14dbb17da1",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "HOKA just slashed 20% off its most cushioned running shoe — but stock is limited",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/hoka-just-slashed-20-off-its-most-cushioned-running-shoe-but-stock-is-limited.html",
-      "published": "2026-10-29T00:52:36+00:00",
-      "summary": "The HOKA Clifton 10, a cushioned daily trainer with a MetaRocker midsole and knit upper, is currently discounted to $124 from $155."
+      "title": "United Airlines adds four new routes for 2027: See where they are",
+      "link": "https://www.masslive.com/news/2026/10/united-airlines-adds-four-new-routes-for-2027-see-where-they-are.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "United Airlines is adding four new routes for 2027. See where they are"
     },
     {
-      "id": "08a1c4151621",
+      "id": "9b2381a2dc46",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Rally-goers appeal to Smith College to save preschool program",
-      "link": "https://www.masslive.com/news/2026/10/rally-goers-appeal-to-smith-college-to-save-preschool-program.html",
-      "published": "2026-10-29T00:43:16+00:00",
-      "summary": "The march came a week after the school announced that Fort Hill would close next year."
+      "title": "150 years of bridal fashion on display at Westfield Woman’s Club on Nov. 1",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/150-years-of-bridal-fashion-on-display-at-westfield-womans-club-on-nov-1.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "Westfield Woman's Club will host a free fashion show on Nov. 1 featuring over 150 years of wedding gowns from costume designer Gwen Newton-Denton's private collection."
     },
     {
-      "id": "f128fd5c9c7a",
+      "id": "57bda6f1127e",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Nantucket Public Schools volunteer arrested on charges including child rape",
-      "link": "https://www.masslive.com/news/2026/10/nantucket-public-schools-volunteer-arrested-on-charges-including-child-rape.html",
-      "published": "2026-10-29T00:13:45+00:00",
-      "summary": "Officials say a Nantucket Public Schools volunteer has been arrested on charges including child rape, but that no students appear to be involved in the case."
+      "title": "Families grapple with soaring costs for aging loved ones",
+      "link": "https://www.masslive.com/news/2026/10/families-grapple-with-soaring-costs-for-aging-loved-ones.html",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "A report found that people are reducing their own financial savings in order to support an elderly loved one who needs caregiving."
     },
     {
-      "id": "059770920f85",
+      "id": "749842c9a368",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "South Carolina nuclear site declares emergency",
-      "link": "https://www.masslive.com/news/2026/10/south-carolina-nuclear-site-declares-emergency.html",
-      "published": "2026-10-29T00:03:27+00:00",
-      "summary": "The site posted on social media."
+      "title": "Dear Abby: If I see a professional for my intrusive thoughts, I worry they'll lock me up",
+      "link": "https://www.masslive.com/advice/2026/10/dear-abby-if-i-see-a-professional-for-my-intrusive-thoughts-i-worry-theyll-lock-me-up.html",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "I have been wishing to be in a car accident or get injured in some way just to feel pain."
     },
     {
-      "id": "62c405186d92",
+      "id": "8036ff211ad3",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "N.H. fugitive arrested in Mass. was wanted on assault charges in Methuen and Lowell",
-      "link": "https://www.masslive.com/news/2026/10/nh-fugitive-arrested-in-mass-was-wanted-on-assault-charges-in-methuen-and-lowell.html",
-      "published": "2026-10-29T00:02:17+00:00",
-      "summary": "Daquhan Cromer, 29, was arrested in Lowell, Massachusetts, on Wednesday after a multi-state manhunt that began Tuesday night."
+      "title": "Mass. casino player wins jackpot prize with $4.40 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-440-bet.html-2",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
-      "id": "596fe56f65ae",
+      "id": "cd85dfb0a78d",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Target leaks Black Friday dates — here’s what shoppers should know",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/target-leaks-black-friday-dates-heres-what-shoppers-should-know.html",
-      "published": "2026-10-28T23:39:20+00:00",
-      "summary": "Target has announced an Early Black Friday sale from Nov. 5–7, 2026, with daily deals starting Nov. 1, offering discounts on toys, electronics, apparel, beauty, and home products ahead of Black Friday on Nov. 27."
+      "title": "Today’s horoscope: Is today your birthday? - Align with practicality, patience, a passionate attitude (Oct. 29, 2026)",
+      "link": "https://www.masslive.com/advice/2026/10/todays-horoscope-is-today-your-birthday-align-with-practicality-patience-a-passionate-attitude-oct-29-2026.html",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "Celebrities born on this day: Ben Foster, 46; Gabrielle Union, 54; Winona Ryder, 55; Richard Dreyfuss, 79."
     },
     {
-      "id": "a28c589211c6",
+      "id": "90c1272867f4",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Sandra Birchmore was planning a future. Prosecutors say Matthew Farwell feared what she might reveal",
-      "link": "https://www.masslive.com/news/2026/10/sandra-birchmore-was-planning-a-future-prosecutors-say-matthew-farwell-feared-what-she-might-reveal.html",
-      "published": "2026-10-28T23:20:38+00:00",
-      "summary": "The government’s case stretched from years-old text messages to the final minutes of activity on Sandra Birchmore’s phone."
+      "title": "Americans spend over $8.7K a year on aging family members, report says",
+      "link": "https://www.masslive.com/news/2026/10/americans-spend-over-87k-a-year-on-aging-family-members-report-says.html",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "There are now 11 states where there are more elderly than those under 18."
     },
     {
-      "id": "21a86ff609de",
+      "id": "c018ebc12a24",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Worcester man charged in Milford church child rape case is a sex offender, records show",
-      "link": "https://www.masslive.com/centralmass/2026/10/worcester-man-charged-in-milford-church-child-rape-case-is-a-level-2-sex-offender-records-show.html",
-      "published": "2026-10-28T23:06:52+00:00",
-      "summary": "A Worcester man who has been charged in connection with raping a 13-year-old girl in the basement of a Milford church was previously convicted of indecent assault and battery on a child under 14, records show."
+      "title": "Legendary singer dead after cancer battle: ‘Hard to find words to describe the loss’",
+      "link": "https://www.masslive.com/entertainment/2026/10/legendary-singer-dead-after-cancer-battle-hard-to-find-words-to-describe-the-loss.html",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "He died after a short stay in a hospital."
     },
     {
-      "id": "82e85c45de52",
+      "id": "4ad8398079de",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Watch it live: Weymouth, Milton meet in key Thursday night football game",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/watch-it-live-weymouth-milton-meet-in-key-thursday-night-football-game.html",
-      "published": "2026-10-28T22:00:00+00:00",
-      "summary": "Milton and Weymouth meet in a Bay State Conference Herget Division football matchup Thursday, Oct. 29, at 7 p.m. Watch the game live on MassLive."
+      "title": "Hampden County among highest in state for foreclosure rates, analysis finds",
+      "link": "https://www.masslive.com/westernmass/2026/10/hampden-county-among-highest-in-state-for-foreclosure-rates-analysis-finds.html",
+      "published": "2026-10-29T09:54:00+00:00",
+      "summary": "Springfield is a particular hotspot for foreclosure, the assessment by NestCash shows, with filings at three times the statewide rate."
     },
     {
-      "id": "843045a37dfe",
+      "id": "8f968a956578",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "MassGOP files ethics complaint against independent running for 3rd Hampden seat",
-      "link": "https://www.masslive.com/westernmass/2026/10/massgop-files-ethics-complaint-against-independent-running-for-3rd-hampden-seat.html",
-      "published": "2026-10-28T21:58:07+00:00",
-      "summary": "According to the state GOP's complaint, Jason Perron allegedly only listed his position on the Southwick Select Board in his disclosure to the state this year."
+      "title": "Could Trump interfere with Election Day in Mass.? Officials are preparing",
+      "link": "https://www.masslive.com/politics/2026/10/could-trump-disrupt-election-day-in-mass-officials-are-readying-for-the-unknown.html",
+      "published": "2026-10-29T09:50:00+00:00",
+      "summary": "Massachusetts may not be a battleground. But with Election Day approaching, officials aren’t taking any chances."
     },
     {
-      "id": "2db947298b22",
+      "id": "043c42b05404",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Crow Legislature rejects bill to expand enrollment",
-      "link": "https://www.masslive.com/native-american-news/2026/10/crow-legislature-rejects-bill-to-expand-enrollment.html",
-      "published": "2026-10-28T21:55:13+00:00",
-      "summary": "The bill would have loosened blood quantum requirements for tribal membership."
+      "title": "Kylie Kelce had one request after her first daughter was born. Here's how the grandparents responded",
+      "link": "https://www.masslive.com/sports/2026/10/kylie-kelce-reveals-the-boundary-she-set-with-jasons-parents.html",
+      "published": "2026-10-29T09:46:23+00:00",
+      "summary": "Kylie Kelce says she asked family not to kiss her newborn’s face, head or hands. Learn why, how the grandparents reacted and what doctors say about kissing babies."
     },
     {
-      "id": "56bcfb40bd70",
+      "id": "3df48f7794ec",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Massachusetts lawmakers call for food to be seen as a constitutional right",
-      "link": "https://www.masslive.com/westernmass/2026/10/massachusetts-lawmakers-call-for-food-to-be-seen-as-a-constitutional-right.html",
-      "published": "2026-10-28T21:51:20+00:00",
-      "summary": "“Hunger is easy. It’s not rocket science,” said U.S. Rep. James McGovern, D-2nd District, at the University of Massachusetts Amherst School of Public Health and Health Sciences Wednesday afternoon."
+      "title": "Indoor slide park offers 15 dry slides at company's first New England spot",
+      "link": "https://www.masslive.com/centralmass/2026/10/slick-city-action-park-brings-15-dry-slides-to-milford-indoor-venue.html",
+      "published": "2026-10-29T09:40:00+00:00",
+      "summary": "Slick City Action Park, a waterless indoor slide park with 15 slides and other attractions, opened recently in Milford — the first in New England."
     },
     {
-      "id": "2c206b1ecef0",
+      "id": "950cc4e30522",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Red Sox hire ex-Astros coach to work with outfielders",
-      "link": "https://www.masslive.com/redsox/2026/10/red-sox-add-new-coach-to-big-league-staff-ex-astros-staffer-will-work-with-outfielders.html",
-      "published": "2026-10-28T21:48:54+00:00",
-      "summary": "A week after creating two vacancies on their major league coaching staff, the Red Sox have added an outfield coach from outside the organization."
+      "title": "No music, no name brands, prices lower than Walmart — here's the Aldi model explained",
+      "link": "https://www.masslive.com/food/2026/10/americas-fastest-growing-grocery-chain-is-quietly-forcing-your-favorite-store-to-lower-prices.html",
+      "published": "2026-10-29T09:30:00+00:00",
+      "summary": "Aldi's no-frills model — no music, no name brands, products left in their shipping boxes — has helped it rack up $29 billion in U.S. sales."
     },
     {
-      "id": "c1f1b3a47535",
+      "id": "e257bacefeeb",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "West Brookfield man seeks dismissal of charges in Agawam gun case",
-      "link": "https://www.masslive.com/westernmass/2026/10/west-brookfield-man-seeks-dismissal-of-charges-in-agawam-gun-case.html",
-      "published": "2026-10-28T21:42:21+00:00",
-      "summary": "Defense attorney Hank Brennan claims investigators failed to preserve evidence and withheld material favorable to Ryan Cosby's defense."
+      "title": "Popular rock frontman dying from cancer just got married. Here’s what we know",
+      "link": "https://www.masslive.com/entertainment/2026/10/popular-rock-frontman-dying-from-cancer-just-got-married-heres-what-we-know.html",
+      "published": "2026-10-29T09:30:00+00:00",
+      "summary": "He has 2-to-3 years left to live."
     },
     {
-      "id": "6c9a54c35bc9",
+      "id": "ab9d3eb19b81",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "From Applebee's to In-N-Out, here are some of the best Veterans Day freebies and discounts this year",
-      "link": "https://www.masslive.com/news/2026/10/discounted-ipads-free-burgers-where-to-get-the-best-veterans-day-deals.html",
-      "published": "2026-10-28T21:35:30+00:00",
-      "summary": "Numerous businesses are offering free meals, discounts on groceries, electronics, and services to veterans, active duty military, and their families."
+      "title": "The 10 best burger joints in Mass., ranked | Best of Mass. Burgers, Part 3",
+      "link": "https://www.masslive.com/ne-where/2026/10/the-10-best-burger-joints-in-mass-ranked-best-of-mass-burgers-part-3.html",
+      "published": "2026-10-29T09:27:00+00:00",
+      "summary": "Our picks for the 10 very best burgers in Massachusetts — but only one can be No. 1."
     },
     {
-      "id": "b26f043c9ede",
+      "id": "e2c280368265",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Actress makes rare comment about the end of her marriage to co-star",
-      "link": "https://www.masslive.com/entertainment/2026/10/actress-makes-rare-comment-about-the-end-of-her-marriage-to-co-star.html",
-      "published": "2026-10-28T21:04:20+00:00",
-      "summary": "The pair married in 2005 after meeting on set two years prior."
+      "title": "Your 911 call, hospital records and home internet may all run through this one Lowell building",
+      "link": "https://www.masslive.com/news/2026/10/inside-lowells-massive-data-center-powering-hospitals-911-and-fenway-park.html",
+      "published": "2026-10-29T09:23:00+00:00",
+      "summary": "Markley Group's facility, built in a former textile and pasta factory, stores data for telecoms, banks, universities and emergency services."
     },
     {
-      "id": "313a0e0515af",
+      "id": "11b785cf95f5",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Speaker Johnson says polls are wrong about Republican support",
-      "link": "https://www.masslive.com/politics/2026/10/cnn-reporter-grills-gop-leader-on-whether-trump-is-a-drag-on-republicans.html",
-      "published": "2026-10-28T21:00:00+00:00",
-      "summary": "CNN reporter Manu Raju asked Mike Johnson whether there was a “drag” on Republicans in the midterm elections while the GOP leader was campaigning in Iowa on Wednesday."
+      "title": "Charles Barkley tears up on air after ‘Inside the NBA’ news: ‘Knew the day was coming’",
+      "link": "https://www.masslive.com/sports/2026/10/charles-barkley-tears-up-on-air-after-inside-the-nba-news-knew-the-day-was-coming.html",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "The emotional scene played out on live television."
     },
     {
-      "id": "cb8230cdb5ad",
+      "id": "70be0c19729f",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "New contract would make Holyoke paraeducators the second highest-paid in the area",
-      "link": "https://www.masslive.com/westernmass/2026/10/new-contract-would-make-holyoke-paraeducators-the-second-highest-paid-in-the-area.html",
-      "published": "2026-10-28T20:58:58+00:00",
-      "summary": "Holyoke paraeducators reached a tentative three-year contract deal after 116 days without one, offering a 16% increase in annual earnings and improved benefits."
+      "title": "How BC UMass and Bill Belichick's UNC team can reach bowl games this year",
+      "link": "https://www.masslive.com/umassfootball/2026/10/how-can-boston-college-umass-and-bill-belichicks-unc-team-qualify-for-bowl-games.html",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "How UMass, BC and Bill Belichick can reach the postseason and what doing so would mean to each program."
     },
     {
-      "id": "d739fff8ecf1",
+      "id": "da1943f929bc",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Patriots takeaways: A.J. Brown isn't making excuses",
-      "link": "https://www.masslive.com/patriots/2026/10/patriots-takeaways-aj-brown-is-making-no-excuses-a-starting-cornerback-returns-and-more.html",
-      "published": "2026-10-28T20:47:45+00:00",
-      "summary": "A.J. Brown has struggled since returning from an injury, but the Pro Bowl receiver says he's not making excuses."
+      "title": "Your LA Fitness closed — but you might still be stuck paying for it",
+      "link": "https://www.masslive.com/business/2026/10/your-favorite-gym-might-be-closing-and-canceling-your-membership-is-harder-than-you-think.html",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "Eleven Florida closures lead the national count, with Connecticut, Illinois, New York and Rhode Island also losing locations."
     },
     {
-      "id": "a04bb9d55119",
+      "id": "4b138e762bd3",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Prosecutors end Matthew Farwell case with focus on Sandra Birchmore’s last steps recorded by phone",
-      "link": "https://www.masslive.com/news/2026/10/prosecutors-end-matthew-farwell-case-with-focus-on-sandra-birchmores-last-steps-recorded-by-phone.html",
-      "published": "2026-10-28T20:47:40+00:00",
-      "summary": "Jurors also heard from the first witness called by Matthew Farwell's defense, as his lawyers refocused the case on Sandra Birchmore's mental health."
+      "title": "Asking Eric: Sibling's house is a mess and the kids are at risk, but how do I bring it up?",
+      "link": "https://www.masslive.com/advice/2026/10/asking-eric-siblings-house-is-a-mess-and-the-kids-are-at-risk-but-how-do-i-bring-it-up.html",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "There is concern for everyone’s safety, including our in-law’s mental health."
     },
     {
-      "id": "2041c41295e9",
+      "id": "e10c316976be",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Easthampton’s Tanner Kmetz places fifth at D-II golf state tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/easthamptons-tanner-kmetz-places-fifth-at-d-ii-golf-state-tournament.html",
-      "published": "2026-10-28T20:39:53+00:00",
-      "summary": "Kmetz, a former Pope Francis state champion, returned to Easthampton for his senior year and made his mark at states this week."
+      "title": "Patriots Week 8 mailbag: Run game issues, trade deadline questions",
+      "link": "https://www.masslive.com/patriots/2026/10/patriots-week-8-mailbag-run-game-issues-trade-deadline-questions.html",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "With $44 million in dead money and limited cap space, the Patriots face real constraints before the Nov. 10 trade deadline."
     },
     {
-      "id": "0ac4d3a45f7b",
+      "id": "3860c7d725aa",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Lane Kiffin accuses SEC of not wanting LSU to win",
-      "link": "https://www.masslive.com/sports/2026/10/lane-kiffin-jabs-sec-over-alabama-kickoff-says-conference-has-it-out-for-lsu.html",
-      "published": "2026-10-28T20:32:20+00:00",
-      "summary": "The LSU coach was in mid-season form on Wednesday."
+      "title": "Beloved rock singer taking rest of 2026 off due to health: ‘Less than ideal’",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-singer-taking-rest-of-2026-off-due-to-health-less-than-ideal.html",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "He shared the news on social media."
     }
   ]
 }
