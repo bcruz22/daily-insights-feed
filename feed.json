@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T20:08:00+00:00",
+  "generated_at": "2026-10-29T22:09:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -26,11 +26,41 @@
   },
   "items": [
     {
+      "id": "ca205e978a06",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "published": "2026-10-29T20:18:49+00:00",
+      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot."
+    },
+    {
+      "id": "69e91b7f989d",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+      "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+      "published": "2026-10-29T20:08:10+00:00",
+      "summary": "Inspector general rejected request from Democratic and Republican senators."
+    },
+    {
+      "id": "2eb0eeefec6e",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Trump declares robot imports a national security threat",
+      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "published": "2026-10-29T19:07:53+00:00",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs."
+    },
+    {
       "id": "6df4ac502224",
       "source": "Ars Technica",
       "source_id": "ars",
       "category": "tech",
-      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
+      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
       "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
       "published": "2026-10-29T18:29:12+00:00",
       "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China."
@@ -196,34 +226,14 @@
       "summary": "The OLED display is the main draw, but the price is a lot to reckon with."
     },
     {
-      "id": "180cb4624042",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "a00f511771f1",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
-      "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
-      "published": "2026-10-28T15:48:12+00:00",
-      "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\""
-    },
-    {
-      "id": "7e3f361561d5",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "A hidden ocean change near Antarctica could have global consequences",
-      "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-      "published": "2026-10-28T13:38:53+00:00",
-      "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation."
-    },
-    {
-      "id": "a08575681f83",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
-      "published": "2026-10-28T11:00:49+00:00",
-      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China."
+      "title": "Patrick Stewart has died at age 86",
+      "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+      "published": "2026-10-29T20:10:02+00:00",
+      "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in…"
     },
     {
       "id": "b9e4a862399a",
@@ -316,14 +326,144 @@
       "summary": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was already fed up with the Withings mobile app which they describe as a \"bloated mess,\"…"
     },
     {
-      "id": "8825baa6d043",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion",
-      "link": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
-      "published": "2026-10-29T16:03:28+00:00",
-      "summary": "The Joshua Kushner-led Thrive Holdings is acquiring ADT in an all-cash deal valued at $7.6 billion. The deal is expected to close in the first quarter of 2027 and will take ADT private, as reported earlier by Bloomberg. Joshua Kushner is the brother of President Donald Trump's son-in-law, Jared…"
+      "id": "d067155b5fa3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patagonia’s Houdini rain jacket is on sale for under $59 at REI",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/patagonias-houdini-rain-jacket-is-on-sale-for-under-59-at-rei.html",
+      "published": "2026-10-29T21:44:08+00:00",
+      "summary": "REI is offering the Patagonia Houdini Jacket at up to 50% off, with the men's version starting at $58.83, in limited sizes and colors."
+    },
+    {
+      "id": "98630f4282ad",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jury convicts Springfield man on 6 counts of child rape",
+      "link": "https://www.masslive.com/westernmass/2026/10/springfield-man-found-guilty-on-6-counts-of-child-rape.html",
+      "published": "2026-10-29T21:32:52+00:00",
+      "summary": "Ismael Freytes-Rodriguez, 39, was sentenced to 18 to 20 years in prison after being convicted on six counts of child rape."
+    },
+    {
+      "id": "36a3b9fc1302",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Before Hollywood, Sir Patrick Stewart mastered classical stage roles",
+      "link": "https://www.masslive.com/entertainment/2026/10/before-hollywood-sir-patrick-stewart-mastered-classical-stage-roles.html",
+      "published": "2026-10-29T21:30:00+00:00",
+      "summary": "Sir Patrick Stewart transformed from a classical Royal Shakespeare Company stage actor into a global icon before his passing at age 86. Read the full story."
+    },
+    {
+      "id": "857600f0d64d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A pro-Minogue super PAC is doing Andrea James' advertising for her. It says there's 'no hidden agenda'",
+      "link": "https://www.masslive.com/politics/2026/10/a-super-pac-backing-mike-minogue-calls-andrea-james-the-mass-mamdani-critics-say-the-real-target-is-healey.html",
+      "published": "2026-10-29T21:13:29+00:00",
+      "summary": "A super PAC backing a Republican is sending Dems a highlight reel of the socialist candidate's platform. Its chairman says there's \"no hidden agenda.\""
+    },
+    {
+      "id": "d232bc4ee952",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "US cruise ship suspends 3-year global voyage",
+      "link": "https://www.masslive.com/news/2026/10/us-cruise-ship-suspends-3-year-global-voyage-stranding-200-passengers.html",
+      "published": "2026-10-29T20:52:17+00:00",
+      "summary": "The cruise set sail two years ago on a voyage to the seven continents."
+    },
+    {
+      "id": "c94e48111fc6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Missing nonverbal man, 29, found deceased in Westfield",
+      "link": "https://www.masslive.com/westernmass/2026/10/missing-nonverbal-man-29-found-deceased-in-westfield.html",
+      "published": "2026-10-29T20:51:44+00:00",
+      "summary": "Foul play is not suspected, according to law enforcement officials."
+    },
+    {
+      "id": "06fbde8de933",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Vote as if your life depends on it. Future peace and prosperity sure do | Don Jones",
+      "link": "https://www.masslive.com/opinion/2026/10/vote-as-if-your-life-depends-on-it-future-peace-and-prosperity-sure-do-don-jones.html",
+      "published": "2026-10-29T20:37:16+00:00",
+      "summary": "What kind of life will your children and grandchildren have by 2050 when our very peace and prosperity are being threatened each day? Doesn’t their future demand that you not vote Republican again?"
+    },
+    {
+      "id": "7c8da12ee5a0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Former NFL and college football head coach dies at 73",
+      "link": "https://www.masslive.com/sports/2026/10/former-nfl-and-college-football-head-coach-dies-at-73.html",
+      "published": "2026-10-29T20:30:33+00:00",
+      "summary": "June Jones led Hawaii to a 12-1 record and Sugar Bowl berth in 2007."
+    },
+    {
+      "id": "ab9d347d8efd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What growth can Celtics fans expect from the young guys? (Mailbag)",
+      "link": "https://www.masslive.com/celtics/2026/10/what-growth-can-celtics-fans-expect-from-the-young-guys-mailbag.html",
+      "published": "2026-10-29T20:29:34+00:00",
+      "summary": "The Celtics have featured a deep rotation to start the season with the young guys all getting some form of run."
+    },
+    {
+      "id": "acbf6b1000ce",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Iconic actor known for ‘X-Men’ and ‘Star Trek’ dies at 86",
+      "link": "https://www.masslive.com/entertainment/2026/10/iconic-actor-known-for-x-men-and-star-trek-dies-at-86.html",
+      "published": "2026-10-29T20:29:19+00:00",
+      "summary": "One of the 'Star Trek' franchise's most iconic stars has died at age 86"
+    },
+    {
+      "id": "0fbdbaea53e8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Social casino games worth a closer look before trick-or-treat night",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/social-casino-games-worth-a-closer-look-before-trick-or-treat-night.html",
+      "published": "2026-10-29T20:24:00+00:00",
+      "summary": "Trick or treat this Halloween with the best social casino games. From goblins, witches & ghosts, these are the best free social casino games at social casinos."
+    },
+    {
+      "id": "e8e3a68591d2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Part of New Hampshire’s Great Bay closing to oyster harvesting for years",
+      "link": "https://www.masslive.com/news/2026/10/20-acres-of-great-bay-closing-to-oyster-harvesting-for-5-years.html",
+      "published": "2026-10-29T20:13:39+00:00",
+      "summary": "A portion of the popular New Hampshire bay will soon be off-limits as officials work to give its oyster population a boost."
+    },
+    {
+      "id": "2cf08eb46dab",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How should Patriots attack NFL trade deadline? Here are two worthy targets",
+      "link": "https://www.masslive.com/patriots/2026/10/how-should-patriots-attack-nfl-trade-deadline-here-are-two-worthy-targets.html",
+      "published": "2026-10-29T20:08:26+00:00",
+      "summary": "Matt Vautour and Chris Mason have a couple names they'd like to see the Patriots target at the trade deadline, and they also get into Jayson Tatum's offensive explosion and what to make of the 2026 World Series."
+    },
+    {
+      "id": "5d63956bfada",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Legendary stage, screen and TV actor Patrick Stewart dies",
+      "link": "https://www.masslive.com/entertainment/2026/10/legendary-stage-screen-and-tv-actor-patrick-stewart-dies.html",
+      "published": "2026-10-29T20:04:46+00:00",
+      "summary": "He's probably best known as Professor Charles Xavier and Captain Jean-Luc Picard from the “X-Men” and “Star Trek: The Next Generation” series and films."
     },
     {
       "id": "a2b871dcb049",
@@ -484,146 +624,6 @@
       "link": "https://www.masslive.com/entertainment/2026/10/country-music-star-makes-rare-comment-about-high-profile-divorce-misery.html",
       "published": "2026-10-29T19:00:54+00:00",
       "summary": "A popular country singer is reflecting on the aftermath of her painful divorce"
-    },
-    {
-      "id": "6a7acf7a4451",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pentagon awards almost $2 billion in health care contracts covering 175,000 people",
-      "link": "https://www.masslive.com/news/2026/10/pentagon-awards-185-billion-in-health-care-contracts-covering-about-175000-military-beneficiaries.html",
-      "published": "2026-10-29T19:00:16+00:00",
-      "summary": "Six healthcare companies will provide managed care services through Sept. 30, 2027."
-    },
-    {
-      "id": "885a142f1f42",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Oscar-winning actress loses custody of 13-year-old son (report)",
-      "link": "https://www.masslive.com/entertainment/2026/10/oscar-winning-actress-loses-custody-of-13-year-old-son-report.html",
-      "published": "2026-10-29T18:59:49+00:00",
-      "summary": "Her ex-husband will retain primary physical custody of their son Maceo."
-    },
-    {
-      "id": "99ec4dc8d999",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Average checking account balance in U.S. may surprise you",
-      "link": "https://www.masslive.com/news/2026/10/average-checking-account-balance-in-us-may-surprise-you.html",
-      "published": "2026-10-29T18:56:12+00:00",
-      "summary": "While the average balance is likely much higher than you’d expect, the key word is “average” which factors in accounts with high balances."
-    },
-    {
-      "id": "0e128a86d349",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Top-rated Mass. haunted house open for Halloween. Its new ‘pain’ experience is not",
-      "link": "https://www.masslive.com/westernmass/2026/10/dementedfxs-controversial-cube-experience-remains-shut-for-halloween-weekend.html",
-      "published": "2026-10-29T18:54:24+00:00",
-      "summary": "The Cube was supposed to take DementedFX scares to a new level. A dispute with Holyoke officials cut its season short."
-    },
-    {
-      "id": "361522d9528c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Marlborough's first woman mayor, Nancy Stevens, dies at 65",
-      "link": "https://www.masslive.com/centralmass/2026/10/first-woman-mayor-of-central-mass-town-dies.html",
-      "published": "2026-10-29T18:53:17+00:00",
-      "summary": "She first became involved in the parent-teacher organization when her children enrolled in the city’s public school system."
-    },
-    {
-      "id": "3874f1e257d3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "14-year-old arrested after bringing loaded ghost gun into Boston high school, police say",
-      "link": "https://www.masslive.com/boston/2026/10/14-year-old-arrested-after-bringing-loaded-ghost-gun-into-boston-high-school-police-say.html",
-      "published": "2026-10-29T18:39:28+00:00",
-      "summary": "A student was arrested near Snowden International School in Boston on Wednesday after officers found a loaded ghost gun in his waistband, according to police."
-    },
-    {
-      "id": "975e20c2a19e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Kiner-Falefa, Sandoval among Red Sox heading to free agency",
-      "link": "https://www.masslive.com/redsox/2026/10/red-sox-free-agents-two-veterans-hit-open-market-and-a-third-will-join-them-soon.html",
-      "published": "2026-10-29T18:31:16+00:00",
-      "summary": "On Thursday, the first day of baseball’s offseason, two Red Sox officially became free agents. They’ll be joined by another (now-former) teammate soon."
-    },
-    {
-      "id": "2c02043b728c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sen. Adam Gomez’s home searched as part of inquiry into unlicensed dog breeding operation",
-      "link": "https://www.masslive.com/westernmass/2026/10/sen-adam-gomezs-home-searched-as-part-of-inquiry-into-unlicensed-dog-breeding-operation.html",
-      "published": "2026-10-29T18:30:21+00:00",
-      "summary": "This morning, Gomez was spotted standing at the end of his driveway on Riverside Road, reviewing paperwork with prominent criminal defense attorney Daniel D. Kelly shortly after 11 a.m. A second defense lawyer, Daniel Hagan, arrived minutes later."
-    },
-    {
-      "id": "1b9ef216d588",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sandra Birchmore threatened suicide after breakup, ex-boyfriend tells Farwell jury",
-      "link": "https://www.masslive.com/news/2026/10/sandra-birchmores-ex-recounts-suicide-threat-as-matthew-farwell-defense-begins-its-case.html",
-      "published": "2026-10-29T18:11:38+00:00",
-      "summary": "The former Stoughton police officer's defense has claimed Sandra Birchmore took her own life after he broke up with her."
-    },
-    {
-      "id": "010b9fe381dc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Who will lead Oxford schools? The search is now underway",
-      "link": "https://www.masslive.com/centralmass/2026/10/oxford-launches-search-for-new-school-superintendent.html",
-      "published": "2026-10-29T18:09:36+00:00",
-      "summary": "Oxford Public Schools has partnered with a search firm to find a replacement for superintendent Michael Lucas, who departed in June after five years leading the district."
-    },
-    {
-      "id": "167d004c96d4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Caraway’s Griddle Pan promises easy cooking, but does it deliver? I tested it to find out",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/caraways-griddle-pan-promises-easy-cooking-but-does-it-deliver-i-tested-it-to-find-out.html",
-      "published": "2026-10-29T18:05:40+00:00",
-      "summary": "Caraway's $155 Square Griddle Pan offers extra cooking space and a ceramic nonstick coating, but requires proper care and technique to perform at its best."
-    },
-    {
-      "id": "a81437560bcc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Best Buy will match prices from 19 competitors — including Amazon and Walmart",
-      "link": "https://www.masslive.com/business/2026/10/major-retailer-has-a-price-match-policy-that-could-save-you-serious-money-on-big-ticket-electronics.html",
-      "published": "2026-10-29T18:05:30+00:00",
-      "summary": "The retailer covers 19 qualifying competitors and gives members up to 60 days to request a refund."
-    },
-    {
-      "id": "f46ee1cf5db5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A fishing trip off Tybee Island took an intense turn when a great white shark lunged toward a passenger",
-      "link": "https://www.masslive.com/news/2026/10/a-woman-reached-over-a-boat-to-pet-a-great-white-shark-and-its-reaction-was-caught-on-video.html",
-      "published": "2026-10-29T18:04:32+00:00",
-      "summary": "A great white shark lunged at a passenger reaching over a boat during a Tybee Island research trip off Georgia. Read how the crew handled the sudden moment."
-    },
-    {
-      "id": "db5a22b5ea88",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "VA education benefits: when your November 2026 GI Bill payment arrives",
-      "link": "https://www.masslive.com/news/2026/10/no-va-disability-payment-in-november-but-this-veterans-benefit-is-still-coming.html",
-      "published": "2026-10-29T18:04:27+00:00",
-      "summary": "VA disability compensation deposits are not scheduled for November."
     }
   ]
 }
