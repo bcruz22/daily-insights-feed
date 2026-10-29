@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:08:00+00:00",
+  "generated_at": "2026-10-29T00:11:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -25,6 +25,36 @@
     }
   },
   "items": [
+    {
+      "id": "f1032294b76f",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "published": "2026-10-28T22:51:15+00:00",
+      "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters."
+    },
+    {
+      "id": "47ebb1c951d4",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+      "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+      "published": "2026-10-28T22:35:50+00:00",
+      "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea."
+    },
+    {
+      "id": "4af1c4c13109",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+      "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+      "published": "2026-10-28T22:17:15+00:00",
+      "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\""
+    },
     {
       "id": "d175d4f66bfd",
       "source": "Ars Technica",
@@ -196,34 +226,14 @@
       "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
     },
     {
-      "id": "71d9cb2bf3e5",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "09f762edab0d",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "published": "2026-10-27T20:25:55+00:00",
-      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
-    },
-    {
-      "id": "d5ef55b539d3",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-      "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-      "published": "2026-10-27T19:32:07+00:00",
-      "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval."
-    },
-    {
-      "id": "a6a1f4abbd10",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-      "published": "2026-10-27T18:49:08+00:00",
-      "summary": "You can apparently now tell AI tools what sort of protein you want them to make."
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "published": "2026-10-28T23:05:39+00:00",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the…"
     },
     {
       "id": "d7e14d5839c1",
@@ -316,14 +326,54 @@
       "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and tell\" event venue […]"
     },
     {
-      "id": "38e7b2496fe9",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Brendan Carr plans to let prisons jam cellphone signals",
-      "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-      "published": "2026-10-28T18:57:02+00:00",
-      "summary": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for…"
+      "id": "059770920f85",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "South Carolina nuclear site declares emergency",
+      "link": "https://www.masslive.com/news/2026/10/south-carolina-nuclear-site-declares-emergency.html",
+      "published": "2026-10-29T00:03:27+00:00",
+      "summary": "The site posted on social media."
+    },
+    {
+      "id": "62c405186d92",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "N.H. fugitive arrested in Mass. was wanted on assault charges in Methuen and Lowell",
+      "link": "https://www.masslive.com/news/2026/10/nh-fugitive-arrested-in-mass-was-wanted-on-assault-charges-in-methuen-and-lowell.html",
+      "published": "2026-10-29T00:02:17+00:00",
+      "summary": "Daquhan Cromer, 29, was arrested in Lowell, Massachusetts, on Wednesday after a multi-state manhunt that began Tuesday night."
+    },
+    {
+      "id": "596fe56f65ae",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Target leaks Black Friday dates — here’s what shoppers should know",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/target-leaks-black-friday-dates-heres-what-shoppers-should-know.html",
+      "published": "2026-10-28T23:39:20+00:00",
+      "summary": "Target has announced an Early Black Friday sale from Nov. 5–7, 2026, with daily deals starting Nov. 1, offering discounts on toys, electronics, apparel, beauty, and home products ahead of Black Friday on Nov. 27."
+    },
+    {
+      "id": "a28c589211c6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sandra Birchmore was planning a future. Prosecutors say Matthew Farwell feared what she might reveal",
+      "link": "https://www.masslive.com/news/2026/10/sandra-birchmore-was-planning-a-future-prosecutors-say-matthew-farwell-feared-what-she-might-reveal.html",
+      "published": "2026-10-28T23:20:38+00:00",
+      "summary": "The government’s case stretched from years-old text messages to the final minutes of activity on Sandra Birchmore’s phone."
+    },
+    {
+      "id": "21a86ff609de",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Worcester man charged in Milford church child rape case is a sex offender, records show",
+      "link": "https://www.masslive.com/centralmass/2026/10/worcester-man-charged-in-milford-church-child-rape-case-is-a-level-2-sex-offender-records-show.html",
+      "published": "2026-10-28T23:06:52+00:00",
+      "summary": "A Worcester man who has been charged in connection with raping a 13-year-old girl in the basement of a Milford church was previously convicted of indecent assault and battery on a child under 14, records show."
     },
     {
       "id": "82e85c45de52",
@@ -390,7 +440,7 @@
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Discounted iPads, free burgers: Where to get the best Veterans Day deals",
+      "title": "From Applebee's to In-N-Out, here are some of the best Veterans Day freebies and discounts this year",
       "link": "https://www.masslive.com/news/2026/10/discounted-ipads-free-burgers-where-to-get-the-best-veterans-day-deals.html",
       "published": "2026-10-28T21:35:30+00:00",
       "summary": "Numerous businesses are offering free meals, discounts on groceries, electronics, and services to veterans, active duty military, and their families."
@@ -574,56 +624,6 @@
       "link": "https://www.masslive.com/food/2026/10/taco-bell-is-giving-away-more-than-13-million-to-students-how-to-apply.html",
       "published": "2026-10-28T19:30:57+00:00",
       "summary": "The Live Más Scholarship doesn't require a GPA, test scores, or even a resume."
-    },
-    {
-      "id": "273de276a97d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Whoever wins, Mass. eyes more leverage heading toward 2028",
-      "link": "https://www.masslive.com/politics/2026/10/whoever-wins-mass-eyes-more-leverage-heading-toward-2028.html",
-      "published": "2026-10-28T19:22:36+00:00",
-      "summary": "Mass Dems may need to juggle investigations, policy heading into the 2028 presidential election cycle"
-    },
-    {
-      "id": "fd0db3777272",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pair of Toyota recalls announced, more than 296K vehicles impacted",
-      "link": "https://www.masslive.com/news/2026/10/pair-of-toyota-recalls-announced-more-than-296k-vehicles-impacted.html",
-      "published": "2026-10-28T19:19:24+00:00",
-      "summary": "One of the recalls impacts a line of Toyota minivans, while the other affects a line of Lexus crossover SUVs."
-    },
-    {
-      "id": "ce1d9902ba16",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary sports broadcaster makes major career announcement: ‘It’s time’",
-      "link": "https://www.masslive.com/sports/2026/10/legendary-sports-broadcaster-makes-major-career-announcement-its-time.html",
-      "published": "2026-10-28T18:59:21+00:00",
-      "summary": "Ernie Johnson has hosted \"Inside the NBA\" since 1990."
-    },
-    {
-      "id": "d5ed306b2a02",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Escaped NH prison inmate caught in Lowell",
-      "link": "https://www.masslive.com/news/2026/10/new-hampshire-fugitive-who-escaped-from-prison-arrested-in-mass-city.html",
-      "published": "2026-10-28T18:55:50+00:00",
-      "summary": "The fugitive was taken into custody in Lowell and is expected to be extradited to Salem, New Hampshire."
-    },
-    {
-      "id": "cfb3a183932a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Authorities identify man struck and killed by SUV in Haverhill",
-      "link": "https://www.masslive.com/news/2026/10/authorities-identify-man-struck-and-killed-by-suv-in-haverhill.html",
-      "published": "2026-10-28T18:42:09+00:00",
-      "summary": "A 67-year-old man was fatally struck by a Ford Bronco Sport while crossing Washington Street in Haverhill Friday morning."
     }
   ]
 }
