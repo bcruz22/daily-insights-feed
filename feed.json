@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:11:00+00:00",
+  "generated_at": "2026-10-29T04:09:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -226,6 +226,16 @@
       "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
     },
     {
+      "id": "f3c32af069f3",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "published": "2026-10-29T02:22:46+00:00",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a…"
+    },
+    {
       "id": "09f762edab0d",
       "source": "The Verge",
       "source_id": "verge",
@@ -316,14 +326,54 @@
       "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US…"
     },
     {
-      "id": "a3e130b40d4f",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Hands-on with the new OLED iPad Mini",
-      "link": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-      "published": "2026-10-28T19:18:58+00:00",
-      "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and tell\" event venue […]"
+      "id": "9ac39d77399c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball: See the winning numbers in Wednesday’s $716 million drawing",
+      "link": "https://www.masslive.com/lottery/2026/10/powerball-see-the-winning-numbers-in-wednesdays-716-million-drawing.html",
+      "published": "2026-10-29T03:17:28+00:00",
+      "summary": "Check your numbers to see if you hit it big in Wednesday's jackpot."
+    },
+    {
+      "id": "2be88fd502cb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jaylen Brown responds to Brian Scalabrine after trade demand report",
+      "link": "https://www.masslive.com/celtics/2026/10/jaylen-brown-responds-to-brian-scalabrine-after-trade-demand-report.html",
+      "published": "2026-10-29T03:15:28+00:00",
+      "summary": "Jaylen Brown has been the talk of the NBA for the past week now, and this time, it was after a report from Celtics commentator Brian Scalabrine."
+    },
+    {
+      "id": "31b482be515d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dor Turgeman scores twice, Revs defeat Red Bulls at home",
+      "link": "https://www.masslive.com/sports/2026/10/dor-turgeman-scores-twice-revs-defeat-red-bulls-at-home.html",
+      "published": "2026-10-29T03:03:46+00:00",
+      "summary": "Carles Gil hit 100 career regular-season MLS assists in the win, becoming the first player to do so since 2013."
+    },
+    {
+      "id": "c824470ba84c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Olivia Perez lifts Mount Greylock girls volleyball over Lenox, into WMass final",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/olivia-perez-lifts-mount-greylock-girls-volleyball-over-lenox-into-wmass-final.html",
+      "published": "2026-10-29T02:28:06+00:00",
+      "summary": "Fifth set heroics powered the Mounties to a win in the semifinal round on Wednesday."
+    },
+    {
+      "id": "b1b7fbe4b8b8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Field Hockey Roundup: Addie Harrington leads Frontier to Class A title game",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/field-hockey-roundup-addie-harrington-leads-frontier-to-class-a-title-game.html",
+      "published": "2026-10-29T02:09:23+00:00",
+      "summary": "Four teams got semifinal wins to advance to Western Massachusetts field hockey championships on Saturday."
     },
     {
       "id": "74aeea0fd83a",
@@ -574,56 +624,6 @@
       "link": "https://www.masslive.com/sports/2026/10/ex-college-gameday-star-shares-surprising-place-he-expects-arch-manning-to-play-next-year.html",
       "published": "2026-10-28T20:29:10+00:00",
       "summary": "Former ESPN College GameDay star David Pollack does not expect Arch Manning back at Texas."
-    },
-    {
-      "id": "ffc09e7cee9b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Timberland is giving first responders 20% off — here’s how to claim the discount",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/timberland-is-giving-first-responders-20-off-heres-how-to-claim-the-discount.html",
-      "published": "2026-10-28T20:27:22+00:00",
-      "summary": "Timberland offers a 20% discount to eligible first responders, including police, EMTs, firefighters, and search-and-rescue personnel, who must verify their credentials online before the discount can be applied at checkout."
-    },
-    {
-      "id": "f6c8fd09111c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield Water & Sewer nears PCB cleanup plan for $363.8M project",
-      "link": "https://www.masslive.com/business/2026/10/springfield-water-sewer-nears-pcb-cleanup-plan-for-3638m-project.html",
-      "published": "2026-10-28T20:02:43+00:00",
-      "summary": "The Commission is also keeping a close eye on a state environmental bond bill, which promises money and could also expand the board to give suburban towns a say."
-    },
-    {
-      "id": "f6d36031f56d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump, MAGA allies outraged over explosive midterms report: ‘Shameful’",
-      "link": "https://www.masslive.com/politics/2026/10/trump-allies-outraged-over-explosive-midterms-report-shameful.html",
-      "published": "2026-10-28T20:02:00+00:00",
-      "summary": "Operatives aligned with the Democrat are accusing of recruiting a man with a similar name to her Republican opponent, according to a new report."
-    },
-    {
-      "id": "41865d53f87d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Millbury schools settle racial discrimination case with 2 sisters",
-      "link": "https://www.masslive.com/centralmass/2026/10/central-mass-sisters-settle-racial-discrimination-case-against-school-district.html",
-      "published": "2026-10-28T19:55:29+00:00",
-      "summary": "Two sisters reached a settlement with Millbury Public Schools after filing a civil rights complaint over repeated racial slurs and inadequate school response."
-    },
-    {
-      "id": "8940ce2b1761",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former Lakers star, two-time NBA champion joining OnlyFans",
-      "link": "https://www.masslive.com/sports/2026/10/former-lakers-star-two-time-nba-champion-joining-onlyfans.html",
-      "published": "2026-10-28T19:52:01+00:00",
-      "summary": "He was named the NBA Sixth Man of the Year during his time with the Los Angeles Lakers."
     }
   ]
 }
