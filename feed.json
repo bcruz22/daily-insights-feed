@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:11:00+00:00",
+  "generated_at": "2026-10-29T02:11:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -326,6 +326,56 @@
       "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and tell\" event venue […]"
     },
     {
+      "id": "74aeea0fd83a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Girls Soccer: Hopkins dominates to reach third straight final",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/hopkins-academy-girls-soccer-shuts-out-palmer-reaches-third-straight-wmass-final.html",
+      "published": "2026-10-29T01:15:12+00:00",
+      "summary": "Olivia Earle scored two goals for the second game in a row for the Golden Hawks in the semifinal round."
+    },
+    {
+      "id": "6e7ef11eee80",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Boys Soccer Roundup: Talon Dillard leads Pope Francis to WMass Class B title game",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/talon-dillard-leads-pope-francis-boys-soccer-to-class-b-title-game.html",
+      "published": "2026-10-29T01:07:21+00:00",
+      "summary": "Dillard scored three goals to push the Cardinals past Pittsfield in the semifinal round."
+    },
+    {
+      "id": "27eacbe00ebd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "HOKA just slashed 20% off its most cushioned running shoe — but stock is limited",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/hoka-just-slashed-20-off-its-most-cushioned-running-shoe-but-stock-is-limited.html",
+      "published": "2026-10-29T00:52:36+00:00",
+      "summary": "The HOKA Clifton 10, a cushioned daily trainer with a MetaRocker midsole and knit upper, is currently discounted to $124 from $155."
+    },
+    {
+      "id": "08a1c4151621",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rally-goers appeal to Smith College to save preschool program",
+      "link": "https://www.masslive.com/news/2026/10/rally-goers-appeal-to-smith-college-to-save-preschool-program.html",
+      "published": "2026-10-29T00:43:16+00:00",
+      "summary": "The march came a week after the school announced that Fort Hill would close next year."
+    },
+    {
+      "id": "f128fd5c9c7a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Nantucket Public Schools volunteer arrested on charges including child rape",
+      "link": "https://www.masslive.com/news/2026/10/nantucket-public-schools-volunteer-arrested-on-charges-including-child-rape.html",
+      "published": "2026-10-29T00:13:45+00:00",
+      "summary": "Officials say a Nantucket Public Schools volunteer has been arrested on charges including child rape, but that no students appear to be involved in the case."
+    },
+    {
       "id": "059770920f85",
       "source": "MassLive",
       "source_id": "masslive",
@@ -574,56 +624,6 @@
       "link": "https://www.masslive.com/sports/2026/10/former-lakers-star-two-time-nba-champion-joining-onlyfans.html",
       "published": "2026-10-28T19:52:01+00:00",
       "summary": "He was named the NBA Sixth Man of the Year during his time with the Los Angeles Lakers."
-    },
-    {
-      "id": "87e349282ca7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "William Shatner shares heartfelt tribute to ‘Star Trek’ costar who died at 90: ‘Deeply saddened’",
-      "link": "https://www.masslive.com/entertainment/2026/10/william-shatner-shares-heartfelt-tribute-to-star-trek-costar-who-died-at-90-deeply-saddened.html",
-      "published": "2026-10-28T19:45:49+00:00",
-      "summary": "A beloved 'Star Trek' actor has died, and the community is mourning"
-    },
-    {
-      "id": "bd2fa9713cb5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "See which top prospects and elite teams are coming to the 2027 HoopHall Classic",
-      "link": "https://www.masslive.com/hoophallclassic/2026/10/check-out-which-top-prospects-are-coming-to-springfield-for-the-2027-hoophall-classic.html",
-      "published": "2026-10-28T19:40:22+00:00",
-      "summary": "Now in its 25th year, the HoopHall Classic is bringing a smorgasbord of elite teams and top prospects to Springfield. See who's coming in 2027."
-    },
-    {
-      "id": "bda9ef940a94",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "FCC to vote on allowing phone jamming in these facilities across the country",
-      "link": "https://www.masslive.com/news/2026/10/fcc-to-vote-on-allowing-phone-jamming-in-these-facilities-across-the-country.html",
-      "published": "2026-10-28T19:39:39+00:00",
-      "summary": "If the measure passes, it would not mandate phone jamming but would give authorities that option."
-    },
-    {
-      "id": "407fa271d1a4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is Noah Kahan coming back to Fenway Park in 2027? Ballpark posts possible teaser",
-      "link": "https://www.masslive.com/music/2026/10/is-noah-kahan-coming-back-to-fenway-park-in-2027-ballpark-posts-possible-teaser.html",
-      "published": "2026-10-28T19:31:25+00:00",
-      "summary": "A ladybug photo and a nostalgic Instagram post from Fenway Concerts are fueling speculation that Boston is on Kahan's upcoming world tour."
-    },
-    {
-      "id": "84b1cc9cc148",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Taco Bell giving away more than $13 million to students: How to apply",
-      "link": "https://www.masslive.com/food/2026/10/taco-bell-is-giving-away-more-than-13-million-to-students-how-to-apply.html",
-      "published": "2026-10-28T19:30:57+00:00",
-      "summary": "The Live Más Scholarship doesn't require a GPA, test scores, or even a resume."
     }
   ]
 }
