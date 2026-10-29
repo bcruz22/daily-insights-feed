@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:09:50+00:00",
+  "generated_at": "2026-10-29T14:10:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -25,6 +25,16 @@
     }
   },
   "items": [
+    {
+      "id": "421fcafb7abe",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+      "published": "2026-10-29T11:00:08+00:00",
+      "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\""
+    },
     {
       "id": "f1032294b76f",
       "source": "Ars Technica",
@@ -216,24 +226,64 @@
       "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
     },
     {
-      "id": "78aca7aaafb2",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "079251699e8e",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "published": "2026-10-27T21:31:14+00:00",
-      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "published": "2026-10-29T14:00:00+00:00",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]"
+    },
+    {
+      "id": "03ca784db6a9",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
+      "link": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+      "published": "2026-10-29T13:52:48+00:00",
+      "summary": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for Shopping to \"Create a new shopping list\" or \"Show me what's left on my wedding…"
+    },
+    {
+      "id": "79542099f7a4",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+      "link": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
+      "published": "2026-10-29T13:37:56+00:00",
+      "summary": "After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid of LEDs. It's a far cry from the types of devices Bates is…"
+    },
+    {
+      "id": "0b3918620b86",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "published": "2026-10-29T13:30:00+00:00",
+      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT…"
+    },
+    {
+      "id": "997b2e5b8689",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple finally combined a toaster and a refrigerator",
+      "link": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
+      "published": "2026-10-29T13:21:02+00:00",
+      "summary": "For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Yesterday, Apple finally decided to think different and announce one anyway. \"You've gotta touch it to believe it,\" says Apple CEO John Ternus. He might be right: I haven't yet touched it, and I…"
     },
     {
       "id": "c340498c2d62",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "DoorDash is acquiring Instacart for around $17 billion",
+      "title": "DoorDash is acquiring Instacart for $17 billion",
       "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
       "published": "2026-10-29T11:56:35+00:00",
-      "summary": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery via Instacart's established grocery marketplace and retailer partnerships. DoorDash, which started as a restaurant…"
+      "summary": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart's established grocery marketplace and retailer partnerships, with Instacart CEO Chris Rogers saying…"
     },
     {
       "id": "9cd5509199bf",
@@ -276,54 +326,164 @@
       "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs…"
     },
     {
-      "id": "e4867209a9cd",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "published": "2026-10-28T21:34:04+00:00",
-      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have…"
+      "id": "76f91bf6a39b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What position should the Patriots target ahead of the trade deadline?",
+      "link": "https://www.masslive.com/patriots/2026/10/what-position-should-the-patriots-target-ahead-of-the-trade-deadline.html",
+      "published": "2026-10-29T14:04:29+00:00",
+      "summary": "After a multitude of injuries to start the season, what should the Patriots look for with the trade deadline roughly two weeks away?"
     },
     {
-      "id": "8fc3389accad",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
-      "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
-      "published": "2026-10-28T21:16:18+00:00",
-      "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've…"
+      "id": "64eafcb5260a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "College basketball head coach suspended following arrest",
+      "link": "https://www.masslive.com/sports/2026/10/college-basketball-head-coach-suspended-following-arrest.html",
+      "published": "2026-10-29T14:03:54+00:00",
+      "summary": "UTSA coach Austin Claunch was arrested on suspicion of DWI."
     },
     {
-      "id": "4c4418dd5582",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Google says its investments in AI are driving more searches",
-      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-      "published": "2026-10-28T20:22:26+00:00",
-      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact,…"
+      "id": "526656a6fa0a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jay-Z kept putting off the Super Bowl stage. Roger Goodell explains why now is the time",
+      "link": "https://www.masslive.com/sports/2026/10/roger-goodell-made-one-request-of-jay-z-years-ago-now-its-finally-happening.html",
+      "published": "2026-10-29T13:58:41+00:00",
+      "summary": "Roger Goodell explains why Jay-Z is finally headlining the Super Bowl LXI halftime show. See when it airs, how to watch and who could join him."
     },
     {
-      "id": "3905ca1fc76a",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-      "published": "2026-10-28T20:20:00+00:00",
-      "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company…"
+      "id": "69bea427871d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball results for 10/28/26: Jackpot worth $723 million",
+      "link": "https://www.masslive.com/news/2026/10/powerball-results-for-102826-jackpot-worth-723-million.html",
+      "published": "2026-10-29T13:53:52+00:00",
+      "summary": "A total of 17 players came within one ball of winning the $723 million jackpot, but there was no grand prize winner."
     },
     {
-      "id": "0043d35930ac",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-      "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
-      "published": "2026-10-28T20:12:44+00:00",
-      "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware…"
+      "id": "089e996eda11",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Boston University researchers adjusted for a key flaw in past CTE studies — and the results still show a striking toll on NFL players",
+      "link": "https://www.masslive.com/news/2026/10/boston-university-study-reveals-elevated-rate-of-cte-found-in-former-nfl-players.html",
+      "published": "2026-10-29T13:48:12+00:00",
+      "summary": "Of the 387 former players included, the study found 362 had some degree of CTE."
+    },
+    {
+      "id": "6640baf8076b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Massachusetts elections are not for sale. Vote no on Question 3 | U.S. Rep. Ayanna Pressley",
+      "link": "https://www.masslive.com/opinion/2026/10/massachusetts-elections-are-not-for-sale-vote-no-on-question-3-us-rep-ayanna-pressley.html",
+      "published": "2026-10-29T13:39:09+00:00",
+      "summary": "Question 3 would make it harder for working-class people to run and win, while giving those with the deepest pockets an even greater advantage."
+    },
+    {
+      "id": "53037f370c13",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A Halloween horror marathon is happening Saturday at landmark Mass. theater",
+      "link": "https://www.masslive.com/ne-where/2026/10/landmark-mass-theatre-to-host-13-hour-halloween-horror-movie-marathon.html",
+      "published": "2026-10-29T13:38:09+00:00",
+      "summary": "The night will include 13 hours of horror films in 35mm, live music and a rare Hammer Films print."
+    },
+    {
+      "id": "8aa19fe834af",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump says he’ll blame this person if anyone is hurt or killed at golf course",
+      "link": "https://www.masslive.com/politics/2026/10/trump-says-hell-blame-this-person-if-anyone-is-hurt-or-killed-at-golf-course.html",
+      "published": "2026-10-29T13:19:28+00:00",
+      "summary": "The president called the course \"highly dangerous\" and \"dilapidated.\""
+    },
+    {
+      "id": "bbe0a437a2c3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "TV shows are changing what parents name their babies. See 2026’s most popular names",
+      "link": "https://www.masslive.com/news/2026/10/the-most-popular-baby-names-of-2026-are-out-and-one-girls-name-made-a-surprising-jump.html",
+      "published": "2026-10-29T13:13:11+00:00",
+      "summary": "Olivia and Noah top BabyCenter’s list of the most popular baby names for 2026, but one girls’ name made a big jump. See the top names and trends."
+    },
+    {
+      "id": "e580d521c9aa",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Obama couldn't believe Trump sent his Treasury secretary to the Cheesecake Factory",
+      "link": "https://www.masslive.com/politics/2026/10/obama-roasts-trump-reaction-to-cheesecake-factory-joke-wasnt-even-mad.html",
+      "published": "2026-10-29T13:01:30+00:00",
+      "summary": "Former President Barack Obama couldn’t help but laugh at President Donald Trump’s response to the viral Cheesecake Factory joke."
+    },
+    {
+      "id": "92c18445ad08",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: Do you have a solution for navigating rude gym patrons?",
+      "link": "https://www.masslive.com/advice/2026/10/miss-manners-do-you-have-a-solution-for-navigating-rude-gym-patrons.html",
+      "published": "2026-10-29T13:00:00+00:00",
+      "summary": "It’s a small gym with a limited number of machines."
+    },
+    {
+      "id": "d28cf5de899c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A new global study on air pollution has a warning for anyone who spends time outside",
+      "link": "https://www.masslive.com/news/2026/10/more-than-half-the-world-may-have-breathed-unhealthy-air-this-year-heres-why.html",
+      "published": "2026-10-29T12:51:08+00:00",
+      "summary": "More than half the world breathed unhealthy smog in 2026, a new study finds. Learn why heat and wildfires played a role and how to check your air."
+    },
+    {
+      "id": "c06d0b0e9641",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "DoorDash buying Instacart in $17 billion deal: What it means for customers",
+      "link": "https://www.masslive.com/news/2026/10/doordash-buying-instacart-in-17-billion-deal-what-it-means-for-customers.html",
+      "published": "2026-10-29T12:50:53+00:00",
+      "summary": "The two companies delivered more than 3 billion orders last year."
+    },
+    {
+      "id": "265a93d67b7d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Family-owned jewelry store in Central Mass. to close after ‘45 wonderful years’",
+      "link": "https://www.masslive.com/centralmass/2026/10/beloved-central-mass-jewelry-store-to-close-after-45-wonderful-years.html",
+      "published": "2026-10-29T12:43:07+00:00",
+      "summary": "Its original owner opened the shop after hosting door-to-door jewelry parties in 1980."
+    },
+    {
+      "id": "6eae2e589b81",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Nantucket school volunteer arraigned on child rape charges",
+      "link": "https://www.masslive.com/capecod/2026/10/nantucket-public-schools-volunteer-arraigned-on-child-rape-charges.html",
+      "published": "2026-10-29T12:37:46+00:00",
+      "summary": "A 46-year-old Nantucket man was arraigned on child rape and other charges Wednesday. Prosecutors allege the incidents occurred over the summer in Nantucket and Wisconsin."
+    },
+    {
+      "id": "a0c207ca29a9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Where did Taylor Swift and Travis Kelce's wedding decorations go? An insider has a claim",
+      "link": "https://www.masslive.com/news/2026/10/taylor-swift-and-travis-kelces-wedding-decor-reportedly-met-a-surprising-end-fans-react.html",
+      "published": "2026-10-29T12:34:07+00:00",
+      "summary": "A new report claims Taylor Swift and Travis Kelce’s wedding decor was burned after their July wedding. Here’s what we know and why fans are upset."
     },
     {
       "id": "c0ed04581475",
@@ -390,10 +550,10 @@
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Daylight saving time will fall on an extra special day this year, and it won’t happen again for awhile",
+      "title": "Daylight saving time will end on an extra special day this year, and it won’t happen again for awhile",
       "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-will-fall-on-an-extra-special-day-this-year-and-it-wont-happen-again-for-awhile.html",
       "published": "2026-10-29T11:00:00+00:00",
-      "summary": "Daylight saving time falls on a holiday this year, and this means holiday-makers will get an extra hour of sleep"
+      "summary": "Daylight saving time ends on a holiday this year, and this means holiday-makers will get an extra hour of sleep"
     },
     {
       "id": "9e29cc86dbb7",
@@ -464,166 +624,6 @@
       "link": "https://www.masslive.com/business/2026/10/cash-is-disappearing-from-american-wallets-faster-than-most-people-realize.html",
       "published": "2026-10-29T10:15:00+00:00",
       "summary": "Higher-income households are going cashless at more than twice the rate of lower-income Americans, new data shows."
-    },
-    {
-      "id": "dd5a3c96aae4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Charles Barkley says he’s fine with a rookie talking trash to Luka Doncic, with one big exception",
-      "link": "https://www.masslive.com/sports/2026/10/a-warriors-rookie-went-after-luka-doncic-heres-where-charles-barkley-drew-the-line.html",
-      "published": "2026-10-29T10:06:22+00:00",
-      "summary": "Charles Barkley weighs in on Warriors rookie Yaxel Lendeborg's Luka Doncic comments and reveals what he thinks the rookie got wrong after the game."
-    },
-    {
-      "id": "483241665b09",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular ‘90s music group returns with new album, ‘leans back’ into early sound",
-      "link": "https://www.masslive.com/entertainment/2026/10/popular-90s-music-group-returns-with-new-album-leans-back-into-early-sound.html",
-      "published": "2026-10-29T10:00:30+00:00",
-      "summary": "See the music video for their new single."
-    },
-    {
-      "id": "c70e97ecd029",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Chiefs fans unhappy with Justin Tucker addition: ‘Can we stop signing pieces of crap’",
-      "link": "https://www.masslive.com/sports/2026/10/chiefs-fans-unhappy-with-justin-tucker-addition-can-we-stop-signing-pieces-of-crap.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "The eight-time All-Pro was suspended by the NFL after being accused of sexual misconduct."
-    },
-    {
-      "id": "1f2c16c6b45b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "No more clothespins or cereal clips: Cheerios finally has a Ziploc-style resealable bag",
-      "link": "https://www.masslive.com/food/2026/10/the-simple-cereal-box-change-that-has-breakfast-fans-saying-they-could-have-done-this-30-years-ago.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "From how the Ziploc PantrySeal closure works to which varieties are getting it first, here's what to expect."
-    },
-    {
-      "id": "301b362a8e9a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "After Anna Maria closed, its football players found a home at Nichols",
-      "link": "https://www.masslive.com/sports/2026/10/just-feeling-wanted-nichols-football-welcomed-anna-maria-transfers-after-closure.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "After Anna Maria College closed last spring, its entire football roster needed new homes. Nichols opened its arms, and both sides are better for it."
-    },
-    {
-      "id": "9b2381a2dc46",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "150 years of bridal fashion on display at Westfield Woman’s Club on Nov. 1",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/150-years-of-bridal-fashion-on-display-at-westfield-womans-club-on-nov-1.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "Westfield Woman's Club will host a free fashion show on Nov. 1 featuring over 150 years of wedding gowns from costume designer Gwen Newton-Denton's private collection."
-    },
-    {
-      "id": "7b14dbb17da1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "United Airlines adds four new routes for 2027: See where they are",
-      "link": "https://www.masslive.com/news/2026/10/united-airlines-adds-four-new-routes-for-2027-see-where-they-are.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "United Airlines is adding four new routes for 2027. See where they are"
-    },
-    {
-      "id": "2fb36225fe66",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "State doles out grants to Westfield and Southwick as reward for recycling efforts",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/state-doles-out-grants-to-westfield-and-southwick-as-reward-for-recycling-efforts.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "While the grant amounts are modest, every dollar directly offsets the cost of operating the municipal recycling programs in Westfield and Southwick."
-    },
-    {
-      "id": "70853da5b3eb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pigskin Prophet: 29 high school football game predictions for Week 8",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/pigskin-prophet-29-high-school-football-game-predictions-for-week-8.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "Who do you think will win this week?"
-    },
-    {
-      "id": "aac5a05b3214",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sexual assault charges dropped against Level 3 sex offender",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/sexual-assault-charges-dropped-against-level-3-sex-offender.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "After a grand jury decided against indicting a Level 3 sexual offender on several sexual assault charges that allegedly occurred in Westfield, the state decided against pursuing the charges, according to court records."
-    },
-    {
-      "id": "c7f7e3fe5adb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sandra Birchmore's ex-boyfriend set to testify as Matthew Farwell's defense opens its case",
-      "link": "https://www.masslive.com/news/2026/10/sandra-birchmore-ex-boyfriend-to-testify-for-defense-at-matthew-farwell-trial-thursday.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "The former Stoughton police officer's defense intends to call three witnesses to testify on Thursday."
-    },
-    {
-      "id": "57bda6f1127e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Families grapple with soaring costs for aging loved ones",
-      "link": "https://www.masslive.com/news/2026/10/families-grapple-with-soaring-costs-for-aging-loved-ones.html",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "A report found that people are reducing their own financial savings in order to support an elderly loved one who needs caregiving."
-    },
-    {
-      "id": "cd85dfb0a78d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Today’s horoscope: Is today your birthday? - Align with practicality, patience, a passionate attitude (Oct. 29, 2026)",
-      "link": "https://www.masslive.com/advice/2026/10/todays-horoscope-is-today-your-birthday-align-with-practicality-patience-a-passionate-attitude-oct-29-2026.html",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "Celebrities born on this day: Ben Foster, 46; Gabrielle Union, 54; Winona Ryder, 55; Richard Dreyfuss, 79."
-    },
-    {
-      "id": "90c1272867f4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Americans spend over $8.7K a year on aging family members, report says",
-      "link": "https://www.masslive.com/news/2026/10/americans-spend-over-87k-a-year-on-aging-family-members-report-says.html",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "There are now 11 states where there are more elderly than those under 18."
-    },
-    {
-      "id": "c018ebc12a24",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary singer dead after cancer battle: ‘Hard to find words to describe the loss’",
-      "link": "https://www.masslive.com/entertainment/2026/10/legendary-singer-dead-after-cancer-battle-hard-to-find-words-to-describe-the-loss.html",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "He died after a short stay in a hospital."
-    },
-    {
-      "id": "749842c9a368",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: If I see a professional for my intrusive thoughts, I worry they'll lock me up",
-      "link": "https://www.masslive.com/advice/2026/10/dear-abby-if-i-see-a-professional-for-my-intrusive-thoughts-i-worry-theyll-lock-me-up.html",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "I have been wishing to be in a car accident or get injured in some way just to feel pain."
     }
   ]
 }
