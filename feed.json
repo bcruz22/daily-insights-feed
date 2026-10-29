@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:09:50+00:00",
+  "generated_at": "2026-10-29T12:09:50+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -226,6 +226,16 @@
       "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
     },
     {
+      "id": "c340498c2d62",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "DoorDash is acquiring Instacart for around $17 billion",
+      "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
+      "published": "2026-10-29T11:56:35+00:00",
+      "summary": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery via Instacart's established grocery marketplace and retailer partnerships. DoorDash, which started as a restaurant…"
+    },
+    {
       "id": "9cd5509199bf",
       "source": "The Verge",
       "source_id": "verge",
@@ -316,14 +326,154 @@
       "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware…"
     },
     {
-      "id": "fc7d1d71bde9",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "published": "2026-10-28T20:03:00+00:00",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and…"
+      "id": "c0ed04581475",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Extra $50,000 available for workers in this in-demand field, White House announces",
+      "link": "https://www.masslive.com/news/2026/10/extra-50000-available-for-workers-in-this-in-demand-field-white-house-announces.html",
+      "published": "2026-10-29T12:00:00+00:00",
+      "summary": "President Donald Trum announced a $250 million plan to promote jobs in an in-demand healthcare field."
+    },
+    {
+      "id": "9330a2c52005",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Walmart-Sam’s Club bundle promises savings for th holidays",
+      "link": "https://www.masslive.com/business/2026/10/the-120-walmart-sams-club-perks-bundle-doesnt-have-an-end-date.html",
+      "published": "2026-10-29T12:00:00+00:00",
+      "summary": "The bundle seems to be part of the permanent plan moving forward. That’s good news for consumers."
+    },
+    {
+      "id": "de3599ae9c33",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "McAfee reveals threats amid ‘College GameDay’ controversy",
+      "link": "https://www.masslive.com/sports/2026/10/pat-mcafee-reveals-appalling-threats-amid-college-gameday-controversy.html",
+      "published": "2026-10-29T11:48:49+00:00",
+      "summary": "It's been a wild week for the ESPN personality."
+    },
+    {
+      "id": "8bcf02e52662",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "RMV employee's bribe income exceeded her government salary, AGO says",
+      "link": "https://www.masslive.com/news/2026/10/former-rmv-clerk-charged-in-connection-with-soliciting-bribes-in-exchange-for-faster-service.html",
+      "published": "2026-10-29T11:48:04+00:00",
+      "summary": "When the pandemic caused delays to those services, the woman started taking payments to complete customers’ transactions at a speed that was not available to ordinary citizens."
+    },
+    {
+      "id": "5ae0bb48e072",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What time is trick-or-treating on Halloween? When does it start, stop?",
+      "link": "https://www.masslive.com/news/2026/10/what-time-is-trick-or-treating-on-halloween-when-does-it-start-stop.html",
+      "published": "2026-10-29T11:15:55+00:00",
+      "summary": "Happy Halloween!"
+    },
+    {
+      "id": "27d394228d2a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Doctor: My doctor says I'm too old for a colonoscopy. What are my other options?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-my-doctor-says-im-too-old-for-a-colonoscopy-what-are-my-other-options.html",
+      "published": "2026-10-29T11:00:00+00:00",
+      "summary": "An 85-year-old woman with a positive Cologuard test seeks alternatives after her gastroenterologist deemed colonoscopy too risky given her age and sarcoma history."
+    },
+    {
+      "id": "7f9d0ac55cec",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daylight saving time will fall on an extra special day this year, and it won’t happen again for awhile",
+      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-will-fall-on-an-extra-special-day-this-year-and-it-wont-happen-again-for-awhile.html",
+      "published": "2026-10-29T11:00:00+00:00",
+      "summary": "Daylight saving time falls on a holiday this year, and this means holiday-makers will get an extra hour of sleep"
+    },
+    {
+      "id": "9e29cc86dbb7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WSU women’s soccer falls to Wentworth on Senior Night",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/wsu-womens-soccer-falls-to-wentworth-on-senior-night.html",
+      "published": "2026-10-29T10:49:38+00:00",
+      "summary": "Westfield State women's soccer lost 3-0 to Wentworth on Senior Night, while the field hockey team tied a school record with a 10-0 win over Salem State, and volleyball players Lauren Carnes and Zurielys Rivera earned MASCAC weekly honors."
+    },
+    {
+      "id": "45c4ba09b9ce",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "This Halloween decoration can be fatal to animals",
+      "link": "https://www.masslive.com/entertainment/2026/10/this-halloween-decoration-can-be-fatal-to-animals-wildlife-experts-warn.html",
+      "published": "2026-10-29T10:48:59+00:00",
+      "summary": "Here's what you need to know."
+    },
+    {
+      "id": "15df36f85e78",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sophie Cunningham says people ‘know her thoughts’ on the WNBA anthem debate. Here’s what she said",
+      "link": "https://www.masslive.com/sports/2026/10/wnba-finals-teams-keep-leaving-the-court-for-the-anthem-sophie-cunningham-shares-her-view.html",
+      "published": "2026-10-29T10:47:41+00:00",
+      "summary": "Indiana Fever guard Sophie Cunningham shares where she stands on the WNBA Finals anthem walkouts. Here’s what she said and why teams leave the court."
+    },
+    {
+      "id": "a28ca3088caf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Iconic magazine relaunches, first issue will run you $45",
+      "link": "https://www.masslive.com/entertainment/2026/10/iconic-magazine-relaunches-first-issue-will-run-45-window-into-an-america-searching-for-meaning.html",
+      "published": "2026-10-29T10:40:39+00:00",
+      "summary": "The first issue will be available next month."
+    },
+    {
+      "id": "e9bd8a4d2fac",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Warm temps, sunny skies on tap before a cool weekend",
+      "link": "https://www.masslive.com/weather/2026/10/mass-weather-sunny-skies-warm-temps-ahead-of-cool-weekend.html",
+      "published": "2026-10-29T10:27:36+00:00",
+      "summary": "By the afternoon, highs will reach the low to mid-60s across much of Massachusetts."
+    },
+    {
+      "id": "fe302dad6c4e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The NFL loved this Cam Skattebo play. Another one got him flagged",
+      "link": "https://www.masslive.com/sports/2026/10/the-nfl-loved-this-cam-skattebo-play-another-one-got-him-flagged.html",
+      "published": "2026-10-29T10:26:54+00:00",
+      "summary": "Giants running back Cam Skattebo ran for a career-high 124 yards against the Texans. So why is he calling out the NFL? Here’s what happened."
+    },
+    {
+      "id": "f26c240155d0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Nearly half of Americans don't use cash anymore — and the trend is accelerating",
+      "link": "https://www.masslive.com/business/2026/10/cash-is-disappearing-from-american-wallets-faster-than-most-people-realize.html",
+      "published": "2026-10-29T10:15:00+00:00",
+      "summary": "Higher-income households are going cashless at more than twice the rate of lower-income Americans, new data shows."
+    },
+    {
+      "id": "dd5a3c96aae4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Charles Barkley says he’s fine with a rookie talking trash to Luka Doncic, with one big exception",
+      "link": "https://www.masslive.com/sports/2026/10/a-warriors-rookie-went-after-luka-doncic-heres-where-charles-barkley-drew-the-line.html",
+      "published": "2026-10-29T10:06:22+00:00",
+      "summary": "Charles Barkley weighs in on Warriors rookie Yaxel Lendeborg's Luka Doncic comments and reveals what he thinks the rookie got wrong after the game."
     },
     {
       "id": "483241665b09",
@@ -346,16 +496,6 @@
       "summary": "The eight-time All-Pro was suspended by the NFL after being accused of sexual misconduct."
     },
     {
-      "id": "70853da5b3eb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pigskin Prophet: 29 high school football game predictions for Week 8",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/pigskin-prophet-29-high-school-football-game-predictions-for-week-8.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "Who do you think will win this week?"
-    },
-    {
       "id": "1f2c16c6b45b",
       "source": "MassLive",
       "source_id": "masslive",
@@ -374,6 +514,46 @@
       "link": "https://www.masslive.com/sports/2026/10/just-feeling-wanted-nichols-football-welcomed-anna-maria-transfers-after-closure.html",
       "published": "2026-10-29T10:00:01+00:00",
       "summary": "After Anna Maria College closed last spring, its entire football roster needed new homes. Nichols opened its arms, and both sides are better for it."
+    },
+    {
+      "id": "9b2381a2dc46",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "150 years of bridal fashion on display at Westfield Woman’s Club on Nov. 1",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/150-years-of-bridal-fashion-on-display-at-westfield-womans-club-on-nov-1.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "Westfield Woman's Club will host a free fashion show on Nov. 1 featuring over 150 years of wedding gowns from costume designer Gwen Newton-Denton's private collection."
+    },
+    {
+      "id": "7b14dbb17da1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "United Airlines adds four new routes for 2027: See where they are",
+      "link": "https://www.masslive.com/news/2026/10/united-airlines-adds-four-new-routes-for-2027-see-where-they-are.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "United Airlines is adding four new routes for 2027. See where they are"
+    },
+    {
+      "id": "2fb36225fe66",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "State doles out grants to Westfield and Southwick as reward for recycling efforts",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/state-doles-out-grants-to-westfield-and-southwick-as-reward-for-recycling-efforts.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "While the grant amounts are modest, every dollar directly offsets the cost of operating the municipal recycling programs in Westfield and Southwick."
+    },
+    {
+      "id": "70853da5b3eb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pigskin Prophet: 29 high school football game predictions for Week 8",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/pigskin-prophet-29-high-school-football-game-predictions-for-week-8.html",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "Who do you think will win this week?"
     },
     {
       "id": "aac5a05b3214",
@@ -396,36 +576,6 @@
       "summary": "The former Stoughton police officer's defense intends to call three witnesses to testify on Thursday."
     },
     {
-      "id": "2fb36225fe66",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "State doles out grants to Westfield and Southwick as reward for recycling efforts",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/state-doles-out-grants-to-westfield-and-southwick-as-reward-for-recycling-efforts.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "While the grant amounts are modest, every dollar directly offsets the cost of operating the municipal recycling programs in Westfield and Southwick."
-    },
-    {
-      "id": "7b14dbb17da1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "United Airlines adds four new routes for 2027: See where they are",
-      "link": "https://www.masslive.com/news/2026/10/united-airlines-adds-four-new-routes-for-2027-see-where-they-are.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "United Airlines is adding four new routes for 2027. See where they are"
-    },
-    {
-      "id": "9b2381a2dc46",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "150 years of bridal fashion on display at Westfield Woman’s Club on Nov. 1",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/150-years-of-bridal-fashion-on-display-at-westfield-womans-club-on-nov-1.html",
-      "published": "2026-10-29T10:00:01+00:00",
-      "summary": "Westfield Woman's Club will host a free fashion show on Nov. 1 featuring over 150 years of wedding gowns from costume designer Gwen Newton-Denton's private collection."
-    },
-    {
       "id": "57bda6f1127e",
       "source": "MassLive",
       "source_id": "masslive",
@@ -434,26 +584,6 @@
       "link": "https://www.masslive.com/news/2026/10/families-grapple-with-soaring-costs-for-aging-loved-ones.html",
       "published": "2026-10-29T10:00:00+00:00",
       "summary": "A report found that people are reducing their own financial savings in order to support an elderly loved one who needs caregiving."
-    },
-    {
-      "id": "749842c9a368",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: If I see a professional for my intrusive thoughts, I worry they'll lock me up",
-      "link": "https://www.masslive.com/advice/2026/10/dear-abby-if-i-see-a-professional-for-my-intrusive-thoughts-i-worry-theyll-lock-me-up.html",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "I have been wishing to be in a car accident or get injured in some way just to feel pain."
-    },
-    {
-      "id": "8036ff211ad3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $4.40 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-440-bet.html-2",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
     },
     {
       "id": "cd85dfb0a78d",
@@ -486,144 +616,14 @@
       "summary": "He died after a short stay in a hospital."
     },
     {
-      "id": "4ad8398079de",
+      "id": "749842c9a368",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Hampden County among highest in state for foreclosure rates, analysis finds",
-      "link": "https://www.masslive.com/westernmass/2026/10/hampden-county-among-highest-in-state-for-foreclosure-rates-analysis-finds.html",
-      "published": "2026-10-29T09:54:00+00:00",
-      "summary": "Springfield is a particular hotspot for foreclosure, the assessment by NestCash shows, with filings at three times the statewide rate."
-    },
-    {
-      "id": "8f968a956578",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Could Trump interfere with Election Day in Mass.? Officials are preparing",
-      "link": "https://www.masslive.com/politics/2026/10/could-trump-disrupt-election-day-in-mass-officials-are-readying-for-the-unknown.html",
-      "published": "2026-10-29T09:50:00+00:00",
-      "summary": "Massachusetts may not be a battleground. But with Election Day approaching, officials aren’t taking any chances."
-    },
-    {
-      "id": "043c42b05404",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Kylie Kelce had one request after her first daughter was born. Here's how the grandparents responded",
-      "link": "https://www.masslive.com/sports/2026/10/kylie-kelce-reveals-the-boundary-she-set-with-jasons-parents.html",
-      "published": "2026-10-29T09:46:23+00:00",
-      "summary": "Kylie Kelce says she asked family not to kiss her newborn’s face, head or hands. Learn why, how the grandparents reacted and what doctors say about kissing babies."
-    },
-    {
-      "id": "3df48f7794ec",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Indoor slide park offers 15 dry slides at company's first New England spot",
-      "link": "https://www.masslive.com/centralmass/2026/10/slick-city-action-park-brings-15-dry-slides-to-milford-indoor-venue.html",
-      "published": "2026-10-29T09:40:00+00:00",
-      "summary": "Slick City Action Park, a waterless indoor slide park with 15 slides and other attractions, opened recently in Milford — the first in New England."
-    },
-    {
-      "id": "950cc4e30522",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "No music, no name brands, prices lower than Walmart — here's the Aldi model explained",
-      "link": "https://www.masslive.com/food/2026/10/americas-fastest-growing-grocery-chain-is-quietly-forcing-your-favorite-store-to-lower-prices.html",
-      "published": "2026-10-29T09:30:00+00:00",
-      "summary": "Aldi's no-frills model — no music, no name brands, products left in their shipping boxes — has helped it rack up $29 billion in U.S. sales."
-    },
-    {
-      "id": "e257bacefeeb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular rock frontman dying from cancer just got married. Here’s what we know",
-      "link": "https://www.masslive.com/entertainment/2026/10/popular-rock-frontman-dying-from-cancer-just-got-married-heres-what-we-know.html",
-      "published": "2026-10-29T09:30:00+00:00",
-      "summary": "He has 2-to-3 years left to live."
-    },
-    {
-      "id": "ab9d3eb19b81",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The 10 best burger joints in Mass., ranked | Best of Mass. Burgers, Part 3",
-      "link": "https://www.masslive.com/ne-where/2026/10/the-10-best-burger-joints-in-mass-ranked-best-of-mass-burgers-part-3.html",
-      "published": "2026-10-29T09:27:00+00:00",
-      "summary": "Our picks for the 10 very best burgers in Massachusetts — but only one can be No. 1."
-    },
-    {
-      "id": "e2c280368265",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Your 911 call, hospital records and home internet may all run through this one Lowell building",
-      "link": "https://www.masslive.com/news/2026/10/inside-lowells-massive-data-center-powering-hospitals-911-and-fenway-park.html",
-      "published": "2026-10-29T09:23:00+00:00",
-      "summary": "Markley Group's facility, built in a former textile and pasta factory, stores data for telecoms, banks, universities and emergency services."
-    },
-    {
-      "id": "11b785cf95f5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Charles Barkley tears up on air after ‘Inside the NBA’ news: ‘Knew the day was coming’",
-      "link": "https://www.masslive.com/sports/2026/10/charles-barkley-tears-up-on-air-after-inside-the-nba-news-knew-the-day-was-coming.html",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "The emotional scene played out on live television."
-    },
-    {
-      "id": "70be0c19729f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How BC UMass and Bill Belichick's UNC team can reach bowl games this year",
-      "link": "https://www.masslive.com/umassfootball/2026/10/how-can-boston-college-umass-and-bill-belichicks-unc-team-qualify-for-bowl-games.html",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "How UMass, BC and Bill Belichick can reach the postseason and what doing so would mean to each program."
-    },
-    {
-      "id": "da1943f929bc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Your LA Fitness closed — but you might still be stuck paying for it",
-      "link": "https://www.masslive.com/business/2026/10/your-favorite-gym-might-be-closing-and-canceling-your-membership-is-harder-than-you-think.html",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "Eleven Florida closures lead the national count, with Connecticut, Illinois, New York and Rhode Island also losing locations."
-    },
-    {
-      "id": "4b138e762bd3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: Sibling's house is a mess and the kids are at risk, but how do I bring it up?",
-      "link": "https://www.masslive.com/advice/2026/10/asking-eric-siblings-house-is-a-mess-and-the-kids-are-at-risk-but-how-do-i-bring-it-up.html",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "There is concern for everyone’s safety, including our in-law’s mental health."
-    },
-    {
-      "id": "e10c316976be",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots Week 8 mailbag: Run game issues, trade deadline questions",
-      "link": "https://www.masslive.com/patriots/2026/10/patriots-week-8-mailbag-run-game-issues-trade-deadline-questions.html",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "With $44 million in dead money and limited cap space, the Patriots face real constraints before the Nov. 10 trade deadline."
-    },
-    {
-      "id": "3860c7d725aa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock singer taking rest of 2026 off due to health: ‘Less than ideal’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-singer-taking-rest-of-2026-off-due-to-health-less-than-ideal.html",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "He shared the news on social media."
+      "title": "Dear Abby: If I see a professional for my intrusive thoughts, I worry they'll lock me up",
+      "link": "https://www.masslive.com/advice/2026/10/dear-abby-if-i-see-a-professional-for-my-intrusive-thoughts-i-worry-theyll-lock-me-up.html",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "I have been wishing to be in a car accident or get injured in some way just to feel pain."
     }
   ]
 }
