@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T04:09:00+00:00",
+  "generated_at": "2026-10-29T08:07:44+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -326,6 +326,16 @@
       "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US…"
     },
     {
+      "id": "5d30824710f6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Religion Notes: Oct. 29, 2026",
+      "link": "https://www.masslive.com/living/2026/10/religion-notes-oct-29-2026.html",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "Religion Notes"
+    },
+    {
       "id": "9ac39d77399c",
       "source": "MassLive",
       "source_id": "masslive",
@@ -614,16 +624,6 @@
       "link": "https://www.masslive.com/sports/2026/10/lane-kiffin-jabs-sec-over-alabama-kickoff-says-conference-has-it-out-for-lsu.html",
       "published": "2026-10-28T20:32:20+00:00",
       "summary": "The LSU coach was in mid-season form on Wednesday."
-    },
-    {
-      "id": "ca40ded14bee",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ex-College GameDay star shares surprising place he expects Arch Manning to play next year",
-      "link": "https://www.masslive.com/sports/2026/10/ex-college-gameday-star-shares-surprising-place-he-expects-arch-manning-to-play-next-year.html",
-      "published": "2026-10-28T20:29:10+00:00",
-      "summary": "Former ESPN College GameDay star David Pollack does not expect Arch Manning back at Texas."
     }
   ]
 }
