@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:12:00+00:00",
+  "generated_at": "2026-10-30T10:08:28+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -240,6 +240,16 @@
       "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras."
     },
     {
+      "id": "a973ac401cee",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could…"
+    },
+    {
       "id": "73247f498d99",
       "source": "The Verge",
       "source_id": "verge",
@@ -330,14 +340,234 @@
       "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at…"
     },
     {
-      "id": "58eb3e785135",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple’s new laptop supports one of the coolest features for color pros",
-      "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
-      "published": "2026-10-29T17:48:09+00:00",
-      "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is…"
+      "id": "70b1ac05a67e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Local therapy dogs brighten up Westfield visits in festive Halloween garb",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/local-therapy-dogs-brighten-up-westfield-visits-in-festive-halloween-garb.html",
+      "published": "2026-10-30T10:00:01+00:00",
+      "summary": "Members of Therapy Dogs United's Western Mass chapter visited nursing homes and schools this week with their dogs in Halloween costumes, spreading joy to patients and students."
+    },
+    {
+      "id": "2bb0b216bc2a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Camp Shepard launches major upgrade with demolition of 1970s bathhouse",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/camp-shepard-launches-major-upgrade-with-demolition-of-1970s-bathhouse.html",
+      "published": "2026-10-30T10:00:01+00:00",
+      "summary": "The YMCA of Greater Westfield broke ground on a new welcome center, pavilion, and bathhouse at Camp Shepard, backed by over $1 million in donations including a $155,000 gift from TruNorth Bank."
+    },
+    {
+      "id": "b77a44f0f6eb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Unopposed, Mass. Rep. Pressley takes campaign to the states that could decide Congress",
+      "link": "https://www.masslive.com/politics/2026/10/mass-rep-pressley-has-nobody-to-beat-at-home-so-shes-helping-dems-retake-congress.html",
+      "published": "2026-10-30T10:00:01+00:00",
+      "summary": "Ayanna Pressley has nobody to beat this year, so she's campaigning in Michigan, Minnesota and Tennessee, with Florida next, to help Democrats win back Congress."
+    },
+    {
+      "id": "705e7202234e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved country star loses wife of 44 years to cancer: ‘Her suffering is over’",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-country-star-loses-wife-of-44-years-to-cancer-her-suffering-is-over.html",
+      "published": "2026-10-30T10:00:01+00:00",
+      "summary": "She was described as a fighter who was determined to remain with her grandchildren."
+    },
+    {
+      "id": "fe9ae0b573d1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Examining Red Sox 2027 payroll, how it affects trades, free agency before new CBA",
+      "link": "https://www.masslive.com/redsox/2026/10/examining-red-sox-2027-payroll-and-how-it-affects-trades-free-agent-signings-before-new-cba.html",
+      "published": "2026-10-30T10:00:01+00:00",
+      "summary": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million."
+    },
+    {
+      "id": "509887867f77",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Abby: Must I cancel my dream trip due to husband’s major financial mistake?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-abby-must-i-cancel-my-dream-trip-due-to-husbands-major-financial-mistake.html",
+      "published": "2026-10-30T10:00:00+00:00",
+      "summary": "I’m so angry about this, you can’t imagine — all of my hard-earned savings, gone."
+    },
+    {
+      "id": "b88b898ac6ea",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rock music world stunned as heavy-metal queen dies at 46: ‘Absolute force of nature’",
+      "link": "https://www.masslive.com/entertainment/2026/10/rock-music-world-stunned-as-heavy-metal-queen-dies-at-46-absolute-force-of-nature.html",
+      "published": "2026-10-30T10:00:00+00:00",
+      "summary": "She died due to complications from a surgery."
+    },
+    {
+      "id": "7f190bb901e0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "U.S. residents ‘not optimistic about financial future’: report",
+      "link": "https://www.masslive.com/news/2026/10/us-residents-not-optimistic-about-financial-future-report.html",
+      "published": "2026-10-30T10:00:00+00:00",
+      "summary": "A report has found a drop in consumer confidence regarding economic outlook."
+    },
+    {
+      "id": "0ebcafb611e8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Today’s horoscope: Capricorn - It’s up to you to make the life you want (Oct. 30, 2026)",
+      "link": "https://www.masslive.com/advice/2026/10/todays-horoscope-capricorn-its-up-to-you-to-make-the-life-you-want-oct-30-2026.html",
+      "published": "2026-10-30T10:00:00+00:00",
+      "summary": "Celebrities born on this day: Fiona Dourif, 45; Gavin Rossdale, 61; Harry Hamlin, 75; Henry Winkler, 81."
+    },
+    {
+      "id": "314907add6ca",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $25 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-25-bet.html-3",
+      "published": "2026-10-30T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "773fdd8390d7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $5.28 bet",
+      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-528-bet.html",
+      "published": "2026-10-30T10:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "464f11460d1c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ultramarathoner runs New England as he nears 50-state mission to fight cancer",
+      "link": "https://www.masslive.com/news/2026/10/ultramarathoner-runs-new-england-as-he-nears-50-state-mission-to-fight-cancer.html",
+      "published": "2026-10-30T09:50:00+00:00",
+      "summary": "He’s been running across the country, and now New England, to raise money to fight cancer while attempting to set a new world record."
+    },
+    {
+      "id": "ee1fdd539d76",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Halloween spending is up — and shoppers are starting earlier than you might think",
+      "link": "https://www.masslive.com/food/2026/10/heres-why-halloween-spending-is-hitting-an-all-time-high-as-1-in-5-shoppers-are-financing-the-fun.html",
+      "published": "2026-10-30T09:30:00+00:00",
+      "summary": "Shoppers are buying earlier, retailers are stocking shelves in April, and buy now, pay later is quietly reshaping the holiday."
+    },
+    {
+      "id": "2b197ccf8451",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music star on his group’s upcoming split: ‘Something I’ve been processing’",
+      "link": "https://www.masslive.com/entertainment/2026/10/country-music-star-on-his-groups-upcoming-split-something-ive-been-processing.html",
+      "published": "2026-10-30T09:30:00+00:00",
+      "summary": "He admitted it has been tough."
+    },
+    {
+      "id": "bf98b2efbfe6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "No demons, Satan or Ouija boards: Inside a top-rated Mass. haunted house’s unusual rule",
+      "link": "https://www.masslive.com/westernmass/2026/10/no-demons-satan-or-ouija-boards-inside-a-top-rated-mass-haunted-houses-unusual-rule.html",
+      "published": "2026-10-30T09:20:00+00:00",
+      "summary": "A world-ending virus? Fair game. Physical pain? Also fair game. But this top-rated Massachusetts haunted house draws the line somewhere you might not expect."
+    },
+    {
+      "id": "740b729a9171",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pop icon’s song rips Donald Trump on Iran, Epstein files: ‘One day they’ll come out’",
+      "link": "https://www.masslive.com/entertainment/2026/10/pop-icons-song-rips-donald-trump-on-iran-epstein-files-one-day-theyll-come-out.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "He obviously isn't a big fan of the president."
+    },
+    {
+      "id": "33eb6b5d50d6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Forget pumpkin spice — fruity coffee drinks are the next big thing",
+      "link": "https://www.masslive.com/food/2026/10/forget-plain-lattes-fruity-coffee-drinks-are-taking-over-cafe-menus-in-a-big-way.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "Nestlé's 2027 forecast says younger drinkers are pushing cafés toward more adventurous fruit pairings."
+    },
+    {
+      "id": "8b0a69a5ea73",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country singer’s cancer treatment may take away ability to sing: ‘Like swallowing fire’",
+      "link": "https://www.masslive.com/entertainment/2026/10/country-singers-cancer-treatment-may-take-away-ability-to-sing-like-swallowing-fire.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "The 35-year-old is battling a rare form of cancer."
+    },
+    {
+      "id": "c7adc34261ff",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "An already-ailing alcohol industry might have a new problem: GLP-1s",
+      "link": "https://www.masslive.com/news/2026/10/an-already-ailing-alcohol-industry-might-have-a-new-problem-glp-1s.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "A study found that people using GLP-1s spent 30 percent less on alcohol while they were out at a bar, pub or restaurant."
+    },
+    {
+      "id": "d6af42f9a599",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "R&B star who rose to fame in the ’90s dies at 61. Here’s what we know",
+      "link": "https://www.masslive.com/entertainment/2026/10/rb-star-who-rose-to-fame-in-the-90s-dies-at-61-heres-what-we-know.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "A cause of death has not been reported."
+    },
+    {
+      "id": "293cc8453965",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Christian Barmore’s back to his old self after blood clot setback",
+      "link": "https://www.masslive.com/patriots/2026/10/patriots-christian-barmore-is-finally-back-to-his-old-self-after-nightmare-blood-clot-setback.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "Christian Barmore was diagnosed with blood clots in his lungs in 2024. Two years later, he says a new diet and gym routine have him feeling better than ever."
+    },
+    {
+      "id": "e48303b54a92",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Asking Eric: I’m ready to retire but husband won’t stop throwing money at adult son’s financial problems",
+      "link": "https://www.masslive.com/advice/2026/10/asking-eric-im-ready-to-retire-but-husband-wont-stop-throwing-money-at-adult-sons-financial-problems.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "The problem is they come to us for money. All. The. Time. My husband, bless his heart, can’t say no."
+    },
+    {
+      "id": "b81f80032c3b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The Patriots can’t afford any Miami shenanigans on Sunday | Matt Vautour",
+      "link": "https://www.masslive.com/patriots/2026/10/the-patriots-cant-afford-any-miami-shenanigans-on-sunday.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "Beating a 1-5 Dolphins team should be easy, but games in Miami never are for the Patriots."
     },
     {
       "id": "1161821ea55e",
@@ -410,234 +640,44 @@
       "summary": "The battle of the previous two state champions in boys soccer goes to Newton North."
     },
     {
-      "id": "6c8b1712fa72",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Jayden Velez guides Holyoke football past Hoosac Valley at home",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/jayden-velez-guides-holyoke-football-past-hoosac-valley-at-home.html",
-      "published": "2026-10-30T02:30:02+00:00",
-      "summary": "The Holyoke football team earned its third win on Thursday."
+      "id": "aedf51642ecf",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+      "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+      "published": "2026-10-30T09:41:36+00:00",
+      "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek ."
     },
     {
-      "id": "cada729d7651",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Avery Cote earned his 2,000th career rushing yard for Belchertown",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/offensive-outburst-helps-belchertown-football-claim-tri-county-league-crown.html",
-      "published": "2026-10-30T02:14:52+00:00",
-      "summary": "The Orioles earned their seventh win on Thursday."
+      "id": "4bea3ce24866",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+      "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+      "published": "2026-10-30T09:32:27+00:00",
+      "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek ."
     },
     {
-      "id": "ff71a6d92534",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "This $65 Walmart stand mixer looks just as good as a KitchenAid — at a fraction of the price",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/this-65-walmart-stand-mixer-looks-just-as-good-as-a-kitchenaid-at-a-fraction-of-the-price.html",
-      "published": "2026-10-30T02:14:39+00:00",
-      "summary": "Walmart's Beautiful 3.5 Qt Stand Mixer is on sale for $64.96, offering 300 watts, 12 speeds, and dishwasher-safe accessories for everyday home baking."
+      "id": "d0d43ed2d289",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+      "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+      "published": "2026-10-30T08:44:49+00:00",
+      "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines appeared first on SecurityWeek ."
     },
     {
-      "id": "4f9c21ec6272",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Red Sox make second trade of day, send infielder to Tigers",
-      "link": "https://www.masslive.com/redsox/2026/10/red-sox-make-second-trade-of-day-send-infielder-to-tigers.html",
-      "published": "2026-10-30T02:06:16+00:00",
-      "summary": "The Red Sox have traded infielder Tsung-Che Cheng to the Tigers, according to a source."
-    },
-    {
-      "id": "669e230186e6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Milton football escapes the 'house of horrors' and 5 more thoughts from win over Weymouth",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/6-takeaways-from-milton-football-escaping-house-of-horrors-against-weymouth.html",
-      "published": "2026-10-30T02:00:05+00:00",
-      "summary": "Milton rode its dynamic running back duo and rallied for a crucial late-season win over Weymouth. Here's how the Wildcats did it."
-    },
-    {
-      "id": "5dd5e3528d24",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A new beginning on Cherry Hill: Massachusetts Veterans Home opens in Holyoke",
-      "link": "https://www.masslive.com/westernmass/2026/10/a-new-beginning-on-cherry-hill-massachusetts-veterans-home-opens-in-holyoke.html",
-      "published": "2026-10-30T01:50:57+00:00",
-      "summary": "Families who lost loved ones, veterans and elected officials gather to open the facility built in the wake of the 2020 tragedy that killed 76 residents."
-    },
-    {
-      "id": "bae1675d866d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ludlow girls volleyball storms past Belchertown, advances to WMass Class B finals (photos)",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/ludlow-girls-volleyball-storms-past-belchertown-advances-to-wmass-class-b-finals.html",
-      "published": "2026-10-30T00:34:53+00:00",
-      "summary": "Ludlow's Ella Lariviere was unstoppable from the service line in the fourth set and a big key factor in the win."
-    },
-    {
-      "id": "8445ddb807d4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Healey pledges to expand WMass veterans cemetery",
-      "link": "https://www.masslive.com/westernmass/2026/10/healey-pledges-to-expand-wmass-veterans-cemetery.html",
-      "published": "2026-10-30T00:28:28+00:00",
-      "summary": "Despite hosting more than 13,000 interments in the past 20 years, the Massachusetts Veterans Memorial Cemetery at Agawam is not running out of space, workers said."
-    },
-    {
-      "id": "44dd79b73284",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "SICS football defeats Commerce to capture Intercounty South crown",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/sics-football-defeats-commerce-to-capture-intercounty-south-crown.html",
-      "published": "2026-10-30T00:21:15+00:00",
-      "summary": "The Bulldogs celebrated in style on Thursday."
-    },
-    {
-      "id": "133ed848a765",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved Boston TV news anchor dies at 84",
-      "link": "https://www.masslive.com/boston/2026/10/longtime-boston-news-anchor-wcvbs-jim-boyd-dies-at-84.html",
-      "published": "2026-10-30T00:01:43+00:00",
-      "summary": "Boston TV news legend Jim Boyd spent nearly four decades at WCVB before his retirement in 2008."
-    },
-    {
-      "id": "de9a3ca65baf",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Potterheads are running to Owala to grab the new Harry Potter water bottles before they’re gone",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/potterheads-are-running-to-owala-to-grab-the-new-harry-potter-water-bottles-before-theyre-gone.html",
-      "published": "2026-10-29T23:40:02+00:00",
-      "summary": "Owala has launched a limited-edition Harry Potter Collection featuring six themed designs on its 30 oz FreeSip Sway Bottle."
-    },
-    {
-      "id": "5a784e476c59",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dominant duo leads St. Paul field hockey from both ends of the field",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/dominant-duo-leads-st-paul-field-hockey-from-both-ends-of-the-field.html",
-      "published": "2026-10-29T23:07:11+00:00",
-      "summary": "The Knights' Ireland Shea and Ava Grant have been playing multiple sports alongside each other for years, and they are leading St. Paul field hockey to a 13-3 season."
-    },
-    {
-      "id": "6d07a51d0838",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Driver dies in fiery rollover crash on I-91 in Whately",
-      "link": "https://www.masslive.com/westernmass/2026/10/driver-killed-in-fiery-rollover-crash-on-i-91-in-whately.html",
-      "published": "2026-10-29T22:53:12+00:00",
-      "summary": "A driver died Thursday after their car rolled over and caught fire on I-91 north in Whately."
-    },
-    {
-      "id": "f10f3630fa74",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Drury girls soccer advances to Western Mass. Class C championship",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/ella-bond-guides-drury-girls-soccer-to-first-wmass-class-c-finals.html",
-      "published": "2026-10-29T22:49:22+00:00",
-      "summary": "Drury's Ella Bond netted two goals Thursday afternoon to help lead the Blue Devils to advance to the Western Mass. Class C championship game in head coach Jason Howland's first season with the squad."
-    },
-    {
-      "id": "980b99f29e9b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Red Sox infielder undergoes foot surgery after already having finger surgery",
-      "link": "https://www.masslive.com/redsox/2026/10/red-sox-infielder-undergoes-foot-surgery-after-already-having-finger-surgery.html",
-      "published": "2026-10-29T22:31:52+00:00",
-      "summary": "Red Sox third baseman Caleb Durbin underwent right foot surgery Thursday, his second medical procedure of the offseason."
-    },
-    {
-      "id": "6b9ffd7d129c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "State board approves construction of new Gerena School in Springfield",
-      "link": "https://www.masslive.com/westernmass/2026/10/state-board-approves-construction-of-new-gerena-school-in-springfield.html",
-      "published": "2026-10-29T22:22:04+00:00",
-      "summary": "The original school is a 229,000-square-foot facility in Springfield’s North End. The building, constructed in 1975, has long been problematic."
-    },
-    {
-      "id": "e6b601ecd3d0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Fans and Hollywood stars unite to honor Sir Patrick Stewart following emotional family statement",
-      "link": "https://www.masslive.com/entertainment/2026/10/the-moving-reaction-to-sir-patrick-stewarts-passing-that-has-fans-everywhere-emotional.html",
-      "published": "2026-10-29T22:20:00+00:00",
-      "summary": "Global tributes and emotional statements poured in from Sir Ian McKellen, Star Trek cast members, and Marvel Studios honoring Sir Patrick Stewart. Read the story."
-    },
-    {
-      "id": "098ff9a3fe20",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rep. Boldyga again faces challenger’s scrutiny over past Conn. police department suspension",
-      "link": "https://www.masslive.com/westernmass/2026/10/rep-boldyga-again-faces-challengers-scrutiny-over-past-conn-police-department-suspension.html",
-      "published": "2026-10-29T22:19:24+00:00",
-      "summary": "The Simsbury Police Department documents reflect written reprimands and internal affairs investigations involving Boldyga."
-    },
-    {
-      "id": "f3ac0bb2eae8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Cold front brings wind and chill — but little rain — to Mass. Thursday into Friday",
-      "link": "https://www.masslive.com/weather/2026/10/gusty-winds-and-dry-weather-concerns-as-cold-front-sweeps-through-mass-thursday-night.html",
-      "published": "2026-10-29T22:08:03+00:00",
-      "summary": "A cold front moving through Massachusetts Thursday night will bring gusty northwest winds and dry conditions Friday."
-    },
-    {
-      "id": "504de578f756",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "With more veterans making benefits claims, see how the VA is responding",
-      "link": "https://www.masslive.com/news/2026/10/with-more-veterans-making-benefits-claims-see-how-the-va-is-responding.html",
-      "published": "2026-10-29T22:07:35+00:00",
-      "summary": "More than 3.1 million benefit claims were processed in fiscal year 2026."
-    },
-    {
-      "id": "d067155b5fa3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patagonia’s Houdini rain jacket is on sale for under $59 at REI",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/patagonias-houdini-rain-jacket-is-on-sale-for-under-59-at-rei.html",
-      "published": "2026-10-29T21:44:08+00:00",
-      "summary": "REI is offering the Patagonia Houdini Jacket at up to 50% off, with the men's version starting at $58.83, in limited sizes and colors."
-    },
-    {
-      "id": "98630f4282ad",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Jury convicts Springfield man on 6 counts of child rape",
-      "link": "https://www.masslive.com/westernmass/2026/10/springfield-man-found-guilty-on-6-counts-of-child-rape.html",
-      "published": "2026-10-29T21:32:52+00:00",
-      "summary": "Ismael Freytes-Rodriguez, 39, was sentenced to 18 to 20 years in prison after being convicted on six counts of child rape."
-    },
-    {
-      "id": "36a3b9fc1302",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Before Hollywood, Sir Patrick Stewart mastered classical stage roles",
-      "link": "https://www.masslive.com/entertainment/2026/10/before-hollywood-sir-patrick-stewart-mastered-classical-stage-roles.html",
-      "published": "2026-10-29T21:30:00+00:00",
-      "summary": "Sir Patrick Stewart transformed from a classical Royal Shakespeare Company stage actor into a global icon before his passing at age 86. Read the full story."
+      "id": "3bb9ba7c2b0a",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+      "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+      "published": "2026-10-30T08:16:26+00:00",
+      "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor appeared first on SecurityWeek ."
     },
     {
       "id": "39a633755f1e",
@@ -698,46 +738,6 @@
       "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
       "published": "2026-10-29T13:26:49+00:00",
       "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek ."
-    },
-    {
-      "id": "9ca4865974e2",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Over 41,000 DHS Employee Records Leaked Online",
-      "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
-      "published": "2026-10-29T12:54:14+00:00",
-      "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek ."
-    },
-    {
-      "id": "dac38c362139",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
-      "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
-      "published": "2026-10-29T11:00:00+00:00",
-      "summary": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net appeared first on SecurityWeek ."
-    },
-    {
-      "id": "13fcb9283069",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
-      "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
-      "published": "2026-10-29T10:29:25+00:00",
-      "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network appeared first on SecurityWeek ."
-    },
-    {
-      "id": "77d976efa8e0",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
-      "link": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
-      "published": "2026-10-29T09:47:10+00:00",
-      "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek ."
     },
     {
       "id": "6b0b1d7d0133",
