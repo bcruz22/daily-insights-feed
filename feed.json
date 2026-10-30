@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:08:51+00:00",
+  "generated_at": "2026-10-30T14:08:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -34,11 +34,41 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 6,
+      "count": 5,
       "errors": []
     }
   },
   "items": [
+    {
+      "id": "f2d90ec51a55",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+      "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+      "published": "2026-10-30T12:00:18+00:00",
+      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads."
+    },
+    {
+      "id": "ac707bc2c60f",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+      "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+      "published": "2026-10-30T11:30:01+00:00",
+      "summary": "Elizabeth Holmes has some people falling for her act all over again."
+    },
+    {
+      "id": "213759144b2c",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+      "link": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+      "published": "2026-10-30T11:00:35+00:00",
+      "summary": "It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight."
+    },
     {
       "id": "adc226400758",
       "source": "Ars Technica",
@@ -210,34 +240,54 @@
       "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\""
     },
     {
-      "id": "135119bae3af",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "2a619c52a57b",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-      "link": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
-      "published": "2026-10-28T17:55:45+00:00",
-      "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge."
+      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+      "published": "2026-10-30T13:52:14+00:00",
+      "summary": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built…"
     },
     {
-      "id": "0676def7896c",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "5ec9437afb13",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "published": "2026-10-28T17:46:32+00:00",
-      "summary": "But the AI responses get more forthright when asked outside the US."
+      "title": "Silicon Valley wants you to invest in miracles",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "published": "2026-10-30T13:11:05+00:00",
+      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of…"
     },
     {
-      "id": "bf9998920313",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "5cfbd02556ec",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
-      "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
-      "published": "2026-10-28T17:37:49+00:00",
-      "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras."
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "published": "2026-10-30T13:01:14+00:00",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile…"
+    },
+    {
+      "id": "3afeb66b9b98",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+      "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "published": "2026-10-30T13:00:00+00:00",
+      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. […]"
+    },
+    {
+      "id": "5bdaacbfd176",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "published": "2026-10-30T12:30:00+00:00",
+      "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David…"
     },
     {
       "id": "3969200a6ddb",
@@ -290,54 +340,94 @@
       "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking…"
     },
     {
-      "id": "825438a55919",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Intel says it’s selling every affordable laptop chip it can make",
-      "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-      "published": "2026-10-29T23:42:21+00:00",
-      "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right…"
+      "id": "66f3c17387ec",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Over 571 flights delayed, 53 canceled amid widespread U.S. travel disruptions",
+      "link": "https://www.masslive.com/news/2026/10/over-571-flights-delayed-53-canceled-amid-widespread-us-travel-disruptions.html",
+      "published": "2026-10-30T13:45:04+00:00",
+      "summary": "Flight cancellations and delays disrupted operations at multiple airports across the U.S."
     },
     {
-      "id": "fd539153f04e",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "published": "2026-10-29T22:19:32+00:00",
-      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1…"
+      "id": "80e5615bf605",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Karen Read and her attorney are launching a true crime podcast",
+      "link": "https://www.masslive.com/news/2026/10/karen-read-launching-true-crime-podcast-with-defense-attorney.html",
+      "published": "2026-10-30T13:44:09+00:00",
+      "summary": "Their analysis will center on how investigations were conducted and courtroom strategy."
     },
     {
-      "id": "a00f511771f1",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Patrick Stewart has died at age 86",
-      "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-      "published": "2026-10-29T20:10:02+00:00",
-      "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in…"
+      "id": "c2ce9fdf32d1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump explodes at reporter who asked about canceled rally: ‘You look like hell’",
+      "link": "https://www.masslive.com/politics/2026/10/trump-explodes-at-reporter-who-asked-about-canceled-rally-you-look-like-hell.html",
+      "published": "2026-10-30T13:39:03+00:00",
+      "summary": "President Donald Trump lashed out at a reporter who asked him whether he was “sick” of traveling."
     },
     {
-      "id": "b9e4a862399a",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Reddit will force everyone to log in",
-      "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "published": "2026-10-29T20:07:00+00:00",
-      "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a…"
+      "id": "d1484826970d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Family-run Lebanese restaurant in Cambridge to close after four decades",
+      "link": "https://www.masslive.com/news/2026/10/family-run-lebanese-restaurant-in-cambridge-to-close-after-four-decades.html",
+      "published": "2026-10-30T13:17:42+00:00",
+      "summary": "Despite the closure, the family hopes to continue sharing their food through future endeavors."
     },
     {
-      "id": "69e099708393",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Rivian’s R2 is officially its best-selling vehicle",
-      "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-      "published": "2026-10-29T20:02:00+00:00",
-      "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in…"
+      "id": "7c25ee907d97",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: Was my desire to splurge on strangers coming from a good place?",
+      "link": "https://www.masslive.com/advice/2026/10/miss-manners-was-my-desire-to-splurge-on-strangers-coming-from-a-good-place.html",
+      "published": "2026-10-30T13:00:00+00:00",
+      "summary": "While I recognize that the gesture could have been misinterpreted, my intent would have been purely altruistic."
+    },
+    {
+      "id": "f045b3882749",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bobcat spotted chilling on Dedham sidewalk, unbothered",
+      "link": "https://www.masslive.com/news/2026/10/camera-ready-wildcat-shows-off-face-card-in-mass-town.html",
+      "published": "2026-10-30T12:35:45+00:00",
+      "summary": "A wildcat that was sighted recently in a Massachusetts town showed a real flair for the camera."
+    },
+    {
+      "id": "40e9d1634986",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Gateway beats Monson to reach regional final",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/gateway-beats-monson-to-reach-regional-final.html",
+      "published": "2026-10-30T12:35:21+00:00",
+      "summary": "Gateway Regional advanced to the Western Massachusetts Class D finals with a 1-0 semifinal win over Monson, while WTA fell to Mount Greylock by the same score in the Class C semis."
+    },
+    {
+      "id": "faad0db70892",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Is Trump doomed? What bettors are saying ahead of midterms",
+      "link": "https://www.masslive.com/politics/2026/10/is-trump-doomed-what-bettors-are-saying-ahead-of-midterms.html",
+      "published": "2026-10-30T12:30:00+00:00",
+      "summary": "One party is given higher odds to flip both chambers of Congress in four days."
+    },
+    {
+      "id": "b19536c8b278",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Another Wahlburgers is closing — and it's the 3rd Mass. closure in roughly a year",
+      "link": "https://www.masslive.com/boston/2026/10/wahlburgers-to-close-fenway-location-on-halloween-after-11-years.html",
+      "published": "2026-10-30T12:25:24+00:00",
+      "summary": "Despite the closure, Wahlburgers maintained that the company is “continuing to grow.\""
     },
     {
       "id": "f95c780256c9",
@@ -440,16 +530,6 @@
       "summary": "Members of Therapy Dogs United's Western Mass chapter visited nursing homes and schools this week with their dogs in Halloween costumes, spreading joy to patients and students."
     },
     {
-      "id": "b77a44f0f6eb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Unopposed, Mass. Rep. Pressley takes campaign to the states that could decide Congress",
-      "link": "https://www.masslive.com/politics/2026/10/mass-rep-pressley-has-nobody-to-beat-at-home-so-shes-helping-dems-retake-congress.html",
-      "published": "2026-10-30T10:00:01+00:00",
-      "summary": "Ayanna Pressley has nobody to beat this year, so she's campaigning in Michigan, Minnesota and Tennessee, with Florida next, to help Democrats win back Congress."
-    },
-    {
       "id": "2bb0b216bc2a",
       "source": "MassLive",
       "source_id": "masslive",
@@ -460,14 +540,14 @@
       "summary": "The YMCA of Greater Westfield broke ground on a new welcome center, pavilion, and bathhouse at Camp Shepard, backed by over $1 million in donations including a $155,000 gift from TruNorth Bank."
     },
     {
-      "id": "fe9ae0b573d1",
+      "id": "b77a44f0f6eb",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Examining Red Sox 2027 payroll, how it affects trades, free agency before new CBA",
-      "link": "https://www.masslive.com/redsox/2026/10/examining-red-sox-2027-payroll-and-how-it-affects-trades-free-agent-signings-before-new-cba.html",
+      "title": "Unopposed, Mass. Rep. Pressley takes campaign to the states that could decide Congress",
+      "link": "https://www.masslive.com/politics/2026/10/mass-rep-pressley-has-nobody-to-beat-at-home-so-shes-helping-dems-retake-congress.html",
       "published": "2026-10-30T10:00:01+00:00",
-      "summary": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million."
+      "summary": "Ayanna Pressley has nobody to beat this year, so she's campaigning in Michigan, Minnesota and Tennessee, with Florida next, to help Democrats win back Congress."
     },
     {
       "id": "705e7202234e",
@@ -480,14 +560,14 @@
       "summary": "She was described as a fighter who was determined to remain with her grandchildren."
     },
     {
-      "id": "b88b898ac6ea",
+      "id": "fe9ae0b573d1",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Rock music world stunned as heavy-metal queen dies at 46: ‘Absolute force of nature’",
-      "link": "https://www.masslive.com/entertainment/2026/10/rock-music-world-stunned-as-heavy-metal-queen-dies-at-46-absolute-force-of-nature.html",
-      "published": "2026-10-30T10:00:00+00:00",
-      "summary": "She died due to complications from a surgery."
+      "title": "Examining Red Sox 2027 payroll, how it affects trades, free agency before new CBA",
+      "link": "https://www.masslive.com/redsox/2026/10/examining-red-sox-2027-payroll-and-how-it-affects-trades-free-agent-signings-before-new-cba.html",
+      "published": "2026-10-30T10:00:01+00:00",
+      "summary": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million."
     },
     {
       "id": "509887867f77",
@@ -498,6 +578,16 @@
       "link": "https://www.masslive.com/advice/2026/10/dear-abby-must-i-cancel-my-dream-trip-due-to-husbands-major-financial-mistake.html",
       "published": "2026-10-30T10:00:00+00:00",
       "summary": "I’m so angry about this, you can’t imagine — all of my hard-earned savings, gone."
+    },
+    {
+      "id": "b88b898ac6ea",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rock music world stunned as heavy-metal queen dies at 46: ‘Absolute force of nature’",
+      "link": "https://www.masslive.com/entertainment/2026/10/rock-music-world-stunned-as-heavy-metal-queen-dies-at-46-absolute-force-of-nature.html",
+      "published": "2026-10-30T10:00:00+00:00",
+      "summary": "She died due to complications from a surgery."
     },
     {
       "id": "0ebcafb611e8",
@@ -550,94 +640,24 @@
       "summary": "He’s been running across the country, and now New England, to raise money to fight cancer while attempting to set a new world record."
     },
     {
-      "id": "ee1fdd539d76",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Halloween spending is up — and shoppers are starting earlier than you might think",
-      "link": "https://www.masslive.com/food/2026/10/heres-why-halloween-spending-is-hitting-an-all-time-high-as-1-in-5-shoppers-are-financing-the-fun.html",
-      "published": "2026-10-30T09:30:00+00:00",
-      "summary": "Shoppers are buying earlier, retailers are stocking shelves in April, and buy now, pay later is quietly reshaping the holiday."
+      "id": "4119054fab74",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
+      "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
+      "published": "2026-10-30T13:36:12+00:00",
+      "summary": "It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek ."
     },
     {
-      "id": "2b197ccf8451",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music star on his group’s upcoming split: ‘Something I’ve been processing’",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-music-star-on-his-groups-upcoming-split-something-ive-been-processing.html",
-      "published": "2026-10-30T09:30:00+00:00",
-      "summary": "He admitted it has been tough."
-    },
-    {
-      "id": "bf98b2efbfe6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "No demons, Satan or Ouija boards: Inside a top-rated Mass. haunted house’s unusual rule",
-      "link": "https://www.masslive.com/westernmass/2026/10/no-demons-satan-or-ouija-boards-inside-a-top-rated-mass-haunted-houses-unusual-rule.html",
-      "published": "2026-10-30T09:20:00+00:00",
-      "summary": "A world-ending virus? Fair game. Physical pain? Also fair game. But this top-rated Massachusetts haunted house draws the line somewhere you might not expect."
-    },
-    {
-      "id": "740b729a9171",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pop icon’s song rips Donald Trump on Iran, Epstein files: ‘One day they’ll come out’",
-      "link": "https://www.masslive.com/entertainment/2026/10/pop-icons-song-rips-donald-trump-on-iran-epstein-files-one-day-theyll-come-out.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "He obviously isn't a big fan of the president."
-    },
-    {
-      "id": "33eb6b5d50d6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Forget pumpkin spice — fruity coffee drinks are the next big thing",
-      "link": "https://www.masslive.com/food/2026/10/forget-plain-lattes-fruity-coffee-drinks-are-taking-over-cafe-menus-in-a-big-way.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "Nestlé's 2027 forecast says younger drinkers are pushing cafés toward more adventurous fruit pairings."
-    },
-    {
-      "id": "d6af42f9a599",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "R&B star who rose to fame in the ’90s dies at 61. Here’s what we know",
-      "link": "https://www.masslive.com/entertainment/2026/10/rb-star-who-rose-to-fame-in-the-90s-dies-at-61-heres-what-we-know.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "A cause of death has not been reported."
-    },
-    {
-      "id": "e48303b54a92",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: I’m ready to retire but husband won’t stop throwing money at adult son’s financial problems",
-      "link": "https://www.masslive.com/advice/2026/10/asking-eric-im-ready-to-retire-but-husband-wont-stop-throwing-money-at-adult-sons-financial-problems.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "The problem is they come to us for money. All. The. Time. My husband, bless his heart, can’t say no."
-    },
-    {
-      "id": "8b0a69a5ea73",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country singer’s cancer treatment may take away ability to sing: ‘Like swallowing fire’",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-singers-cancer-treatment-may-take-away-ability-to-sing-like-swallowing-fire.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "The 35-year-old is battling a rare form of cancer."
-    },
-    {
-      "id": "c7adc34261ff",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "An already-ailing alcohol industry might have a new problem: GLP-1s",
-      "link": "https://www.masslive.com/news/2026/10/an-already-ailing-alcohol-industry-might-have-a-new-problem-glp-1s.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "A study found that people using GLP-1s spent 30 percent less on alcohol while they were out at a bar, pub or restaurant."
+      "id": "3556a8b02424",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
+      "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
+      "published": "2026-10-30T12:04:13+00:00",
+      "summary": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek ."
     },
     {
       "id": "35fc634a28d1",
@@ -720,26 +740,6 @@
       "summary": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on SecurityWeek ."
     },
     {
-      "id": "67386231cf52",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
-      "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-      "published": "2026-10-29T14:18:03+00:00",
-      "summary": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek ."
-    },
-    {
-      "id": "b326a55c6171",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
-      "published": "2026-10-29T13:42:52+00:00",
-      "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek ."
-    },
-    {
       "id": "6b0b1d7d0133",
       "source": "Petri",
       "source_id": "petri",
@@ -788,16 +788,6 @@
       "link": "https://petri.com/microsoft-windows-certificate-update/",
       "published": "2026-10-27T15:10:03+00:00",
       "summary": "Microsoft has released an out-of-band update for Windows after the compromise of certificate signing keys belonging to eMudhra, which is an Indian certificate authority. This incident raised concerns that attackers could potentially create fraudulent certificates or sign malicious content that…"
-    },
-    {
-      "id": "7e7435b066fb",
-      "source": "Petri",
-      "source_id": "petri",
-      "category": "tech",
-      "title": "Microsoft to Retire Defender Advanced Hunting APIs: What Security Teams Need to Know",
-      "link": "https://petri.com/microsoft-retire-defender-advanced-hunting-apis/",
-      "published": "2026-10-27T13:40:48+00:00",
-      "summary": "Microsoft is preparing to retire the Microsoft Defender for Endpoint (MDE) Advanced Hunting API and Microsoft Defender XDR Advanced Hunting API, which will require organizations to move security integrations to the Microsoft Graph Security API before the retirement deadline. This change is part of…"
     }
   ]
 }
