@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T02:09:00+00:00",
+  "generated_at": "2026-10-30T04:08:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -340,6 +340,96 @@
       "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is…"
     },
     {
+      "id": "95472d80e0a9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Field Hockey Tournament: Belchertown, Franklin Tech move into finals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-field-hockey-tournament-belchertown-franklin-tech-move-into-finals.html",
+      "published": "2026-10-30T03:55:33+00:00",
+      "summary": "The final two teams missing from the upcoming Western Massachusetts field hockey championship games have been announced."
+    },
+    {
+      "id": "fa7350a0f755",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Boys Soccer Tournament: 6 teams punch their tickets into regional finals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-boys-soccer-tournament-6-teams-punch-their-tickets-into-regional-finals.html",
+      "published": "2026-10-30T03:42:05+00:00",
+      "summary": "Six local boys' soccer teams punched their tickets into the regional finals on Thursday."
+    },
+    {
+      "id": "4dc0dcca9121",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bruins drop second straight as Blues pull away in the third",
+      "link": "https://www.masslive.com/bruins/2026/10/robert-thomas-philip-broberg-power-blues-past-bruins-at-home.html",
+      "published": "2026-10-30T03:19:30+00:00",
+      "summary": "Boston scored first, but St. Louis pulled away down the stretch."
+    },
+    {
+      "id": "fab2049e3598",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Girls Soccer Tournament: Regional championship matches are set (photos)",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-soccer-tournament-regional-championship-matches-are-set.html",
+      "published": "2026-10-30T03:08:54+00:00",
+      "summary": "The Western Massachusetts girls' soccer regional championship match ups are now set."
+    },
+    {
+      "id": "027b5ef73bdb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Newton North survives to win in battle of state champions",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/newton-north-boys-soccer-surives-dramatic-second-half-to-win-battle-of-state-champions.html",
+      "published": "2026-10-30T02:45:13+00:00",
+      "summary": "The battle of the previous two state champions in boys soccer goes to Newton North."
+    },
+    {
+      "id": "6c8b1712fa72",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jayden Velez guides Holyoke football past Hoosac Valley at home",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/jayden-velez-guides-holyoke-football-past-hoosac-valley-at-home.html",
+      "published": "2026-10-30T02:30:02+00:00",
+      "summary": "The Holyoke football team earned its third win on Thursday."
+    },
+    {
+      "id": "cada729d7651",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Avery Cote earned his 2,000th career rushing yard for Belchertown",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/offensive-outburst-helps-belchertown-football-claim-tri-county-league-crown.html",
+      "published": "2026-10-30T02:14:52+00:00",
+      "summary": "The Orioles earned their seventh win on Thursday."
+    },
+    {
+      "id": "ff71a6d92534",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "This $65 Walmart stand mixer looks just as good as a KitchenAid — at a fraction of the price",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/this-65-walmart-stand-mixer-looks-just-as-good-as-a-kitchenaid-at-a-fraction-of-the-price.html",
+      "published": "2026-10-30T02:14:39+00:00",
+      "summary": "Walmart's Beautiful 3.5 Qt Stand Mixer is on sale for $64.96, offering 300 watts, 12 speeds, and dishwasher-safe accessories for everyday home baking."
+    },
+    {
+      "id": "4f9c21ec6272",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox make second trade of day, send infielder to Tigers",
+      "link": "https://www.masslive.com/redsox/2026/10/red-sox-make-second-trade-of-day-send-infielder-to-tigers.html",
+      "published": "2026-10-30T02:06:16+00:00",
+      "summary": "The Red Sox have traded infielder Tsung-Che Cheng to the Tigers, according to a source."
+    },
+    {
       "id": "669e230186e6",
       "source": "MassLive",
       "source_id": "masslive",
@@ -364,7 +454,7 @@
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Ludlow girls volleyball storms past Belchertown, advances to WMass Class B finals",
+      "title": "Ludlow girls volleyball storms past Belchertown, advances to WMass Class B finals (photos)",
       "link": "https://www.masslive.com/highschoolsports/2026/10/ludlow-girls-volleyball-storms-past-belchertown-advances-to-wmass-class-b-finals.html",
       "published": "2026-10-30T00:34:53+00:00",
       "summary": "Ludlow's Ella Lariviere was unstoppable from the service line in the fourth set and a big key factor in the win."
@@ -548,96 +638,6 @@
       "link": "https://www.masslive.com/news/2026/10/us-cruise-ship-suspends-3-year-global-voyage-stranding-200-passengers.html",
       "published": "2026-10-29T20:52:17+00:00",
       "summary": "The cruise set sail two years ago on a voyage to the seven continents."
-    },
-    {
-      "id": "c94e48111fc6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Missing nonverbal man, 29, found deceased in Westfield",
-      "link": "https://www.masslive.com/westernmass/2026/10/missing-nonverbal-man-29-found-deceased-in-westfield.html",
-      "published": "2026-10-29T20:51:44+00:00",
-      "summary": "Foul play is not suspected, according to law enforcement officials."
-    },
-    {
-      "id": "06fbde8de933",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Vote as if your life depends on it. Future peace and prosperity sure do | Don Jones",
-      "link": "https://www.masslive.com/opinion/2026/10/vote-as-if-your-life-depends-on-it-future-peace-and-prosperity-sure-do-don-jones.html",
-      "published": "2026-10-29T20:37:16+00:00",
-      "summary": "What kind of life will your children and grandchildren have by 2050 when our very peace and prosperity are being threatened each day? Doesn’t their future demand that you not vote Republican again?"
-    },
-    {
-      "id": "7c8da12ee5a0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former NFL and college football head coach dies at 73",
-      "link": "https://www.masslive.com/sports/2026/10/former-nfl-and-college-football-head-coach-dies-at-73.html",
-      "published": "2026-10-29T20:30:33+00:00",
-      "summary": "June Jones led Hawaii to a 12-1 record and Sugar Bowl berth in 2007."
-    },
-    {
-      "id": "ab9d347d8efd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "What growth can Celtics fans expect from the young guys? (Mailbag)",
-      "link": "https://www.masslive.com/celtics/2026/10/what-growth-can-celtics-fans-expect-from-the-young-guys-mailbag.html",
-      "published": "2026-10-29T20:29:34+00:00",
-      "summary": "The Celtics have featured a deep rotation to start the season with the young guys all getting some form of run."
-    },
-    {
-      "id": "acbf6b1000ce",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Iconic actor known for ‘X-Men’ and ‘Star Trek’ dies at 86",
-      "link": "https://www.masslive.com/entertainment/2026/10/iconic-actor-known-for-x-men-and-star-trek-dies-at-86.html",
-      "published": "2026-10-29T20:29:19+00:00",
-      "summary": "One of the 'Star Trek' franchise's most iconic stars has died at age 86"
-    },
-    {
-      "id": "0fbdbaea53e8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Social casino games worth a closer look before trick-or-treat night",
-      "link": "https://www.masslive.com/sweepstakes/2026/10/social-casino-games-worth-a-closer-look-before-trick-or-treat-night.html",
-      "published": "2026-10-29T20:24:00+00:00",
-      "summary": "Trick or treat this Halloween with the best social casino games. From goblins, witches & ghosts, these are the best free social casino games at social casinos."
-    },
-    {
-      "id": "e8e3a68591d2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Part of New Hampshire’s Great Bay closing to oyster harvesting for years",
-      "link": "https://www.masslive.com/news/2026/10/20-acres-of-great-bay-closing-to-oyster-harvesting-for-5-years.html",
-      "published": "2026-10-29T20:13:39+00:00",
-      "summary": "A portion of the popular New Hampshire bay will soon be off-limits as officials work to give its oyster population a boost."
-    },
-    {
-      "id": "2cf08eb46dab",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How should Patriots attack NFL trade deadline? Here are two worthy targets",
-      "link": "https://www.masslive.com/patriots/2026/10/how-should-patriots-attack-nfl-trade-deadline-here-are-two-worthy-targets.html",
-      "published": "2026-10-29T20:08:26+00:00",
-      "summary": "Matt Vautour and Chris Mason have a couple names they'd like to see the Patriots target at the trade deadline, and they also get into Jayson Tatum's offensive explosion and what to make of the 2026 World Series."
-    },
-    {
-      "id": "5d63956bfada",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary stage, screen and TV actor Patrick Stewart dies",
-      "link": "https://www.masslive.com/entertainment/2026/10/legendary-stage-screen-and-tv-actor-patrick-stewart-dies.html",
-      "published": "2026-10-29T20:04:46+00:00",
-      "summary": "He's probably best known as Professor Charles Xavier and Captain Jean-Luc Picard from the “X-Men” and “Star Trek: The Next Generation” series and films."
     },
     {
       "id": "39a633755f1e",
