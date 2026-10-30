@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:08:28+00:00",
+  "generated_at": "2026-10-30T12:08:51+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -240,6 +240,36 @@
       "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras."
     },
     {
+      "id": "3969200a6ddb",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "published": "2026-10-30T12:00:00+00:00",
+      "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a…"
+    },
+    {
+      "id": "ab2d8c132145",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "published": "2026-10-30T11:44:53+00:00",
+      "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted…"
+    },
+    {
+      "id": "dbfbce585037",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "published": "2026-10-30T11:00:00+00:00",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the…"
+    },
+    {
       "id": "a973ac401cee",
       "source": "The Verge",
       "source_id": "verge",
@@ -310,34 +340,94 @@
       "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in…"
     },
     {
-      "id": "8b0d7d5fb555",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-      "published": "2026-10-29T19:19:28+00:00",
-      "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it…"
+      "id": "f95c780256c9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What are peptides? And what’s all the hype about? Here’s what consumers should know",
+      "link": "https://www.masslive.com/news/2026/10/what-are-peptides-and-whats-all-the-hype-about-heres-what-consumers-should-know.html",
+      "published": "2026-10-30T12:00:00+00:00",
+      "summary": "Everyone's talking about peptides, but what even are they? Here's the plain-English version, plus why the federal government is changing how it treats some of them."
     },
     {
-      "id": "2a1a8a7c88a0",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "published": "2026-10-29T18:45:31+00:00",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and…"
+      "id": "1721956cf23d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Nostradamus’ 2027 predictions: Wildfires, economic crisis, and... the apocalypse?",
+      "link": "https://www.masslive.com/news/2026/10/nostradamus-2027-predictions-wildfires-economic-crisis-and-the-apocalypse.html",
+      "published": "2026-10-30T11:45:34+00:00",
+      "summary": "\"All scripts and bonds will be wiped out,\" the French soothsayer predicted."
     },
     {
-      "id": "e872a29b19e3",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Ikea’s colorful donut-shaped smart lamp is $20 off",
-      "link": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-      "published": "2026-10-29T18:18:36+00:00",
-      "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at…"
+      "id": "7506ac47b022",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The orange-and-black Halloween taffy everyone ignored is now nearly impossible to buy",
+      "link": "https://www.masslive.com/food/2026/10/the-halloween-candy-that-ended-up-in-every-trash-can-is-now-nearly-extinct-heres-why.html",
+      "published": "2026-10-30T11:39:53+00:00",
+      "summary": "The iconic Halloween taffy, once a trick-or-treat staple, nearly disappeared entirely after its longtime producer declared bankruptcy."
+    },
+    {
+      "id": "fc4fb93bbe00",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Millions of Social Security payments hitting accounts ahead of schedule: Here’s why",
+      "link": "https://www.masslive.com/news/2026/10/millions-of-social-security-payments-hitting-accounts-ahead-of-schedule-heres-why.html",
+      "published": "2026-10-30T11:00:01+00:00",
+      "summary": "SSI payments go to more than 7.1 million low-income Americans and those with disabilities."
+    },
+    {
+      "id": "7292f40bc9aa",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Doctor: Why do doctors keep switching statins when they all make my legs hurt?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-why-do-doctors-keep-switching-statins-when-they-all-make-my-legs-hurt.html",
+      "published": "2026-10-30T11:00:00+00:00",
+      "summary": "Muscle aches are a common statin side effect, but lower-risk alternatives like pitavastatin exist, and non-statin options are available for those who cannot tolerate them."
+    },
+    {
+      "id": "250dbe7dbf72",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daylight saving time will end this weekend. When do clocks ‘fall back’?",
+      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-will-end-this-weekend-when-do-clocks-fall-back.html",
+      "published": "2026-10-30T11:00:00+00:00",
+      "summary": "Daylight saving time will end this weekend. Here's when clocks will \"fall back\""
+    },
+    {
+      "id": "f045cf3ece41",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mental health expert set to testify Friday for defense at Matthew Farwell trial",
+      "link": "https://www.masslive.com/news/2026/10/psychiatry-professor-to-testify-for-matthew-farwell-defense-friday.html",
+      "published": "2026-10-30T10:55:57+00:00",
+      "summary": "The former Stoughton police officer's defense attorneys have claimed Sandra Birchmore committed suicide after he broke up with her in February 2021."
+    },
+    {
+      "id": "3edc6ddd6cfb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Enjoy 70-degree Friday before a cold Halloween weekend",
+      "link": "https://www.masslive.com/weather/2026/10/mass-weather-warm-friday-before-cold-halloween-weekend.html",
+      "published": "2026-10-30T10:33:36+00:00",
+      "summary": "Parts of Massachusetts will approach 70 degrees Friday before a much colder Halloween arrives."
+    },
+    {
+      "id": "62e3ed2cedf2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Metal band announces new lead singer: ‘Tremendous respect’",
+      "link": "https://www.masslive.com/entertainment/2026/10/metal-band-announces-new-lead-singer-tremendous-respect.html",
+      "published": "2026-10-30T10:10:59+00:00",
+      "summary": "The group has gone through several lead vocalists over the years."
     },
     {
       "id": "70b1ac05a67e",
@@ -350,16 +440,6 @@
       "summary": "Members of Therapy Dogs United's Western Mass chapter visited nursing homes and schools this week with their dogs in Halloween costumes, spreading joy to patients and students."
     },
     {
-      "id": "2bb0b216bc2a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Camp Shepard launches major upgrade with demolition of 1970s bathhouse",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/camp-shepard-launches-major-upgrade-with-demolition-of-1970s-bathhouse.html",
-      "published": "2026-10-30T10:00:01+00:00",
-      "summary": "The YMCA of Greater Westfield broke ground on a new welcome center, pavilion, and bathhouse at Camp Shepard, backed by over $1 million in donations including a $155,000 gift from TruNorth Bank."
-    },
-    {
       "id": "b77a44f0f6eb",
       "source": "MassLive",
       "source_id": "masslive",
@@ -370,14 +450,14 @@
       "summary": "Ayanna Pressley has nobody to beat this year, so she's campaigning in Michigan, Minnesota and Tennessee, with Florida next, to help Democrats win back Congress."
     },
     {
-      "id": "705e7202234e",
+      "id": "2bb0b216bc2a",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Beloved country star loses wife of 44 years to cancer: ‘Her suffering is over’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-country-star-loses-wife-of-44-years-to-cancer-her-suffering-is-over.html",
+      "title": "Camp Shepard launches major upgrade with demolition of 1970s bathhouse",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/camp-shepard-launches-major-upgrade-with-demolition-of-1970s-bathhouse.html",
       "published": "2026-10-30T10:00:01+00:00",
-      "summary": "She was described as a fighter who was determined to remain with her grandchildren."
+      "summary": "The YMCA of Greater Westfield broke ground on a new welcome center, pavilion, and bathhouse at Camp Shepard, backed by over $1 million in donations including a $155,000 gift from TruNorth Bank."
     },
     {
       "id": "fe9ae0b573d1",
@@ -390,14 +470,14 @@
       "summary": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million."
     },
     {
-      "id": "509887867f77",
+      "id": "705e7202234e",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Dear Abby: Must I cancel my dream trip due to husband’s major financial mistake?",
-      "link": "https://www.masslive.com/advice/2026/10/dear-abby-must-i-cancel-my-dream-trip-due-to-husbands-major-financial-mistake.html",
-      "published": "2026-10-30T10:00:00+00:00",
-      "summary": "I’m so angry about this, you can’t imagine — all of my hard-earned savings, gone."
+      "title": "Beloved country star loses wife of 44 years to cancer: ‘Her suffering is over’",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-country-star-loses-wife-of-44-years-to-cancer-her-suffering-is-over.html",
+      "published": "2026-10-30T10:00:01+00:00",
+      "summary": "She was described as a fighter who was determined to remain with her grandchildren."
     },
     {
       "id": "b88b898ac6ea",
@@ -410,14 +490,14 @@
       "summary": "She died due to complications from a surgery."
     },
     {
-      "id": "7f190bb901e0",
+      "id": "509887867f77",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "U.S. residents ‘not optimistic about financial future’: report",
-      "link": "https://www.masslive.com/news/2026/10/us-residents-not-optimistic-about-financial-future-report.html",
+      "title": "Dear Abby: Must I cancel my dream trip due to husband’s major financial mistake?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-abby-must-i-cancel-my-dream-trip-due-to-husbands-major-financial-mistake.html",
       "published": "2026-10-30T10:00:00+00:00",
-      "summary": "A report has found a drop in consumer confidence regarding economic outlook."
+      "summary": "I’m so angry about this, you can’t imagine — all of my hard-earned savings, gone."
     },
     {
       "id": "0ebcafb611e8",
@@ -448,6 +528,16 @@
       "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-528-bet.html",
       "published": "2026-10-30T10:00:00+00:00",
       "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "7f190bb901e0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "U.S. residents ‘not optimistic about financial future’: report",
+      "link": "https://www.masslive.com/news/2026/10/us-residents-not-optimistic-about-financial-future-report.html",
+      "published": "2026-10-30T10:00:00+00:00",
+      "summary": "A report has found a drop in consumer confidence regarding economic outlook."
     },
     {
       "id": "464f11460d1c",
@@ -510,6 +600,26 @@
       "summary": "Nestlé's 2027 forecast says younger drinkers are pushing cafés toward more adventurous fruit pairings."
     },
     {
+      "id": "d6af42f9a599",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "R&B star who rose to fame in the ’90s dies at 61. Here’s what we know",
+      "link": "https://www.masslive.com/entertainment/2026/10/rb-star-who-rose-to-fame-in-the-90s-dies-at-61-heres-what-we-know.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "A cause of death has not been reported."
+    },
+    {
+      "id": "e48303b54a92",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Asking Eric: I’m ready to retire but husband won’t stop throwing money at adult son’s financial problems",
+      "link": "https://www.masslive.com/advice/2026/10/asking-eric-im-ready-to-retire-but-husband-wont-stop-throwing-money-at-adult-sons-financial-problems.html",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "The problem is they come to us for money. All. The. Time. My husband, bless his heart, can’t say no."
+    },
+    {
       "id": "8b0a69a5ea73",
       "source": "MassLive",
       "source_id": "masslive",
@@ -530,114 +640,14 @@
       "summary": "A study found that people using GLP-1s spent 30 percent less on alcohol while they were out at a bar, pub or restaurant."
     },
     {
-      "id": "d6af42f9a599",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "R&B star who rose to fame in the ’90s dies at 61. Here’s what we know",
-      "link": "https://www.masslive.com/entertainment/2026/10/rb-star-who-rose-to-fame-in-the-90s-dies-at-61-heres-what-we-know.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "A cause of death has not been reported."
-    },
-    {
-      "id": "293cc8453965",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Christian Barmore’s back to his old self after blood clot setback",
-      "link": "https://www.masslive.com/patriots/2026/10/patriots-christian-barmore-is-finally-back-to-his-old-self-after-nightmare-blood-clot-setback.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "Christian Barmore was diagnosed with blood clots in his lungs in 2024. Two years later, he says a new diet and gym routine have him feeling better than ever."
-    },
-    {
-      "id": "e48303b54a92",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: I’m ready to retire but husband won’t stop throwing money at adult son’s financial problems",
-      "link": "https://www.masslive.com/advice/2026/10/asking-eric-im-ready-to-retire-but-husband-wont-stop-throwing-money-at-adult-sons-financial-problems.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "The problem is they come to us for money. All. The. Time. My husband, bless his heart, can’t say no."
-    },
-    {
-      "id": "b81f80032c3b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The Patriots can’t afford any Miami shenanigans on Sunday | Matt Vautour",
-      "link": "https://www.masslive.com/patriots/2026/10/the-patriots-cant-afford-any-miami-shenanigans-on-sunday.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "Beating a 1-5 Dolphins team should be easy, but games in Miami never are for the Patriots."
-    },
-    {
-      "id": "1161821ea55e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Click to see results from across the state on Oct. 29",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-scoreboard-click-to-see-results-from-across-the-state-on-oct-29.html",
-      "published": "2026-10-30T04:26:10+00:00",
-      "summary": "Check out the reported scores from across the state on Thursday."
-    },
-    {
-      "id": "349c1216d0f7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "WMass Girls Volleyball: 7 teams move into regional finals",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-volleyball-7-teams-move-into-regional-finals.html",
-      "published": "2026-10-30T04:19:58+00:00",
-      "summary": "The Western Massachusetts girls' volleyball tournament is scheduled as a quadruple-header on Saturday."
-    },
-    {
-      "id": "95472d80e0a9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "WMass Field Hockey Tournament: Belchertown, Franklin Tech move into finals",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-field-hockey-tournament-belchertown-franklin-tech-move-into-finals.html",
-      "published": "2026-10-30T03:55:33+00:00",
-      "summary": "The final two teams missing from the upcoming Western Massachusetts field hockey championship games have been announced."
-    },
-    {
-      "id": "fa7350a0f755",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "WMass Boys Soccer Tournament: 6 teams punch their tickets into regional finals",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-boys-soccer-tournament-6-teams-punch-their-tickets-into-regional-finals.html",
-      "published": "2026-10-30T03:42:05+00:00",
-      "summary": "Six local boys' soccer teams punched their tickets into the regional finals on Thursday."
-    },
-    {
-      "id": "4dc0dcca9121",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Bruins drop second straight as Blues pull away in the third",
-      "link": "https://www.masslive.com/bruins/2026/10/robert-thomas-philip-broberg-power-blues-past-bruins-at-home.html",
-      "published": "2026-10-30T03:19:30+00:00",
-      "summary": "Boston scored first, but St. Louis pulled away down the stretch."
-    },
-    {
-      "id": "fab2049e3598",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "WMass Girls Soccer Tournament: Regional championship matches are set (photos)",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-soccer-tournament-regional-championship-matches-are-set.html",
-      "published": "2026-10-30T03:08:54+00:00",
-      "summary": "The Western Massachusetts girls' soccer regional championship match ups are now set."
-    },
-    {
-      "id": "027b5ef73bdb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Newton North survives to win in battle of state champions",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/newton-north-boys-soccer-surives-dramatic-second-half-to-win-battle-of-state-champions.html",
-      "published": "2026-10-30T02:45:13+00:00",
-      "summary": "The battle of the previous two state champions in boys soccer goes to Newton North."
+      "id": "35fc634a28d1",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
+      "link": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
+      "published": "2026-10-30T11:07:11+00:00",
+      "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal Commerce Core Vulnerability Exploited Against Online Stores appeared first on SecurityWeek ."
     },
     {
       "id": "aedf51642ecf",
@@ -728,16 +738,6 @@
       "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
       "published": "2026-10-29T13:42:52+00:00",
       "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek ."
-    },
-    {
-      "id": "1b4f07400fac",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
-      "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
-      "published": "2026-10-29T13:26:49+00:00",
-      "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek ."
     },
     {
       "id": "6b0b1d7d0133",
