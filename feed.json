@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:09:33+00:00",
+  "generated_at": "2026-10-30T18:10:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -39,6 +39,36 @@
     }
   },
   "items": [
+    {
+      "id": "b10570d1171f",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "published": "2026-10-30T17:38:19+00:00",
+      "summary": "Low costs and offline security mean magnetic tape still has a job."
+    },
+    {
+      "id": "1a9f926a45b8",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "published": "2026-10-30T16:53:49+00:00",
+      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up."
+    },
+    {
+      "id": "f6163eced81a",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+      "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+      "published": "2026-10-30T16:12:59+00:00",
+      "summary": "There's no evidence that Starship will launch traditional satellites, either."
+    },
     {
       "id": "ff7b8812916f",
       "source": "Ars Technica",
@@ -210,34 +240,44 @@
       "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea."
     },
     {
-      "id": "4af1c4c13109",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "0de3f9697e49",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-      "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-      "published": "2026-10-28T22:17:15+00:00",
-      "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\""
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "published": "2026-10-30T17:38:04+00:00",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital…"
     },
     {
-      "id": "39134a7f0350",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "314a899c02a7",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-      "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-      "published": "2026-10-28T19:20:36+00:00",
-      "summary": "It has been nearly a year since any space tourism flights occurred."
+      "title": "The delightfully messy state of Apple gadgets",
+      "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "published": "2026-10-30T17:25:20+00:00",
+      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some…"
     },
     {
-      "id": "88f09ecccd09",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "6896578ea582",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-      "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
-      "published": "2026-10-28T19:10:29+00:00",
-      "summary": "It's not as different from the previous model as you might have expected."
+      "title": "Rivian’s autonomy gamble faces its first real test",
+      "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+      "published": "2026-10-30T17:16:09+00:00",
+      "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out…"
+    },
+    {
+      "id": "fc64bf0a576f",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+      "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
+      "published": "2026-10-30T17:01:07+00:00",
+      "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right now, it’s discounted…"
     },
     {
       "id": "b0177d5e5a90",
@@ -277,7 +317,7 @@
       "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
       "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
       "published": "2026-10-30T13:52:14+00:00",
-      "summary": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built…"
+      "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at…"
     },
     {
       "id": "5ec9437afb13",
@@ -300,344 +340,304 @@
       "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile…"
     },
     {
-      "id": "3afeb66b9b98",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-      "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-      "published": "2026-10-30T13:00:00+00:00",
-      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. […]"
-    },
-    {
-      "id": "5bdaacbfd176",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-      "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
-      "published": "2026-10-30T12:30:00+00:00",
-      "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David…"
-    },
-    {
-      "id": "3969200a6ddb",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-      "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-      "published": "2026-10-30T12:00:00+00:00",
-      "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a…"
-    },
-    {
-      "id": "ab2d8c132145",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-      "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-      "published": "2026-10-30T11:44:53+00:00",
-      "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted…"
-    },
-    {
-      "id": "c2d406e382d8",
+      "id": "fbec58177e93",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Richard Norton's death prompts review of peptide treatments",
-      "link": "https://www.masslive.com/entertainment/2026/10/hollywood-actors-death-at-75-linked-to-injections.html",
-      "published": "2026-10-30T15:59:25+00:00",
-      "summary": "Actor and stuntman Richard Norton's death at 75 has been linked to a severe reaction involving prescribed peptide injections, according to a coroner's report."
+      "title": "Country music stars who are battling cancer: Singers who are fighting for their lives",
+      "link": "https://www.masslive.com/entertainment/2026/10/country-music-stars-who-are-battling-cancer-singers-who-are-fighting-for-their-lives.html",
+      "published": "2026-10-30T18:01:13+00:00",
+      "summary": "These singers have been keeping their fans updated on their fights."
     },
     {
-      "id": "28e8c11231de",
+      "id": "8564ec2cead7",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Restaurant tech giant sued: ‘Failed to honor…its promises’",
-      "link": "https://www.masslive.com/news/2026/10/restaurant-tech-giant-sued-failed-to-honorits-promises.html",
-      "published": "2026-10-30T15:57:58+00:00",
-      "summary": "The FTC and eight states have sued Toast over accusations of deceptive business practices."
+      "title": "Why military retirees won’t receive a pension check in November",
+      "link": "https://www.masslive.com/news/2026/10/why-military-retirees-wont-receive-a-pension-check-in-november.html",
+      "published": "2026-10-30T18:00:54+00:00",
+      "summary": "Payment for one month usually comes in on the first day of the next."
     },
     {
-      "id": "a9351c49027b",
+      "id": "351fc814648c",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Chloe Scott hits 2,000 career assists as Longmeadow volleyball continues dominant season",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/longmeadow-volleyball-star-chloe-scott-reaches-2000-career-assists-as-lancers-chase-another-title.html",
-      "published": "2026-10-30T15:56:33+00:00",
-      "summary": "Longmeadow senior setter Chloe Scott reaches 2,000 career assists as the 17-1 Lancers prepare to face Springfield Central in the Western Mass. Class A championship."
+      "title": "Weeks after Hanna Award, Holyoke officer receives Massachusetts Medal of Valor",
+      "link": "https://www.masslive.com/westernmass/2026/10/weeks-after-hanna-award-holyoke-officer-receives-massachusetts-medal-of-valor.html",
+      "published": "2026-10-30T17:59:15+00:00",
+      "summary": "Weeks after receiving Holyoke's highest police honors and the Trooper George Hanna Medal of Honor, Officer Steven Negron has been awarded the Massachusetts Medal of Valor for his actions during a 2025 mall shooting."
     },
     {
-      "id": "345e51eea99c",
+      "id": "e92827122943",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Massive Binance crypto hack affects $6.3 billion as new details emerge",
-      "link": "https://www.masslive.com/news/2026/10/63-billion-binance-crypto-hack-could-be-biggest-ever-as-new-details-emerge.html",
-      "published": "2026-10-30T15:44:25+00:00",
-      "summary": "Binance says $6.3 billion in crypto assets were affected in a massive hack that could become the largest cryptocurrency theft ever recorded."
+      "title": "Sweepstakes casinos list: The 8 names our team is backing this Halloween weekend",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/sweepstakes-casinos-list-the-8-names-our-team-is-backing-this-halloween-weekend.html",
+      "published": "2026-10-30T17:57:00+00:00",
+      "summary": "Explore our sweepstakes casinos list for Halloween weekend. Compare eight platforms, welcome bonuses and first-purchase offers to find your starting point."
     },
     {
-      "id": "054d3339fd4a",
+      "id": "870b9bf63bc6",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Biggest known midterm donor warns against the ‘end of democracy’ next week",
-      "link": "https://www.masslive.com/politics/2026/10/biggest-known-midterm-donor-warns-against-the-end-of-democracy-next-week.html",
-      "published": "2026-10-30T15:44:00+00:00",
-      "summary": "He outlined three reasons as to why."
+      "title": "UMass Amherst student arraigned on charges of strangulation at frat house",
+      "link": "https://www.masslive.com/westernmass/2026/10/umass-amherst-student-arraigned-on-charges-of-strangulation-at-frat-house.html",
+      "published": "2026-10-30T17:51:45+00:00",
+      "summary": "The fraternity, according to a University of Massachusetts Amherst spokesperson, is unaffiliated with the school, as it was suspended in 2025. UMass wouldn't say why the frat was suspended."
     },
     {
-      "id": "8e0e428d19f2",
+      "id": "ae2134d3cf1d",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Lee football remains perfect after defeating Ware",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/lee-football-remains-perfect-after-defeating-ware.html",
-      "published": "2026-10-30T15:43:30+00:00",
-      "summary": "The Lee football team posted its third straight 8-0 regular season with the road win."
+      "title": "Ohio State professor resigns months after confrontation caught on video",
+      "link": "https://www.masslive.com/news/2026/10/ohio-state-professor-resigns-months-after-confrontation-caught-on-video.html",
+      "published": "2026-10-30T17:48:36+00:00",
+      "summary": "An Ohio State University professor resigned months after a filmed confrontation with a documentary filmmaker led to a disorderly conduct conviction."
     },
     {
-      "id": "c817bbb99813",
+      "id": "beb8430fd787",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "When the VA disability payment for November is coming and how much you can expect",
-      "link": "https://www.masslive.com/news/2026/10/when-the-va-disability-payment-for-november-is-coming-and-how-much-you-can-expect.html",
-      "published": "2026-10-30T15:42:43+00:00",
-      "summary": "A 3.6% COLA increase is expected starting in December pending congressional approval."
+      "title": "Popular Nevada water park closing after 12 summers. Here’s why",
+      "link": "https://www.masslive.com/news/2026/10/popular-nevada-water-park-closing-after-12-years-heres-why.html",
+      "published": "2026-10-30T17:15:42+00:00",
+      "summary": "Popular Nevada water park Cowabunga Bay is closing after 12 years in Henderson as the company shifts its focus to Cowabunga Canyon."
     },
     {
-      "id": "b149d7231c4e",
+      "id": "567b621c7e05",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "HGTV star buys $150K BMW for his 16-year-old daughter",
-      "link": "https://www.masslive.com/entertainment/2026/10/hgtv-star-buys-150k-bmw-for-his-16-year-old-daughter.html",
-      "published": "2026-10-30T15:38:07+00:00",
-      "summary": "\"She deserved it because she worked really, really hard and didn’t even ask for that car,” the father-of-three argued."
+      "title": "Christa Pike blames failed execution on incompetence",
+      "link": "https://www.masslive.com/news/2026/10/christa-pike-blames-failed-execution-on-incompetence-pain-in-my-mind-and-in-my-soul.html",
+      "published": "2026-10-30T17:14:51+00:00",
+      "summary": "Her comments were dictated to Pike’s legal team from the infirmary at the prison."
     },
     {
-      "id": "80dc35de5165",
+      "id": "bfb9453bb1a0",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Labor federation urges no vote on cannabis ballot question | Letters to The Republican",
-      "link": "https://www.masslive.com/opinion/2026/10/labor-federation-urges-no-vote-on-cannabis-ballot-question-letters-to-the-republican.html",
-      "published": "2026-10-30T15:37:52+00:00",
-      "summary": "Readers also comment on the merits of voting \"red,\" Springfield commission's stance on expanded board, Rep. Neal's ads criticizing challenger Nadia Milleron, Trump's Iran war and more."
+      "title": "$29.71M record jackpot goes to Mr. Potato Head Trust",
+      "link": "https://www.masslive.com/lottery/2026/10/2971m-record-lottery-jackpot-claimed-by-mr-potato-head-trust.html",
+      "published": "2026-10-30T17:12:18+00:00",
+      "summary": "A massive Megabucks win made history, but the name attached to the prize may be just as memorable."
     },
     {
-      "id": "1108b199f0a0",
+      "id": "2f057feed114",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Boston neighborhood shut down after police shooting",
-      "link": "https://www.masslive.com/boston/2026/10/boston-neighborhood-closed-off-after-police-shooting.html",
-      "published": "2026-10-30T15:35:29+00:00",
-      "summary": "The scene of the shooting in Brighton was blocked off while police investigated."
+      "title": "Beloved actor mourned ‘practically nonexistent’ relationship with his children before death at 86",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-actor-mourned-practically-nonexistent-relationship-with-his-children-before-death-at-86.html",
+      "published": "2026-10-30T17:12:17+00:00",
+      "summary": "Patrick Stewart opened up about his complicated relationship with his children before his death"
     },
     {
-      "id": "78413b7fd3f9",
+      "id": "fd062d7d4c31",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "DNA breakthrough links Ted Bundy to another 52-year-old cold case",
-      "link": "https://www.masslive.com/news/2026/10/ted-bundy-linked-to-another-killing-as-dna-cracks-52-year-old-utah-cold-case.html",
-      "published": "2026-10-30T15:30:20+00:00",
-      "summary": "DNA evidence has linked Ted Bundy to the 1974 killing of Utah teen Smith, helping investigators close a 52-year-old cold case."
+      "title": "Boston police officer shot man who charged officers with knife, commissioner says",
+      "link": "https://www.masslive.com/boston/2026/10/man-critically-injured-in-shooting-by-boston-police-officer-after-mental-health-call.html",
+      "published": "2026-10-30T17:09:58+00:00",
+      "summary": "A Boston police officer shot and critically injured a man during a mental health crisis in Brighton Friday morning, officials said."
     },
     {
-      "id": "96bbf5442166",
+      "id": "c6f2f8ce656d",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "DoorDash purchase of Instacart will create ‘a behemoth’ delivery service",
-      "link": "https://www.masslive.com/business/2026/10/doordash-purchase-of-instacart-for-17b-will-create-a-behemoth-delivery-service.html",
-      "published": "2026-10-30T15:29:47+00:00",
-      "summary": "The merger would be the largest acquisition for DoorDash."
+      "title": "ESPN analyst reveals who Maryland should hire to replace Mike Locksley",
+      "link": "https://www.masslive.com/sports/2026/10/espn-analyst-reveals-who-maryland-should-hire-to-replace-mike-locksley.html",
+      "published": "2026-10-30T17:02:14+00:00",
+      "summary": "ESPN college football analyst Greg McElroy has a strong opinion about who Maryland should hire."
     },
     {
-      "id": "b453ced3e674",
+      "id": "89e2c306532f",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Former city councilman in Alabama arrested, accused of making terroristic threats at Hooters restaurant",
-      "link": "https://www.masslive.com/news/2026/10/former-city-councilman-arrested-accused-of-making-terroristic-threats-at-hooters-restaurant.html",
-      "published": "2026-10-30T15:27:12+00:00",
-      "summary": "A former city councilman was arrested after allegedly making violent threats to a manager and another person at a Hooters restaurant in Alabama."
+      "title": "$100K Mass Cash lottery ticket sold at Country Store in Western Mass.",
+      "link": "https://www.masslive.com/lottery/2026/10/100k-mass-cash-lottery-ticket-sold-at-country-store-in-western-mass.html",
+      "published": "2026-10-30T16:59:37+00:00",
+      "summary": "A $1 Mass Cash ticket purchased at a Western Mass. country store matched all five numbers in Thursday's evening drawing, earning the winner $100,000."
     },
     {
-      "id": "87c0087bec8a",
+      "id": "d97e4e1a0bf1",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Who will win the Senate? New poll shows Dems with a chance to flip it.",
-      "link": "https://www.masslive.com/politics/2026/10/who-will-win-the-senate-new-poll-shows-dems-with-a-chance-to-flip-it.html",
-      "published": "2026-10-30T15:26:37+00:00",
-      "summary": "The CNN polls, released Thursday, showed that Democratic candidates had strong leads in Michigan and Texas, and were neck-and-neck with the GOP candidates in Maine and Kansas."
+      "title": "Senate bean soup",
+      "link": "https://www.masslive.com/nytcooking/2026/10/793197025-senate-bean-soup.html",
+      "published": "2026-10-30T16:58:02+00:00",
+      "summary": "This stovetop Senate Bean Soup combines navy beans, smoked ham hocks, and a hint of smoked paprika for a hearty dish that's been a Senate staple for over a century."
     },
     {
-      "id": "8f6432022716",
+      "id": "c56d0b1cd611",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "‘Game of Thrones’ actor shelters in Kyiv metro station during air raid alerts",
-      "link": "https://www.masslive.com/entertainment/2026/10/game-of-thrones-star-forced-to-shelter-underground-amid-russian-air-raid-threats.html",
-      "published": "2026-10-30T15:22:44+00:00",
-      "summary": "“Game of Thrones” actor Nikolaj Coster-Waldau spent Wednesday night sheltering in a Kyiv metro station amid Russian missile and drone threats."
+      "title": "Balsamic roasted cauliflower and cranberries",
+      "link": "https://www.masslive.com/nytcooking/2026/10/793126049-balsamic-roasted-cauliflower-and-cranberries.html",
+      "published": "2026-10-30T16:57:56+00:00",
+      "summary": "Roasted cauliflower and cranberries are elevated with a tangy balsamic and maple glaze, creating a vibrant, flavorful dish perfect for any season."
     },
     {
-      "id": "9c71deda48c7",
+      "id": "7be2ba016c04",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "People with certain retirement accounts entitled to $39M settlement",
-      "link": "https://www.masslive.com/news/2026/10/people-with-certain-retirement-accounts-entitled-to-39m-settlement.html",
-      "published": "2026-10-30T15:22:32+00:00",
-      "summary": "Impacted class members don't need to submit a claim to receive payment."
+      "title": "Easy pumpkin pie with gingersnap crust",
+      "link": "https://www.masslive.com/nytcooking/2026/10/792784546-easy-pumpkin-pie-with-gingersnap-crust.html",
+      "published": "2026-10-30T16:57:51+00:00",
+      "summary": "This easy pumpkin pie features a sweet and spicy gingersnap crust paired with a creamy pumpkin filling, making it a perfect dessert ready in just over an hour."
     },
     {
-      "id": "2bea2da83659",
+      "id": "58d17ff405cb",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Springfield welcome sign puzzles driver | Letters to The Republican",
-      "link": "https://www.masslive.com/opinion/2026/10/springfield-welcome-sign-puzzles-driver-letters-to-the-republican.html",
-      "published": "2026-10-30T15:21:42+00:00",
-      "summary": "Readers also comment on rising long-term care insurance rates, Easthampton's vote to divest from Israeli commerce, AIC's challenges, Springfield's courthouse location debate, Trump's diesel deal with Putin, Congressional inaction on Iran war and more."
+      "title": "Banana date smoothie",
+      "link": "https://www.masslive.com/nytcooking/2026/10/793032593-banana-date-smoothie.html",
+      "published": "2026-10-30T16:57:45+00:00",
+      "summary": "This banana date smoothie combines creamy Greek yogurt and milk with the earthy sweetness of dates and nutmeg for a quick, nutritious start to your day, with optional fruit or veggie add-ins."
     },
     {
-      "id": "a44243d7f5b1",
+      "id": "2b5b53e7c1b3",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Data projections have been updated of Celtics NBA Cup opener against Bulls on Friday night",
-      "link": "https://www.masslive.com/betting/2026/10/data-projections-have-been-updated-of-celtics-nba-cup-opener-against-bulls-on-friday-night.html",
-      "published": "2026-10-30T15:15:00+00:00",
-      "summary": "The Celtics host the Chicago Bulls to kick off NBA Cup Play at the TD Garden on Friday. Compare Polymarket odds, spread lines, and score projections before tip off."
+      "title": "Celebrity-backed bagel chain to open first Western Mass. location",
+      "link": "https://www.masslive.com/westernmass/2026/10/popular-bagel-chain-to-open-first-western-mass-location-this-fall.html",
+      "published": "2026-10-30T16:57:44+00:00",
+      "summary": "A fast-growing bagel brand is bringing its signature hot bagels, rotating schmears and a special opening celebration to Western Mass."
     },
     {
-      "id": "1cdfe8021e2c",
+      "id": "407ee9824cd2",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Here's ‘GameDay’ picker for Week 8; Saban birthday party planned",
-      "link": "https://www.masslive.com/sports/2026/10/espns-reveals-college-gameday-guest-picker-for-week-8-plans-nick-saban-birthday-celebration.html",
-      "published": "2026-10-30T15:14:12+00:00",
-      "summary": "The popular pregame show will also feature Jon Sumrall."
+      "title": "Contractor claims Menkiti Group withheld nearly $1M in payments",
+      "link": "https://www.masslive.com/centralmass/2026/10/developer-accused-of-hiding-safety-hazard-at-worcester-apartments-withholding-nearly-1m.html",
+      "published": "2026-10-30T16:53:05+00:00",
+      "summary": "A Worcester contractor sued The Menkiti Group, alleging the developer concealed a facade safety report and withheld nearly $1 million in payments."
     },
     {
-      "id": "9af038b886d1",
+      "id": "658101aa2f9b",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Holyoke residents sought for data center study group",
-      "link": "https://www.masslive.com/westernmass/2026/10/holyoke-residents-sought-for-data-center-study-group.html",
-      "published": "2026-10-30T15:13:23+00:00",
-      "summary": "The panel will examine the potential impacts of commercial data center development."
+      "title": "Walmart, Target release list of early Black Friday sales",
+      "link": "https://www.masslive.com/business/2026/10/walmart-target-arent-waiting-for-black-friday-see-their-schedule-of-sales.html",
+      "published": "2026-10-30T16:44:45+00:00",
+      "summary": "This year, consumers are concerned about the economy, so the big-box companies are hoping multiple sales will bring more consumers to stores."
     },
     {
-      "id": "a129d25eb6cf",
+      "id": "fba27f5e9c59",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Manhunt for escaped Tennessee killer takes new turn after Illinois discovery",
-      "link": "https://www.masslive.com/news/2026/10/escaped-tennessee-killer-remains-missing-as-new-detail-emerges-in-multistate-manhunt.html",
-      "published": "2026-10-30T15:06:56+00:00",
-      "summary": "Escaped Tennessee killer Jacob Morley remains missing as police reveal new details about the stolen truck found during a multistate manhunt."
+      "title": "Arizona mom says fiancé attacked her weeks before their wedding",
+      "link": "https://www.masslive.com/news/2026/10/arizona-mom-survives-alleged-attack-by-fiance-weeks-before-their-wedding.html",
+      "published": "2026-10-30T16:36:19+00:00",
+      "summary": "An Arizona mother says her fiancé attacked her with scissors weeks before their wedding. Her 11-year-old daughter’s 911 call brought police to the home."
     },
     {
-      "id": "6e5390d719c8",
+      "id": "94278545b616",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Fight ends N.C. high school football game early, spills into parking lot before police intervene",
-      "link": "https://www.masslive.com/sports/2026/10/fight-ends-high-school-football-game-early-spills-into-parking-lot-before-police-intervene.html",
-      "published": "2026-10-30T15:01:02+00:00",
-      "summary": "Police had to use pepper spray to separate the players."
+      "title": "Why Celtics have green court instead of traditional parquet",
+      "link": "https://www.masslive.com/celtics/2026/10/why-celtics-have-green-court-instead-of-traditional-parquet.html",
+      "published": "2026-10-30T16:32:09+00:00",
+      "summary": "The NBA Cup is back and so are the unique courts just for the Cup games."
     },
     {
-      "id": "0f7da447639f",
+      "id": "210f11e48fa5",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Dear Annie: Is letting my adult son live here rent-free keeping him stuck?",
-      "link": "https://www.masslive.com/advice/2026/10/dear-annie-is-letting-my-adult-son-live-here-rent-free-keeping-him-stuck.html",
-      "published": "2026-10-30T15:00:00+00:00",
-      "summary": "My husband thinks we should just let him find his own timeline and insists the job market is really tough right now."
+      "title": "Long shadow of developer’s bank fraud held Springfield back | The Republican Editorials",
+      "link": "https://www.masslive.com/opinion/2026/10/long-shadow-of-developers-bank-fraud-held-springfield-back-the-republican-editorials.html",
+      "published": "2026-10-30T16:28:41+00:00",
+      "summary": "While the Clocktower building is on track for a new life, the 24 Park St. property that Louis Masaschi once owned – and talked up as a Hilton hotel – remains an eyesore."
     },
     {
-      "id": "98620da809c3",
+      "id": "04f89c981108",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "3 killed in Oregon helicopter collision as investigators search for answers",
-      "link": "https://www.masslive.com/news/2026/10/3-killed-after-helicopters-collide-in-oregon-as-investigators-search-for-answers.html",
-      "published": "2026-10-30T14:54:22+00:00",
-      "summary": "Three people were killed after two helicopters collided in midair near McMinnville, Oregon. Federal investigators are working to determine the cause."
+      "title": "Arizona man survives tornado after being sucked up in a tornado ‘Wizard of Oz’-style while riding bike",
+      "link": "https://www.masslive.com/news/2026/10/man-survives-tornado-after-being-sucked-up-in-a-tornado-wizard-of-oz-style-while-riding-bike.html",
+      "published": "2026-10-30T16:24:17+00:00",
+      "summary": "An Arizona man survived being lifted into the air by an EF-1 tornado while biking home."
     },
     {
-      "id": "8cec66deafef",
+      "id": "7856db08da35",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "From Mass. to Maine, these 6 New England pizzerias stand out",
-      "link": "https://www.masslive.com/food/2026/10/6-new-england-pizzerias-earn-national-honors-including-one-in-mass.html",
-      "published": "2026-10-30T14:45:17+00:00",
-      "summary": "A new roundup highlights some of the best pizza spots in each state, with New England bringing plenty to the table."
+      "title": "Iconic New England pizza spot honors Patrick Stewart with 2018 throwback post",
+      "link": "https://www.masslive.com/news/2026/10/patrick-stewart-once-visited-this-legendary-new-england-pizza-joint.html",
+      "published": "2026-10-30T16:22:15+00:00",
+      "summary": "The establishment said it was fortunate \"to have these memories of his visit.\""
     },
     {
-      "id": "23e2325048a5",
+      "id": "d2610dd1e572",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "New details emerge after wrong-way crash kills 4 in South Dakota",
-      "link": "https://www.masslive.com/news/2026/10/4-killed-in-south-dakota-crash-as-new-details-emerge-about-what-went-wrong.html",
-      "published": "2026-10-30T14:38:57+00:00",
-      "summary": "A wrong-way crash on Interstate 29 killed four people, including three Flandreau students, as a South Dakota community rallies around their families."
+      "title": "Texas Republican rightly calls Putin ‘stone cold killer’ | The Republican Editorials",
+      "link": "https://www.masslive.com/opinion/2026/10/texas-republican-rightly-calls-putin-stone-cold-killer-the-republican-editorials.html",
+      "published": "2026-10-30T16:21:10+00:00",
+      "summary": "America is debased when it appears to cozy up to a murderous dictator."
     },
     {
-      "id": "c888387508cb",
+      "id": "1123de9b65d4",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Canadian real estate CEO, daughters shot in home invasion; wife attacked with hammer",
-      "link": "https://www.masslive.com/news/2026/10/ceo-daughters-shot-in-home-invasion-wife-attacked-with-hammer.html",
-      "published": "2026-10-30T14:33:20+00:00",
-      "summary": "Three masked men broke into the Toronto home of a Canadian CEO, shooting him and his two daughters and striking his wife with a hammer before fleeing."
+      "title": "Cumberland Farms in Central Mass. sells lottery ticket worth $500K",
+      "link": "https://www.masslive.com/lottery/2026/10/500k-lottery-ticket-sold-at-cumberland-farms-in-central-mass.html",
+      "published": "2026-10-30T16:20:38+00:00",
+      "summary": "One of the game’s top prizes was claimed Thursday, with 28 more grand prizes still waiting to be won."
     },
     {
-      "id": "b9bb48bfd9e4",
+      "id": "d0e5dad35c0b",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "MBTA raises Red Line speed limit to 50 mph",
-      "link": "https://www.masslive.com/boston/2026/10/mbta-increases-maximum-speed-for-red-line-trains.html",
-      "published": "2026-10-30T14:30:47+00:00",
-      "summary": "The MBTA has increased the maximum authorized speed for Red Line trains along one busy stretch of track."
+      "title": "Cape Cod coffee truck says goodbye to longtime beach spot",
+      "link": "https://www.masslive.com/capecod/2026/10/cape-cod-coffee-truck-says-goodbye-to-popular-beach-spot.html",
+      "published": "2026-10-30T16:18:27+00:00",
+      "summary": "After spending the summer serving Cape Cod beachgoers, the business announced it won’t be back at the same spot."
     },
     {
-      "id": "f03b99f5c01b",
+      "id": "8fd1a915bf58",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "A Routine Town Meeting Took an Unexpected Turn During Public Comment",
-      "link": "https://www.masslive.com/news/2026/10/get-a-job-how-a-mayors-feud-with-a-resident-brought-a-town-council-to-a-standstill.html",
-      "published": "2026-10-30T14:22:54+00:00",
-      "summary": "A Toms River mayor faces a council vote following a heated argument with a resident during a public town meeting over local mailings."
+      "title": "All-Clad’s top-rated cast iron skillet just got a serious price cut — get 42% off",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/all-clads-top-rated-cast-iron-skillet-just-got-a-serious-price-cut-get-42-off.html",
+      "published": "2026-10-30T16:17:24+00:00",
+      "summary": "All-Clad's 12-inch Enameled Cast Iron Skillet with Lid is now $109.99, down 42%, offering no-season, rust-free performance across all cooktops."
     },
     {
-      "id": "b26374e45d98",
+      "id": "602246cdfb60",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Former ESPN star blasts Pat McAfee: ‘I could never be that soft’",
-      "link": "https://www.masslive.com/sports/2026/10/former-espn-star-blasts-pat-mcafee-i-could-never-be-that-soft.html",
-      "published": "2026-10-30T14:20:54+00:00",
-      "summary": "ESPN College GameDay star Pat McAfee said he felt unsafe during his trip to Utah."
+      "title": "DHS data leak exposes 41,000 workers and sensitive job details",
+      "link": "https://www.masslive.com/news/2026/10/massive-dhs-data-leak-exposes-41000-workers-and-details-of-sensitive-operations.html",
+      "published": "2026-10-30T16:16:27+00:00",
+      "summary": "A massive DHS data leak exposed information tied to more than 41,000 workers, including details involving sensitive and undercover assignments."
     },
     {
       "id": "5ec9d44a0613",
