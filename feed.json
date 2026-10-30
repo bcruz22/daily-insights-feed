@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:08:00+00:00",
+  "generated_at": "2026-10-30T06:12:00+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -340,6 +340,26 @@
       "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is…"
     },
     {
+      "id": "1161821ea55e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Click to see results from across the state on Oct. 29",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-scoreboard-click-to-see-results-from-across-the-state-on-oct-29.html",
+      "published": "2026-10-30T04:26:10+00:00",
+      "summary": "Check out the reported scores from across the state on Thursday."
+    },
+    {
+      "id": "349c1216d0f7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Girls Volleyball: 7 teams move into regional finals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-volleyball-7-teams-move-into-regional-finals.html",
+      "published": "2026-10-30T04:19:58+00:00",
+      "summary": "The Western Massachusetts girls' volleyball tournament is scheduled as a quadruple-header on Saturday."
+    },
+    {
       "id": "95472d80e0a9",
       "source": "MassLive",
       "source_id": "masslive",
@@ -618,26 +638,6 @@
       "link": "https://www.masslive.com/entertainment/2026/10/before-hollywood-sir-patrick-stewart-mastered-classical-stage-roles.html",
       "published": "2026-10-29T21:30:00+00:00",
       "summary": "Sir Patrick Stewart transformed from a classical Royal Shakespeare Company stage actor into a global icon before his passing at age 86. Read the full story."
-    },
-    {
-      "id": "857600f0d64d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A pro-Minogue super PAC is doing Andrea James' advertising for her. It says there's 'no hidden agenda'",
-      "link": "https://www.masslive.com/politics/2026/10/a-super-pac-backing-mike-minogue-calls-andrea-james-the-mass-mamdani-critics-say-the-real-target-is-healey.html",
-      "published": "2026-10-29T21:13:29+00:00",
-      "summary": "A super PAC backing a Republican is sending Dems a highlight reel of the socialist candidate's platform. Its chairman says there's \"no hidden agenda.\""
-    },
-    {
-      "id": "d232bc4ee952",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "US cruise ship suspends 3-year global voyage",
-      "link": "https://www.masslive.com/news/2026/10/us-cruise-ship-suspends-3-year-global-voyage-stranding-200-passengers.html",
-      "published": "2026-10-29T20:52:17+00:00",
-      "summary": "The cruise set sail two years ago on a voyage to the seven continents."
     },
     {
       "id": "39a633755f1e",
