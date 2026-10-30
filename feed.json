@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T00:08:00+00:00",
+  "generated_at": "2026-10-30T01:57:23+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -21,6 +21,20 @@
       "status": "ok",
       "feed_url": "https://www.masslive.com/arc/outboundfeeds/rss/?outputType=xml",
       "count": 30,
+      "errors": []
+    },
+    "securityweek": {
+      "name": "SecurityWeek",
+      "status": "ok",
+      "feed_url": "https://www.securityweek.com/feed/",
+      "count": 10,
+      "errors": []
+    },
+    "petri": {
+      "name": "Petri",
+      "status": "ok",
+      "feed_url": "https://petri.com/feed/",
+      "count": 6,
       "errors": []
     }
   },
@@ -326,6 +340,46 @@
       "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is…"
     },
     {
+      "id": "5dd5e3528d24",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A new beginning on Cherry Hill: Massachusetts Veterans Home opens in Holyoke",
+      "link": "https://www.masslive.com/westernmass/2026/10/a-new-beginning-on-cherry-hill-massachusetts-veterans-home-opens-in-holyoke.html",
+      "published": "2026-10-30T01:50:57+00:00",
+      "summary": "Families who lost loved ones, veterans and elected officials gather to open the facility built in the wake of the 2020 tragedy that killed 76 residents."
+    },
+    {
+      "id": "bae1675d866d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ludlow girls volleyball storms past Belchertown, advances to WMass Class B finals",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/ludlow-girls-volleyball-storms-past-belchertown-advances-to-wmass-class-b-finals.html",
+      "published": "2026-10-30T00:34:53+00:00",
+      "summary": "Ludlow's Ella Lariviere was unstoppable from the service line in the fourth set and a big key factor in the win."
+    },
+    {
+      "id": "8445ddb807d4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Healey pledges to expand WMass veterans cemetery",
+      "link": "https://www.masslive.com/westernmass/2026/10/healey-pledges-to-expand-wmass-veterans-cemetery.html",
+      "published": "2026-10-30T00:28:28+00:00",
+      "summary": "Despite hosting more than 13,000 interments in the past 20 years, the Massachusetts Veterans Memorial Cemetery at Agawam is not running out of space, workers said."
+    },
+    {
+      "id": "44dd79b73284",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "SICS football defeats Commerce to capture Intercounty South crown",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/sics-football-defeats-commerce-to-capture-intercounty-south-crown.html",
+      "published": "2026-10-30T00:21:15+00:00",
+      "summary": "The Bulldogs celebrated in style on Thursday."
+    },
+    {
       "id": "133ed848a765",
       "source": "MassLive",
       "source_id": "masslive",
@@ -586,44 +640,164 @@
       "summary": "This morning, Gomez was spotted standing at the end of his driveway on Riverside Road, reviewing paperwork with prominent criminal defense attorney Daniel D. Kelly shortly after 11 a.m. A second defense lawyer, Daniel Hagan, arrived minutes later."
     },
     {
-      "id": "6d99616cb1aa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: Is there a way to tell someone I don't want to be friends without causing offense?",
-      "link": "https://www.masslive.com/advice/2026/10/asking-eric-is-there-a-way-to-tell-someone-i-dont-want-to-be-friends-without-causing-offense.html",
-      "published": "2026-10-29T20:00:00+00:00",
-      "summary": "I am certain he means well, but I am not interested in his daily life."
+      "id": "39a633755f1e",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+      "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+      "published": "2026-10-29T16:30:00+00:00",
+      "summary": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis…"
     },
     {
-      "id": "f5b58e04eb07",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Live Scoreboard: Click to see Week 8 football results from across the state",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/live-scoreboard-click-to-see-week-8-football-results-from-across-the-state.html",
-      "published": "2026-10-29T20:00:00+00:00",
-      "summary": "Keep track of all this week's football results as they come in."
+      "id": "f5faf77d9641",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
+      "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
+      "published": "2026-10-29T15:01:00+00:00",
+      "summary": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model appeared first on SecurityWeek ."
     },
     {
-      "id": "0da272ea8d81",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Live Coverage: Week 8 of Massachusetts high school football",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/live-coverage-week-8-of-massachusetts-high-school-football.html",
-      "published": "2026-10-29T20:00:00+00:00",
-      "summary": "MassLive will be at 18 football games across the state this week. Here's how to get updates."
+      "id": "fcadd0dd5cf0",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
+      "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+      "published": "2026-10-29T15:00:00+00:00",
+      "summary": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on SecurityWeek ."
     },
     {
-      "id": "3c4d20960320",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A Georgia family thought they said goodbye to their pug, until a Facebook post revealed the truth",
-      "link": "https://www.masslive.com/news/2026/10/a-georgia-family-paid-to-put-down-their-sick-pug-then-spotted-her-on-facebook-months-later.html",
-      "published": "2026-10-29T19:44:02+00:00",
-      "summary": "A Georgia family filed a state complaint after discovering their sick pug was kept alive by a vet technician months after paying for euthanasia. Read the full story."
+      "id": "67386231cf52",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
+      "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+      "published": "2026-10-29T14:18:03+00:00",
+      "summary": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek ."
+    },
+    {
+      "id": "b326a55c6171",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+      "published": "2026-10-29T13:42:52+00:00",
+      "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "id": "1b4f07400fac",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+      "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+      "published": "2026-10-29T13:26:49+00:00",
+      "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek ."
+    },
+    {
+      "id": "9ca4865974e2",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Over 41,000 DHS Employee Records Leaked Online",
+      "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+      "published": "2026-10-29T12:54:14+00:00",
+      "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek ."
+    },
+    {
+      "id": "dac38c362139",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
+      "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
+      "published": "2026-10-29T11:00:00+00:00",
+      "summary": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net appeared first on SecurityWeek ."
+    },
+    {
+      "id": "13fcb9283069",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+      "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+      "published": "2026-10-29T10:29:25+00:00",
+      "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network appeared first on SecurityWeek ."
+    },
+    {
+      "id": "77d976efa8e0",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+      "link": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+      "published": "2026-10-29T09:47:10+00:00",
+      "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek ."
+    },
+    {
+      "id": "6b0b1d7d0133",
+      "source": "Petri",
+      "source_id": "petri",
+      "category": "tech",
+      "title": "Survey Claims Microsoft Licensing Influences Cloud Provider Choices",
+      "link": "https://petri.com/microsoft-licensing-influences-cloud-choices/",
+      "published": "2026-10-29T16:20:58+00:00",
+      "summary": "A survey commissioned by the Coalition for Fair Software Licensing (CFSL) argues that many organizations face significant barriers when running Microsoft software outside of Azure. According to the study, respondents believe Microsoft’s licensing terms create extra costs and operational hurdles…"
+    },
+    {
+      "id": "04587cefc2d5",
+      "source": "Petri",
+      "source_id": "petri",
+      "category": "tech",
+      "title": "Rising AI Costs are Forcing Enterprises to Rethink Deployment Strategies",
+      "link": "https://petri.com/rising-ai-costs-enterprise-ai-strategies/",
+      "published": "2026-10-29T14:57:03+00:00",
+      "summary": "Many organizations have moved beyond AI experimentation and are now trying to deploy AI across business-critical operations. However, scaling AI introduces new problems that were less visible during pilot projects. Rising inference and token costs are making AI workloads more expensive than…"
+    },
+    {
+      "id": "4cce266353ff",
+      "source": "Petri",
+      "source_id": "petri",
+      "category": "tech",
+      "title": "Microsoft Releases CLAT for IPv6-Only Networks in Windows 11",
+      "link": "https://petri.com/microsoft-windows-clat-ipv6-only-networks/",
+      "published": "2026-10-28T15:52:19+00:00",
+      "summary": "Organizations are increasingly moving toward IPv6-only or IPv6-first networks as available IPv4 addresses become harder to obtain and manage. However, many business applications, services, and devices still rely on IPv4 connectivity. This dependency creates a major obstacle for enterprises that…"
+    },
+    {
+      "id": "66bf5ee87393",
+      "source": "Petri",
+      "source_id": "petri",
+      "category": "tech",
+      "title": "Attackers are Exploiting Microsoft Teams External Chats to Gain Initial Access",
+      "link": "https://petri.com/attackers-exploit-microsoft-teams-chats-initial-access/",
+      "published": "2026-10-28T12:57:51+00:00",
+      "summary": "Cybersecurity researchers have observed more than 400 incidents in which threat actors abused the external chat feature in Microsoft Teams to gain initial access to corporate environments. Rather than exploiting a software flaw, attackers took advantage of Teams’ default external-access…"
+    },
+    {
+      "id": "0e64f64f703a",
+      "source": "Petri",
+      "source_id": "petri",
+      "category": "tech",
+      "title": "Microsoft Releases Windows Certificate Update After eMudhra Key Compromise",
+      "link": "https://petri.com/microsoft-windows-certificate-update/",
+      "published": "2026-10-27T15:10:03+00:00",
+      "summary": "Microsoft has released an out-of-band update for Windows after the compromise of certificate signing keys belonging to eMudhra, which is an Indian certificate authority. This incident raised concerns that attackers could potentially create fraudulent certificates or sign malicious content that…"
+    },
+    {
+      "id": "7e7435b066fb",
+      "source": "Petri",
+      "source_id": "petri",
+      "category": "tech",
+      "title": "Microsoft to Retire Defender Advanced Hunting APIs: What Security Teams Need to Know",
+      "link": "https://petri.com/microsoft-retire-defender-advanced-hunting-apis/",
+      "published": "2026-10-27T13:40:48+00:00",
+      "summary": "Microsoft is preparing to retire the Microsoft Defender for Endpoint (MDE) Advanced Hunting API and Microsoft Defender XDR Advanced Hunting API, which will require organizations to move security integrations to the Microsoft Graph Security API before the retirement deadline. This change is part of…"
     }
   ]
 }
