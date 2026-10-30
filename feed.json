@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T20:12:00+00:00",
+  "generated_at": "2026-10-30T22:09:50+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -39,6 +39,36 @@
     }
   },
   "items": [
+    {
+      "id": "65d255a74525",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "published": "2026-10-30T20:40:13+00:00",
+      "summary": "People who love AI don't always love telling others they used it."
+    },
+    {
+      "id": "a222d0a212be",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+      "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+      "published": "2026-10-30T20:17:50+00:00",
+      "summary": "Faked symptoms still point to infections that antibiotics don't treat."
+    },
+    {
+      "id": "538ea1326a6a",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "published": "2026-10-30T19:30:52+00:00",
+      "summary": "But it's still early days for the relatively new e-commerce use case."
+    },
     {
       "id": "64f7a393ec93",
       "source": "Ars Technica",
@@ -210,34 +240,34 @@
       "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings."
     },
     {
-      "id": "ec59d102565d",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "d756b882783b",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-      "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-      "published": "2026-10-29T12:58:34+00:00",
-      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access."
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "published": "2026-10-30T21:01:32+00:00",
+      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images…"
     },
     {
-      "id": "421fcafb7abe",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "e6a83342c0c5",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-      "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-      "published": "2026-10-29T11:00:08+00:00",
-      "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\""
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "published": "2026-10-30T20:48:43+00:00",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A…"
     },
     {
-      "id": "f1032294b76f",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "25a528e218b1",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-      "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-      "published": "2026-10-28T22:51:15+00:00",
-      "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters."
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10+00:00",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of…"
     },
     {
       "id": "c4dbacf8aa2b",
@@ -310,34 +340,184 @@
       "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous…"
     },
     {
-      "id": "faea81d36f03",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-      "published": "2026-10-30T14:23:26+00:00",
-      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient,…"
+      "id": "cc25095ebb59",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Long-awaited ‘flyover’ bridge to replace WMass rail crossing in 2028",
+      "link": "https://www.masslive.com/westernmass/2026/10/long-awaited-flyover-bridge-to-replace-wmass-rail-crossing-in-2028.html",
+      "published": "2026-10-30T22:05:21+00:00",
+      "summary": "Trains wait going into or coming out of the CSX yard in West Springfield, blocking traffic. Warning arms go down, blood pressures go up."
     },
     {
-      "id": "2a619c52a57b",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-      "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
-      "published": "2026-10-30T13:52:14+00:00",
-      "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at…"
+      "id": "58a77f168f03",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Halloween chocolate sales down this year: ’Spooky time’",
+      "link": "https://www.masslive.com/news/2026/10/halloween-chocolate-sales-down-this-year-spooky-time.html",
+      "published": "2026-10-30T22:00:00+00:00",
+      "summary": "Halloween chocolate sales are expected to fall about about 11 percent this year."
     },
     {
-      "id": "5ec9437afb13",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Silicon Valley wants you to invest in miracles",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "published": "2026-10-30T13:11:05+00:00",
-      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of…"
+      "id": "0a5c7d2b388a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "NBA head coach to miss game Friday due to heartbreaking family news",
+      "link": "https://www.masslive.com/sports/2026/10/nba-head-coach-to-miss-game-friday-due-to-heartbreaking-family-news.html",
+      "published": "2026-10-30T21:54:45+00:00",
+      "summary": "Rick Carlisle will not coach for the Indiana Pacers during Friday's game against the Miami Heat."
+    },
+    {
+      "id": "05db1040c986",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Man riding moped killed in early morning Revere crash",
+      "link": "https://www.masslive.com/news/2026/10/man-riding-moped-killed-in-early-morning-revere-crash.html",
+      "published": "2026-10-30T21:37:11+00:00",
+      "summary": "A man riding a moped in Revere early Friday morning was killed in a crash."
+    },
+    {
+      "id": "c40f835f40c7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sandra Birchmore faced a 'lifetime of adversities.' Was Matthew Farwell breakup one?",
+      "link": "https://www.masslive.com/news/2026/10/matthew-farwell-breakup-may-have-pushed-sandra-birchmore-over-the-edge-defense-expert-says.html",
+      "published": "2026-10-30T21:22:21+00:00",
+      "summary": "The battle over Sandra Birchmore's mental state before her death came to a head during Matthew Farwell's trial on Friday."
+    },
+    {
+      "id": "fb824ee75079",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Man found in shallow, wooded Quincy grave identified after 35 years",
+      "link": "https://www.masslive.com/news/2026/10/man-found-in-quincy-grave-identified-after-35-years-homicide-remains-unsolved.html",
+      "published": "2026-10-30T21:17:42+00:00",
+      "summary": "The skeletal remains of a man found in a shallow Quincy grave 35 years ago have finally been identified, though the homicide case remains unsolved."
+    },
+    {
+      "id": "d52d39dcfa7f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Cozy Earth just dropped its most affordable version of the celebrity-favorite Cuddle Blanket",
+      "link": "https://www.masslive.com/shopping-deals/2026/10/cozy-earth-just-dropped-their-most-affordable-version-of-the-celebrity-favorite-cuddle-blanket.html",
+      "published": "2026-10-30T21:13:05+00:00",
+      "summary": "Cozy Earth's new Snuggle Cuddle Blanket is the brand's most affordable Cuddle Collection option, featuring lightweight faux fur, OEKO-TEX certification, and available in seven colors for $118 with code INTHELOOP."
+    },
+    {
+      "id": "017c9ad104e5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "‘The Daily Show’ veteran dies at 54 in car crash",
+      "link": "https://www.masslive.com/entertainment/2026/10/the-daily-show-veteran-dies-at-54-in-car-crash.html",
+      "published": "2026-10-30T21:03:38+00:00",
+      "summary": "Kevin Bleyer, who spent nine years working on “The Daily Show with Jon Stewart,” died in a Pennsylvania car crash at age 54."
+    },
+    {
+      "id": "c8a81854e393",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hegseth announces tuition-free graduate school for this group of service members",
+      "link": "https://www.masslive.com/news/2026/10/hegseth-announces-tuition-free-graduate-school-for-this-group-of-service-members.html",
+      "published": "2026-10-30T21:03:23+00:00",
+      "summary": "The defense chief said those take the option can keep their pay, allowances and benefits."
+    },
+    {
+      "id": "be4b17b14b76",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Indy candidate for 3rd Hampden District calls disclosure error unintentional",
+      "link": "https://www.masslive.com/westernmass/2026/10/indy-candidate-for-3rd-hampden-district-calls-disclosure-error-unintentional.html",
+      "published": "2026-10-30T20:59:55+00:00",
+      "summary": "Earlier this week, the state Republican Party filed a complaint against Perron with the Massachusetts State Ethics Commission omitted his previous employment with the Westfield Police Department on required financial disclosures."
+    },
+    {
+      "id": "514db9ec18f1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Watch it live: Two Western Mass. volleyball championships set for Saturday",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/watch-it-live-masslive-to-stream-two-western-mass-girls-volleyball-championship-matches.html",
+      "published": "2026-10-30T20:53:34+00:00",
+      "summary": "MassLive will stream the Western Mass. Class A and Class B girls volleyball championship matches Saturday, Oct. 31, featuring Longmeadow, Springfield Central, East Longmeadow and Ludlow."
+    },
+    {
+      "id": "19ccf719dbcf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Actor calls ex-wife’s remarks about earning less a ‘low blow’",
+      "link": "https://www.masslive.com/entertainment/2026/10/actor-calls-ex-wifes-remarks-about-earning-less-a-low-blow.html",
+      "published": "2026-10-30T20:51:41+00:00",
+      "summary": "Joe Manganiello says Sofía Vergara's comments about dating men who earn less money were a “low blow” following his yearslong health battle."
+    },
+    {
+      "id": "92c6a8fdc77a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Smith College will keep Fort Hill childcare center open through 2029",
+      "link": "https://www.masslive.com/westernmass/2026/10/smith-college-will-keep-fort-hill-childcare-center-open-through-2029.html",
+      "published": "2026-10-30T20:49:23+00:00",
+      "summary": "About a week ago, the college said the center would be closing. The college community responded with protests."
+    },
+    {
+      "id": "a3bbe3c4c273",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "List of social casinos in USA: Every site players are opening this spooky season",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/list-of-social-casinos-in-usa-every-site-players-are-opening-this-spooky-season.html",
+      "published": "2026-10-30T20:44:00+00:00",
+      "summary": "Browse the ultimate list of social casinos in the USA. Skip the rankings and find the exact standout feature you are looking for this spooky season. Learn more."
+    },
+    {
+      "id": "e35fd0ec02db",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Six teams, three championships: Western Mass. field hockey finals set for Saturday",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/western-mass-field-hockey-championships-breaking-down-all-three-title-matchups.html",
+      "published": "2026-10-30T20:41:57+00:00",
+      "summary": "Six teams will compete for Western Mass. field hockey championships Saturday at West Springfield High School. Here's a breakdown of the Class A, B and C finals."
+    },
+    {
+      "id": "cd042d45ab36",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Full list of sweepstakes casinos: 12 sites our team is backing for Halloween",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/full-list-of-sweepstakes-casinos-12-sites-our-team-is-backing-for-halloween.html",
+      "published": "2026-10-30T20:39:00+00:00",
+      "summary": "Here's our full list of sweepstakes casinos for Halloween week, comparing established favorites with newer platforms, welcome offers and reasons to join."
+    },
+    {
+      "id": "63777fd42716",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Western Mass. gymnastics championship preview: Standout gymnasts to watch",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/western-mass-gymnastics-championship-teams-and-gymnasts-to-watch.html",
+      "published": "2026-10-30T20:16:21+00:00",
+      "summary": "Five Western Massachusetts gymnastics programs will compete for a sectional championship Sunday. Meet the top teams and standout gymnasts to watch."
+    },
+    {
+      "id": "a85fdd5659fd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular hair products recalled over ‘serious injury’ and ‘poisoning’ risks: Return ASAP",
+      "link": "https://www.masslive.com/news/2026/10/popular-hair-products-recalled-over-serious-injury-and-poisoning-risks-return-asap.html",
+      "published": "2026-10-30T20:16:10+00:00",
+      "summary": "Thousands of hair products sold nationwide on Amazon are being recalled for posing serious safety risks to young children. Here's how to tell if you have any hiding in your home."
     },
     {
       "id": "7ac8e58dd735",
@@ -458,186 +638,6 @@
       "link": "https://www.masslive.com/shopping-deals/2026/10/samsungs-55-inch-mini-led-tv-drops-to-under-300-during-rare-sale-at-walmart.html",
       "published": "2026-10-30T18:56:31+00:00",
       "summary": "Walmart's Rollback sale prices the Samsung 55\" M70HB Mini LED 4K Smart TV at $298, offering premium picture technology with AI-powered features at a budget-friendly cost."
-    },
-    {
-      "id": "07621837b4c8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield right to ramp up its long battle with #bikelife | The Republican Editorials",
-      "link": "https://www.masslive.com/opinion/2026/10/springfield-right-to-ramp-up-its-long-battle-with-bikelife-the-republican-editorials.html",
-      "published": "2026-10-30T18:47:49+00:00",
-      "summary": "Thinning fleets of illegal riders is worth the effort, but the road looks bumpy, in part because people are wary of one of the city’s key tools in catching illegal riders: traffic cameras."
-    },
-    {
-      "id": "fc5fb112eb38",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "See the results from Massachusetts State House and Senate races",
-      "link": "https://www.masslive.com/politics/2026/10/election-results-2026-mass-state-house-and-senate-races.html",
-      "published": "2026-10-30T18:46:41+00:00",
-      "summary": "Live results from contested Massachusetts House and Senate races."
-    },
-    {
-      "id": "1249f67b1098",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Holyoke’s ‘Halloween Headquarters’? Neighbors say it’s Dartmouth Street",
-      "link": "https://www.masslive.com/westernmass/2026/10/holyokes-halloween-headquarters-neighbors-say-its-dartmouth-street.html",
-      "published": "2026-10-30T18:43:12+00:00",
-      "summary": "Residents say creativity, generosity and community spirit have helped turn the Holyoke street into one of the city's favorite places to trick-or-treat."
-    },
-    {
-      "id": "44dad319ab8d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ex-DOGE startup gets inside Anthropic through unexpected weakness",
-      "link": "https://www.masslive.com/news/2026/10/ai-startup-founded-by-ex-doge-staffers-gets-inside-anthropic-heres-how.html",
-      "published": "2026-10-30T18:38:00+00:00",
-      "summary": "An AI cybersecurity startup founded by former DOGE staffers gained access to some Anthropic systems through weaknesses in third-party business software."
-    },
-    {
-      "id": "3762e7883e8f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Fitchburg snack factory to close, laying off 62 employees",
-      "link": "https://www.masslive.com/centralmass/2026/10/central-mass-factory-that-once-churned-out-new-england-brand-snacks-to-close.html",
-      "published": "2026-10-30T18:30:20+00:00",
-      "summary": "A Fitchburg snack food factory, formerly the historic Wachusett Potato Chip plant, will close Dec. 15, laying off 62 workers."
-    },
-    {
-      "id": "1b7b1d96ee85",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "People have received religious exemption for AI usage",
-      "link": "https://www.masslive.com/news/2026/10/people-have-received-religious-exemption-against-ai-usage.html",
-      "published": "2026-10-30T18:24:16+00:00",
-      "summary": "Durham, a humanist, does not believe that he can, \"in good conscience, partake in the use and proliferation\" of AI."
-    },
-    {
-      "id": "359829354e66",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump still believes Americans don’t know what this word means",
-      "link": "https://www.masslive.com/politics/2026/10/trump-still-believes-americans-dont-know-what-this-word-means.html",
-      "published": "2026-10-30T18:24:00+00:00",
-      "summary": "The president doubled down on his argument as controversy swirls around Alaska's Senate race."
-    },
-    {
-      "id": "cd68b5d96e14",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Cause of death revealed for ‘General Hospital’ star who died at 62",
-      "link": "https://www.masslive.com/entertainment/2026/10/cause-of-death-revealed-for-general-hospital-star-who-died-at-62.html",
-      "published": "2026-10-30T18:21:09+00:00",
-      "summary": "A soap opera star turned down medical attention before his ‘sudden’ death at 62"
-    },
-    {
-      "id": "4768415941d2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Fast-growing pilates brand opening 3 studios in Boston area for first time",
-      "link": "https://www.masslive.com/boston/2026/10/fast-growing-pilates-brand-opening-3-studios-in-boston-area-for-first-time.html",
-      "published": "2026-10-30T18:20:11+00:00",
-      "summary": "The brand's 45-minute full-body classes combine pilates-inspired movement with its signature Rowformer and Bikeformer machines."
-    },
-    {
-      "id": "d3cef4fab630",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2 college students found dead after disappearing on Colorado mountain",
-      "link": "https://www.masslive.com/news/2026/10/2-college-students-found-dead-on-colorado-mountain-after-mysterious-disappearance.html",
-      "published": "2026-10-30T18:19:15+00:00",
-      "summary": "Two Colorado Mountain College students were found dead on West Apostle Mountain after disappearing during a hike as heavy snow hit the area."
-    },
-    {
-      "id": "0a143a5d2135",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Red Sox’ top starting pitcher in 2026 becomes free agent",
-      "link": "https://www.masslive.com/redsox/2026/10/red-sox-top-starting-pitcher-in-2026-becomes-free-agent.html",
-      "published": "2026-10-30T18:15:35+00:00",
-      "summary": "Starting pitcher Sonny Gray is officially a free agent. His Red Sox’ $30 million mutual option for 2027 has been declined."
-    },
-    {
-      "id": "23a1eb5e6596",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Motorcyclist killed in late-night crash on Mass. highway",
-      "link": "https://www.masslive.com/news/2026/10/motorcyclist-killed-in-crash-on-mass-highway.html",
-      "published": "2026-10-30T18:12:58+00:00",
-      "summary": "The motorcyclist was pronounced dead at the scene. No arrests have been announced."
-    },
-    {
-      "id": "b39dea9de30c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock frontman on cancer diagnosis: ‘I’m not seeking pity’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-frontman-on-cancer-diagnosis-im-not-seeking-pity.html",
-      "published": "2026-10-30T18:10:26+00:00",
-      "summary": "He shared the news on social media."
-    },
-    {
-      "id": "9554737d7f14",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots takeaways: A.J. Brown questionable with knee injury",
-      "link": "https://www.masslive.com/patriots/2026/10/patriots-takeaways-aj-brown-injury-update-receiver-depth-is-running-low-and-more.html",
-      "published": "2026-10-30T18:08:53+00:00",
-      "summary": "A.J. Brown's knee flared up this week after he played two games in five days, and his status for Sunday is questionable."
-    },
-    {
-      "id": "e965199e7cf1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Viral photo shows reality star hanging out with ex-husband weeks after partner’s death",
-      "link": "https://www.masslive.com/entertainment/2026/10/viral-photo-shows-reality-star-hanging-out-with-ex-husband-weeks-after-partners-death.html",
-      "published": "2026-10-30T18:07:43+00:00",
-      "summary": "The speculation began after a TikTok video featured the image with text suggesting Blanchard could reunite with Anderson now that Urker is “out of the way.”"
-    },
-    {
-      "id": "fbec58177e93",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music stars who are battling cancer: Singers who are fighting for their lives",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-music-stars-who-are-battling-cancer-singers-who-are-fighting-for-their-lives.html",
-      "published": "2026-10-30T18:01:13+00:00",
-      "summary": "These singers have been keeping their fans updated on their fights."
-    },
-    {
-      "id": "8564ec2cead7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Why military retirees won’t receive a pension check in November",
-      "link": "https://www.masslive.com/news/2026/10/why-military-retirees-wont-receive-a-pension-check-in-november.html",
-      "published": "2026-10-30T18:00:54+00:00",
-      "summary": "Payment for one month usually comes in on the first day of the next."
-    },
-    {
-      "id": "351fc814648c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Weeks after Hanna Award, Holyoke officer receives Massachusetts Medal of Valor",
-      "link": "https://www.masslive.com/westernmass/2026/10/weeks-after-hanna-award-holyoke-officer-receives-massachusetts-medal-of-valor.html",
-      "published": "2026-10-30T17:59:15+00:00",
-      "summary": "Weeks after receiving Holyoke's highest police honors and the Trooper George Hanna Medal of Honor, Officer Steven Negron has been awarded the Massachusetts Medal of Valor for his actions during a 2025 mall shooting."
     },
     {
       "id": "5ec9d44a0613",
