@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:08:00+00:00",
+  "generated_at": "2026-10-30T16:09:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -34,11 +34,31 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 5,
+      "count": 6,
       "errors": []
     }
   },
   "items": [
+    {
+      "id": "ff7b8812916f",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "GM to pay $220 million after selling customer Smart Driver data",
+      "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+      "published": "2026-10-30T13:53:20+00:00",
+      "summary": "Owners of GM cars found their driving data had been sold to insurance companies."
+    },
+    {
+      "id": "ff5ccffe8e2c",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "published": "2026-10-30T13:46:39+00:00",
+      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea."
+    },
     {
       "id": "f2d90ec51a55",
       "source": "Ars Technica",
@@ -57,7 +77,7 @@
       "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
       "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
       "published": "2026-10-30T11:30:01+00:00",
-      "summary": "Elizabeth Holmes has some people falling for her act all over again."
+      "summary": "Disgraced founder of Theranos has some people falling for her act all over again."
     },
     {
       "id": "213759144b2c",
@@ -67,7 +87,7 @@
       "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
       "link": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
       "published": "2026-10-30T11:00:35+00:00",
-      "summary": "It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight."
+      "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight."
     },
     {
       "id": "adc226400758",
@@ -220,24 +240,34 @@
       "summary": "It's not as different from the previous model as you might have expected."
     },
     {
-      "id": "bfd6acefc1fb",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "b0177d5e5a90",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "published": "2026-10-28T18:47:27+00:00",
-      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "published": "2026-10-30T15:29:02+00:00",
+      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just…"
     },
     {
-      "id": "fb777c0e9df7",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "974d9b85c8fb",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-      "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-      "published": "2026-10-28T18:05:22+00:00",
-      "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\""
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "published": "2026-10-30T14:58:06+00:00",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous…"
+    },
+    {
+      "id": "faea81d36f03",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "published": "2026-10-30T14:23:26+00:00",
+      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient,…"
     },
     {
       "id": "2a619c52a57b",
@@ -310,334 +340,334 @@
       "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted…"
     },
     {
-      "id": "dbfbce585037",
-      "source": "The Verge",
-      "source_id": "verge",
+      "id": "c2d406e382d8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Richard Norton's death prompts review of peptide treatments",
+      "link": "https://www.masslive.com/entertainment/2026/10/hollywood-actors-death-at-75-linked-to-injections.html",
+      "published": "2026-10-30T15:59:25+00:00",
+      "summary": "Actor and stuntman Richard Norton's death at 75 has been linked to a severe reaction involving prescribed peptide injections, according to a coroner's report."
+    },
+    {
+      "id": "28e8c11231de",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Restaurant tech giant sued: ‘Failed to honor…its promises’",
+      "link": "https://www.masslive.com/news/2026/10/restaurant-tech-giant-sued-failed-to-honorits-promises.html",
+      "published": "2026-10-30T15:57:58+00:00",
+      "summary": "The FTC and eight states have sued Toast over accusations of deceptive business practices."
+    },
+    {
+      "id": "a9351c49027b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Chloe Scott hits 2,000 career assists as Longmeadow volleyball continues dominant season",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/longmeadow-volleyball-star-chloe-scott-reaches-2000-career-assists-as-lancers-chase-another-title.html",
+      "published": "2026-10-30T15:56:33+00:00",
+      "summary": "Longmeadow senior setter Chloe Scott reaches 2,000 career assists as the 17-1 Lancers prepare to face Springfield Central in the Western Mass. Class A championship."
+    },
+    {
+      "id": "345e51eea99c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Massive Binance crypto hack affects $6.3 billion as new details emerge",
+      "link": "https://www.masslive.com/news/2026/10/63-billion-binance-crypto-hack-could-be-biggest-ever-as-new-details-emerge.html",
+      "published": "2026-10-30T15:44:25+00:00",
+      "summary": "Binance says $6.3 billion in crypto assets were affected in a massive hack that could become the largest cryptocurrency theft ever recorded."
+    },
+    {
+      "id": "054d3339fd4a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Biggest known midterm donor warns against the ‘end of democracy’ next week",
+      "link": "https://www.masslive.com/politics/2026/10/biggest-known-midterm-donor-warns-against-the-end-of-democracy-next-week.html",
+      "published": "2026-10-30T15:44:00+00:00",
+      "summary": "He outlined three reasons as to why."
+    },
+    {
+      "id": "8e0e428d19f2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Lee football remains perfect after defeating Ware",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/lee-football-remains-perfect-after-defeating-ware.html",
+      "published": "2026-10-30T15:43:30+00:00",
+      "summary": "The Lee football team posted its third straight 8-0 regular season with the road win."
+    },
+    {
+      "id": "c817bbb99813",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "When the VA disability payment for November is coming and how much you can expect",
+      "link": "https://www.masslive.com/news/2026/10/when-the-va-disability-payment-for-november-is-coming-and-how-much-you-can-expect.html",
+      "published": "2026-10-30T15:42:43+00:00",
+      "summary": "A 3.6% COLA increase is expected starting in December pending congressional approval."
+    },
+    {
+      "id": "b149d7231c4e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "HGTV star buys $150K BMW for his 16-year-old daughter",
+      "link": "https://www.masslive.com/entertainment/2026/10/hgtv-star-buys-150k-bmw-for-his-16-year-old-daughter.html",
+      "published": "2026-10-30T15:38:07+00:00",
+      "summary": "\"She deserved it because she worked really, really hard and didn’t even ask for that car,” the father-of-three argued."
+    },
+    {
+      "id": "80dc35de5165",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Labor federation urges no vote on cannabis ballot question | Letters to The Republican",
+      "link": "https://www.masslive.com/opinion/2026/10/labor-federation-urges-no-vote-on-cannabis-ballot-question-letters-to-the-republican.html",
+      "published": "2026-10-30T15:37:52+00:00",
+      "summary": "Readers also comment on the merits of voting \"red,\" Springfield commission's stance on expanded board, Rep. Neal's ads criticizing challenger Nadia Milleron, Trump's Iran war and more."
+    },
+    {
+      "id": "1108b199f0a0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Boston neighborhood shut down after police shooting",
+      "link": "https://www.masslive.com/boston/2026/10/boston-neighborhood-closed-off-after-police-shooting.html",
+      "published": "2026-10-30T15:35:29+00:00",
+      "summary": "The scene of the shooting in Brighton was blocked off while police investigated."
+    },
+    {
+      "id": "78413b7fd3f9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "DNA breakthrough links Ted Bundy to another 52-year-old cold case",
+      "link": "https://www.masslive.com/news/2026/10/ted-bundy-linked-to-another-killing-as-dna-cracks-52-year-old-utah-cold-case.html",
+      "published": "2026-10-30T15:30:20+00:00",
+      "summary": "DNA evidence has linked Ted Bundy to the 1974 killing of Utah teen Smith, helping investigators close a 52-year-old cold case."
+    },
+    {
+      "id": "96bbf5442166",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "DoorDash purchase of Instacart will create ‘a behemoth’ delivery service",
+      "link": "https://www.masslive.com/business/2026/10/doordash-purchase-of-instacart-for-17b-will-create-a-behemoth-delivery-service.html",
+      "published": "2026-10-30T15:29:47+00:00",
+      "summary": "The merger would be the largest acquisition for DoorDash."
+    },
+    {
+      "id": "b453ced3e674",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Former city councilman in Alabama arrested, accused of making terroristic threats at Hooters restaurant",
+      "link": "https://www.masslive.com/news/2026/10/former-city-councilman-arrested-accused-of-making-terroristic-threats-at-hooters-restaurant.html",
+      "published": "2026-10-30T15:27:12+00:00",
+      "summary": "A former city councilman was arrested after allegedly making violent threats to a manager and another person at a Hooters restaurant in Alabama."
+    },
+    {
+      "id": "87c0087bec8a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Who will win the Senate? New poll shows Dems with a chance to flip it.",
+      "link": "https://www.masslive.com/politics/2026/10/who-will-win-the-senate-new-poll-shows-dems-with-a-chance-to-flip-it.html",
+      "published": "2026-10-30T15:26:37+00:00",
+      "summary": "The CNN polls, released Thursday, showed that Democratic candidates had strong leads in Michigan and Texas, and were neck-and-neck with the GOP candidates in Maine and Kansas."
+    },
+    {
+      "id": "8f6432022716",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "‘Game of Thrones’ actor shelters in Kyiv metro station during air raid alerts",
+      "link": "https://www.masslive.com/entertainment/2026/10/game-of-thrones-star-forced-to-shelter-underground-amid-russian-air-raid-threats.html",
+      "published": "2026-10-30T15:22:44+00:00",
+      "summary": "“Game of Thrones” actor Nikolaj Coster-Waldau spent Wednesday night sheltering in a Kyiv metro station amid Russian missile and drone threats."
+    },
+    {
+      "id": "9c71deda48c7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "People with certain retirement accounts entitled to $39M settlement",
+      "link": "https://www.masslive.com/news/2026/10/people-with-certain-retirement-accounts-entitled-to-39m-settlement.html",
+      "published": "2026-10-30T15:22:32+00:00",
+      "summary": "Impacted class members don't need to submit a claim to receive payment."
+    },
+    {
+      "id": "2bea2da83659",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield welcome sign puzzles driver | Letters to The Republican",
+      "link": "https://www.masslive.com/opinion/2026/10/springfield-welcome-sign-puzzles-driver-letters-to-the-republican.html",
+      "published": "2026-10-30T15:21:42+00:00",
+      "summary": "Readers also comment on rising long-term care insurance rates, Easthampton's vote to divest from Israeli commerce, AIC's challenges, Springfield's courthouse location debate, Trump's diesel deal with Putin, Congressional inaction on Iran war and more."
+    },
+    {
+      "id": "a44243d7f5b1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Data projections have been updated of Celtics NBA Cup opener against Bulls on Friday night",
+      "link": "https://www.masslive.com/betting/2026/10/data-projections-have-been-updated-of-celtics-nba-cup-opener-against-bulls-on-friday-night.html",
+      "published": "2026-10-30T15:15:00+00:00",
+      "summary": "The Celtics host the Chicago Bulls to kick off NBA Cup Play at the TD Garden on Friday. Compare Polymarket odds, spread lines, and score projections before tip off."
+    },
+    {
+      "id": "1cdfe8021e2c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Here's ‘GameDay’ picker for Week 8; Saban birthday party planned",
+      "link": "https://www.masslive.com/sports/2026/10/espns-reveals-college-gameday-guest-picker-for-week-8-plans-nick-saban-birthday-celebration.html",
+      "published": "2026-10-30T15:14:12+00:00",
+      "summary": "The popular pregame show will also feature Jon Sumrall."
+    },
+    {
+      "id": "9af038b886d1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Holyoke residents sought for data center study group",
+      "link": "https://www.masslive.com/westernmass/2026/10/holyoke-residents-sought-for-data-center-study-group.html",
+      "published": "2026-10-30T15:13:23+00:00",
+      "summary": "The panel will examine the potential impacts of commercial data center development."
+    },
+    {
+      "id": "a129d25eb6cf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Manhunt for escaped Tennessee killer takes new turn after Illinois discovery",
+      "link": "https://www.masslive.com/news/2026/10/escaped-tennessee-killer-remains-missing-as-new-detail-emerges-in-multistate-manhunt.html",
+      "published": "2026-10-30T15:06:56+00:00",
+      "summary": "Escaped Tennessee killer Jacob Morley remains missing as police reveal new details about the stolen truck found during a multistate manhunt."
+    },
+    {
+      "id": "6e5390d719c8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Fight ends N.C. high school football game early, spills into parking lot before police intervene",
+      "link": "https://www.masslive.com/sports/2026/10/fight-ends-high-school-football-game-early-spills-into-parking-lot-before-police-intervene.html",
+      "published": "2026-10-30T15:01:02+00:00",
+      "summary": "Police had to use pepper spray to separate the players."
+    },
+    {
+      "id": "0f7da447639f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Annie: Is letting my adult son live here rent-free keeping him stuck?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-annie-is-letting-my-adult-son-live-here-rent-free-keeping-him-stuck.html",
+      "published": "2026-10-30T15:00:00+00:00",
+      "summary": "My husband thinks we should just let him find his own timeline and insists the job market is really tough right now."
+    },
+    {
+      "id": "98620da809c3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "3 killed in Oregon helicopter collision as investigators search for answers",
+      "link": "https://www.masslive.com/news/2026/10/3-killed-after-helicopters-collide-in-oregon-as-investigators-search-for-answers.html",
+      "published": "2026-10-30T14:54:22+00:00",
+      "summary": "Three people were killed after two helicopters collided in midair near McMinnville, Oregon. Federal investigators are working to determine the cause."
+    },
+    {
+      "id": "8cec66deafef",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "From Mass. to Maine, these 6 New England pizzerias stand out",
+      "link": "https://www.masslive.com/food/2026/10/6-new-england-pizzerias-earn-national-honors-including-one-in-mass.html",
+      "published": "2026-10-30T14:45:17+00:00",
+      "summary": "A new roundup highlights some of the best pizza spots in each state, with New England bringing plenty to the table."
+    },
+    {
+      "id": "23e2325048a5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "New details emerge after wrong-way crash kills 4 in South Dakota",
+      "link": "https://www.masslive.com/news/2026/10/4-killed-in-south-dakota-crash-as-new-details-emerge-about-what-went-wrong.html",
+      "published": "2026-10-30T14:38:57+00:00",
+      "summary": "A wrong-way crash on Interstate 29 killed four people, including three Flandreau students, as a South Dakota community rallies around their families."
+    },
+    {
+      "id": "c888387508cb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Canadian real estate CEO, daughters shot in home invasion; wife attacked with hammer",
+      "link": "https://www.masslive.com/news/2026/10/ceo-daughters-shot-in-home-invasion-wife-attacked-with-hammer.html",
+      "published": "2026-10-30T14:33:20+00:00",
+      "summary": "Three masked men broke into the Toronto home of a Canadian CEO, shooting him and his two daughters and striking his wife with a hammer before fleeing."
+    },
+    {
+      "id": "b9bb48bfd9e4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "MBTA raises Red Line speed limit to 50 mph",
+      "link": "https://www.masslive.com/boston/2026/10/mbta-increases-maximum-speed-for-red-line-trains.html",
+      "published": "2026-10-30T14:30:47+00:00",
+      "summary": "The MBTA has increased the maximum authorized speed for Red Line trains along one busy stretch of track."
+    },
+    {
+      "id": "f03b99f5c01b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A Routine Town Meeting Took an Unexpected Turn During Public Comment",
+      "link": "https://www.masslive.com/news/2026/10/get-a-job-how-a-mayors-feud-with-a-resident-brought-a-town-council-to-a-standstill.html",
+      "published": "2026-10-30T14:22:54+00:00",
+      "summary": "A Toms River mayor faces a council vote following a heated argument with a resident during a public town meeting over local mailings."
+    },
+    {
+      "id": "b26374e45d98",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Former ESPN star blasts Pat McAfee: ‘I could never be that soft’",
+      "link": "https://www.masslive.com/sports/2026/10/former-espn-star-blasts-pat-mcafee-i-could-never-be-that-soft.html",
+      "published": "2026-10-30T14:20:54+00:00",
+      "summary": "ESPN College GameDay star Pat McAfee said he felt unsafe during his trip to Utah."
+    },
+    {
+      "id": "5ec9d44a0613",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
       "category": "tech",
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "published": "2026-10-30T11:00:00+00:00",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the…"
+      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
+      "link": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
+      "published": "2026-10-30T15:09:25+00:00",
+      "summary": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek ."
     },
     {
-      "id": "a973ac401cee",
-      "source": "The Verge",
-      "source_id": "verge",
+      "id": "5e82c4f3b3cc",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
       "category": "tech",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could…"
+      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
+      "link": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "published": "2026-10-30T14:41:35+00:00",
+      "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak appeared first on SecurityWeek ."
     },
     {
-      "id": "73247f498d99",
-      "source": "The Verge",
-      "source_id": "verge",
+      "id": "8258efe8a7ee",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
       "category": "tech",
-      "title": "The director of Obsession put a new horror short on YouTube",
-      "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-      "published": "2026-10-29T23:57:18+00:00",
-      "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking…"
-    },
-    {
-      "id": "66f3c17387ec",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Over 571 flights delayed, 53 canceled amid widespread U.S. travel disruptions",
-      "link": "https://www.masslive.com/news/2026/10/over-571-flights-delayed-53-canceled-amid-widespread-us-travel-disruptions.html",
-      "published": "2026-10-30T13:45:04+00:00",
-      "summary": "Flight cancellations and delays disrupted operations at multiple airports across the U.S."
-    },
-    {
-      "id": "80e5615bf605",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Karen Read and her attorney are launching a true crime podcast",
-      "link": "https://www.masslive.com/news/2026/10/karen-read-launching-true-crime-podcast-with-defense-attorney.html",
-      "published": "2026-10-30T13:44:09+00:00",
-      "summary": "Their analysis will center on how investigations were conducted and courtroom strategy."
-    },
-    {
-      "id": "c2ce9fdf32d1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump explodes at reporter who asked about canceled rally: ‘You look like hell’",
-      "link": "https://www.masslive.com/politics/2026/10/trump-explodes-at-reporter-who-asked-about-canceled-rally-you-look-like-hell.html",
-      "published": "2026-10-30T13:39:03+00:00",
-      "summary": "President Donald Trump lashed out at a reporter who asked him whether he was “sick” of traveling."
-    },
-    {
-      "id": "d1484826970d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Family-run Lebanese restaurant in Cambridge to close after four decades",
-      "link": "https://www.masslive.com/news/2026/10/family-run-lebanese-restaurant-in-cambridge-to-close-after-four-decades.html",
-      "published": "2026-10-30T13:17:42+00:00",
-      "summary": "Despite the closure, the family hopes to continue sharing their food through future endeavors."
-    },
-    {
-      "id": "7c25ee907d97",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Miss Manners: Was my desire to splurge on strangers coming from a good place?",
-      "link": "https://www.masslive.com/advice/2026/10/miss-manners-was-my-desire-to-splurge-on-strangers-coming-from-a-good-place.html",
-      "published": "2026-10-30T13:00:00+00:00",
-      "summary": "While I recognize that the gesture could have been misinterpreted, my intent would have been purely altruistic."
-    },
-    {
-      "id": "f045b3882749",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Bobcat spotted chilling on Dedham sidewalk, unbothered",
-      "link": "https://www.masslive.com/news/2026/10/camera-ready-wildcat-shows-off-face-card-in-mass-town.html",
-      "published": "2026-10-30T12:35:45+00:00",
-      "summary": "A wildcat that was sighted recently in a Massachusetts town showed a real flair for the camera."
-    },
-    {
-      "id": "40e9d1634986",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Gateway beats Monson to reach regional final",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/gateway-beats-monson-to-reach-regional-final.html",
-      "published": "2026-10-30T12:35:21+00:00",
-      "summary": "Gateway Regional advanced to the Western Massachusetts Class D finals with a 1-0 semifinal win over Monson, while WTA fell to Mount Greylock by the same score in the Class C semis."
-    },
-    {
-      "id": "faad0db70892",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is Trump doomed? What bettors are saying ahead of midterms",
-      "link": "https://www.masslive.com/politics/2026/10/is-trump-doomed-what-bettors-are-saying-ahead-of-midterms.html",
-      "published": "2026-10-30T12:30:00+00:00",
-      "summary": "One party is given higher odds to flip both chambers of Congress in four days."
-    },
-    {
-      "id": "b19536c8b278",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Another Wahlburgers is closing — and it's the 3rd Mass. closure in roughly a year",
-      "link": "https://www.masslive.com/boston/2026/10/wahlburgers-to-close-fenway-location-on-halloween-after-11-years.html",
-      "published": "2026-10-30T12:25:24+00:00",
-      "summary": "Despite the closure, Wahlburgers maintained that the company is “continuing to grow.\""
-    },
-    {
-      "id": "f95c780256c9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "What are peptides? And what’s all the hype about? Here’s what consumers should know",
-      "link": "https://www.masslive.com/news/2026/10/what-are-peptides-and-whats-all-the-hype-about-heres-what-consumers-should-know.html",
-      "published": "2026-10-30T12:00:00+00:00",
-      "summary": "Everyone's talking about peptides, but what even are they? Here's the plain-English version, plus why the federal government is changing how it treats some of them."
-    },
-    {
-      "id": "1721956cf23d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Nostradamus’ 2027 predictions: Wildfires, economic crisis, and... the apocalypse?",
-      "link": "https://www.masslive.com/news/2026/10/nostradamus-2027-predictions-wildfires-economic-crisis-and-the-apocalypse.html",
-      "published": "2026-10-30T11:45:34+00:00",
-      "summary": "\"All scripts and bonds will be wiped out,\" the French soothsayer predicted."
-    },
-    {
-      "id": "7506ac47b022",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The orange-and-black Halloween taffy everyone ignored is now nearly impossible to buy",
-      "link": "https://www.masslive.com/food/2026/10/the-halloween-candy-that-ended-up-in-every-trash-can-is-now-nearly-extinct-heres-why.html",
-      "published": "2026-10-30T11:39:53+00:00",
-      "summary": "The iconic Halloween taffy, once a trick-or-treat staple, nearly disappeared entirely after its longtime producer declared bankruptcy."
-    },
-    {
-      "id": "fc4fb93bbe00",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Millions of Social Security payments hitting accounts ahead of schedule: Here’s why",
-      "link": "https://www.masslive.com/news/2026/10/millions-of-social-security-payments-hitting-accounts-ahead-of-schedule-heres-why.html",
-      "published": "2026-10-30T11:00:01+00:00",
-      "summary": "SSI payments go to more than 7.1 million low-income Americans and those with disabilities."
-    },
-    {
-      "id": "7292f40bc9aa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Doctor: Why do doctors keep switching statins when they all make my legs hurt?",
-      "link": "https://www.masslive.com/advice/2026/10/dear-doctor-why-do-doctors-keep-switching-statins-when-they-all-make-my-legs-hurt.html",
-      "published": "2026-10-30T11:00:00+00:00",
-      "summary": "Muscle aches are a common statin side effect, but lower-risk alternatives like pitavastatin exist, and non-statin options are available for those who cannot tolerate them."
-    },
-    {
-      "id": "250dbe7dbf72",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Daylight saving time will end this weekend. When do clocks ‘fall back’?",
-      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-will-end-this-weekend-when-do-clocks-fall-back.html",
-      "published": "2026-10-30T11:00:00+00:00",
-      "summary": "Daylight saving time will end this weekend. Here's when clocks will \"fall back\""
-    },
-    {
-      "id": "f045cf3ece41",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mental health expert set to testify Friday for defense at Matthew Farwell trial",
-      "link": "https://www.masslive.com/news/2026/10/psychiatry-professor-to-testify-for-matthew-farwell-defense-friday.html",
-      "published": "2026-10-30T10:55:57+00:00",
-      "summary": "The former Stoughton police officer's defense attorneys have claimed Sandra Birchmore committed suicide after he broke up with her in February 2021."
-    },
-    {
-      "id": "3edc6ddd6cfb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Enjoy 70-degree Friday before a cold Halloween weekend",
-      "link": "https://www.masslive.com/weather/2026/10/mass-weather-warm-friday-before-cold-halloween-weekend.html",
-      "published": "2026-10-30T10:33:36+00:00",
-      "summary": "Parts of Massachusetts will approach 70 degrees Friday before a much colder Halloween arrives."
-    },
-    {
-      "id": "62e3ed2cedf2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Metal band announces new lead singer: ‘Tremendous respect’",
-      "link": "https://www.masslive.com/entertainment/2026/10/metal-band-announces-new-lead-singer-tremendous-respect.html",
-      "published": "2026-10-30T10:10:59+00:00",
-      "summary": "The group has gone through several lead vocalists over the years."
-    },
-    {
-      "id": "70b1ac05a67e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Local therapy dogs brighten up Westfield visits in festive Halloween garb",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/local-therapy-dogs-brighten-up-westfield-visits-in-festive-halloween-garb.html",
-      "published": "2026-10-30T10:00:01+00:00",
-      "summary": "Members of Therapy Dogs United's Western Mass chapter visited nursing homes and schools this week with their dogs in Halloween costumes, spreading joy to patients and students."
-    },
-    {
-      "id": "2bb0b216bc2a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Camp Shepard launches major upgrade with demolition of 1970s bathhouse",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/camp-shepard-launches-major-upgrade-with-demolition-of-1970s-bathhouse.html",
-      "published": "2026-10-30T10:00:01+00:00",
-      "summary": "The YMCA of Greater Westfield broke ground on a new welcome center, pavilion, and bathhouse at Camp Shepard, backed by over $1 million in donations including a $155,000 gift from TruNorth Bank."
-    },
-    {
-      "id": "b77a44f0f6eb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Unopposed, Mass. Rep. Pressley takes campaign to the states that could decide Congress",
-      "link": "https://www.masslive.com/politics/2026/10/mass-rep-pressley-has-nobody-to-beat-at-home-so-shes-helping-dems-retake-congress.html",
-      "published": "2026-10-30T10:00:01+00:00",
-      "summary": "Ayanna Pressley has nobody to beat this year, so she's campaigning in Michigan, Minnesota and Tennessee, with Florida next, to help Democrats win back Congress."
-    },
-    {
-      "id": "705e7202234e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved country star loses wife of 44 years to cancer: ‘Her suffering is over’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-country-star-loses-wife-of-44-years-to-cancer-her-suffering-is-over.html",
-      "published": "2026-10-30T10:00:01+00:00",
-      "summary": "She was described as a fighter who was determined to remain with her grandchildren."
-    },
-    {
-      "id": "fe9ae0b573d1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Examining Red Sox 2027 payroll, how it affects trades, free agency before new CBA",
-      "link": "https://www.masslive.com/redsox/2026/10/examining-red-sox-2027-payroll-and-how-it-affects-trades-free-agent-signings-before-new-cba.html",
-      "published": "2026-10-30T10:00:01+00:00",
-      "summary": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million."
-    },
-    {
-      "id": "509887867f77",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: Must I cancel my dream trip due to husband’s major financial mistake?",
-      "link": "https://www.masslive.com/advice/2026/10/dear-abby-must-i-cancel-my-dream-trip-due-to-husbands-major-financial-mistake.html",
-      "published": "2026-10-30T10:00:00+00:00",
-      "summary": "I’m so angry about this, you can’t imagine — all of my hard-earned savings, gone."
-    },
-    {
-      "id": "b88b898ac6ea",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rock music world stunned as heavy-metal queen dies at 46: ‘Absolute force of nature’",
-      "link": "https://www.masslive.com/entertainment/2026/10/rock-music-world-stunned-as-heavy-metal-queen-dies-at-46-absolute-force-of-nature.html",
-      "published": "2026-10-30T10:00:00+00:00",
-      "summary": "She died due to complications from a surgery."
-    },
-    {
-      "id": "0ebcafb611e8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Today’s horoscope: Capricorn - It’s up to you to make the life you want (Oct. 30, 2026)",
-      "link": "https://www.masslive.com/advice/2026/10/todays-horoscope-capricorn-its-up-to-you-to-make-the-life-you-want-oct-30-2026.html",
-      "published": "2026-10-30T10:00:00+00:00",
-      "summary": "Celebrities born on this day: Fiona Dourif, 45; Gavin Rossdale, 61; Harry Hamlin, 75; Henry Winkler, 81."
-    },
-    {
-      "id": "314907add6ca",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $25 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-25-bet.html-3",
-      "published": "2026-10-30T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "773fdd8390d7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $5.28 bet",
-      "link": "https://www.masslive.com/casinos/2026/10/mass-casino-player-wins-jackpot-prize-with-528-bet.html",
-      "published": "2026-10-30T10:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "7f190bb901e0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "U.S. residents ‘not optimistic about financial future’: report",
-      "link": "https://www.masslive.com/news/2026/10/us-residents-not-optimistic-about-financial-future-report.html",
-      "published": "2026-10-30T10:00:00+00:00",
-      "summary": "A report has found a drop in consumer confidence regarding economic outlook."
-    },
-    {
-      "id": "464f11460d1c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ultramarathoner runs New England as he nears 50-state mission to fight cancer",
-      "link": "https://www.masslive.com/news/2026/10/ultramarathoner-runs-new-england-as-he-nears-50-state-mission-to-fight-cancer.html",
-      "published": "2026-10-30T09:50:00+00:00",
-      "summary": "He’s been running across the country, and now New England, to raise money to fight cancer while attempting to set a new world record."
+      "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
+      "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
+      "published": "2026-10-30T14:00:00+00:00",
+      "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek ."
     },
     {
       "id": "4119054fab74",
@@ -710,34 +740,24 @@
       "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor appeared first on SecurityWeek ."
     },
     {
-      "id": "39a633755f1e",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
+      "id": "cf591b1496f8",
+      "source": "Petri",
+      "source_id": "petri",
       "category": "tech",
-      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
-      "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
-      "published": "2026-10-29T16:30:00+00:00",
-      "summary": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis…"
+      "title": "Bank of America Warns Against Sharing Banking Credentials with AI Agents",
+      "link": "https://petri.com/bank-of-america-warns-ai-agent-bank-account-access/",
+      "published": "2026-10-30T15:26:03+00:00",
+      "summary": "As AI agents become more capable of completing tasks on users’ behalf, some consumers and businesses are experimenting with giving these tools direct access to online accounts. Bank of America has warned customers not to share banking usernames and passwords with AI agents, arguing that doing so…"
     },
     {
-      "id": "f5faf77d9641",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
+      "id": "4412836df070",
+      "source": "Petri",
+      "source_id": "petri",
       "category": "tech",
-      "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
-      "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-      "published": "2026-10-29T15:01:00+00:00",
-      "summary": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model appeared first on SecurityWeek ."
-    },
-    {
-      "id": "fcadd0dd5cf0",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
-      "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
-      "published": "2026-10-29T15:00:00+00:00",
-      "summary": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on SecurityWeek ."
+      "title": "First Ring Daily 2047: Touching Money",
+      "link": "https://petri.com/first-ring-daily-2047-touching-money/",
+      "published": "2026-10-30T14:41:06+00:00",
+      "summary": "In this episode of First Ring Daily, Brad Sams and Paul Thurrott discuss Microsoft's FY2027 Q1 results, which follow a major overhaul of the company's financial reporting practices to improve transparency. The post First Ring Daily 2047: Touching Money appeared first on Petri IT Knowledgebase ."
     },
     {
       "id": "6b0b1d7d0133",
@@ -778,16 +798,6 @@
       "link": "https://petri.com/attackers-exploit-microsoft-teams-chats-initial-access/",
       "published": "2026-10-28T12:57:51+00:00",
       "summary": "Cybersecurity researchers have observed more than 400 incidents in which threat actors abused the external chat feature in Microsoft Teams to gain initial access to corporate environments. Rather than exploiting a software flaw, attackers took advantage of Teams’ default external-access…"
-    },
-    {
-      "id": "0e64f64f703a",
-      "source": "Petri",
-      "source_id": "petri",
-      "category": "tech",
-      "title": "Microsoft Releases Windows Certificate Update After eMudhra Key Compromise",
-      "link": "https://petri.com/microsoft-windows-certificate-update/",
-      "published": "2026-10-27T15:10:03+00:00",
-      "summary": "Microsoft has released an out-of-band update for Windows after the compromise of certificate signing keys belonging to eMudhra, which is an Indian certificate authority. This incident raised concerns that attackers could potentially create fraudulent certificates or sign malicious content that…"
     }
   ]
 }
