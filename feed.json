@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:09:50+00:00",
+  "generated_at": "2026-10-31T00:10:56+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -39,6 +39,46 @@
     }
   },
   "items": [
+    {
+      "id": "b1311b7a9510",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+      "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+      "published": "2026-10-30T22:36:41+00:00",
+      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June."
+    },
+    {
+      "id": "df4feec8b4d8",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+      "published": "2026-10-30T22:21:05+00:00",
+      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\""
+    },
+    {
+      "id": "df26d5473c41",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "published": "2026-10-30T21:41:54+00:00",
+      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer."
+    },
+    {
+      "id": "ce0cce9f3bc5",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "published": "2026-10-30T21:09:54+00:00",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+    },
     {
       "id": "65d255a74525",
       "source": "Ars Technica",
@@ -200,44 +240,14 @@
       "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs."
     },
     {
-      "id": "6df4ac502224",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "011fdc062b2b",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-      "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
-      "published": "2026-10-29T18:29:12+00:00",
-      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China."
-    },
-    {
-      "id": "3ac3d3b67de1",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Turning a solar power system into its own backup",
-      "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "published": "2026-10-29T18:02:26+00:00",
-      "summary": "Plant design allows it to run on either stored solar heat or combustion."
-    },
-    {
-      "id": "d175d4f66bfd",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "published": "2026-10-29T17:21:33+00:00",
-      "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling."
-    },
-    {
-      "id": "4fecc0fbd4de",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "published": "2026-10-29T16:24:55+00:00",
-      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings."
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "published": "2026-10-30T22:32:53+00:00",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for…"
     },
     {
       "id": "d756b882783b",
@@ -330,14 +340,84 @@
       "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just…"
     },
     {
-      "id": "974d9b85c8fb",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "published": "2026-10-30T14:58:06+00:00",
-      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous…"
+      "id": "3cd4b935402e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jaylen Brown sidelined with knee soreness, timetable unknown",
+      "link": "https://www.masslive.com/celtics/2026/10/jaylen-brown-out-of-76ers-starting-lineup-with-knee-soreness-friday-timetable-tbd.html",
+      "published": "2026-10-30T23:59:11+00:00",
+      "summary": "Jaylen Brown is dealing with knee soreness, so he's not playing for his new team Friday night in a big matchup against the Knicks."
+    },
+    {
+      "id": "76aa63951560",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "UMass announces wide receiver Dallas Elliot out for season after rare cancer diagnosis",
+      "link": "https://www.masslive.com/umass/2026/10/umass-announces-wide-receiver-dallas-elliot-out-for-season-after-rare-cancer-diagnosis.html",
+      "published": "2026-10-30T23:02:37+00:00",
+      "summary": "The Leeds, Mass. native and Williston-Northampton school graduate has begun treatment at Dana-Farber Cancer Institute this week."
+    },
+    {
+      "id": "7d021a210602",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield’s Pan African museum seeks urgent funds to remain open",
+      "link": "https://www.masslive.com/westernmass/2026/10/springfields-pan-african-museum-seeks-urgent-funds-to-remain-open.html",
+      "published": "2026-10-30T22:55:42+00:00",
+      "summary": "The museum will host a fundraiser Saturday from 10 a.m. to 2 p.m., where visitors can tour three galleries, learn about coming programs and discuss ways to get involved, Keaton said."
+    },
+    {
+      "id": "0d7f7a094fa7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Animal groups decline to comment on artificial insemination of dogs by unlicensed breeders",
+      "link": "https://www.masslive.com/westernmass/2026/10/animal-groups-decline-to-comment-on-artificial-insemination-of-dogs-by-unlicensed-breeders.html",
+      "published": "2026-10-30T22:49:47+00:00",
+      "summary": "Called for comment, a spokesperson for the Dakin Humane Society in Springfield said the agency does not speak about pending cases."
+    },
+    {
+      "id": "9cc252404624",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Three arrested in Holyoke police crackdown on open-air drug dealing",
+      "link": "https://www.masslive.com/westernmass/2026/10/three-arrested-in-holyoke-police-crackdown-on-open-air-drug-dealing.html",
+      "published": "2026-10-30T22:23:01+00:00",
+      "summary": "The arrests followed surveillance operations on Elm and Sargeant streets."
+    },
+    {
+      "id": "f26cfb73bc40",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Police seize illegal guns, drugs in South Holyoke; four people arrested",
+      "link": "https://www.masslive.com/westernmass/2026/10/police-seize-illegal-guns-drugs-in-south-holyoke-four-people-arrested.html",
+      "published": "2026-10-30T22:16:00+00:00",
+      "summary": "A joint law enforcement operation followed a month-long investigation into suspected drug sales on Sargeant Street."
+    },
+    {
+      "id": "3ee9a5aed803",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Easthampton supermarket owner dispels closing rumor",
+      "link": "https://www.masslive.com/westernmass/2026/10/easthampton-supermarket-owner-dispels-closing-rumor.html",
+      "published": "2026-10-30T22:11:22+00:00",
+      "summary": "Big E's Supermarket in Easthampton is in the process of being sold. But it will remain a grocery store."
+    },
+    {
+      "id": "93af05c27664",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Chilly Halloween weekend ahead in Mass. as cold front, winds move in",
+      "link": "https://www.masslive.com/weather/2026/10/gusty-winds-cold-front-sweep-mass-ahead-of-halloween.html",
+      "published": "2026-10-30T22:07:13+00:00",
+      "summary": "Gusty winds and cold temperatures are on the way to Massachusetts, with Halloween expected to be sunny but chilly and trick-or-treaters advised to dress warmly."
     },
     {
       "id": "cc25095ebb59",
@@ -550,16 +630,6 @@
       "summary": "Four Western Massachusetts girls volleyball championships will be decided Saturday. Here's a breakdown of all four matchups, players to watch and predictions."
     },
     {
-      "id": "e7331512d258",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Democrats open up 10-point lead in final days before midterms: New poll",
-      "link": "https://www.masslive.com/politics/2026/10/democrats-open-up-10-point-lead-in-final-days-before-midterms-new-poll.html",
-      "published": "2026-10-30T20:00:00+00:00",
-      "summary": "The Emerson College poll found 52% of likely voters planned to support the Democrat, while 42% planned to back the Republican."
-    },
-    {
       "id": "ec7b70075b0d",
       "source": "MassLive",
       "source_id": "masslive",
@@ -568,76 +638,6 @@
       "link": "https://www.masslive.com/advice/2026/10/asking-eric-weve-lived-here-for-three-decades-why-is-my-sister-demanding-a-cut-now.html",
       "published": "2026-10-30T20:00:00+00:00",
       "summary": "My sister called me out of the blue and told my hubby and I that it’s not fair for us to live rent free."
-    },
-    {
-      "id": "3b9ea4d8a9a2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Thousands of home heating appliances recalled over poisoning, death hazards: Stop using ASAP",
-      "link": "https://www.masslive.com/news/2026/10/thousands-of-home-heating-appliances-recalled-over-poisoning-death-hazards-stop-using-asap.html",
-      "published": "2026-10-30T19:46:40+00:00",
-      "summary": "Thousands of gas boilers sold nationwide are being recalled for poisoning, death and impact risks after dozens of users reported the appliances breaking. In one case, a technician suffered a broken jaw related to the defect."
-    },
-    {
-      "id": "1a1dd5c2ebdf",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Drone strike at an African camp for displaced people kills 15 people, including 5 children",
-      "link": "https://www.masslive.com/news/2026/10/drone-strike-at-a-camp-for-displaced-people-kills-15-people-including-5-children.html",
-      "published": "2026-10-30T19:40:18+00:00",
-      "summary": "At least 15 people, including five children, were killed and 36 wounded when drones struck a displacement camp in Ethiopia."
-    },
-    {
-      "id": "c344321fbf65",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Microsoft offers buyouts to 60,000 workers as the company makes a major shift",
-      "link": "https://www.masslive.com/news/2026/10/microsoft-offers-buyouts-to-60000-employees-as-it-makes-a-major-workforce-move.html",
-      "published": "2026-10-30T19:08:20+00:00",
-      "summary": "Microsoft expands employee buyouts amid major AI investments"
-    },
-    {
-      "id": "41cb3ddd2a48",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Bill seeks to ban delivery apps from listing places without consent",
-      "link": "https://www.masslive.com/news/2026/10/bill-seeks-to-ban-delivery-apps-from-listing-places-without-consent.html",
-      "published": "2026-10-30T19:00:00+00:00",
-      "summary": "The bill now sits with a Congressional committee for consideration."
-    },
-    {
-      "id": "e7eb1764044a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "From farmers to blacksmiths, Old Sturbridge Village's scarecrow stroll brings New England history to life",
-      "link": "https://www.masslive.com/ne-where/2026/10/see-24-creative-and-historical-scarecrows-at-old-sturbridge-village.html",
-      "published": "2026-10-30T18:58:32+00:00",
-      "summary": "Old Sturbridge Village features 24 scarecrows, including six historical figures, on display through Nov. 1 as part of a free scarecrow stroll with general admission."
-    },
-    {
-      "id": "ce9653d9caf5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Man killed in Route 20 crash identified by authorities",
-      "link": "https://www.masslive.com/centralmass/2026/10/man-killed-in-head-on-collision-on-central-mass-highway-identified.html",
-      "published": "2026-10-30T18:56:54+00:00",
-      "summary": "First responders began life-saving measures and transported the man to a local hospital, where he died."
-    },
-    {
-      "id": "982364157728",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Samsung’s 55-inch Mini LED TV drops to under $300 during rare sale at Walmart",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/samsungs-55-inch-mini-led-tv-drops-to-under-300-during-rare-sale-at-walmart.html",
-      "published": "2026-10-30T18:56:31+00:00",
-      "summary": "Walmart's Rollback sale prices the Samsung 55\" M70HB Mini LED 4K Smart TV at $298, offering premium picture technology with AI-powered features at a budget-friendly cost."
     },
     {
       "id": "5ec9d44a0613",
