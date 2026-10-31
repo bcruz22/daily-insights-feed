@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:08:24+00:00",
+  "generated_at": "2026-10-31T22:09:17+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -240,6 +240,16 @@
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
     },
     {
+      "id": "691dfa44ca49",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Get in the spirit with these horrors from YouTube",
+      "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "published": "2026-10-31T21:06:58+00:00",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art…"
+    },
+    {
       "id": "8853d414a301",
       "source": "The Verge",
       "source_id": "verge",
@@ -330,14 +340,84 @@
       "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick…"
     },
     {
-      "id": "011fdc062b2b",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "published": "2026-10-30T22:32:53+00:00",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for…"
+      "id": "d22877f1f328",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Banner flying calls for coach’s firing, but there's problem",
+      "link": "https://www.masslive.com/sports/2026/10/plane-flies-banner-calling-for-coachs-firing-but-theres-problem-with-message.html",
+      "published": "2026-10-31T21:58:48+00:00",
+      "summary": "It appears the product on the field isn't the only issue."
+    },
+    {
+      "id": "82d7667b8895",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Roy siblings lead Belchertown to Western Mass. field hockey title",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/roy-siblings-lead-belchertown-field-hockey-to-western-mass-class-b-title.html",
+      "published": "2026-10-31T21:06:29+00:00",
+      "summary": "Behind goals from Kina and Kian Roy, as well as six saves from goalkeeper Lila Roy, the Orioles defeated South Hadley for the Class B title on Saturday."
+    },
+    {
+      "id": "631234da01c8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Actress reacts to her viral plane arrest in video",
+      "link": "https://www.masslive.com/entertainment/2026/10/actress-reacts-to-her-viral-plane-arrest-which-resulted-in-two-flight-attendants-injured.html",
+      "published": "2026-10-31T20:53:46+00:00",
+      "summary": "She posted the video Friday, weeks after the incident."
+    },
+    {
+      "id": "6b4b83116df0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "BC High wins Catholic Conference cross country championship",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/colin-kurtz-leads-way-bc-high-wins-catholic-conference-cross-country-title.html",
+      "published": "2026-10-31T20:39:09+00:00",
+      "summary": "Top five finishes from Kurtz and Joseph Hayes helped power BC High to victory on Saturday."
+    },
+    {
+      "id": "58c48097f4dc",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Celtics injury report: Mitchell Robinson listed for Magic game Sunday",
+      "link": "https://www.masslive.com/celtics/2026/10/celtics-injury-report-mitchell-robinson-listed-for-magic-game-sunday.html",
+      "published": "2026-10-31T20:37:02+00:00",
+      "summary": "The Celtics are in a stretch of eight games in 13 days as they open a busy November schedule."
+    },
+    {
+      "id": "36299ea75ffb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Haly Doucette-Kaplan, Isabelle Orrell goals lead Frontier to WMass title",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/haly-doucette-kaplan-isabelle-orrell-goals-lead-frontier-field-hockey-to-wmass-class-a-crown.html",
+      "published": "2026-10-31T20:21:08+00:00",
+      "summary": "The Redhawks came out on top in a low-scoring battle to win the Class A title on Saturday."
+    },
+    {
+      "id": "a18a1effa3ab",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Iconic rock band’s singer hospitalized, tour dates canceled",
+      "link": "https://www.masslive.com/news/2026/10/iconic-rock-bands-lead-singer-hospitalized-for-emergency-upcoming-performances-canceled.html",
+      "published": "2026-10-31T20:17:25+00:00",
+      "summary": "The group took to social media to announce the news."
+    },
+    {
+      "id": "eea40734c51a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Halloween night temps to plunge below freezing in Mass.",
+      "link": "https://www.masslive.com/weather/2026/10/mass-weather-halloween-night-temps-to-plunge-below-freezing.html",
+      "published": "2026-10-31T20:13:36+00:00",
+      "summary": "A chilly Halloween will give way to a frigid night across Massachusetts."
     },
     {
       "id": "9e7006b51e27",
@@ -558,86 +638,6 @@
       "link": "https://www.masslive.com/news/2026/10/remains-of-mass-man-killed-in-wwii-returned-home-after-eight-decades.html",
       "published": "2026-10-31T15:30:40+00:00",
       "summary": "Due to advances in DNA technology, his remains were positively identified in 2025."
-    },
-    {
-      "id": "f521192dd84a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Final data projections released for Notre Dame-Navy Week 9 matchup at Gillette Stadium",
-      "link": "https://www.masslive.com/betting/2026/10/final-data-projections-released-for-notre-dame-navy-week-9-matchup-at-gillette-stadium.html",
-      "published": "2026-10-31T15:15:00+00:00",
-      "summary": "The Notre Dame Fighting Irish face the Navy Midshipmen this Saturday, let's take a closer look at Dimers final set of expert data to see what the numbers are telling us for this Week 9 showdown."
-    },
-    {
-      "id": "00ae2374ea50",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Gas prices for 10/31/26: No tricks, gas down another 2 cents nationally",
-      "link": "https://www.masslive.com/news/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
-      "published": "2026-10-31T15:06:23+00:00",
-      "summary": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026."
-    },
-    {
-      "id": "5dd12d170827",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Saban’s 75 scariest seconds on birthday, here's the cake",
-      "link": "https://www.masslive.com/sports/2026/10/nick-sabans-75-scariest-seconds-on-birthday-and-oatmeal-pie-cake-to-celebrate-god-bless-you-all.html",
-      "published": "2026-10-31T15:01:33+00:00",
-      "summary": "The former Alabama coach was honored during College GameDay."
-    },
-    {
-      "id": "1de2659e0120",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Annie: Is there a polite way to tell a co-worker she's become the office outbreak source?",
-      "link": "https://www.masslive.com/advice/2026/10/dear-annie-is-there-a-polite-way-to-tell-a-co-worker-shes-become-the-office-outbreak-source.html",
-      "published": "2026-10-31T15:00:00+00:00",
-      "summary": "We think she either likes the attention or she’s just lazy."
-    },
-    {
-      "id": "5e4c31a61a06",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "McAfee’s title sleeper shocks after past week, mentions ‘SEC ESPN",
-      "link": "https://www.masslive.com/sports/2026/10/pat-mcafees-title-sleeper-shocks-after-the-week-i-just-had-sec-espns-running-wild-right-now.html",
-      "published": "2026-10-31T14:43:52+00:00",
-      "summary": "The ESPN personality certainly gave a couple of interesting takes on the topic."
-    },
-    {
-      "id": "db06e62ac7c0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Indiana’s Curt Cignetti reflects on viral ‘Google me’ video",
-      "link": "https://www.masslive.com/sports/2026/10/indianas-curt-cignetti-reflects-on-viral-google-me-video.html",
-      "published": "2026-10-31T14:10:33+00:00",
-      "summary": "The coach joined GameDay on Saturday ahead of the Indiana-Minnesota game."
-    },
-    {
-      "id": "2f24e747eae6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Southcoast Health CEO steps down, interim leader named",
-      "link": "https://www.masslive.com/news/2026/10/ceo-of-regions-largest-healthcare-provider-stepping-down.html",
-      "published": "2026-10-31T14:08:22+00:00",
-      "summary": "He announced his departure in a message sent to Southcoast Health’s board of trustees."
-    },
-    {
-      "id": "ce657828b2a8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rock star who found fame with iconic band has died: ‘A giant of a musician’",
-      "link": "https://www.masslive.com/entertainment/2026/10/rock-star-who-found-fame-with-iconic-band-has-died-a-giant-of-a-musician.html",
-      "published": "2026-10-31T14:00:00+00:00",
-      "summary": "The band shared the news on social media."
     },
     {
       "id": "f0c80b908a88",
