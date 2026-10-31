@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:09:04+00:00",
+  "generated_at": "2026-10-31T04:10:50+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -340,6 +340,186 @@
       "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just…"
     },
     {
+      "id": "e8eb2e69ab68",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What we learned from Celtics’ win over Bulls in NBA Cup opener",
+      "link": "https://www.masslive.com/celtics/2026/10/what-we-learned-from-celtics-win-over-bulls-in-nba-cup-opener.html",
+      "published": "2026-10-31T03:43:08+00:00",
+      "summary": "Payton Pritchard once again dominated and the Celtics opened NBA Cup play with a win over the Bulls."
+    },
+    {
+      "id": "b73be9109037",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Joe Mazzulla's challenge brings out 'best version' of Payton Pritchard in win",
+      "link": "https://www.masslive.com/celtics/2026/10/payton-pritchard-scores-30-answers-joe-mazzullas-challenge-in-celtics-win-the-absolute-best-version-of-him.html",
+      "published": "2026-10-31T03:41:28+00:00",
+      "summary": "Scoring 30 was not the most satisfying part of an eventful Friday night at TD Garden for Payton Pritchard, who answered a challenge from Joe Mazzulla in a big way."
+    },
+    {
+      "id": "099cba010087",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Click to see results from across the state on Oct. 30",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-scoreboard-click-to-see-results-from-across-the-state-on-oct-30.html",
+      "published": "2026-10-31T03:37:29+00:00",
+      "summary": "Check out all the results from across the state on Friday."
+    },
+    {
+      "id": "c3d04b039aa0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Chicopee Comp football earns first win of the season over Amherst",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/chicopee-comp-football-earns-first-wins-of-season-over-amherst.html",
+      "published": "2026-10-31T03:34:07+00:00",
+      "summary": "Colts quarterback Mateus Ferriera scored twice while their defense held off a late rally by the Hurricanes to secure the win."
+    },
+    {
+      "id": "811fa4699606",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Wahconah football earns league crown on Senior Night",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wahconah-football-dominates-agawam-on-senior-night.html",
+      "published": "2026-10-31T03:27:49+00:00",
+      "summary": "Wahconah Regional sent their seniors off with a 40-8 home-field win on Friday night."
+    },
+    {
+      "id": "0bcaa41206fb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mason Bassett steers Franklin Tech football to outright conference title",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/mason-bassett-steers-franklin-tech-football-to-outright-conference-title.html",
+      "published": "2026-10-31T03:14:28+00:00",
+      "summary": "The Eagles secured the Intercounty North conference title win for the first time since 2015."
+    },
+    {
+      "id": "3d620d9676b1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield Central football is now focused on D-I postseason",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/springfield-central-football-claims-aa-conference-title-on-road.html",
+      "published": "2026-10-31T03:12:48+00:00",
+      "summary": "The Springfield Central football team took care of business on Friday."
+    },
+    {
+      "id": "c6193f933898",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mega Millions numbers: Are you the lucky winner of Friday’s $463 million jackpot?",
+      "link": "https://www.masslive.com/lottery/2026/10/mega-millions-numbers-are-you-the-lucky-winner-of-fridays-463-million-jackpot.html",
+      "published": "2026-10-31T03:08:01+00:00",
+      "summary": "Check your numbers to see if you hit it big in Friday's jackpot."
+    },
+    {
+      "id": "f91d6c3ffb87",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Girls Soccer Tournament: Belchertown, Hampshire punch tickets into title game",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/wmass-girls-soccer-tournament-belchertown-hampshire-punch-tickets-into-title-game.html",
+      "published": "2026-10-31T02:59:16+00:00",
+      "summary": "The Orioles and Raiders will face off in the WMass Class B finals on Sunday."
+    },
+    {
+      "id": "904f885320f5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield football qualifies for D-IV state tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/adrian-colon-guides-westfield-football-past-east-longmeadow-on-senior-night.html",
+      "published": "2026-10-31T02:56:40+00:00",
+      "summary": "The Westfield football team had multiple reasons to celebrate on Friday night."
+    },
+    {
+      "id": "8918ff2b39e1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Will Wood, Michael Kimmelmann lead Xaverian football over Malden Catholic on Senior Night (videos)",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/will-wood-michael-kimmelmann-lead-xaverian-football-over-malden-catholic-on-senior-night-videos.html",
+      "published": "2026-10-31T02:52:31+00:00",
+      "summary": "Xaverian quarterback Will Wood recorded a passing, rushing and receiving touchdown in the win over Malden Catholic"
+    },
+    {
+      "id": "b131caaf595a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Chase Pecia’s last second game-saving interception pushes South Hadley over Easthampton",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/chase-pecias-last-second-game-winning-interception-pushes-south-hadley-over-easthampton-video.html",
+      "published": "2026-10-31T02:39:58+00:00",
+      "summary": "The Tigers clinched a playoff spot with Friday's win following a huge defensive effort and a last second interception by Chase Pecia with the game on the line."
+    },
+    {
+      "id": "d8536d236096",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Minnechaug's Bean brothers deliver another bruising performance in win over Longmeadow",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/minnechaugs-bean-brothers-power-falcons-past-longmeadow-5-takeaways.html",
+      "published": "2026-10-31T02:28:24+00:00",
+      "summary": "Aidan and Dylan Bean combined for 337 yards and four touchdowns as Minnechaug football defeated Longmeadow on Friday night. Here are five takeaways from the Falcons' win."
+    },
+    {
+      "id": "7ee64c599af7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Nick Duarte smashes a message in playoff push for Framingham football with win over Needham",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/nick-duarte-smashes-a-message-in-playoff-push-for-framingham-football-with-win-over-needham.html",
+      "published": "2026-10-31T02:22:49+00:00",
+      "summary": "Duarte tallied 338 yards and five touchdowns on the ground in Friday's win."
+    },
+    {
+      "id": "f5a8f602fb18",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Worcester Tech football sees discipline pay off in win over North",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/worcester-tech-football-sees-discipline-pay-off-in-win-over-north.html",
+      "published": "2026-10-31T02:16:35+00:00",
+      "summary": "The Eagles' defense held the Polar Bears scoreless in the second half to secure a win on homecoming night."
+    },
+    {
+      "id": "f7adfc89b579",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ferocious defensive line turned the tide for St. John's Prep against CM",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/st-johns-preps-defensive-line-changed-the-game-against-catholic-memorial.html",
+      "published": "2026-10-31T02:10:36+00:00",
+      "summary": "The St. John's Prep pass rush 'changed the game' against Catholic Memorial, as the Eagles rallied for a thrilling win to end the regular season."
+    },
+    {
+      "id": "66a2a87095c1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "4 takeaways as Celtics beat Bulls in NBA Cup opener",
+      "link": "https://www.masslive.com/celtics/2026/10/4-takeaways-as-celtics-beat-bulls-in-nba-cup-opener.html",
+      "published": "2026-10-31T02:09:22+00:00",
+      "summary": "The Celtics picked up the win in their NBA Cup opener, though the point differential wasn't as high as it could've been."
+    },
+    {
+      "id": "66cc76e49732",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Payton Pritchard is Celtics’ Name to Know Player of the Game after dominating the Bulls again",
+      "link": "https://www.masslive.com/celtics/2026/10/payton-pritchard-is-celtics-name-to-know-player-of-the-game-after-dominating-the-bulls-again.html",
+      "published": "2026-10-31T02:08:21+00:00",
+      "summary": "Payton Pritchard sure likes having the Bulls in town. He dominated them again Friday as the Celtics won big."
+    },
+    {
       "id": "110abb4b4d57",
       "source": "MassLive",
       "source_id": "masslive",
@@ -458,186 +638,6 @@
       "link": "https://www.masslive.com/westernmass/2026/10/easthampton-supermarket-owner-dispels-closing-rumor.html",
       "published": "2026-10-30T22:11:22+00:00",
       "summary": "Big E's Supermarket in Easthampton is in the process of being sold. But it will remain a grocery store."
-    },
-    {
-      "id": "93af05c27664",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Chilly Halloween weekend ahead in Mass. as cold front, winds move in",
-      "link": "https://www.masslive.com/weather/2026/10/gusty-winds-cold-front-sweep-mass-ahead-of-halloween.html",
-      "published": "2026-10-30T22:07:13+00:00",
-      "summary": "Gusty winds and cold temperatures are on the way to Massachusetts, with Halloween expected to be sunny but chilly and trick-or-treaters advised to dress warmly."
-    },
-    {
-      "id": "cc25095ebb59",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Long-awaited ‘flyover’ bridge to replace WMass rail crossing in 2028",
-      "link": "https://www.masslive.com/westernmass/2026/10/long-awaited-flyover-bridge-to-replace-wmass-rail-crossing-in-2028.html",
-      "published": "2026-10-30T22:05:21+00:00",
-      "summary": "Trains wait going into or coming out of the CSX yard in West Springfield, blocking traffic. Warning arms go down, blood pressures go up."
-    },
-    {
-      "id": "58a77f168f03",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Halloween chocolate sales down this year: ’Spooky time’",
-      "link": "https://www.masslive.com/news/2026/10/halloween-chocolate-sales-down-this-year-spooky-time.html",
-      "published": "2026-10-30T22:00:00+00:00",
-      "summary": "Halloween chocolate sales are expected to fall about about 11 percent this year."
-    },
-    {
-      "id": "0a5c7d2b388a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "NBA head coach to miss game Friday due to heartbreaking family news",
-      "link": "https://www.masslive.com/sports/2026/10/nba-head-coach-to-miss-game-friday-due-to-heartbreaking-family-news.html",
-      "published": "2026-10-30T21:54:45+00:00",
-      "summary": "Rick Carlisle will not coach for the Indiana Pacers during Friday's game against the Miami Heat."
-    },
-    {
-      "id": "05db1040c986",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Man riding moped killed in early morning Revere crash",
-      "link": "https://www.masslive.com/news/2026/10/man-riding-moped-killed-in-early-morning-revere-crash.html",
-      "published": "2026-10-30T21:37:11+00:00",
-      "summary": "A man riding a moped in Revere early Friday morning was killed in a crash."
-    },
-    {
-      "id": "c40f835f40c7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sandra Birchmore faced a 'lifetime of adversities.' Was Matthew Farwell breakup one?",
-      "link": "https://www.masslive.com/news/2026/10/matthew-farwell-breakup-may-have-pushed-sandra-birchmore-over-the-edge-defense-expert-says.html",
-      "published": "2026-10-30T21:22:21+00:00",
-      "summary": "The battle over Sandra Birchmore's mental state before her death came to a head during Matthew Farwell's trial on Friday."
-    },
-    {
-      "id": "fb824ee75079",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Man found in shallow, wooded Quincy grave identified after 35 years",
-      "link": "https://www.masslive.com/news/2026/10/man-found-in-quincy-grave-identified-after-35-years-homicide-remains-unsolved.html",
-      "published": "2026-10-30T21:17:42+00:00",
-      "summary": "The skeletal remains of a man found in a shallow Quincy grave 35 years ago have finally been identified, though the homicide case remains unsolved."
-    },
-    {
-      "id": "d52d39dcfa7f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Cozy Earth just dropped its most affordable version of the celebrity-favorite Cuddle Blanket",
-      "link": "https://www.masslive.com/shopping-deals/2026/10/cozy-earth-just-dropped-their-most-affordable-version-of-the-celebrity-favorite-cuddle-blanket.html",
-      "published": "2026-10-30T21:13:05+00:00",
-      "summary": "Cozy Earth's new Snuggle Cuddle Blanket is the brand's most affordable Cuddle Collection option, featuring lightweight faux fur, OEKO-TEX certification, and available in seven colors for $118 with code INTHELOOP."
-    },
-    {
-      "id": "017c9ad104e5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘The Daily Show’ veteran dies at 54 in car crash",
-      "link": "https://www.masslive.com/entertainment/2026/10/the-daily-show-veteran-dies-at-54-in-car-crash.html",
-      "published": "2026-10-30T21:03:38+00:00",
-      "summary": "Kevin Bleyer, who spent nine years working on “The Daily Show with Jon Stewart,” died in a Pennsylvania car crash at age 54."
-    },
-    {
-      "id": "c8a81854e393",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Hegseth announces tuition-free graduate school for this group of service members",
-      "link": "https://www.masslive.com/news/2026/10/hegseth-announces-tuition-free-graduate-school-for-this-group-of-service-members.html",
-      "published": "2026-10-30T21:03:23+00:00",
-      "summary": "The defense chief said those take the option can keep their pay, allowances and benefits."
-    },
-    {
-      "id": "be4b17b14b76",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Indy candidate for 3rd Hampden District calls disclosure error unintentional",
-      "link": "https://www.masslive.com/westernmass/2026/10/indy-candidate-for-3rd-hampden-district-calls-disclosure-error-unintentional.html",
-      "published": "2026-10-30T20:59:55+00:00",
-      "summary": "Earlier this week, the state Republican Party filed a complaint against Perron with the Massachusetts State Ethics Commission omitted his previous employment with the Westfield Police Department on required financial disclosures."
-    },
-    {
-      "id": "514db9ec18f1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Watch it live: Two Western Mass. volleyball championships set for Saturday",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/watch-it-live-masslive-to-stream-two-western-mass-girls-volleyball-championship-matches.html",
-      "published": "2026-10-30T20:53:34+00:00",
-      "summary": "MassLive will stream the Western Mass. Class A and Class B girls volleyball championship matches Saturday, Oct. 31, featuring Longmeadow, Springfield Central, East Longmeadow and Ludlow."
-    },
-    {
-      "id": "19ccf719dbcf",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Actor calls ex-wife’s remarks about earning less a ‘low blow’",
-      "link": "https://www.masslive.com/entertainment/2026/10/actor-calls-ex-wifes-remarks-about-earning-less-a-low-blow.html",
-      "published": "2026-10-30T20:51:41+00:00",
-      "summary": "Joe Manganiello says Sofía Vergara's comments about dating men who earn less money were a “low blow” following his yearslong health battle."
-    },
-    {
-      "id": "92c6a8fdc77a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Smith College will keep Fort Hill childcare center open through 2029",
-      "link": "https://www.masslive.com/westernmass/2026/10/smith-college-will-keep-fort-hill-childcare-center-open-through-2029.html",
-      "published": "2026-10-30T20:49:23+00:00",
-      "summary": "About a week ago, the college said the center would be closing. The college community responded with protests."
-    },
-    {
-      "id": "a3bbe3c4c273",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "List of social casinos in USA: Every site players are opening this spooky season",
-      "link": "https://www.masslive.com/sweepstakes/2026/10/list-of-social-casinos-in-usa-every-site-players-are-opening-this-spooky-season.html",
-      "published": "2026-10-30T20:44:00+00:00",
-      "summary": "Browse the ultimate list of social casinos in the USA. Skip the rankings and find the exact standout feature you are looking for this spooky season. Learn more."
-    },
-    {
-      "id": "e35fd0ec02db",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Six teams, three championships: Western Mass. field hockey finals set for Saturday",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/western-mass-field-hockey-championships-breaking-down-all-three-title-matchups.html",
-      "published": "2026-10-30T20:41:57+00:00",
-      "summary": "Six teams will compete for Western Mass. field hockey championships Saturday at West Springfield High School. Here's a breakdown of the Class A, B and C finals."
-    },
-    {
-      "id": "cd042d45ab36",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Full list of sweepstakes casinos: 12 sites our team is backing for Halloween",
-      "link": "https://www.masslive.com/sweepstakes/2026/10/full-list-of-sweepstakes-casinos-12-sites-our-team-is-backing-for-halloween.html",
-      "published": "2026-10-30T20:39:00+00:00",
-      "summary": "Here's our full list of sweepstakes casinos for Halloween week, comparing established favorites with newer platforms, welcome offers and reasons to join."
-    },
-    {
-      "id": "63777fd42716",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Western Mass. gymnastics championship preview: Standout gymnasts to watch",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/western-mass-gymnastics-championship-teams-and-gymnasts-to-watch.html",
-      "published": "2026-10-30T20:16:21+00:00",
-      "summary": "Five Western Massachusetts gymnastics programs will compete for a sectional championship Sunday. Meet the top teams and standout gymnasts to watch."
     },
     {
       "id": "5ec9d44a0613",
