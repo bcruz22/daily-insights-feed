@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:10:04+00:00",
+  "generated_at": "2026-10-31T18:09:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -240,6 +240,16 @@
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
     },
     {
+      "id": "2e89c3febb5d",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Happy Pikmin Day Eve",
+      "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "published": "2026-10-31T17:50:12+00:00",
+      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series…"
+    },
+    {
       "id": "ed0268fa6e32",
       "source": "The Verge",
       "source_id": "verge",
@@ -330,14 +340,124 @@
       "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A…"
     },
     {
-      "id": "25a528e218b1",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "published": "2026-10-30T20:26:10+00:00",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of…"
+      "id": "b36e3f7dbcf6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westborough fought Amazon's drone delivery plan — and the community won",
+      "link": "https://www.masslive.com/business/2026/10/amazons-drone-delivery-dream-just-hit-a-wall-in-one-massachusetts-town-heres-what-happened.html",
+      "published": "2026-10-31T18:01:14+00:00",
+      "summary": "Amazon withdrew its drone delivery application in Westborough, amid strong opposition from lawmakers, local officials and residents over noise, safety and privacy concerns."
+    },
+    {
+      "id": "1c7f83459c22",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Howard Stern Wack Pack member claims ICE tried to take her in: ‘They’re very racist’",
+      "link": "https://www.masslive.com/entertainment/2026/10/howard-stern-wack-pack-member-claims-ice-tried-to-take-her-in-theyre-very-racist.html",
+      "published": "2026-10-31T18:00:00+00:00",
+      "summary": "She said she was scared but 'held her own.'"
+    },
+    {
+      "id": "34ae398ff716",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Chloe Scott, Kate Whitticom power Longmeadow girls volleyball to WMass Class A title",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/chloe-scott-kate-whitticom-power-longmeadow-girls-volleyball-to-wmass-class-a-title.html",
+      "published": "2026-10-31T17:47:39+00:00",
+      "summary": "The Lancers came back for redemption in this season's WMass Class A title game, and left with a win."
+    },
+    {
+      "id": "69d714afa51b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Terriers top Franklin Tech again to claim 2nd straight WMass title",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/nate-xavier-leads-west-springfield-field-hockey-to-another-wmass-class-c-title.html",
+      "published": "2026-10-31T17:07:05+00:00",
+      "summary": "Xavier recorded his eighth career hat trick, helping West Springfield field hockey defend its sectional crown."
+    },
+    {
+      "id": "7d9869b2604a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patriots downgrade A.J. Brown, TreVeyon Henderson to out for Week 8 game vs. Dolphins",
+      "link": "https://www.masslive.com/patriots/2026/10/patriots-downgrade-aj-brown-treveyon-henderson-to-out-for-week-8-game-vs-dolphins.html",
+      "published": "2026-10-31T17:05:59+00:00",
+      "summary": "After spending several weeks on the IR due to a high ankle sprain, the Patriots' wide receiver as well as a running back will miss Sunday's game due to a knee injury."
+    },
+    {
+      "id": "7b4e89c8be13",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Casinos like Chumba: The 5 picks players are opening this spooky weekend",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/casinos-like-chumba-the-5-picks-players-are-opening-this-spooky-weekend.html",
+      "published": "2026-10-31T17:03:00+00:00",
+      "summary": "Hunting for casinos like Chumba this Halloween weekend? Our five picks focus on game variety, library depth and how often new titles join the lineup."
+    },
+    {
+      "id": "f97d632f4125",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Boston pilot becomes first Traitor eliminated on 'The Traitors'",
+      "link": "https://www.masslive.com/boston/2026/10/boston-contestant-is-first-to-be-eliminated-on-the-traitors-reality-show.html",
+      "published": "2026-10-31T17:01:44+00:00",
+      "summary": "Adams’ run came to an end during Thursday’s episode, when she was voted out after fellow contestants turned against her."
+    },
+    {
+      "id": "06d3210819f2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music world heartbroken as 4 popular groups have split up in 2026",
+      "link": "https://www.masslive.com/entertainment/2026/10/country-music-world-heartbroken-as-4-popular-groups-have-split-up-in-2026.html",
+      "published": "2026-10-31T17:00:00+00:00",
+      "summary": "Fans are losing some of their favorite groups."
+    },
+    {
+      "id": "1cdc0a91e2d7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bruins coach Marco Sturm reacts to Lightning star requesting trade",
+      "link": "https://www.masslive.com/bruins/2026/10/why-news-of-nikita-kucherovs-trade-request-from-lightning-made-bruins-marco-sturm-smile.html",
+      "published": "2026-10-31T16:27:40+00:00",
+      "summary": "News broke Friday night that Lightning star Nikita Kucherov requested a trade from the only team he’s played for. Bruins coach Marco Sturm was asked for his thoughts about the trade request ahead of Boston’s matinee against the Blackhawks on Saturday."
+    },
+    {
+      "id": "04566f766592",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Indiana fans boo Isiah Thomas during ESPN College GameDay",
+      "link": "https://www.masslive.com/sports/2026/10/heres-why-indiana-fans-booed-former-hoosier-star-isiah-thomas-during-espn-college-gameday.html",
+      "published": "2026-10-31T16:18:17+00:00",
+      "summary": "He knew it was going to happen, too."
+    },
+    {
+      "id": "3f8b1fee4f0d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Will A.J. Brown play vs. Miami? Experts release final Patriots vs. Dolphins predictions for Week 8",
+      "link": "https://www.masslive.com/betting/2026/10/patriots-dolphins-week-8-final-prediction-odds.html",
+      "published": "2026-10-31T16:15:00+00:00",
+      "summary": "After a 30-24 loss to the Bears, the 4-3 Patriots visit the Dolphins. See our model’s forecast, TD props and the latest DraftKings odds."
+    },
+    {
+      "id": "787310419efe",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Social casino games: 5 titles our team is backing on Halloween night",
+      "link": "https://www.masslive.com/sweepstakes/2026/10/social-casino-games-5-titles-our-team-is-backing-on-halloween-night.html",
+      "published": "2026-10-31T16:12:00+00:00",
+      "summary": "Explore five social casino games worth playing this Halloween night. Compare slot mechanics, listed RTPs, betting ranges and platforms."
     },
     {
       "id": "e112cf91c9b8",
@@ -518,126 +638,6 @@
       "link": "https://www.masslive.com/entertainment/2026/10/iconic-singer-and-actress-dead-at-96-beautiful-voice-from-televisions-golden-age.html",
       "published": "2026-10-31T13:00:00+00:00",
       "summary": "She had been in an assisted living facility."
-    },
-    {
-      "id": "27290cb41a5d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "$90 refund payments sent to millions of people: Didn’t receive yours? This could be why",
-      "link": "https://www.masslive.com/news/2026/10/90-refund-payments-sent-to-millions-of-people-didnt-receive-yours-this-could-be-why.html",
-      "published": "2026-10-31T13:00:00+00:00",
-      "summary": "Medicare Part B covers doctors’ visits, outpatient hospital services, medical equipment and drugs administered by physicians."
-    },
-    {
-      "id": "8137a74d721f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rock star with just 2-to-3 years to live gets married. Here’s what we know",
-      "link": "https://www.masslive.com/entertainment/2026/10/rock-star-with-just-2-to-3-years-to-live-gets-married-heres-what-we-know.html",
-      "published": "2026-10-31T13:00:00+00:00",
-      "summary": "The singer announced earlier this year that he was battling cancer."
-    },
-    {
-      "id": "6b1b3e9cdd1f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Miss Manners: I came to see my favorite band and the venue ruined the show",
-      "link": "https://www.masslive.com/advice/2026/10/miss-manners-i-came-to-see-my-favorite-band-and-the-venue-ruined-the-show.html",
-      "published": "2026-10-31T13:00:00+00:00",
-      "summary": "Bad behavior here was rampant."
-    },
-    {
-      "id": "3958d8e1b478",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music’s most devastating year: These legendary singers have died in 2026",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-musics-most-devastating-year-these-legendary-singers-have-died-in-2026.html",
-      "published": "2026-10-31T12:30:00+00:00",
-      "summary": "It has been a heartbreaking year for country music."
-    },
-    {
-      "id": "1687236445dd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular rock singer’s doctors told him to stop performing: ‘Health hasn’t been great’",
-      "link": "https://www.masslive.com/entertainment/2026/10/popular-rock-singers-doctors-told-him-to-stop-performing-health-hasnt-been-great.html",
-      "published": "2026-10-31T12:00:00+00:00",
-      "summary": "The singer shared the news on social media."
-    },
-    {
-      "id": "b8533554e28f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "East Longmeadow opens new pool but limits weekday public access",
-      "link": "https://www.masslive.com/westernmass/2026/10/east-longmeadow-opens-new-pool-but-limits-weekday-public-access.html",
-      "published": "2026-10-31T12:00:00+00:00",
-      "summary": "The pool is attached to the new East Longmeadow High School on Maple Street and was built at the same time, but was voted and funded as a separate project."
-    },
-    {
-      "id": "a496e0c458e5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trick-or-treat temps in Massachusetts could hit the 20s",
-      "link": "https://www.masslive.com/weather/2026/10/mass-weather-how-cold-will-it-be-for-trick-or-treating-on-halloween.html",
-      "published": "2026-10-31T11:56:02+00:00",
-      "summary": "Temperatures will begin falling quickly after sunset, meaning trick-or-treaters should prepare for cold conditions."
-    },
-    {
-      "id": "82872bdda8c3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "WMass Girls Soccer Finals: 8 teams, 4 titles on the line",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/western-mass-girls-soccer-finals-breaking-down-all-four-championship-matchups.html",
-      "published": "2026-10-31T11:55:44+00:00",
-      "summary": "Check out which local girls soccer teams will compete in the upcoming Western Massachusetts girls soccer championships."
-    },
-    {
-      "id": "b16868153796",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rock band cancels all remaining concerts on first reunion tour in 33 years",
-      "link": "https://www.masslive.com/entertainment/2026/10/rock-band-cancels-all-remaining-concerts-on-first-reunion-tour-in-33-years.html",
-      "published": "2026-10-31T11:03:47+00:00",
-      "summary": "The music group said it was facing \"sudden and unexpected medical circumstances.”"
-    },
-    {
-      "id": "94b77dbc0d1a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Daylight saving time ends tonight on Halloween: See what time clocks will ‘fall back’",
-      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-ends-tonight-on-halloween-see-what-time-clocks-will-fall-back.html",
-      "published": "2026-10-31T11:00:00+00:00",
-      "summary": "Daylight saving time ends tonight. See what time the clocks will \"fall back\""
-    },
-    {
-      "id": "b687aa2a24c6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Will Dems impeach Trump again if they win the midterms? It depends on which Dem you ask",
-      "link": "https://www.masslive.com/politics/2026/10/will-dems-impeach-trump-again-if-they-win-the-midterms-it-depends-on-which-dem-you-ask.html",
-      "published": "2026-10-31T11:00:00+00:00",
-      "summary": "The president has said he believes the Dems will again try to remove him from office."
-    },
-    {
-      "id": "7876a51b725a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock frontman dies after cancer battle: ‘So many memories to cherish’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-frontman-dies-after-cancer-battle-so-many-memories-to-cherish.html",
-      "published": "2026-10-31T11:00:00+00:00",
-      "summary": "He moved into hospice care earlier this year."
     },
     {
       "id": "f0c80b908a88",
