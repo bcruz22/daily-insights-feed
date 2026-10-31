@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:09:04+00:00",
+  "generated_at": "2026-10-31T12:08:37+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -39,6 +39,26 @@
     }
   },
   "items": [
+    {
+      "id": "e58df0c82cd4",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "published": "2026-10-31T11:15:26+00:00",
+      "summary": "A long flight home from feeding grounds messes with birds' internal clocks."
+    },
+    {
+      "id": "58f1874bf514",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "published": "2026-10-31T11:02:34+00:00",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?"
+    },
     {
       "id": "e7a0d7ebfffd",
       "source": "Ars Technica",
@@ -220,24 +240,24 @@
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
     },
     {
-      "id": "ca205e978a06",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "0b58bfa85dcc",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "published": "2026-10-29T20:18:49+00:00",
-      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot."
+      "title": "Touchscreens everywhere!",
+      "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "published": "2026-10-31T12:00:00+00:00",
+      "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a family vacation. It…"
     },
     {
-      "id": "69e91b7f989d",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "fe0e51086ed4",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-      "published": "2026-10-29T20:08:10+00:00",
-      "summary": "Inspector general rejected request from Democratic and Republican senators."
+      "title": "Here’s why you can’t shake those unhinged political texts",
+      "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "published": "2026-10-31T12:00:00+00:00",
+      "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick…"
     },
     {
       "id": "011fdc062b2b",
@@ -320,24 +340,114 @@
       "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out…"
     },
     {
-      "id": "fc64bf0a576f",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-      "published": "2026-10-30T17:01:07+00:00",
-      "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right now, it’s discounted…"
+      "id": "1687236445dd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular rock singer’s doctors told him to stop performing: ‘Health hasn’t been great’",
+      "link": "https://www.masslive.com/entertainment/2026/10/popular-rock-singers-doctors-told-him-to-stop-performing-health-hasnt-been-great.html",
+      "published": "2026-10-31T12:00:00+00:00",
+      "summary": "The singer shared the news on social media."
     },
     {
-      "id": "b0177d5e5a90",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-      "published": "2026-10-30T15:29:02+00:00",
-      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just…"
+      "id": "b8533554e28f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "East Longmeadow opens new pool but limits weekday public access",
+      "link": "https://www.masslive.com/westernmass/2026/10/east-longmeadow-opens-new-pool-but-limits-weekday-public-access.html",
+      "published": "2026-10-31T12:00:00+00:00",
+      "summary": "The pool is attached to the new East Longmeadow High School on Maple Street and was built at the same time, but was voted and funded as a separate project."
+    },
+    {
+      "id": "a496e0c458e5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trick-or-treat temps in Massachusetts could hit the 20s",
+      "link": "https://www.masslive.com/weather/2026/10/mass-weather-how-cold-will-it-be-for-trick-or-treating-on-halloween.html",
+      "published": "2026-10-31T11:56:02+00:00",
+      "summary": "Temperatures will begin falling quickly after sunset, meaning trick-or-treaters should prepare for cold conditions."
+    },
+    {
+      "id": "82872bdda8c3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass Girls Soccer Finals: 8 teams, 4 titles on the line",
+      "link": "https://www.masslive.com/highschoolsports/2026/10/western-mass-girls-soccer-finals-breaking-down-all-four-championship-matchups.html",
+      "published": "2026-10-31T11:55:44+00:00",
+      "summary": "Check out which local girls soccer teams will compete in the upcoming Western Massachusetts girls soccer championships."
+    },
+    {
+      "id": "b16868153796",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rock band cancels all remaining concerts on first reunion tour in 33 years",
+      "link": "https://www.masslive.com/entertainment/2026/10/rock-band-cancels-all-remaining-concerts-on-first-reunion-tour-in-33-years.html",
+      "published": "2026-10-31T11:03:47+00:00",
+      "summary": "The music group said it was facing \"sudden and unexpected medical circumstances.”"
+    },
+    {
+      "id": "7876a51b725a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved rock frontman dies after cancer battle: ‘So many memories to cherish’",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-frontman-dies-after-cancer-battle-so-many-memories-to-cherish.html",
+      "published": "2026-10-31T11:00:00+00:00",
+      "summary": "He moved into hospice care earlier this year."
+    },
+    {
+      "id": "125c764b29a1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music’s deadly year in flight: Latest star killed in helicopter crash",
+      "link": "https://www.masslive.com/entertainment/2026/10/country-musics-deadly-year-in-flight-latest-star-killed-in-helicopter-crash.html",
+      "published": "2026-10-31T11:00:00+00:00",
+      "summary": "A crash that left five dead brought attention to what has been a heartbreaking and frightening year in the air."
+    },
+    {
+      "id": "94b77dbc0d1a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Daylight saving time ends tonight on Halloween: See what time clocks will ‘fall back’",
+      "link": "https://www.masslive.com/news/2026/10/daylight-saving-time-ends-tonight-on-halloween-see-what-time-clocks-will-fall-back.html",
+      "published": "2026-10-31T11:00:00+00:00",
+      "summary": "Daylight saving time ends tonight. See what time the clocks will \"fall back\""
+    },
+    {
+      "id": "b687aa2a24c6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Will Dems impeach Trump again if they win the midterms? It depends on which Dem you ask",
+      "link": "https://www.masslive.com/politics/2026/10/will-dems-impeach-trump-again-if-they-win-the-midterms-it-depends-on-which-dem-you-ask.html",
+      "published": "2026-10-31T11:00:00+00:00",
+      "summary": "The president has said he believes the Dems will again try to remove him from office."
+    },
+    {
+      "id": "5df8f6b1e2b7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular rock frontman on Donald Trump’s second term: ‘It’s like a nightmare’",
+      "link": "https://www.masslive.com/entertainment/2026/10/popular-rock-frontman-on-donald-trumps-second-term-its-like-a-nightmare.html",
+      "published": "2026-10-31T11:00:00+00:00",
+      "summary": "The singer was not afraid to share his thoughts on Trump and the upcoming midterms."
+    },
+    {
+      "id": "5e204cc3db85",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music’s richest singers: Can you guess who leads the list with $1 billion?",
+      "link": "https://www.masslive.com/entertainment/2026/10/country-musics-richest-singers-can-you-guess-who-leads-the-list-with-1-billion.html",
+      "published": "2026-10-31T10:30:00+00:00",
+      "summary": "Country music is big business."
     },
     {
       "id": "1bf66703cbd7",
@@ -350,46 +460,6 @@
       "summary": "Westfield Mayor Michael McCabe honored eight volunteers, naming Jim Irwin and Lisa Zlody as 2026 Volunteers of the Year for their many years of community service."
     },
     {
-      "id": "c9ddad6ca6a8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular actress says she’s living in a tent after major health scare",
-      "link": "https://www.masslive.com/entertainment/2026/10/popular-actress-says-shes-living-in-a-tent-after-major-health-scare.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "Her health problems began in 2025 with a recurring root canal infection that required multiple surgeries."
-    },
-    {
-      "id": "2b93aacfab64",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved ‘Pink Panther’ star dies at 85",
-      "link": "https://www.masslive.com/entertainment/2026/10/legendary-actress-dies-at-85.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "Elke Sommer, the German-born actress known for starring opposite Peter Sellers in “A Shot in the Dark,” died Wednesday at age 85."
-    },
-    {
-      "id": "4bfc500cf07b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Hollywood actor and Jackie Chan collaborator dies at 75",
-      "link": "https://www.masslive.com/entertainment/2026/10/hollywood-actor-and-jackie-chan-collaborator-dies-at-75.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "Richard Norton, the Australian actor and stuntman who worked with Jackie Chan, Margot Robbie and Scarlett Johansson, died at age 75."
-    },
-    {
-      "id": "1c7363860e23",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Southwick warns of tax takings of properties for unpaid taxes",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/southwick-warns-of-tax-takings-of-properties-for-unpaid-taxes.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "The Town of Southwick is warning two properties that their properties could be seized next month due to unpaid taxes."
-    },
-    {
       "id": "d4ceee02ccdb",
       "source": "MassLive",
       "source_id": "masslive",
@@ -400,14 +470,14 @@
       "summary": "President Donald Trump loomed large this election cycle."
     },
     {
-      "id": "c76a6fbc6b75",
+      "id": "c9ddad6ca6a8",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "What does it mean for homebuyers now that the Fed paused interest rate increases?",
-      "link": "https://www.masslive.com/news/2026/10/what-does-it-mean-for-homebuyers-now-that-the-fed-paused-interest-rate-increases.html",
+      "title": "Popular actress says she’s living in a tent after major health scare",
+      "link": "https://www.masslive.com/entertainment/2026/10/popular-actress-says-shes-living-in-a-tent-after-major-health-scare.html",
       "published": "2026-10-31T10:00:01+00:00",
-      "summary": "While interest rates didn't move, experts are warning future homebuyers that prices are still high and hikes are still possible in December."
+      "summary": "Her health problems began in 2025 with a recurring root canal infection that required multiple surgeries."
     },
     {
       "id": "e612cb62d071",
@@ -430,6 +500,36 @@
       "summary": "Westfield State University is launching a men's swimming and diving program, expanding its aquatic department under coach Matt Nodell, who aims to attract regional athletes and build a lasting program culture."
     },
     {
+      "id": "4bfc500cf07b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hollywood actor and Jackie Chan collaborator dies at 75",
+      "link": "https://www.masslive.com/entertainment/2026/10/hollywood-actor-and-jackie-chan-collaborator-dies-at-75.html",
+      "published": "2026-10-31T10:00:01+00:00",
+      "summary": "Richard Norton, the Australian actor and stuntman who worked with Jackie Chan, Margot Robbie and Scarlett Johansson, died at age 75."
+    },
+    {
+      "id": "2b93aacfab64",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved ‘Pink Panther’ star dies at 85",
+      "link": "https://www.masslive.com/entertainment/2026/10/legendary-actress-dies-at-85.html",
+      "published": "2026-10-31T10:00:01+00:00",
+      "summary": "Elke Sommer, the German-born actress known for starring opposite Peter Sellers in “A Shot in the Dark,” died Wednesday at age 85."
+    },
+    {
+      "id": "1c7363860e23",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Southwick warns of tax takings of properties for unpaid taxes",
+      "link": "https://www.masslive.com/westfieldnews/2026/10/southwick-warns-of-tax-takings-of-properties-for-unpaid-taxes.html",
+      "published": "2026-10-31T10:00:01+00:00",
+      "summary": "The Town of Southwick is warning two properties that their properties could be seized next month due to unpaid taxes."
+    },
+    {
       "id": "59429fd5d21e",
       "source": "MassLive",
       "source_id": "masslive",
@@ -438,6 +538,16 @@
       "link": "https://www.masslive.com/westfieldnews/2026/10/westfield-health-bulletin-there-is-no-such-thing-as-too-old-to-trick-or-treat-and-heres-why-that-matters.html",
       "published": "2026-10-31T10:00:01+00:00",
       "summary": "Juanita Carnes advocates for welcoming trick-or-treaters of all ages, sharing community Halloween activities and family traditions to keep the holiday's magic alive."
+    },
+    {
+      "id": "c76a6fbc6b75",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "What does it mean for homebuyers now that the Fed paused interest rate increases?",
+      "link": "https://www.masslive.com/news/2026/10/what-does-it-mean-for-homebuyers-now-that-the-fed-paused-interest-rate-increases.html",
+      "published": "2026-10-31T10:00:01+00:00",
+      "summary": "While interest rates didn't move, experts are warning future homebuyers that prices are still high and hikes are still possible in December."
     },
     {
       "id": "3af03a6e340a",
@@ -530,114 +640,14 @@
       "summary": "The couple tied the knot in Tennessee."
     },
     {
-      "id": "a5fbec9f8dc6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "’90s rock band’s frontman stuns fans: ‘Unable to tour any longer for health reason’",
-      "link": "https://www.masslive.com/entertainment/2026/10/90s-rock-bands-frontman-stuns-fans-unable-to-tour-any-longer-for-health-reason.html",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "He shared the news with fans on social media."
-    },
-    {
-      "id": "94c53f92974d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Iconic rock band sets date for final show after 4 decades: ‘It’ll be fun’",
-      "link": "https://www.masslive.com/entertainment/2026/10/iconic-rock-band-sets-date-for-final-show-after-4-decades-itll-be-fun.html",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "Fans now have a date and location for the final show."
-    },
-    {
-      "id": "7214b48d842b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "5 Things to Watch: Stopping Dolphins’ run could be biggest key for Patriots in Week 8",
-      "link": "https://www.masslive.com/patriots/2026/10/5-things-to-watch-stopping-dolphins-run-could-be-biggest-key-for-patriots-in-week-8.html",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "The Patriots will try to bounce back against the Dolphins in Week 8 at Hard Rock Stadium. One major key for the Patriots this week is to stop Miami’s run. One major key for the Patriots this week is to stop Miami’s run."
-    },
-    {
-      "id": "26013cad07c7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved country music duo is splitting up: ‘It’s a bittersweet decision’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-country-music-duo-is-splitting-up-its-a-bittersweet-decision.html",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "They have been together since 2013."
-    },
-    {
-      "id": "93e72dd69df4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Silent killer ravaging the music world: Nearly 60 stars dead from same disease in 2026",
-      "link": "https://www.masslive.com/entertainment/2026/10/silent-killer-ravaging-the-music-world-nearly-60-stars-dead-from-same-disease-in-2026.html",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "The disease has taken some of music's best this year."
-    },
-    {
-      "id": "6e3f62c80fc1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Examining center rotation, NBA Cup, Boston Children’s Hospital (Celtics Notebook)",
-      "link": "https://www.masslive.com/celtics/2026/10/examining-center-rotation-nba-cup-boston-childrens-hospital-celtics-notebook.html",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "The Celtics hosted Boston Children's Hospital Night on Friday at TD Garden after the ownership group's $200 million donation."
-    },
-    {
-      "id": "80e664bbbd5d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: I taught my daughter she controls her body, but grandma says that's rude",
-      "link": "https://www.masslive.com/advice/2026/10/asking-eric-i-taught-my-daughter-she-controls-her-body-but-grandma-says-thats-rude.html",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "After Helen left, Grandma scolded Missy saying she was rude to not hug Helen."
-    },
-    {
-      "id": "e8eb2e69ab68",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "What we learned from Celtics’ win over Bulls in NBA Cup opener",
-      "link": "https://www.masslive.com/celtics/2026/10/what-we-learned-from-celtics-win-over-bulls-in-nba-cup-opener.html",
-      "published": "2026-10-31T03:43:08+00:00",
-      "summary": "Payton Pritchard once again dominated and the Celtics opened NBA Cup play with a win over the Bulls."
-    },
-    {
-      "id": "b73be9109037",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Joe Mazzulla's challenge brings out 'best version' of Payton Pritchard in win",
-      "link": "https://www.masslive.com/celtics/2026/10/payton-pritchard-scores-30-answers-joe-mazzullas-challenge-in-celtics-win-the-absolute-best-version-of-him.html",
-      "published": "2026-10-31T03:41:28+00:00",
-      "summary": "Scoring 30 was not the most satisfying part of an eventful Friday night at TD Garden for Payton Pritchard, who answered a challenge from Joe Mazzulla in a big way."
-    },
-    {
-      "id": "099cba010087",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Click to see results from across the state on Oct. 30",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/hs-scoreboard-click-to-see-results-from-across-the-state-on-oct-30.html",
-      "published": "2026-10-31T03:37:29+00:00",
-      "summary": "Check out all the results from across the state on Friday."
-    },
-    {
-      "id": "c3d04b039aa0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Chicopee Comp football earns first win of the season over Amherst",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/chicopee-comp-football-earns-first-wins-of-season-over-amherst.html",
-      "published": "2026-10-31T03:34:07+00:00",
-      "summary": "Colts quarterback Mateus Ferriera scored twice while their defense held off a late rally by the Hurricanes to secure the win."
+      "id": "f0c80b908a88",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+      "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+      "published": "2026-10-31T11:00:00+00:00",
+      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek ."
     },
     {
       "id": "5ec9d44a0613",
@@ -728,16 +738,6 @@
       "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
       "published": "2026-10-30T08:44:49+00:00",
       "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines appeared first on SecurityWeek ."
-    },
-    {
-      "id": "3bb9ba7c2b0a",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-      "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-      "published": "2026-10-30T08:16:26+00:00",
-      "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor appeared first on SecurityWeek ."
     },
     {
       "id": "cf591b1496f8",
