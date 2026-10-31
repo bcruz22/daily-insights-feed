@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:08:00+00:00",
+  "generated_at": "2026-10-31T16:10:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 5,
+      "count": 4,
       "errors": []
     }
   },
@@ -240,6 +240,46 @@
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
     },
     {
+      "id": "ed0268fa6e32",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "published": "2026-10-31T16:05:00+00:00",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]"
+    },
+    {
+      "id": "7b5ed5dd303b",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "published": "2026-10-31T15:12:19+00:00",
+      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now…"
+    },
+    {
+      "id": "e40050fcf4c1",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "published": "2026-10-31T15:00:00+00:00",
+      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops…"
+    },
+    {
+      "id": "589329f72aa8",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "published": "2026-10-31T15:00:00+00:00",
+      "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down On My…"
+    },
+    {
       "id": "0b58bfa85dcc",
       "source": "The Verge",
       "source_id": "verge",
@@ -300,44 +340,94 @@
       "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of…"
     },
     {
-      "id": "c4dbacf8aa2b",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Google’s satellite AI server transmits its first response to Earth",
-      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "published": "2026-10-30T18:21:38+00:00",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:…"
+      "id": "e112cf91c9b8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "2 suspected of smuggling as 38 rescued by Netherlands coast guard",
+      "link": "https://www.masslive.com/news/2026/10/2-suspected-of-smuggling-as-38-rescued-by-netherlands-coast-guard-from-rubber-boat-found-adrift.html",
+      "published": "2026-10-31T15:41:23+00:00",
+      "summary": "\"We don’t know where they came from.\""
     },
     {
-      "id": "0de3f9697e49",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "published": "2026-10-30T17:38:04+00:00",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital…"
+      "id": "226b86f97d92",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "DNA technology brings Lynn WWII soldier home decades later",
+      "link": "https://www.masslive.com/news/2026/10/remains-of-mass-man-killed-in-wwii-returned-home-after-eight-decades.html",
+      "published": "2026-10-31T15:30:40+00:00",
+      "summary": "Due to advances in DNA technology, his remains were positively identified in 2025."
     },
     {
-      "id": "314a899c02a7",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The delightfully messy state of Apple gadgets",
-      "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-      "published": "2026-10-30T17:25:20+00:00",
-      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some…"
+      "id": "f521192dd84a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Final data projections released for Notre Dame-Navy Week 9 matchup at Gillette Stadium",
+      "link": "https://www.masslive.com/betting/2026/10/final-data-projections-released-for-notre-dame-navy-week-9-matchup-at-gillette-stadium.html",
+      "published": "2026-10-31T15:15:00+00:00",
+      "summary": "The Notre Dame Fighting Irish face the Navy Midshipmen this Saturday, let's take a closer look at Dimers final set of expert data to see what the numbers are telling us for this Week 9 showdown."
     },
     {
-      "id": "6896578ea582",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Rivian’s autonomy gamble faces its first real test",
-      "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-      "published": "2026-10-30T17:16:09+00:00",
-      "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out…"
+      "id": "00ae2374ea50",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Gas prices for 10/31/26: No tricks, gas down another 2 cents nationally",
+      "link": "https://www.masslive.com/news/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
+      "published": "2026-10-31T15:06:23+00:00",
+      "summary": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026."
+    },
+    {
+      "id": "5dd12d170827",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Saban’s 75 scariest seconds on birthday, here's the cake",
+      "link": "https://www.masslive.com/sports/2026/10/nick-sabans-75-scariest-seconds-on-birthday-and-oatmeal-pie-cake-to-celebrate-god-bless-you-all.html",
+      "published": "2026-10-31T15:01:33+00:00",
+      "summary": "The former Alabama coach was honored during College GameDay."
+    },
+    {
+      "id": "1de2659e0120",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Annie: Is there a polite way to tell a co-worker she's become the office outbreak source?",
+      "link": "https://www.masslive.com/advice/2026/10/dear-annie-is-there-a-polite-way-to-tell-a-co-worker-shes-become-the-office-outbreak-source.html",
+      "published": "2026-10-31T15:00:00+00:00",
+      "summary": "We think she either likes the attention or she’s just lazy."
+    },
+    {
+      "id": "5e4c31a61a06",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "McAfee’s title sleeper shocks after past week, mentions ‘SEC ESPN",
+      "link": "https://www.masslive.com/sports/2026/10/pat-mcafees-title-sleeper-shocks-after-the-week-i-just-had-sec-espns-running-wild-right-now.html",
+      "published": "2026-10-31T14:43:52+00:00",
+      "summary": "The ESPN personality certainly gave a couple of interesting takes on the topic."
+    },
+    {
+      "id": "db06e62ac7c0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Indiana’s Curt Cignetti reflects on viral ‘Google me’ video",
+      "link": "https://www.masslive.com/sports/2026/10/indianas-curt-cignetti-reflects-on-viral-google-me-video.html",
+      "published": "2026-10-31T14:10:33+00:00",
+      "summary": "The coach joined GameDay on Saturday ahead of the Indiana-Minnesota game."
+    },
+    {
+      "id": "2f24e747eae6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Southcoast Health CEO steps down, interim leader named",
+      "link": "https://www.masslive.com/news/2026/10/ceo-of-regions-largest-healthcare-provider-stepping-down.html",
+      "published": "2026-10-31T14:08:22+00:00",
+      "summary": "He announced his departure in a message sent to Southcoast Health’s board of trustees."
     },
     {
       "id": "ce657828b2a8",
@@ -410,24 +500,14 @@
       "summary": "The Patriots celebrated Halloween on Friday at Gillette Stadium when they hosted the “Howl-Ween” dog parade and costume contest. Check out some highlights from the day:"
     },
     {
-      "id": "8137a74d721f",
+      "id": "79e758854d54",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Rock star with just 2-to-3 years to live gets married. Here’s what we know",
-      "link": "https://www.masslive.com/entertainment/2026/10/rock-star-with-just-2-to-3-years-to-live-gets-married-heres-what-we-know.html",
+      "title": "Ask Mayo Clinic: Here’s how doctors decide what makes a heart surgery ‘complex’",
+      "link": "https://www.masslive.com/advice/2026/10/ask-mayo-clinic-heres-how-doctors-decide-what-makes-a-heart-surgery-complex.html",
       "published": "2026-10-31T13:00:00+00:00",
-      "summary": "The singer announced earlier this year that he was battling cancer."
-    },
-    {
-      "id": "6b1b3e9cdd1f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Miss Manners: I came to see my favorite band and the venue ruined the show",
-      "link": "https://www.masslive.com/advice/2026/10/miss-manners-i-came-to-see-my-favorite-band-and-the-venue-ruined-the-show.html",
-      "published": "2026-10-31T13:00:00+00:00",
-      "summary": "Bad behavior here was rampant."
+      "summary": "Less invasive or catheter-based procedures are good options for many patients, but they aren’t appropriate for everyone."
     },
     {
       "id": "e4540f89aadc",
@@ -450,14 +530,24 @@
       "summary": "Medicare Part B covers doctors’ visits, outpatient hospital services, medical equipment and drugs administered by physicians."
     },
     {
-      "id": "79e758854d54",
+      "id": "8137a74d721f",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Ask Mayo Clinic: Here’s how doctors decide what makes a heart surgery ‘complex’",
-      "link": "https://www.masslive.com/advice/2026/10/ask-mayo-clinic-heres-how-doctors-decide-what-makes-a-heart-surgery-complex.html",
+      "title": "Rock star with just 2-to-3 years to live gets married. Here’s what we know",
+      "link": "https://www.masslive.com/entertainment/2026/10/rock-star-with-just-2-to-3-years-to-live-gets-married-heres-what-we-know.html",
       "published": "2026-10-31T13:00:00+00:00",
-      "summary": "Less invasive or catheter-based procedures are good options for many patients, but they aren’t appropriate for everyone."
+      "summary": "The singer announced earlier this year that he was battling cancer."
+    },
+    {
+      "id": "6b1b3e9cdd1f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: I came to see my favorite band and the venue ruined the show",
+      "link": "https://www.masslive.com/advice/2026/10/miss-manners-i-came-to-see-my-favorite-band-and-the-venue-ruined-the-show.html",
+      "published": "2026-10-31T13:00:00+00:00",
+      "summary": "Bad behavior here was rampant."
     },
     {
       "id": "3958d8e1b478",
@@ -520,36 +610,6 @@
       "summary": "The music group said it was facing \"sudden and unexpected medical circumstances.”"
     },
     {
-      "id": "5df8f6b1e2b7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular rock frontman on Donald Trump’s second term: ‘It’s like a nightmare’",
-      "link": "https://www.masslive.com/entertainment/2026/10/popular-rock-frontman-on-donald-trumps-second-term-its-like-a-nightmare.html",
-      "published": "2026-10-31T11:00:00+00:00",
-      "summary": "The singer was not afraid to share his thoughts on Trump and the upcoming midterms."
-    },
-    {
-      "id": "125c764b29a1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music’s deadly year in flight: Latest star killed in helicopter crash",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-musics-deadly-year-in-flight-latest-star-killed-in-helicopter-crash.html",
-      "published": "2026-10-31T11:00:00+00:00",
-      "summary": "A crash that left five dead brought attention to what has been a heartbreaking and frightening year in the air."
-    },
-    {
-      "id": "7876a51b725a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock frontman dies after cancer battle: ‘So many memories to cherish’",
-      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-frontman-dies-after-cancer-battle-so-many-memories-to-cherish.html",
-      "published": "2026-10-31T11:00:00+00:00",
-      "summary": "He moved into hospice care earlier this year."
-    },
-    {
       "id": "94b77dbc0d1a",
       "source": "MassLive",
       "source_id": "masslive",
@@ -570,74 +630,14 @@
       "summary": "The president has said he believes the Dems will again try to remove him from office."
     },
     {
-      "id": "5e204cc3db85",
+      "id": "7876a51b725a",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Country music’s richest singers: Can you guess who leads the list with $1 billion?",
-      "link": "https://www.masslive.com/entertainment/2026/10/country-musics-richest-singers-can-you-guess-who-leads-the-list-with-1-billion.html",
-      "published": "2026-10-31T10:30:00+00:00",
-      "summary": "Country music is big business."
-    },
-    {
-      "id": "1bf66703cbd7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield mayor announces 2026 Volunteers of the Year",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/westfield-mayor-announces-2026-volunteers-of-the-year.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "Westfield Mayor Michael McCabe honored eight volunteers, naming Jim Irwin and Lisa Zlody as 2026 Volunteers of the Year for their many years of community service."
-    },
-    {
-      "id": "c9ddad6ca6a8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular actress says she’s living in a tent after major health scare",
-      "link": "https://www.masslive.com/entertainment/2026/10/popular-actress-says-shes-living-in-a-tent-after-major-health-scare.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "Her health problems began in 2025 with a recurring root canal infection that required multiple surgeries."
-    },
-    {
-      "id": "c76a6fbc6b75",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "What does it mean for homebuyers now that the Fed paused interest rate increases?",
-      "link": "https://www.masslive.com/news/2026/10/what-does-it-mean-for-homebuyers-now-that-the-fed-paused-interest-rate-increases.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "While interest rates didn't move, experts are warning future homebuyers that prices are still high and hikes are still possible in December."
-    },
-    {
-      "id": "4bfc500cf07b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Hollywood actor and Jackie Chan collaborator dies at 75",
-      "link": "https://www.masslive.com/entertainment/2026/10/hollywood-actor-and-jackie-chan-collaborator-dies-at-75.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "Richard Norton, the Australian actor and stuntman who worked with Jackie Chan, Margot Robbie and Scarlett Johansson, died at age 75."
-    },
-    {
-      "id": "1c7363860e23",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Southwick warns of tax takings of properties for unpaid taxes",
-      "link": "https://www.masslive.com/westfieldnews/2026/10/southwick-warns-of-tax-takings-of-properties-for-unpaid-taxes.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "The Town of Southwick is warning two properties that their properties could be seized next month due to unpaid taxes."
-    },
-    {
-      "id": "2b93aacfab64",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved ‘Pink Panther’ star dies at 85",
-      "link": "https://www.masslive.com/entertainment/2026/10/legendary-actress-dies-at-85.html",
-      "published": "2026-10-31T10:00:01+00:00",
-      "summary": "Elke Sommer, the German-born actress known for starring opposite Peter Sellers in “A Shot in the Dark,” died Wednesday at age 85."
+      "title": "Beloved rock frontman dies after cancer battle: ‘So many memories to cherish’",
+      "link": "https://www.masslive.com/entertainment/2026/10/beloved-rock-frontman-dies-after-cancer-battle-so-many-memories-to-cherish.html",
+      "published": "2026-10-31T11:00:00+00:00",
+      "summary": "He moved into hospice care earlier this year."
     },
     {
       "id": "f0c80b908a88",
@@ -778,16 +778,6 @@
       "link": "https://petri.com/rising-ai-costs-enterprise-ai-strategies/",
       "published": "2026-10-29T14:57:03+00:00",
       "summary": "Many organizations have moved beyond AI experimentation and are now trying to deploy AI across business-critical operations. However, scaling AI introduces new problems that were less visible during pilot projects. Rising inference and token costs are making AI workloads more expensive than…"
-    },
-    {
-      "id": "4cce266353ff",
-      "source": "Petri",
-      "source_id": "petri",
-      "category": "tech",
-      "title": "Microsoft Releases CLAT for IPv6-Only Networks in Windows 11",
-      "link": "https://petri.com/microsoft-windows-clat-ipv6-only-networks/",
-      "published": "2026-10-28T15:52:19+00:00",
-      "summary": "Organizations are increasingly moving toward IPv6-only or IPv6-first networks as available IPv4 addresses become harder to obtain and manage. However, many business applications, services, and devices still rely on IPv4 connectivity. This dependency creates a major obstacle for enterprises that…"
     }
   ]
 }
