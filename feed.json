@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:11:24+00:00",
+  "generated_at": "2026-11-01T14:12:13+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -240,11 +240,41 @@
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
     },
     {
+      "id": "9bf5871ddb73",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "published": "2026-11-01T14:00:00+00:00",
+      "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than…"
+    },
+    {
+      "id": "144d2253b8d6",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
+      "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "published": "2026-11-01T13:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two…"
+    },
+    {
+      "id": "cd3bd1b497c0",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "published": "2026-11-01T13:00:00+00:00",
+      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for…"
+    },
+    {
       "id": "691dfa44ca49",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
-      "title": "Get in the spirit with these horrors from YouTube",
+      "title": "Get in the spooky spirit with these horrors from YouTube",
       "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
       "published": "2026-10-31T21:06:58+00:00",
       "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art…"
@@ -310,34 +340,74 @@
       "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops…"
     },
     {
-      "id": "589329f72aa8",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Vic Mensa can’t live without the Voice Memos app",
-      "link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-      "published": "2026-10-31T15:00:00+00:00",
-      "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down On My…"
+      "id": "d867a50c5189",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ask Mayo Clinic: How will a pituitary tumor impact my day-to-day life?",
+      "link": "https://www.masslive.com/advice/2026/11/ask-mayo-clinic-how-will-a-pituitary-tumor-impact-my-day-to-day-life.html",
+      "published": "2026-11-01T14:00:00+00:00",
+      "summary": "Most pituitary tumors are called pituitary adenomas."
     },
     {
-      "id": "0b58bfa85dcc",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Touchscreens everywhere!",
-      "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-      "published": "2026-10-31T12:00:00+00:00",
-      "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a family vacation. It…"
+      "id": "6b5d19a4587f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "7-year-old’s letter yields a safer Longmeadow crosswalk",
+      "link": "https://www.masslive.com/westernmass/2026/11/7-year-olds-letter-yields-a-safer-longmeadow-crosswalk.html",
+      "published": "2026-11-01T13:59:07+00:00",
+      "summary": "In social media posts, town officials thanked their young constituent for “Camille’s Crossing” and for making the town safer for all pedestrians."
     },
     {
-      "id": "fe0e51086ed4",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Here’s why you can’t shake those unhinged political texts",
-      "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-      "published": "2026-10-31T12:00:00+00:00",
-      "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick…"
+      "id": "96c86c121928",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Tangled home titles slow Springfield efforts to fix vacant properties",
+      "link": "https://www.masslive.com/westernmass/2026/11/tangled-home-titles-slow-springfield-efforts-to-fix-vacant-properties.html",
+      "published": "2026-11-01T13:41:34+00:00",
+      "summary": "Between 1.9% and 3.5% of Springfield homes are owned by someone who has died, according to an analysis by the MassINC Policy Center."
+    },
+    {
+      "id": "dd8986bca8bf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Election forecaster drops doomsday midterm warnings for Trump",
+      "link": "https://www.masslive.com/politics/2026/11/election-forecaster-drops-doomsday-midterm-predictions-against-trump.html",
+      "published": "2026-11-01T13:30:00+00:00",
+      "summary": "The renowned polling analyst acknowledged that his figures are higher than prediction markets."
+    },
+    {
+      "id": "9ea4a03b6445",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "5 suffer chemical burns from Chili’s margaritas mixed with cleaning product in N.C.",
+      "link": "https://www.masslive.com/news/2026/11/5-suffer-chemical-burns-from-chilis-margaritas-rimmed-with-white-substance.html",
+      "published": "2026-11-01T13:26:22+00:00",
+      "summary": "A white substance was mistakenly used instead of sugar on the rim."
+    },
+    {
+      "id": "d61fb2cbd6ca",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music stars who have gotten married in 2026: Two more just joined the list",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-music-stars-who-have-gotten-married-in-2026-two-more-just-joined-the-list.html",
+      "published": "2026-11-01T13:00:00+00:00",
+      "summary": "Some big country music stars have gotten hitched in 2026."
+    },
+    {
+      "id": "689a28cff9ee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "1 dead, 8 shot in mass shooting outside college football game in Alabama",
+      "link": "https://www.masslive.com/news/2026/11/1-dead-8-shot-in-mass-shooting-outside-college-football-game-in-alabama.html",
+      "published": "2026-11-01T12:12:45+00:00",
+      "summary": "One person has been detained and \"multiple weapons\" were secured, police said."
     },
     {
       "id": "c7f072b48c0f",
@@ -380,14 +450,14 @@
       "summary": "President’s faltering approval ratings thought to be drag on GOP candidates."
     },
     {
-      "id": "14feb64ba9fb",
+      "id": "8893626b6b3c",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "‘No Country for Old Men’ actor dies at 68",
-      "link": "https://www.masslive.com/entertainment/2026/11/no-country-for-old-men-actor-dies-at-68.html",
+      "title": "Former ‘19 Kids and Counting’ star, 33, expecting 7th child",
+      "link": "https://www.masslive.com/entertainment/2026/11/former-reality-tv-star-33-expecting-7th-baby-with-husband.html",
       "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Matthew Posey, an actor who appeared in “No Country for Old Men,” “Lonesome Dove” and “The Magnificent Seven,” died Oct. 2 at age 68."
+      "summary": "Former “19 Kids and Counting” star Jessa Duggar, 33, is expecting her seventh child with husband Ben Seewald, 31."
     },
     {
       "id": "5e7627f50dc9",
@@ -400,14 +470,34 @@
       "summary": "We have asked the adult children to sell or move the abandoned cars, but nothing has been done."
     },
     {
-      "id": "8893626b6b3c",
+      "id": "14feb64ba9fb",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Former ‘19 Kids and Counting’ star, 33, expecting 7th child",
-      "link": "https://www.masslive.com/entertainment/2026/11/former-reality-tv-star-33-expecting-7th-baby-with-husband.html",
+      "title": "‘No Country for Old Men’ actor dies at 68",
+      "link": "https://www.masslive.com/entertainment/2026/11/no-country-for-old-men-actor-dies-at-68.html",
       "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Former “19 Kids and Counting” star Jessa Duggar, 33, is expecting her seventh child with husband Ben Seewald, 31."
+      "summary": "Matthew Posey, an actor who appeared in “No Country for Old Men,” “Lonesome Dove” and “The Magnificent Seven,” died Oct. 2 at age 68."
+    },
+    {
+      "id": "f885cdf64eff",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pharmacy chain wants in on toy, collectible sales wave",
+      "link": "https://www.masslive.com/news/2026/11/pharmacy-chain-wants-in-on-toy-collectible-sales-wave.html",
+      "published": "2026-11-01T11:00:00+00:00",
+      "summary": "Toy prices went up by over four percent as of last month."
+    },
+    {
+      "id": "71e9536b40b6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Plan ahead: All US Postal Service locations to close for multiple days in November",
+      "link": "https://www.masslive.com/news/2026/11/plan-ahead-all-us-postal-service-locations-to-close-for-multiple-days-in-november.html",
+      "published": "2026-11-01T11:00:00+00:00",
+      "summary": "Regular mail services will be suspended on Wednesday, Nov. 11 and Thursday Nov. 26. Americans are encouraged to plan ahead if they need mail services around that time."
     },
     {
       "id": "660c259e2299",
@@ -438,26 +528,6 @@
       "link": "https://www.masslive.com/bruins/2026/11/a-healthy-and-productive-elias-lindholm-continues-to-live-up-to-his-bruins-contract-this-season.html",
       "published": "2026-11-01T11:00:00+00:00",
       "summary": "“He’s been unbelievable. I know a lot of people ripped on him the last couple years, but I mean, he brings his all every night.\" Elias Lindholm drew high praise after scoring the Bruins' overtime winner on Saturday against the Blackhawks."
-    },
-    {
-      "id": "f885cdf64eff",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pharmacy chain wants in on toy, collectible sales wave",
-      "link": "https://www.masslive.com/news/2026/11/pharmacy-chain-wants-in-on-toy-collectible-sales-wave.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Toy prices went up by over four percent as of last month."
-    },
-    {
-      "id": "71e9536b40b6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Plan ahead: All US Postal Service locations to close for multiple days in November",
-      "link": "https://www.masslive.com/news/2026/11/plan-ahead-all-us-postal-service-locations-to-close-for-multiple-days-in-november.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Regular mail services will be suspended on Wednesday, Nov. 11 and Thursday Nov. 26. Americans are encouraged to plan ahead if they need mail services around that time."
     },
     {
       "id": "12f9a6619368",
@@ -520,16 +590,6 @@
       "summary": "She was diagnosed with leukemia in March."
     },
     {
-      "id": "bac7eb876984",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary rock frontman hospitalized after medical emergency. Here’s the latest",
-      "link": "https://www.masslive.com/entertainment/2026/11/legendary-rock-frontman-hospitalized-after-medical-emergency-heres-the-latest.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "The band has postponed several shows following the news."
-    },
-    {
       "id": "49fc4ae99088",
       "source": "MassLive",
       "source_id": "masslive",
@@ -550,6 +610,16 @@
       "summary": "Mitch Wishnowsky, New England's well-traveled Australian punter, has found something elusive in the NFL — stability, at least for now."
     },
     {
+      "id": "bac7eb876984",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Legendary rock frontman hospitalized after medical emergency. Here’s the latest",
+      "link": "https://www.masslive.com/entertainment/2026/11/legendary-rock-frontman-hospitalized-after-medical-emergency-heres-the-latest.html",
+      "published": "2026-11-01T10:00:00+00:00",
+      "summary": "The band has postponed several shows following the news."
+    },
+    {
       "id": "c71d9353a3ea",
       "source": "MassLive",
       "source_id": "masslive",
@@ -568,76 +638,6 @@
       "link": "https://www.masslive.com/patriots/2026/11/aj-brown-was-supposed-to-put-the-patriots-over-the-top-not-over-a-barrel-karen-guregian.html",
       "published": "2026-11-01T10:00:00+00:00",
       "summary": "The first-round pick the Patriots gave up for A.J. Brown looks riskier by the minute as lingering knee and ankle issues keep their No. 1 receiver off the field."
-    },
-    {
-      "id": "2eceac2a4e9b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: My divorced son can't stand seeing his wedding photos in our home. Should I toss them?",
-      "link": "https://www.masslive.com/advice/2026/11/asking-eric-my-divorced-son-cant-stand-seeing-his-wedding-photos-in-our-home-should-i-toss-them.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "I know it bothers our son to view photos of happier times when he visits."
-    },
-    {
-      "id": "bbed1548b6cc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Powerball: See the winning numbers in Saturday’s $760 million drawing",
-      "link": "https://www.masslive.com/lottery/2026/11/powerball-see-the-winning-numbers-in-saturdays-760-million-drawing.html",
-      "published": "2026-11-01T03:05:10+00:00",
-      "summary": "Check your numbers to see if you hit it big in Saturday's jackpot."
-    },
-    {
-      "id": "146c852d9cf1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "One bite of lunch, then Australian worker's tongue went numb",
-      "link": "https://www.masslive.com/news/2026/11/she-shared-her-homemade-curry-with-co-workers-at-lunch-she-found-bright-green-pellets-in-it.html",
-      "published": "2026-11-01T02:04:27+00:00",
-      "summary": "A 43-year-old Australian woman is charged after police say she put snail bait with metaldehyde in a co-worker’s curry at a workplace near Perth."
-    },
-    {
-      "id": "8c8844278bb4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Fitness influencer dead at 29 after motorcycle accident",
-      "link": "https://www.masslive.com/entertainment/2026/11/influencer-dead-at-29-after-motorcycle-accident-no-words-to-describe-the-heartbreak.html",
-      "published": "2026-11-01T01:19:26+00:00",
-      "summary": "He died Friday, according to the social media post announcing the death."
-    },
-    {
-      "id": "a3c7ee9b67ed",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Kelly Tousignant leads Renaissance girls volleyball to win in WMass Class D final",
-      "link": "https://www.masslive.com/highschoolsports/2026/10/kelly-tousignant-leads-renaissance-girls-volleyball-to-win-in-wmass-class-d-final.html",
-      "published": "2026-10-31T23:51:35+00:00",
-      "summary": "Tousignant's three aces, 24 digs, nine kills and three assists were key in the victory."
-    },
-    {
-      "id": "829de372c3f1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "ESPN’s ‘College GameDay’ announces Week 10 destination",
-      "link": "https://www.masslive.com/sports/2026/10/espns-college-gameday-announces-week-10-destination.html",
-      "published": "2026-10-31T23:46:25+00:00",
-      "summary": "The popular college football pregame show heads to top-5 matchup."
-    },
-    {
-      "id": "6872fd9bb33a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Coach portrayed in ‘Friday Night Lights’ dead at 89",
-      "link": "https://www.masslive.com/sports/2026/10/legendary-texas-football-coach-portrayed-in-friday-night-lights-dead-at-89.html",
-      "published": "2026-10-31T22:59:50+00:00",
-      "summary": "His legacy was honored with two films inspired by his coaching career."
     },
     {
       "id": "1d293ae9cead",
