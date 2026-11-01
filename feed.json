@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:11:24+00:00",
+  "generated_at": "2026-11-01T18:10:24+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 3,
+      "count": 2,
       "errors": []
     }
   },
@@ -240,6 +240,26 @@
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
     },
     {
+      "id": "08a98f93893b",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple’s HomeView could add security camera features",
+      "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "published": "2026-11-01T17:16:07+00:00",
+      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there…"
+    },
+    {
+      "id": "a53a40d9d648",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "published": "2026-11-01T16:19:21+00:00",
+      "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord…"
+    },
+    {
       "id": "d47dca67557a",
       "source": "The Verge",
       "source_id": "verge",
@@ -320,24 +340,94 @@
       "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series…"
     },
     {
-      "id": "ed0268fa6e32",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "published": "2026-10-31T16:05:00+00:00",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]"
+      "id": "26d5bf4ab77a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Indigenous traditions thrive from Alaska salmonberry picking to Las Vegas art",
+      "link": "https://www.masslive.com/native-american-news/2026/11/indigenous-traditions-thrive-from-alaska-salmonberry-picking-to-las-vegas-art.html",
+      "published": "2026-11-01T17:58:59+00:00",
+      "summary": "Six short stories highlight joy, resilience, and cultural preservation across Native American and Alaska Native communities, from berry picking to traditional tattooing."
     },
     {
-      "id": "7b5ed5dd303b",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "published": "2026-10-31T15:12:19+00:00",
-      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now…"
+      "id": "0568c79d507f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "College football game ends in massive brawl",
+      "link": "https://www.masslive.com/sports/2026/11/college-football-game-ends-in-massive-brawl.html",
+      "published": "2026-11-01T17:48:21+00:00",
+      "summary": "One of the schools involved released a statement apologizing for its role in the incident."
+    },
+    {
+      "id": "c7cbdcb8a331",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Car collides with Foxborough ambulance taking 3-year-old to Attleboro hospital",
+      "link": "https://www.masslive.com/news/2026/11/car-collides-with-foxborough-ambulance-taking-3-year-old-to-attleboro-hospital.html",
+      "published": "2026-11-01T17:47:56+00:00",
+      "summary": "A Foxborough ambulance transporting a child having an allergic reaction was involved in a car crash in Attleboro Saturday morning."
+    },
+    {
+      "id": "cb6592d47afd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "22 injured after Australian music festival stand holding fans collapses",
+      "link": "https://www.masslive.com/entertainment/2026/11/22-injured-after-australian-music-festival-stand-holding-fans-collapses.html",
+      "published": "2026-11-01T17:28:18+00:00",
+      "summary": "Four were transpoted to the hospital."
+    },
+    {
+      "id": "2e7ff7c4a984",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "4 dead in 3 Halloween shootings in Dallas",
+      "link": "https://www.masslive.com/news/2026/11/4-dead-in-3-halloween-shootings-in-dallas-this-is-a-really-big-scene.html",
+      "published": "2026-11-01T17:19:29+00:00",
+      "summary": "Police are still investigating whether the shootings were related."
+    },
+    {
+      "id": "85c4e0a6711b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Finebaum declares coach ‘dead’ after latest loss",
+      "link": "https://www.masslive.com/sports/2026/11/finebaum-declares-coach-dead-after-latest-loss-we-got-our-ass-whooped.html",
+      "published": "2026-11-01T17:06:04+00:00",
+      "summary": "The ESPN analyst didn't hold back Sunday."
+    },
+    {
+      "id": "bd38f9d5a811",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball ticket sold at Boston car wash wins in Halloween night drawing",
+      "link": "https://www.masslive.com/lottery/2026/11/powerball-ticket-sold-at-boston-car-wash-wins-in-halloween-night-drawing.html",
+      "published": "2026-11-01T17:05:47+00:00",
+      "summary": "A Powerball ticket purchased at Allston Car Wash in Boston won a player $50,000 on Saturday."
+    },
+    {
+      "id": "6b397e672d3b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Resident dies after fire tears through Braintree home",
+      "link": "https://www.masslive.com/boston/2026/11/1-dead-after-braintree-house-fire.html",
+      "published": "2026-11-01T16:31:50+00:00",
+      "summary": "A resident died after a house fire on Warren Avenue in Braintree Saturday afternoon."
+    },
+    {
+      "id": "30e47cd9a7a3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "NHL fines Bruins defenseman Nikita Zadorov after game vs. Blackhawks",
+      "link": "https://www.masslive.com/bruins/2026/11/bruins-nikita-zadorov-gets-additional-discipline-from-nhl-after-roughing-blackhawks-defenseman.html",
+      "published": "2026-11-01T16:12:00+00:00",
+      "summary": "Nikita Zadorov received additional discipline for his role in a scrum during Saturday’s game between the Bruins and the Blackhawks."
     },
     {
       "id": "ea75ceeb44c1",
@@ -510,36 +600,6 @@
       "summary": "President’s faltering approval ratings thought to be drag on GOP candidates."
     },
     {
-      "id": "f885cdf64eff",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pharmacy chain wants in on toy, collectible sales wave",
-      "link": "https://www.masslive.com/news/2026/11/pharmacy-chain-wants-in-on-toy-collectible-sales-wave.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Toy prices went up by over four percent as of last month."
-    },
-    {
-      "id": "71e9536b40b6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Plan ahead: All US Postal Service locations to close for multiple days in November",
-      "link": "https://www.masslive.com/news/2026/11/plan-ahead-all-us-postal-service-locations-to-close-for-multiple-days-in-november.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Regular mail services will be suspended on Wednesday, Nov. 11 and Thursday Nov. 26. Americans are encouraged to plan ahead if they need mail services around that time."
-    },
-    {
-      "id": "8893626b6b3c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former ‘19 Kids and Counting’ star, 33, expecting 7th child",
-      "link": "https://www.masslive.com/entertainment/2026/11/former-reality-tv-star-33-expecting-7th-baby-with-husband.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Former “19 Kids and Counting” star Jessa Duggar, 33, is expecting her seventh child with husband Ben Seewald, 31."
-    },
-    {
       "id": "5e7627f50dc9",
       "source": "MassLive",
       "source_id": "masslive",
@@ -560,84 +620,24 @@
       "summary": "Matthew Posey, an actor who appeared in “No Country for Old Men,” “Lonesome Dove” and “The Magnificent Seven,” died Oct. 2 at age 68."
     },
     {
-      "id": "660c259e2299",
+      "id": "8893626b6b3c",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "’90s R&B star dead at 61. Here’s what we know",
-      "link": "https://www.masslive.com/entertainment/2026/11/90s-rb-star-dead-at-61-heres-what-we-know.html",
+      "title": "Former ‘19 Kids and Counting’ star, 33, expecting 7th child",
+      "link": "https://www.masslive.com/entertainment/2026/11/former-reality-tv-star-33-expecting-7th-baby-with-husband.html",
       "published": "2026-11-01T11:00:00+00:00",
-      "summary": "He was 61."
+      "summary": "Former “19 Kids and Counting” star Jessa Duggar, 33, is expecting her seventh child with husband Ben Seewald, 31."
     },
     {
-      "id": "56ba1136d879",
+      "id": "f885cdf64eff",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Today’s horoscope: Gemini - Tidy up to help feel good about yourself (Nov. 1, 2026)",
-      "link": "https://www.masslive.com/advice/2026/11/todays-horoscope-gemini-tidy-up-to-help-feel-good-about-yourself-nov-1-2026.html",
+      "title": "Pharmacy chain wants in on toy, collectible sales wave",
+      "link": "https://www.masslive.com/news/2026/11/pharmacy-chain-wants-in-on-toy-collectible-sales-wave.html",
       "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Celebrities born on this day: Toni Collette, 54; Jenny McCarthy, 54; Anthony Kiedis, 64; Lyle Lovett, 69."
-    },
-    {
-      "id": "f562715862be",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A healthy and productive Elias Lindholm continues to live up to his Bruins contract this season",
-      "link": "https://www.masslive.com/bruins/2026/11/a-healthy-and-productive-elias-lindholm-continues-to-live-up-to-his-bruins-contract-this-season.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "“He’s been unbelievable. I know a lot of people ripped on him the last couple years, but I mean, he brings his all every night.\" Elias Lindholm drew high praise after scoring the Bruins' overtime winner on Saturday against the Blackhawks."
-    },
-    {
-      "id": "12f9a6619368",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Citing ‘race against time,’ competing Springfield courthouse developer says downtown’s health at risk",
-      "link": "https://www.masslive.com/westernmass/2026/11/citing-race-against-time-competing-springfield-courthouse-developer-says-downtowns-health-at-risk.html",
-      "published": "2026-11-01T10:55:00+00:00",
-      "summary": "James E. Balies and partner Thomas Dennis proposed a courthouse in a city block off Dwight Street."
-    },
-    {
-      "id": "f17038e5d48d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Logan Airport wanted a Boston accent — 6,000 people showed up and one word tripped up most of them",
-      "link": "https://www.masslive.com/boston/2026/11/massport-went-looking-for-boston-accents-it-found-them-and-so-much-more.html",
-      "published": "2026-11-01T10:47:00+00:00",
-      "summary": "More than 35,000 people voted to pick the winner among 8 finalists, and the winner will be announced Thursday on Kiss 108."
-    },
-    {
-      "id": "27910912ee17",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dozens of Mass. high schools have retired Indigenous mascots — here's where things stand",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/which-mass-schools-have-retired-indigenous-mascots-amid-cultural-shift.html",
-      "published": "2026-11-01T10:15:00+00:00",
-      "summary": "Mendon-Upton Regional School District recently changed its logo out of respect for Nipmuck Nation, a local Indigenous tribe. It's one of dozens of Mass. schools that has made such a change in the past decade."
-    },
-    {
-      "id": "17896bc2ad94",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘Star Trek’ fandom rocked by deaths of four beloved actors in 2 weeks",
-      "link": "https://www.masslive.com/entertainment/2026/11/star-trek-fandom-rocked-by-deaths-of-four-beloved-actors-in-2-weeks.html",
-      "published": "2026-11-01T10:05:00+00:00",
-      "summary": "It's been a rough month for the Trekkies"
-    },
-    {
-      "id": "b24c1e974f8d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ex-49ers running back arrested after police chase. Here’s the latest",
-      "link": "https://www.masslive.com/sports/2026/11/ex-49ers-running-back-arrested-after-police-chase-heres-the-latest.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "He is a former fourth-round pick."
+      "summary": "Toy prices went up by over four percent as of last month."
     },
     {
       "id": "1d293ae9cead",
@@ -758,16 +758,6 @@
       "link": "https://petri.com/first-ring-daily-2047-touching-money/",
       "published": "2026-10-30T14:41:06+00:00",
       "summary": "In this episode of First Ring Daily, Brad Sams and Paul Thurrott discuss Microsoft's FY2027 Q1 results, which follow a major overhaul of the company's financial reporting practices to improve transparency. The post First Ring Daily 2047: Touching Money appeared first on Petri IT Knowledgebase ."
-    },
-    {
-      "id": "6b0b1d7d0133",
-      "source": "Petri",
-      "source_id": "petri",
-      "category": "tech",
-      "title": "Survey Claims Microsoft Licensing Influences Cloud Provider Choices",
-      "link": "https://petri.com/microsoft-licensing-influences-cloud-choices/",
-      "published": "2026-10-29T16:20:58+00:00",
-      "summary": "A survey commissioned by the Coalition for Fair Software Licensing (CFSL) argues that many organizations face significant barriers when running Microsoft software outside of Azure. According to the study, respondents believe Microsoft’s licensing terms create extra costs and operational hurdles…"
     }
   ]
 }
