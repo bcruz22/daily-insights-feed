@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T18:10:24+00:00",
+  "generated_at": "2026-11-01T20:08:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -240,6 +240,16 @@
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
     },
     {
+      "id": "5c5502d97d0c",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "published": "2026-11-01T19:58:02+00:00",
+      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month,…"
+    },
+    {
       "id": "08a98f93893b",
       "source": "The Verge",
       "source_id": "verge",
@@ -330,14 +340,54 @@
       "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the…"
     },
     {
-      "id": "2e89c3febb5d",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Happy Pikmin Day Eve",
-      "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-      "published": "2026-10-31T17:50:12+00:00",
-      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series…"
+      "id": "716c4f26d61e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patriots Pregame: Who steps up in A.J. Brown’s absence vs. Dolphins?",
+      "link": "https://www.masslive.com/patriots/2026/11/patriots-pregame-who-steps-up-in-aj-browns-absence-vs-dolphins.html",
+      "published": "2026-11-01T19:58:37+00:00",
+      "summary": "The New England Patriots go into Miami to face the Dolphins with a depleted offense. Who will step up with A.J. Brown and TreVeyon Henderson out?"
+    },
+    {
+      "id": "fa3262f2ae69",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Connecticut Senator Chris Murphy hospitalized Sunday after suffering stroke",
+      "link": "https://www.masslive.com/politics/2026/11/connecticut-senator-chris-murphy-hospitalized-after-suffering-stroke-on-saturday.html",
+      "published": "2026-11-01T19:47:55+00:00",
+      "summary": "The 53-year-old Democrat suffered a stroke on Saturday during his son's hockey game, according to his chief of staff."
+    },
+    {
+      "id": "16299f21ed4a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Live Coverage: Patriots take on Dolphins without A.J. Brown",
+      "link": "https://www.masslive.com/patriots/2026/11/live-coverage-patriots-take-on-dolphins-without-aj-brown.html",
+      "published": "2026-11-01T19:27:26+00:00",
+      "summary": "New England is without their wide receiver once again as they look to bounce back after a loss to the Bears in Week 7."
+    },
+    {
+      "id": "a27357078dcc",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Unidentified human remains discovered in New Hampshire power line corridor",
+      "link": "https://www.masslive.com/news/2026/11/unidentified-human-remains-discovered-in-new-hampshire-power-line-corridor.html",
+      "published": "2026-11-01T19:13:57+00:00",
+      "summary": "A hunter in New Hampshire discovered unidentified human remains Saturday morning, prompting a joint investigation by state and local authorities."
+    },
+    {
+      "id": "cd0d337bd883",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ohio city ranks among 3 worst for childhood in the U.S.",
+      "link": "https://www.masslive.com/news/2026/11/2-of-the-3-best-cities-for-growing-up-are-in-1-state-report.html",
+      "published": "2026-11-01T19:00:00+00:00",
+      "summary": "The study analyzed 100 of the U.S.'s biggest cities on thinks like \"chronic absenteeism\" and \"children in poverty.\""
     },
     {
       "id": "26d5bf4ab77a",
@@ -588,56 +638,6 @@
       "link": "https://www.masslive.com/entertainment/2026/11/rock-music-world-stunned-as-heavy-metal-queen-dies-at-46-this-is-terribly-sad.html",
       "published": "2026-11-01T11:30:00+00:00",
       "summary": "She died due to complications from a surgery."
-    },
-    {
-      "id": "fe9331305c72",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The economy, stupid: 5 reasons why Trump’s popularity cratered ahead of the midterms",
-      "link": "https://www.masslive.com/politics/2026/11/the-economy-stupid-5-reasons-why-trumps-popularity-cratered-ahead-of-the-midterms.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "President’s faltering approval ratings thought to be drag on GOP candidates."
-    },
-    {
-      "id": "5e7627f50dc9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: After 2 years of watching neighbor's empty house become an eyesore, is it time to alert the city?",
-      "link": "https://www.masslive.com/advice/2026/11/dear-abby-after-2-years-of-watching-neighbors-empty-house-become-an-eyesore-is-it-time-to-alert-the-city.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "We have asked the adult children to sell or move the abandoned cars, but nothing has been done."
-    },
-    {
-      "id": "14feb64ba9fb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘No Country for Old Men’ actor dies at 68",
-      "link": "https://www.masslive.com/entertainment/2026/11/no-country-for-old-men-actor-dies-at-68.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Matthew Posey, an actor who appeared in “No Country for Old Men,” “Lonesome Dove” and “The Magnificent Seven,” died Oct. 2 at age 68."
-    },
-    {
-      "id": "8893626b6b3c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former ‘19 Kids and Counting’ star, 33, expecting 7th child",
-      "link": "https://www.masslive.com/entertainment/2026/11/former-reality-tv-star-33-expecting-7th-baby-with-husband.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Former “19 Kids and Counting” star Jessa Duggar, 33, is expecting her seventh child with husband Ben Seewald, 31."
-    },
-    {
-      "id": "f885cdf64eff",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pharmacy chain wants in on toy, collectible sales wave",
-      "link": "https://www.masslive.com/news/2026/11/pharmacy-chain-wants-in-on-toy-collectible-sales-wave.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Toy prices went up by over four percent as of last month."
     },
     {
       "id": "1d293ae9cead",
