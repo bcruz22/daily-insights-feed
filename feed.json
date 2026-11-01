@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:12:13+00:00",
+  "generated_at": "2026-11-01T16:11:24+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 4,
+      "count": 3,
       "errors": []
     }
   },
@@ -240,6 +240,16 @@
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
     },
     {
+      "id": "d47dca67557a",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "published": "2026-11-01T14:33:11+00:00",
+      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the…"
+    },
+    {
       "id": "9bf5871ddb73",
       "source": "The Verge",
       "source_id": "verge",
@@ -330,14 +340,64 @@
       "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now…"
     },
     {
-      "id": "e40050fcf4c1",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-      "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-      "published": "2026-10-31T15:00:00+00:00",
-      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops…"
+      "id": "ea75ceeb44c1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Halloween candy tampered with? Needles, other trick-or-treating scares reported in 5 states",
+      "link": "https://www.masslive.com/news/2026/11/halloween-candy-tampered-with-needles-other-trick-or-treating-scares-reported-in-5-states.html",
+      "published": "2026-11-01T16:09:19+00:00",
+      "summary": "Police encouraged parents to inspect their kids' candy."
+    },
+    {
+      "id": "9624a5c76337",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A bigger Baystate must mean better deal for Springfield patients | Fred Allen Swan",
+      "link": "https://www.masslive.com/opinion/2026/11/a-bigger-baystate-must-mean-better-deal-for-springfield-patients-fred-allen-swan.html",
+      "published": "2026-11-01T16:01:30+00:00",
+      "summary": "The Baystate Health and Mercy Medical Center merger can stabilize care in Springfield, or it can quietly push our most vulnerable residents farther from the care they need. Which one happens depends on how closely we watch it."
+    },
+    {
+      "id": "a9ef66cbbb0c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Annie: Dad gets a plus-one, but I don’t? Daughter’s wedding rule feels unfair",
+      "link": "https://www.masslive.com/advice/2026/11/dear-annie-dad-gets-a-plus-one-but-i-dont-daughters-wedding-rule-feels-unfair.html",
+      "published": "2026-11-01T16:00:00+00:00",
+      "summary": "Why is it acceptable for her father to bring someone new but not me?"
+    },
+    {
+      "id": "a5b27bece3f9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Will Trump’s party lose the midterm elections? Here’s what history tells us.",
+      "link": "https://www.masslive.com/politics/2026/11/will-trumps-party-lose-the-midterm-elections-heres-what-history-tells-us.html",
+      "published": "2026-11-01T16:00:00+00:00",
+      "summary": "Democrats need to win at least 218 seats in the House and need a net gain of at least four Senate seats to control both chambers of Congress."
+    },
+    {
+      "id": "cea7db3d67c8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A warm stretch is coming to Massachusetts — but so is much-needed rain",
+      "link": "https://www.masslive.com/weather/2026/11/warm-days-are-coming-to-massachusetts-before-rain-finally-returns.html",
+      "published": "2026-11-01T15:50:23+00:00",
+      "summary": "Temperatures across Massachusetts are expected to climb into the 60s and low 70s this week before a storm system brings the first significant rainfall since Oct. 16."
+    },
+    {
+      "id": "853eb77fbfdb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball results for 10/31/26: Jackpot now the 10th largest in game’s history",
+      "link": "https://www.masslive.com/news/2026/11/powerball-results-for-103126-jackpot-now-the-10th-largest-in-games-history.html",
+      "published": "2026-11-01T15:33:13+00:00",
+      "summary": "The Powerball jackpot has not been won since Aug. 12, 2026, leading to the current jackpot cracking the top-10 largest in Powerball history."
     },
     {
       "id": "d867a50c5189",
@@ -410,16 +470,6 @@
       "summary": "One person has been detained and \"multiple weapons\" were secured, police said."
     },
     {
-      "id": "c7f072b48c0f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pop star calls Donald Trump a baby in new song, rips president on Epstein files",
-      "link": "https://www.masslive.com/entertainment/2026/11/pop-star-calls-donald-trump-a-baby-in-new-song-rips-president-on-epstein-files.html",
-      "published": "2026-11-01T12:00:00+00:00",
-      "summary": "It's not the first time the singer has hit out at Trump."
-    },
-    {
       "id": "f238544ce30b",
       "source": "MassLive",
       "source_id": "masslive",
@@ -428,6 +478,16 @@
       "link": "https://www.masslive.com/news/2026/11/the-top-5-cities-for-solo-travel-are-all-on-this-continent-see-which-countries-made-the-list.html",
       "published": "2026-11-01T12:00:00+00:00",
       "summary": "The top 5 cities for solo travel are all on this continent. Here are the countries which made the list"
+    },
+    {
+      "id": "c7f072b48c0f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pop star calls Donald Trump a baby in new song, rips president on Epstein files",
+      "link": "https://www.masslive.com/entertainment/2026/11/pop-star-calls-donald-trump-a-baby-in-new-song-rips-president-on-epstein-files.html",
+      "published": "2026-11-01T12:00:00+00:00",
+      "summary": "It's not the first time the singer has hit out at Trump."
     },
     {
       "id": "2415792aa58d",
@@ -448,6 +508,26 @@
       "link": "https://www.masslive.com/politics/2026/11/the-economy-stupid-5-reasons-why-trumps-popularity-cratered-ahead-of-the-midterms.html",
       "published": "2026-11-01T11:00:00+00:00",
       "summary": "President’s faltering approval ratings thought to be drag on GOP candidates."
+    },
+    {
+      "id": "f885cdf64eff",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pharmacy chain wants in on toy, collectible sales wave",
+      "link": "https://www.masslive.com/news/2026/11/pharmacy-chain-wants-in-on-toy-collectible-sales-wave.html",
+      "published": "2026-11-01T11:00:00+00:00",
+      "summary": "Toy prices went up by over four percent as of last month."
+    },
+    {
+      "id": "71e9536b40b6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Plan ahead: All US Postal Service locations to close for multiple days in November",
+      "link": "https://www.masslive.com/news/2026/11/plan-ahead-all-us-postal-service-locations-to-close-for-multiple-days-in-november.html",
+      "published": "2026-11-01T11:00:00+00:00",
+      "summary": "Regular mail services will be suspended on Wednesday, Nov. 11 and Thursday Nov. 26. Americans are encouraged to plan ahead if they need mail services around that time."
     },
     {
       "id": "8893626b6b3c",
@@ -478,26 +558,6 @@
       "link": "https://www.masslive.com/entertainment/2026/11/no-country-for-old-men-actor-dies-at-68.html",
       "published": "2026-11-01T11:00:00+00:00",
       "summary": "Matthew Posey, an actor who appeared in “No Country for Old Men,” “Lonesome Dove” and “The Magnificent Seven,” died Oct. 2 at age 68."
-    },
-    {
-      "id": "f885cdf64eff",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pharmacy chain wants in on toy, collectible sales wave",
-      "link": "https://www.masslive.com/news/2026/11/pharmacy-chain-wants-in-on-toy-collectible-sales-wave.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Toy prices went up by over four percent as of last month."
-    },
-    {
-      "id": "71e9536b40b6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Plan ahead: All US Postal Service locations to close for multiple days in November",
-      "link": "https://www.masslive.com/news/2026/11/plan-ahead-all-us-postal-service-locations-to-close-for-multiple-days-in-november.html",
-      "published": "2026-11-01T11:00:00+00:00",
-      "summary": "Regular mail services will be suspended on Wednesday, Nov. 11 and Thursday Nov. 26. Americans are encouraged to plan ahead if they need mail services around that time."
     },
     {
       "id": "660c259e2299",
@@ -578,66 +638,6 @@
       "link": "https://www.masslive.com/sports/2026/11/ex-49ers-running-back-arrested-after-police-chase-heres-the-latest.html",
       "published": "2026-11-01T10:00:00+00:00",
       "summary": "He is a former fourth-round pick."
-    },
-    {
-      "id": "33bc5a7102f3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Iconic singer dead at 84, just months after cancer diagnosis: ‘A true legend’",
-      "link": "https://www.masslive.com/entertainment/2026/11/iconic-singer-dead-at-84-just-months-after-cancer-diagnosis-a-true-legend.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "She was diagnosed with leukemia in March."
-    },
-    {
-      "id": "49fc4ae99088",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country singer with cancer promises to ‘keep fighting this death sitting on my chest’",
-      "link": "https://www.masslive.com/entertainment/2026/11/country-singer-with-cancer-promises-to-keep-fighting-this-death-sitting-on-my-chest.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "The 35-year-old is battling a rare form of cancer."
-    },
-    {
-      "id": "1364323068b0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How OL, WR injuries gave Patriots punter job security | Matt Vautour",
-      "link": "https://www.masslive.com/patriots/2026/11/how-patriots-offensive-line-and-receiver-injuries-created-job-security-for-their-punter.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "Mitch Wishnowsky, New England's well-traveled Australian punter, has found something elusive in the NFL — stability, at least for now."
-    },
-    {
-      "id": "bac7eb876984",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary rock frontman hospitalized after medical emergency. Here’s the latest",
-      "link": "https://www.masslive.com/entertainment/2026/11/legendary-rock-frontman-hospitalized-after-medical-emergency-heres-the-latest.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "The band has postponed several shows following the news."
-    },
-    {
-      "id": "c71d9353a3ea",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Terry Bradshaw reveals what he has been afraid to say about Trump: ‘Shake my head’",
-      "link": "https://www.masslive.com/entertainment/2026/11/terry-bradshaw-on-what-he-has-been-afraid-to-say-about-trump-we-have-lost-that.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "The Hall of Fame quarterback made the comments during a recent podcast appearance."
-    },
-    {
-      "id": "f4a79d4e9e3f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Karen Guregian: A.J. Brown was supposed to be the answer, not another question mark",
-      "link": "https://www.masslive.com/patriots/2026/11/aj-brown-was-supposed-to-put-the-patriots-over-the-top-not-over-a-barrel-karen-guregian.html",
-      "published": "2026-11-01T10:00:00+00:00",
-      "summary": "The first-round pick the Patriots gave up for A.J. Brown looks riskier by the minute as lingering knee and ankle issues keep their No. 1 receiver off the field."
     },
     {
       "id": "1d293ae9cead",
@@ -768,16 +768,6 @@
       "link": "https://petri.com/microsoft-licensing-influences-cloud-choices/",
       "published": "2026-10-29T16:20:58+00:00",
       "summary": "A survey commissioned by the Coalition for Fair Software Licensing (CFSL) argues that many organizations face significant barriers when running Microsoft software outside of Azure. According to the study, respondents believe Microsoft’s licensing terms create extra costs and operational hurdles…"
-    },
-    {
-      "id": "04587cefc2d5",
-      "source": "Petri",
-      "source_id": "petri",
-      "category": "tech",
-      "title": "Rising AI Costs are Forcing Enterprises to Rethink Deployment Strategies",
-      "link": "https://petri.com/rising-ai-costs-enterprise-ai-strategies/",
-      "published": "2026-10-29T14:57:03+00:00",
-      "summary": "Many organizations have moved beyond AI experimentation and are now trying to deploy AI across business-critical operations. However, scaling AI introduces new problems that were less visible during pilot projects. Rising inference and token costs are making AI workloads more expensive than…"
     }
   ]
 }
