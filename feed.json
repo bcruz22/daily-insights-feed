@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:10:33+00:00",
+  "generated_at": "2026-11-02T00:12:04+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -330,6 +330,136 @@
       "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards…"
     },
     {
+      "id": "37af597e0393",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patriots offense gets thinner with Hunter Henry injury",
+      "link": "https://www.masslive.com/patriots/2026/11/patriots-offense-gets-thinner-with-hunter-henry-injury.html",
+      "published": "2026-11-02T00:05:57+00:00",
+      "summary": "A depleted Patriots offense took another hit on Sunday."
+    },
+    {
+      "id": "5cc656ced5fb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "LEGO’s most adorable Botanicals set just dropped to only $23 at Walmart — normally $60",
+      "link": "https://www.masslive.com/shopping-deals/2026/11/legos-most-adorable-botanicals-set-just-dropped-to-only-23-at-walmart-normally-60.html",
+      "published": "2026-11-02T00:00:36+00:00",
+      "summary": "The LEGO Botanicals Cozy Plants set (10371) is currently discounted 62% at Walmart, dropping from $59.99 to $22.96."
+    },
+    {
+      "id": "368e593dd0c3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "1 taken to hospital after guardrail impales car during crash in Western Mass.",
+      "link": "https://www.masslive.com/westernmass/2026/11/1-taken-to-hospital-after-guardrail-impales-car-during-crash-in-bernardston.html",
+      "published": "2026-11-01T23:45:27+00:00",
+      "summary": "A car crashed through a guardrail on a Bernardston road Saturday evening before falling 25 feet down an embankment."
+    },
+    {
+      "id": "f9f8929dbdc0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A Wisconsin mom’s warning about a common Halloween treat",
+      "link": "https://www.masslive.com/news/2026/11/why-a-wisconsin-mom-is-warning-parents-about-balloon-animals.html",
+      "published": "2026-11-01T23:38:52+00:00",
+      "summary": "A Kenosha baby died after biting a balloon at a trunk-or-treat. His mom and safety experts explain the hidden danger balloons pose to young kids."
+    },
+    {
+      "id": "b466c309a473",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "‘I have lost a friend;’ golfers reflect on closing of storied Holyoke golf course",
+      "link": "https://www.masslive.com/westernmass/2026/11/i-have-lost-a-friend-golfers-reflect-on-closing-of-storied-holyoke-golf-course.html",
+      "published": "2026-11-01T23:32:04+00:00",
+      "summary": "“It’s a sad day in Holyoke,” said Marc Joyce, a longtime Holyoke community leader and former Ward 7 City Councilor. “I have been golfing here for close to 30 years.”"
+    },
+    {
+      "id": "022eb8c9a826",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Why a camera company is facing pushback in its own hometown",
+      "link": "https://www.masslive.com/news/2026/11/a-license-plate-camera-picked-the-wrong-car-then-police-drew-guns.html",
+      "published": "2026-11-01T23:22:30+00:00",
+      "summary": "Flock Safety license plate cameras are everywhere in Atlanta, its hometown. Here is why police, city leaders and senators are rethinking how they are used."
+    },
+    {
+      "id": "59df237a9c72",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jayson Tatum is Celtics’ Name to Know Player of the Game in win over Magic",
+      "link": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-magic.html",
+      "published": "2026-11-01T23:17:27+00:00",
+      "summary": "Jayson Tatum once again lived at the free throw line in the Celtics' win over the Magic, also coming up with some clutch buckets."
+    },
+    {
+      "id": "06bf1faf33b8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "4 takeaways as Celtics defeat Magic, feature new starting lineup",
+      "link": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-defeat-magic-feature-new-starting-lineup.html",
+      "published": "2026-11-01T23:09:31+00:00",
+      "summary": "The Celtics weren't at full strength for the first time this season, but they pulled away from the Magic for the victory."
+    },
+    {
+      "id": "c2d348c7aa3e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Record-breaking warmth could hit Mass. this week before much-needed rain",
+      "link": "https://www.masslive.com/weather/2026/11/record-breaking-warmth-could-hit-massachusetts-this-week-before-much-needed-rain.html",
+      "published": "2026-11-01T23:02:54+00:00",
+      "summary": "Temperatures across Massachusetts are expected to reach the upper 60s to mid-70s midweek, potentially breaking records for daily highs."
+    },
+    {
+      "id": "bbef264fb949",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "$6.3 billion vanished in minutes. The FBI says it knows who did it.",
+      "link": "https://www.masslive.com/news/2026/11/fbi-names-hackers-behind-record-63-billion-binance-crypto-theft.html",
+      "published": "2026-11-01T23:02:13+00:00",
+      "summary": "The FBI says North Korean hackers stole $6.3 billion in crypto from Binance, the biggest crypto theft on record. Here’s what happened and what comes next."
+    },
+    {
+      "id": "3edb003dd288",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield vows to continue to fight ‘zombie’ biomass plant",
+      "link": "https://www.masslive.com/westernmass/2026/11/springfield-vows-to-continue-to-fight-zombie-biomass-plant.html",
+      "published": "2026-11-01T22:52:30+00:00",
+      "summary": "The Palmer Renewable Energy plant was first proposed around 2008."
+    },
+    {
+      "id": "2d47dc4d102a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Western Massachusetts firefighter dies in car crash on Route 41",
+      "link": "https://www.masslive.com/westernmass/2026/11/western-massachusetts-firefighter-dies-in-car-crash-on-route-41-in-richmond.html",
+      "published": "2026-11-01T22:37:42+00:00",
+      "summary": "Christopher Lee Kilmer, 25, a dedicated firefighter and tow truck driver, died Thursday in a single-car crash in Berkshire County."
+    },
+    {
+      "id": "a5b4d6711ef2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Cleanup underway at Springfield’s Vibra Hospital",
+      "link": "https://www.masslive.com/westernmass/2026/11/cleanup-underway-at-springfields-vibra-hospital.html",
+      "published": "2026-11-01T22:35:45+00:00",
+      "summary": "The hospital at 1400-1414 State St. has been vacant since the fall of 2023."
+    },
+    {
       "id": "1c14ac3fb5f3",
       "source": "MassLive",
       "source_id": "masslive",
@@ -434,10 +564,10 @@
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Live Coverage: Patriots pickup 15th turnover of the season, tied with Miami",
+      "title": "Live Coverage: Patriots turn it around, Douglas scores to extend lead",
       "link": "https://www.masslive.com/patriots/2026/11/live-coverage-patriots-take-on-dolphins-without-aj-brown.html",
       "published": "2026-11-01T19:27:26+00:00",
-      "summary": "New England is without their wide receiver once again as they look to bounce back after a loss to the Bears in Week 7."
+      "summary": "Drake Maye and DeMario Douglas connected to give New England a cushion in the fourth quarter."
     },
     {
       "id": "a27357078dcc",
@@ -498,136 +628,6 @@
       "link": "https://www.masslive.com/entertainment/2026/11/22-injured-after-australian-music-festival-stand-holding-fans-collapses.html",
       "published": "2026-11-01T17:28:18+00:00",
       "summary": "Four were transpoted to the hospital."
-    },
-    {
-      "id": "2e7ff7c4a984",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "4 dead in 3 Halloween shootings in Dallas",
-      "link": "https://www.masslive.com/news/2026/11/4-dead-in-3-halloween-shootings-in-dallas-this-is-a-really-big-scene.html",
-      "published": "2026-11-01T17:19:29+00:00",
-      "summary": "Police are still investigating whether the shootings were related."
-    },
-    {
-      "id": "85c4e0a6711b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Finebaum declares coach ‘dead’ after latest loss",
-      "link": "https://www.masslive.com/sports/2026/11/finebaum-declares-coach-dead-after-latest-loss-we-got-our-ass-whooped.html",
-      "published": "2026-11-01T17:06:04+00:00",
-      "summary": "The ESPN analyst didn't hold back Sunday."
-    },
-    {
-      "id": "bd38f9d5a811",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Powerball ticket sold at Boston car wash wins in Halloween night drawing",
-      "link": "https://www.masslive.com/lottery/2026/11/powerball-ticket-sold-at-boston-car-wash-wins-in-halloween-night-drawing.html",
-      "published": "2026-11-01T17:05:47+00:00",
-      "summary": "A Powerball ticket purchased at Allston Car Wash in Boston won a player $50,000 on Saturday."
-    },
-    {
-      "id": "6b397e672d3b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Resident dies after fire tears through Braintree home",
-      "link": "https://www.masslive.com/boston/2026/11/1-dead-after-braintree-house-fire.html",
-      "published": "2026-11-01T16:31:50+00:00",
-      "summary": "A resident died after a house fire on Warren Avenue in Braintree Saturday afternoon."
-    },
-    {
-      "id": "30e47cd9a7a3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "NHL fines Bruins defenseman Nikita Zadorov after game vs. Blackhawks",
-      "link": "https://www.masslive.com/bruins/2026/11/bruins-nikita-zadorov-gets-additional-discipline-from-nhl-after-roughing-blackhawks-defenseman.html",
-      "published": "2026-11-01T16:12:00+00:00",
-      "summary": "Nikita Zadorov received additional discipline for his role in a scrum during Saturday’s game between the Bruins and the Blackhawks."
-    },
-    {
-      "id": "ea75ceeb44c1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Halloween candy tampered with? Needles, other trick-or-treating scares reported in 5 states",
-      "link": "https://www.masslive.com/news/2026/11/halloween-candy-tampered-with-needles-other-trick-or-treating-scares-reported-in-5-states.html",
-      "published": "2026-11-01T16:09:19+00:00",
-      "summary": "Police encouraged parents to inspect their kids' candy."
-    },
-    {
-      "id": "9624a5c76337",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A bigger Baystate must mean better deal for Springfield patients | Fred Allen Swan",
-      "link": "https://www.masslive.com/opinion/2026/11/a-bigger-baystate-must-mean-better-deal-for-springfield-patients-fred-allen-swan.html",
-      "published": "2026-11-01T16:01:30+00:00",
-      "summary": "The Baystate Health and Mercy Medical Center merger can stabilize care in Springfield, or it can quietly push our most vulnerable residents farther from the care they need. Which one happens depends on how closely we watch it."
-    },
-    {
-      "id": "a5b27bece3f9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Will Trump’s party lose the midterm elections? Here’s what history tells us.",
-      "link": "https://www.masslive.com/politics/2026/11/will-trumps-party-lose-the-midterm-elections-heres-what-history-tells-us.html",
-      "published": "2026-11-01T16:00:00+00:00",
-      "summary": "Democrats need to win at least 218 seats in the House and need a net gain of at least four Senate seats to control both chambers of Congress."
-    },
-    {
-      "id": "a9ef66cbbb0c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Annie: Dad gets a plus-one, but I don’t? Daughter’s wedding rule feels unfair",
-      "link": "https://www.masslive.com/advice/2026/11/dear-annie-dad-gets-a-plus-one-but-i-dont-daughters-wedding-rule-feels-unfair.html",
-      "published": "2026-11-01T16:00:00+00:00",
-      "summary": "Why is it acceptable for her father to bring someone new but not me?"
-    },
-    {
-      "id": "cea7db3d67c8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A warm stretch is coming to Massachusetts — but so is much-needed rain",
-      "link": "https://www.masslive.com/weather/2026/11/warm-days-are-coming-to-massachusetts-before-rain-finally-returns.html",
-      "published": "2026-11-01T15:50:23+00:00",
-      "summary": "Temperatures across Massachusetts are expected to climb into the 60s and low 70s this week before a storm system brings the first significant rainfall since Oct. 16."
-    },
-    {
-      "id": "853eb77fbfdb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Powerball results for 10/31/26: Jackpot now the 10th largest in game’s history",
-      "link": "https://www.masslive.com/news/2026/11/powerball-results-for-103126-jackpot-now-the-10th-largest-in-games-history.html",
-      "published": "2026-11-01T15:33:13+00:00",
-      "summary": "The Powerball jackpot has not been won since Aug. 12, 2026, leading to the current jackpot cracking the top-10 largest in Powerball history."
-    },
-    {
-      "id": "d867a50c5189",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ask Mayo Clinic: How will a pituitary tumor impact my day-to-day life?",
-      "link": "https://www.masslive.com/advice/2026/11/ask-mayo-clinic-how-will-a-pituitary-tumor-impact-my-day-to-day-life.html",
-      "published": "2026-11-01T14:00:00+00:00",
-      "summary": "Most pituitary tumors are called pituitary adenomas."
-    },
-    {
-      "id": "6b5d19a4587f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "7-year-old’s letter yields a safer Longmeadow crosswalk",
-      "link": "https://www.masslive.com/westernmass/2026/11/7-year-olds-letter-yields-a-safer-longmeadow-crosswalk.html",
-      "published": "2026-11-01T13:59:07+00:00",
-      "summary": "In social media posts, town officials thanked their young constituent for “Camille’s Crossing” and for making the town safer for all pedestrians."
     },
     {
       "id": "1d293ae9cead",
