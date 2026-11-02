@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T01:17:07+00:00",
+  "generated_at": "2026-11-02T02:11:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -337,11 +337,51 @@
       "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards…"
     },
     {
+      "id": "c5a48ea949a1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Drake Maye praised highly by Mike Vrabel after big second half in Patriots' win",
+      "link": "https://www.masslive.com/patriots/2026/11/mike-vrabel-sings-drake-mayes-praises-after-patriots-win-vs-dolphins.html",
+      "published": "2026-11-02T01:47:42+00:00",
+      "summary": "Drake Maye found a way to get things done on Sunday at Hard Rock Stadium despite being without several key offensive weapons. After the game, Mike Vrabel had high praise for the Patriots quarterback."
+    },
+    {
+      "id": "8a76ac283463",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patriots postgame: Drake Maye has big second half in Week 8 win vs. Dolphins",
+      "link": "https://www.masslive.com/patriots/2026/11/patriots-postgame-drake-maye-has-big-second-half-in-week-8-win-vs-dolphins.html",
+      "published": "2026-11-02T01:41:01+00:00",
+      "summary": "The Patriots escaped Week 8 with a 24-19 win over the Dolphins at Hard Rock Stadium. MassLive columnist Karen Guregian joined Lauren Campbell postgame to walk through what she saw throughout the game."
+    },
+    {
+      "id": "9113cf0e7d93",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pope Francis outlasts Monument Mountain in penalty shootout to win Class B championship",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/pope-francis-boys-soccer-outlasts-monument-mountain-to-claim-western-mass-class-b-title-in-pks.html",
+      "published": "2026-11-02T01:27:40+00:00",
+      "summary": "Max Graham made two saves in the penalty shootout as Pope Francis boys soccer defeated Monument Mountain to win the Western Mass. Class B championship Sunday in Pittsfield."
+    },
+    {
+      "id": "99139e21b04b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "5 takeaways from Granby's third straight Western Mass. Class D title",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/granby-girls-soccer-earns-third-straight-western-mass-class-d-crown-with-win-over-hopkins-academy-video.html",
+      "published": "2026-11-02T01:23:59+00:00",
+      "summary": "Margo Healy and Kalli White powered the Rams to their 11th straight win, and another Western Mass. title."
+    },
+    {
       "id": "f2244db0409c",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Paul George makes statement on NBA title: ‘I don’t care about scoring’",
+      "title": "Paul George makes statement on his priorities: ‘I don’t care about scoring’",
       "link": "https://www.masslive.com/celtics/2026/11/paul-george-makes-statement-on-nba-title-i-dont-care-about-scoring.html",
       "published": "2026-11-02T00:46:31+00:00",
       "summary": "Paul George has said and continues to say all the right things ever since he got traded to the Celtics."
@@ -595,46 +635,6 @@
       "link": "https://www.masslive.com/entertainment/2026/11/legendary-director-accidentally-shoots-himself-at-la-gun-range.html",
       "published": "2026-11-01T20:14:37+00:00",
       "summary": "\"The subject was transported to a local hospital.\""
-    },
-    {
-      "id": "716c4f26d61e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots Pregame: Who steps up in A.J. Brown’s absence vs. Dolphins?",
-      "link": "https://www.masslive.com/patriots/2026/11/patriots-pregame-who-steps-up-in-aj-browns-absence-vs-dolphins.html",
-      "published": "2026-11-01T19:58:37+00:00",
-      "summary": "The New England Patriots go into Miami to face the Dolphins with a depleted offense. Who will step up with A.J. Brown and TreVeyon Henderson out?"
-    },
-    {
-      "id": "fa3262f2ae69",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Connecticut Senator Chris Murphy hospitalized Sunday after suffering stroke",
-      "link": "https://www.masslive.com/politics/2026/11/connecticut-senator-chris-murphy-hospitalized-after-suffering-stroke-on-saturday.html",
-      "published": "2026-11-01T19:47:55+00:00",
-      "summary": "The 53-year-old Democrat suffered a stroke on Saturday during his son's hockey game, according to his chief of staff."
-    },
-    {
-      "id": "16299f21ed4a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rewind: Second-half turnaround leads Patriots over Dolphins",
-      "link": "https://www.masslive.com/patriots/2026/11/live-coverage-patriots-take-on-dolphins-without-aj-brown.html",
-      "published": "2026-11-01T19:27:26+00:00",
-      "summary": "New England was a complete different team in the second half."
-    },
-    {
-      "id": "a27357078dcc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Unidentified human remains discovered in New Hampshire power line corridor",
-      "link": "https://www.masslive.com/news/2026/11/unidentified-human-remains-discovered-in-new-hampshire-power-line-corridor.html",
-      "published": "2026-11-01T19:13:57+00:00",
-      "summary": "A hunter in New Hampshire discovered unidentified human remains Saturday morning, prompting a joint investigation by state and local authorities."
     },
     {
       "id": "1d293ae9cead",
