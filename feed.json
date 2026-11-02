@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T12:11:33+00:00",
+  "generated_at": "2026-11-02T14:11:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 16,
+      "count": 15,
       "errors": []
     },
     "verge": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 2,
+      "count": 3,
       "errors": []
     },
     "omnissa": {
@@ -46,6 +46,16 @@
     }
   },
   "items": [
+    {
+      "id": "aa5c09b1dfd3",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "This $48 e-paper display can be whatever you want it to be",
+      "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+      "published": "2026-11-02T12:00:07+00:00",
+      "summary": "This DIY e-paper display works in two official ecosystems or on your own server."
+    },
     {
       "id": "e58df0c82cd4",
       "source": "Ars Technica",
@@ -187,24 +197,24 @@
       "summary": "There's no evidence that Starship will launch traditional satellites, either."
     },
     {
-      "id": "ff7b8812916f",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "105b9aa8b86d",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "GM to pay $220 million after selling customer Smart Driver data",
-      "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
-      "published": "2026-10-30T13:53:20+00:00",
-      "summary": "Owners of GM cars found their driving data had been sold to insurance companies."
+      "title": "Affinity’s creative studio is now available on iPad for free",
+      "link": "https://www.theverge.com/design/1024283/canva-affinity-for-ipad-design-app-availability",
+      "published": "2026-11-02T14:00:00+00:00",
+      "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinity for iPad, which provides the same…"
     },
     {
-      "id": "ff5ccffe8e2c",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "0243151cee9e",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-      "published": "2026-10-30T13:46:39+00:00",
-      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea."
+      "title": "More European supermarkets are getting their freezers hacked",
+      "link": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+      "published": "2026-11-02T13:00:35+00:00",
+      "summary": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg, and Estonia were affected according to local reports shared by Bloomberg…"
     },
     {
       "id": "c22e5e7d6e81",
@@ -287,24 +297,54 @@
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two…"
     },
     {
-      "id": "cd3bd1b497c0",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "published": "2026-11-01T13:00:00+00:00",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for…"
+      "id": "0c2b7b73341b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "FCC will vote this month to let prisons and jails jam contraband cellphones",
+      "link": "https://www.masslive.com/news/2026/11/fcc-will-vote-this-month-to-let-prisons-and-jails-jam-contraband-cellphones.html",
+      "published": "2026-11-02T14:00:00+00:00",
+      "summary": "“Almost 500,000 inmates now have access to them and 25,000 phones are seized in jails annually.\""
     },
     {
-      "id": "691dfa44ca49",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Get in the spooky spirit with these horrors from YouTube",
-      "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "published": "2026-10-31T21:06:58+00:00",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art…"
+      "id": "657388401513",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The 2026 midterms just broke a massive election spending record",
+      "link": "https://www.masslive.com/politics/2026/11/2026-midterms-break-spending-record-here-are-the-most-expensive-races-across-us.html",
+      "published": "2026-11-02T14:00:00+00:00",
+      "summary": "AdImpact reported that the 2025-2026 election cycle hit about $11.6 billion in political ad spending last week, making it the most expensive cycle on record despite there being no presidential race."
+    },
+    {
+      "id": "c788a35583ef",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: What should I do if being rude seems to be the best answer?",
+      "link": "https://www.masslive.com/advice/2026/11/miss-manners-what-should-i-do-if-being-rude-seems-to-be-the-best-answer.html",
+      "published": "2026-11-02T14:00:00+00:00",
+      "summary": "I’ve heard that if you get really nasty, they turn the call over to someone who can actually help."
+    },
+    {
+      "id": "235f36c49574",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Asian specialty jewelry shop in Greater Boston shutters after 17 years",
+      "link": "https://www.masslive.com/news/2026/11/asian-specialty-jewelry-shop-in-greater-boston-shutters-after-17-years.html",
+      "published": "2026-11-02T13:28:54+00:00",
+      "summary": "The shop will shift to online sales as its physical store goes dark."
+    },
+    {
+      "id": "942a127bfbb9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Worcester ambulance patient seriously injured after police say they stole, crashed vehicle",
+      "link": "https://www.masslive.com/centralmass/2026/11/patient-steals-ambulance-in-worcester-crashes-in-neighboring-town-police-say.html",
+      "published": "2026-11-02T12:55:16+00:00",
+      "summary": "A Worcester ambulance patient was seriously injured after police say they stole the vehicle, then crashed it in a neighboring town on Sunday evening."
     },
     {
       "id": "421c2611c0f7",
@@ -397,16 +437,6 @@
       "summary": "The MLB offseason might move quickly this winter. What will the Red Sox do? We polled our three baseball writers for some bold predictions on Craig Breslow's plans."
     },
     {
-      "id": "7831a34db58e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The courtroom exchange that put a Dallas judge under investigation",
-      "link": "https://www.masslive.com/news/2026/11/what-a-texas-federal-judge-said-in-court-that-got-her-pulled-from-cases.html",
-      "published": "2026-11-02T11:00:01+00:00",
-      "summary": "A Dallas federal judge was pulled from her cases and ordered to get a psychiatric exam after racial remarks to a Latino lawyer. Here is what happened."
-    },
-    {
       "id": "5732a9723fd3",
       "source": "MassLive",
       "source_id": "masslive",
@@ -427,6 +457,36 @@
       "summary": "The Seminoles are starting a coaching search after firing Mike Norvell."
     },
     {
+      "id": "7831a34db58e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The courtroom exchange that put a Dallas judge under investigation",
+      "link": "https://www.masslive.com/news/2026/11/what-a-texas-federal-judge-said-in-court-that-got-her-pulled-from-cases.html",
+      "published": "2026-11-02T11:00:01+00:00",
+      "summary": "A Dallas federal judge was pulled from her cases and ordered to get a psychiatric exam after racial remarks to a Latino lawyer. Here is what happened."
+    },
+    {
+      "id": "d8939b0b5e59",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Is Election Day a federal holiday? Here’s what to know",
+      "link": "https://www.masslive.com/news/2026/11/is-election-day-a-federal-holiday-heres-what-to-know.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Here is what you need to know about whether or not Election Day is a federal holiday in the U.S."
+    },
+    {
+      "id": "2d20bf0cd5b7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Music’s silent killer: Another singer dies from disease as list of those lost nears 60",
+      "link": "https://www.masslive.com/entertainment/2026/11/musics-silent-killer-another-singer-dies-from-disease-as-list-of-those-lost-nears-60.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "One disease has ravaged the music world in 2026."
+    },
+    {
       "id": "eb1f7f04e2e6",
       "source": "MassLive",
       "source_id": "masslive",
@@ -445,26 +505,6 @@
       "link": "https://www.masslive.com/casinos/2026/11/mass-casino-player-wins-jackpot-prize-with-9-bet.html",
       "published": "2026-11-02T11:00:00+00:00",
       "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "1191cd7ea159",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Tuesday is Election Day in Mass. Will voters answer the bell? | Bay State Briefing",
-      "link": "https://www.masslive.com/politics/2026/11/mass-has-no-shortage-of-reasons-to-vote-so-will-voters-show-up-bay-state-briefing.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Mass. voters have plenty of reasons to cast a ballot Tuesday. The question is whether enough of them will."
-    },
-    {
-      "id": "8c4760fcb3ef",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved ’90s rock frontman reveals ‘excruciating’ health issue, steps away from stage",
-      "link": "https://www.masslive.com/entertainment/2026/11/beloved-90s-rock-frontman-reveals-excruciating-health-issue-steps-away-from-stage.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "He shared the news on social media."
     },
     {
       "id": "87396c3a37af",
@@ -497,26 +537,6 @@
       "summary": "Fans of the band have a date to circle on the calendar."
     },
     {
-      "id": "d8939b0b5e59",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is Election Day a federal holiday? Here’s what to know",
-      "link": "https://www.masslive.com/news/2026/11/is-election-day-a-federal-holiday-heres-what-to-know.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Here is what you need to know about whether or not Election Day is a federal holiday in the U.S."
-    },
-    {
-      "id": "2d20bf0cd5b7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Music’s silent killer: Another singer dies from disease as list of those lost nears 60",
-      "link": "https://www.masslive.com/entertainment/2026/11/musics-silent-killer-another-singer-dies-from-disease-as-list-of-those-lost-nears-60.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "One disease has ravaged the music world in 2026."
-    },
-    {
       "id": "491ba09cdb45",
       "source": "MassLive",
       "source_id": "masslive",
@@ -547,6 +567,26 @@
       "summary": "People in Business"
     },
     {
+      "id": "8c4760fcb3ef",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved ’90s rock frontman reveals ‘excruciating’ health issue, steps away from stage",
+      "link": "https://www.masslive.com/entertainment/2026/11/beloved-90s-rock-frontman-reveals-excruciating-health-issue-steps-away-from-stage.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "He shared the news on social media."
+    },
+    {
+      "id": "1191cd7ea159",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Tuesday is Election Day in Mass. Will voters answer the bell? | Bay State Briefing",
+      "link": "https://www.masslive.com/politics/2026/11/mass-has-no-shortage-of-reasons-to-vote-so-will-voters-show-up-bay-state-briefing.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Mass. voters have plenty of reasons to cast a ballot Tuesday. The question is whether enough of them will."
+    },
+    {
       "id": "7a53f8bb5ad1",
       "source": "MassLive",
       "source_id": "masslive",
@@ -557,54 +597,24 @@
       "summary": "Your health history and insurance information could be very valuable to hackers looking to make a profit on the dark web. One hacker told MassLive why."
     },
     {
-      "id": "25ebebf055df",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Hunter Henry injury update; Mike Vrabel’s halftime message helps lift Patriots to victory (Notes)",
-      "link": "https://www.masslive.com/patriots/2026/11/hunter-henry-injury-update-mike-vrabels-halftime-message-helps-lift-patriots-to-victory-notes.html",
-      "published": "2026-11-02T10:15:00+00:00",
-      "summary": "It wasn’t pretty, but the Patriots pulled out a win over the Dolphins on Sunday at Hard Rock Stadium."
+      "id": "adcc13fa97b8",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+      "published": "2026-11-02T13:35:21+00:00",
+      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek ."
     },
     {
-      "id": "ac410aa751e0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Are robotaxis cheaper than human-driven Ubers, Lyfts?",
-      "link": "https://www.masslive.com/news/2026/11/are-robotaxis-cheaper-than-human-driven-ubers-lyfts.html",
-      "published": "2026-11-02T10:03:00+00:00",
-      "summary": "There's currently about 4,300 robotaxis deplyed in the U.S."
-    },
-    {
-      "id": "933f89d8a978",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: Husband’s brother turns every family gathering into a fight. Do I still invite him?",
-      "link": "https://www.masslive.com/advice/2026/11/asking-eric-husbands-brother-turns-every-family-gathering-into-a-fight-do-i-still-invite-him.html",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "They have a toxic relationship, yet love each other."
-    },
-    {
-      "id": "a9b838be9a70",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Karen Guregian: Is Drake Maye’s greatness enough to carry the Patriots?",
-      "link": "https://www.masslive.com/patriots/2026/11/is-drake-mayes-greatness-enough-to-carry-patriots-the-rest-of-the-way-karen-guregian.html",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "Drake Maye is carrying the team right now. But he's still going to need help down the road."
-    },
-    {
-      "id": "5ca23043e330",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pa. among 3 worst states for jobs in the U.S.",
-      "link": "https://www.masslive.com/news/2026/11/these-are-the-worst-states-for-jobs-report-says.html",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "These states were found after researchers graded each on things like \"Unemployment Rate\" and \"Median Annual Income.\""
+      "id": "afbf72609830",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+      "link": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
+      "published": "2026-11-02T13:25:11+00:00",
+      "summary": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek ."
     },
     {
       "id": "fe787079c468",
@@ -687,24 +697,14 @@
       "summary": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek ."
     },
     {
-      "id": "5e82c4f3b3cc",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
+      "id": "4a5467980c3e",
+      "source": "Petri",
+      "source_id": "petri",
       "category": "tech",
-      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-      "link": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-      "published": "2026-10-30T14:41:35+00:00",
-      "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak appeared first on SecurityWeek ."
-    },
-    {
-      "id": "8258efe8a7ee",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
-      "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
-      "published": "2026-10-30T14:00:00+00:00",
-      "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek ."
+      "title": "Microsoft to Bring Template-Based Automatic Replies to New Outlook",
+      "link": "https://petri.com/microsoft-new-outlook-template-based-automatic-replies/",
+      "published": "2026-11-02T14:04:58+00:00",
+      "summary": "One of the feature gaps between classic Outlook and the new Outlook experience has been the lack of template-based automatic replies. Users who regularly handle repetitive emails often have to manually send the same responses over and over, which creates unnecessary administrative work and…"
     },
     {
       "id": "cf591b1496f8",
