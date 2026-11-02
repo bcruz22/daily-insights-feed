@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T10:09:33+00:00",
+  "generated_at": "2026-11-02T12:11:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 19,
+      "count": 16,
       "errors": []
     },
     "verge": {
@@ -207,36 +207,6 @@
       "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea."
     },
     {
-      "id": "f2d90ec51a55",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-      "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
-      "published": "2026-10-30T12:00:18+00:00",
-      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads."
-    },
-    {
-      "id": "ac707bc2c60f",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-      "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-      "published": "2026-10-30T11:30:01+00:00",
-      "summary": "Disgraced founder of Theranos has some people falling for her act all over again."
-    },
-    {
-      "id": "213759144b2c",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-      "link": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
-      "published": "2026-10-30T11:00:35+00:00",
-      "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight."
-    },
-    {
       "id": "c22e5e7d6e81",
       "source": "The Verge",
       "source_id": "verge",
@@ -337,24 +307,274 @@
       "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art…"
     },
     {
-      "id": "054eb71db8ce",
+      "id": "421c2611c0f7",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "R&B legend, founding member of iconic group, dead at 76",
-      "link": "https://www.masslive.com/entertainment/2026/11/rb-legend-founding-member-of-iconic-group-dead-at-76.html",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "A cause of death has not been reported."
+      "title": "9 dead after Learjet nosedives, erupts into flames in Florida",
+      "link": "https://www.masslive.com/news/2026/11/9-dead-after-learjet-nosedives-erupts-into-flames-in-florida-it-was-a-cataclysmic-plane-crash.html",
+      "published": "2026-11-02T12:07:41+00:00",
+      "summary": "The jet erupted into a giant fireball."
     },
     {
-      "id": "3b7e15ecba5c",
+      "id": "53fbfa7afd40",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "A retired professor’s one-woman protest against delivery robots",
-      "link": "https://www.masslive.com/news/2026/11/why-a-78-year-old-philadelphia-woman-keeps-blocking-delivery-robots.html",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "A 78-year-old retired Penn professor was arrested for blocking an Uber Eats delivery robot in Philadelphia. Here is why she says she will do it again."
+      "title": "Laxatives handed out to trick-or-treaters in Mass. town on Halloween",
+      "link": "https://www.masslive.com/news/2026/11/laxatives-handed-out-to-trick-or-treaters-in-mass-town-on-halloween.html",
+      "published": "2026-11-02T12:03:15+00:00",
+      "summary": "Police say laxatives were accidentally handed out to trick-or-treaters in an Eastern Massachusetts town on Halloween, with at least one child eating them."
+    },
+    {
+      "id": "5c46312a8726",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump’s $5,000 check pledge may be in jeopardy — here’s why",
+      "link": "https://www.masslive.com/politics/2026/11/trumps-5000-check-pledge-may-be-in-jeopardy-heres-why.html",
+      "published": "2026-11-02T12:00:00+00:00",
+      "summary": "The president repeated his promise as he crisscrossed the country to stump for GOP candidates."
+    },
+    {
+      "id": "d6774b12c6b9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Doctor: I'm taking a drug that creates formaldehyde. Could it raise my cancer risk?",
+      "link": "https://www.masslive.com/advice/2026/11/dear-doctor-im-taking-a-drug-that-creates-formaldehyde-could-it-raise-my-cancer-risk.html",
+      "published": "2026-11-02T12:00:00+00:00",
+      "summary": "A doctor explains that methenamine converts to formaldehyde in urine to prevent UTIs, but large studies show no increased cancer risk from its use."
+    },
+    {
+      "id": "0d960af48584",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "5 injured in 2 Halloween night shootings near college campus",
+      "link": "https://www.masslive.com/news/2026/11/5-injured-in-2-halloween-night-shootings-near-college-campus.html",
+      "published": "2026-11-02T11:52:00+00:00",
+      "summary": "At least 20 shots can be heard in the video."
+    },
+    {
+      "id": "d407448fe8fe",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Record-breaking high November temperatures to hit Mass. this week",
+      "link": "https://www.masslive.com/weather/2026/11/record-breaking-high-november-temperatures-to-hit-mass-this-week.html",
+      "published": "2026-11-02T11:14:34+00:00",
+      "summary": "Temperatures across Massachusetts are expected to reach the upper 60s to mid-70s through Wednesday before heavy rain and possible thunderstorms late in the week. Here's what to know."
+    },
+    {
+      "id": "79a0828f510c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rock band cancels first reunion tour in 33 years: ‘It’s unfortunate they waited so long’",
+      "link": "https://www.masslive.com/entertainment/2026/11/rock-band-cancels-first-reunion-tour-in-33-years-its-unfortunate-they-waited-so-long.html",
+      "published": "2026-11-02T11:05:26+00:00",
+      "summary": "All 17 remaining concerts have been canceled."
+    },
+    {
+      "id": "aabd488e871d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Business Monday ETC: Nov. 2, 2026",
+      "link": "https://www.masslive.com/business/2026/11/business-monday-etc-nov-2-2026.html",
+      "published": "2026-11-02T11:04:00+00:00",
+      "summary": "Business Monday ETC"
+    },
+    {
+      "id": "3992d7be18a3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox bold predictions: Who stays and who goes this winter?",
+      "link": "https://www.masslive.com/redsox/2026/11/red-sox-bold-predictions-will-franklin-arias-jarren-duran-be-traded-where-will-the-big-bat-come-from.html",
+      "published": "2026-11-02T11:00:01+00:00",
+      "summary": "The MLB offseason might move quickly this winter. What will the Red Sox do? We polled our three baseball writers for some bold predictions on Craig Breslow's plans."
+    },
+    {
+      "id": "7831a34db58e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The courtroom exchange that put a Dallas judge under investigation",
+      "link": "https://www.masslive.com/news/2026/11/what-a-texas-federal-judge-said-in-court-that-got-her-pulled-from-cases.html",
+      "published": "2026-11-02T11:00:01+00:00",
+      "summary": "A Dallas federal judge was pulled from her cases and ordered to get a psychiatric exam after racial remarks to a Latino lawyer. Here is what happened."
+    },
+    {
+      "id": "5732a9723fd3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dakin Humane Society: The joys of senior pet adoption",
+      "link": "https://www.masslive.com/living/2026/11/dakin-humane-society-the-joys-of-senior-pet-adoption.html",
+      "published": "2026-11-02T11:00:01+00:00",
+      "summary": "While the time you share may be shorter than it would be with a younger animal, the value of that companionship isn’t measured in years alone."
+    },
+    {
+      "id": "63ab13ed90d1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "SEC head coach mentioned as name to watch in Florida State search",
+      "link": "https://www.masslive.com/sports/2026/11/sec-head-coach-mentioned-as-name-to-watch-in-florida-state-search.html",
+      "published": "2026-11-02T11:00:01+00:00",
+      "summary": "The Seminoles are starting a coaching search after firing Mike Norvell."
+    },
+    {
+      "id": "eb1f7f04e2e6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Abby: Multiple readers urge immediate action for isolated elderly neighbor",
+      "link": "https://www.masslive.com/advice/2026/11/dear-abby-multiple-readers-urge-immediate-action-for-isolated-elderly-neighbor.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Abby's mailbox was bursting with responses to the Oct. 9 letter from Frustrated Neighbor."
+    },
+    {
+      "id": "521c3e3c02a1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $9 bet",
+      "link": "https://www.masslive.com/casinos/2026/11/mass-casino-player-wins-jackpot-prize-with-9-bet.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "1191cd7ea159",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Tuesday is Election Day in Mass. Will voters answer the bell? | Bay State Briefing",
+      "link": "https://www.masslive.com/politics/2026/11/mass-has-no-shortage-of-reasons-to-vote-so-will-voters-show-up-bay-state-briefing.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Mass. voters have plenty of reasons to cast a ballot Tuesday. The question is whether enough of them will."
+    },
+    {
+      "id": "8c4760fcb3ef",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved ’90s rock frontman reveals ‘excruciating’ health issue, steps away from stage",
+      "link": "https://www.masslive.com/entertainment/2026/11/beloved-90s-rock-frontman-reveals-excruciating-health-issue-steps-away-from-stage.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "He shared the news on social media."
+    },
+    {
+      "id": "87396c3a37af",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trial over Sandra Birchmore's death enters final week with testimony from defense experts",
+      "link": "https://www.masslive.com/news/2026/11/forensic-experts-to-testify-for-defense-monday-at-trial-over-sandra-birchmores-death.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Jurors are expected to begin their deliberations in the trial of former Stoughton police officer Matthew Farwell later this week."
+    },
+    {
+      "id": "7bb239d619b1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Today’s horoscope: Leo - Someone has ulterior motives, know when to walk away (Nov. 2, 2026)",
+      "link": "https://www.masslive.com/advice/2026/11/todays-horoscope-leo-someone-has-ulterior-motives-know-when-to-walk-away-nov-2-2026.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Celebrities born on this day: Marisol Nichols, 53; David Schwimmer, 60; k.d. lang, 65; Stefanie Powers, 84."
+    },
+    {
+      "id": "1e75e3b7c176",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved rock band’s frontman reveals date for final show: ‘It’ll be fun’",
+      "link": "https://www.masslive.com/entertainment/2026/11/beloved-rock-bands-frontman-reveals-date-for-final-show-itll-be-fun.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Fans of the band have a date to circle on the calendar."
+    },
+    {
+      "id": "d8939b0b5e59",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Is Election Day a federal holiday? Here’s what to know",
+      "link": "https://www.masslive.com/news/2026/11/is-election-day-a-federal-holiday-heres-what-to-know.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Here is what you need to know about whether or not Election Day is a federal holiday in the U.S."
+    },
+    {
+      "id": "2d20bf0cd5b7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Music’s silent killer: Another singer dies from disease as list of those lost nears 60",
+      "link": "https://www.masslive.com/entertainment/2026/11/musics-silent-killer-another-singer-dies-from-disease-as-list-of-those-lost-nears-60.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "One disease has ravaged the music world in 2026."
+    },
+    {
+      "id": "491ba09cdb45",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Watch the 5 craziest commercials of the 2026 midterms from across the country",
+      "link": "https://www.masslive.com/politics/2026/11/sex-and-swearing-grannies-the-5-craziest-ads-of-the-2026-midterms-from-across-the-country.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "Some of the craziest ads were almost like an R-rated movie as they featured cursing and sexual themes."
+    },
+    {
+      "id": "2ca54354db72",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Finance Committee is looking to level-fund the town budget for the upcoming fiscal year",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/finance-committee-is-looking-to-level-fund-the-town-budget-for-the-upcoming-fiscal-year.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "After two years of asking town departments to cut their budget between 5% and 10%, Southwick's Finance Committee will ask for department heads to submit a level-funded budget for the upcoming fiscal year."
+    },
+    {
+      "id": "e3b0e27758b1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "People in Business: Nov. 2, 2026",
+      "link": "https://www.masslive.com/business/2026/11/people-in-business-nov-2-2026.html",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "People in Business"
+    },
+    {
+      "id": "7a53f8bb5ad1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A hacker is selling Mass. prisoners’ medical records. They told us how and why they stole them",
+      "link": "https://www.masslive.com/news/2026/11/a-hacker-is-selling-mass-prisoners-medical-records-they-told-us-how-and-why-they-stole-them.html",
+      "published": "2026-11-02T10:29:00+00:00",
+      "summary": "Your health history and insurance information could be very valuable to hackers looking to make a profit on the dark web. One hacker told MassLive why."
+    },
+    {
+      "id": "25ebebf055df",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hunter Henry injury update; Mike Vrabel’s halftime message helps lift Patriots to victory (Notes)",
+      "link": "https://www.masslive.com/patriots/2026/11/hunter-henry-injury-update-mike-vrabels-halftime-message-helps-lift-patriots-to-victory-notes.html",
+      "published": "2026-11-02T10:15:00+00:00",
+      "summary": "It wasn’t pretty, but the Patriots pulled out a win over the Dolphins on Sunday at Hard Rock Stadium."
+    },
+    {
+      "id": "ac410aa751e0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Are robotaxis cheaper than human-driven Ubers, Lyfts?",
+      "link": "https://www.masslive.com/news/2026/11/are-robotaxis-cheaper-than-human-driven-ubers-lyfts.html",
+      "published": "2026-11-02T10:03:00+00:00",
+      "summary": "There's currently about 4,300 robotaxis deplyed in the U.S."
     },
     {
       "id": "933f89d8a978",
@@ -365,16 +585,6 @@
       "link": "https://www.masslive.com/advice/2026/11/asking-eric-husbands-brother-turns-every-family-gathering-into-a-fight-do-i-still-invite-him.html",
       "published": "2026-11-02T10:00:00+00:00",
       "summary": "They have a toxic relationship, yet love each other."
-    },
-    {
-      "id": "1befd6d9505d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Drake Maye makes Patriots feel ‘unstoppable’ in win over Dolphins",
-      "link": "https://www.masslive.com/patriots/2026/11/drake-maye-makes-patriots-feel-unstoppable-even-when-everything-goes-wrong-mark-daniels.html",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "Patriots players revealed how Drake Maye's confidence and leadership turned a disastrous first half into a statement win on the road in Miami"
     },
     {
       "id": "a9b838be9a70",
@@ -397,244 +607,24 @@
       "summary": "These states were found after researchers graded each on things like \"Unemployment Rate\" and \"Median Annual Income.\""
     },
     {
-      "id": "da25a2ee52a6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots survive Miami, but they’ll need to be better with tougher games ahead",
-      "link": "https://www.masslive.com/patriots/2026/11/patriots-survive-miami-but-theyll-need-to-be-better-with-tougher-games-ahead.html",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "The Patriots' front office faces some important decisions that will set up New England's stretch run."
+      "id": "fe787079c468",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+      "link": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
+      "published": "2026-11-02T11:29:39+00:00",
+      "summary": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek ."
     },
     {
-      "id": "017ee61f87b1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Al Michaels had a quick response after Kirk Herbstreit brought up analytics",
-      "link": "https://www.masslive.com/sports/2026/11/kirk-herbstreit-made-one-comment-his-tnf-partner-had-the-perfect-comeback.html",
-      "published": "2026-11-02T09:00:00+00:00",
-      "summary": "Al Michaels fires back at Kirk Herbstreit during Thursday Night Football as the Packers beat the Panthers 27-19. Here’s what happened."
-    },
-    {
-      "id": "d149d39f47fd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Medical Notes: Nov. 2, 2026",
-      "link": "https://www.masslive.com/living/2026/11/medical-notes-nov-2-2026.html",
-      "published": "2026-11-02T08:00:00+00:00",
-      "summary": "Medical Notes"
-    },
-    {
-      "id": "c35e5e83c573",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Messi delivers game-winner as Inter Miami edges Revolution in front of 54,112 fans",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/lionel-messis-late-goal-lifts-inter-miami-past-revolution-at-gillette-stadium.html",
-      "published": "2026-11-02T04:24:08+00:00",
-      "summary": "Lionel Messi scored the game-winning goal in the 83rd minute as Inter Miami rallied past the New England Revolution in front of a season-high crowd of 54,112 at Gillette Stadium."
-    },
-    {
-      "id": "9f9eeafbc3a8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Raina Szenda, Westfield lead the way at Western Mass. gymnastics championships",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/westfield-captures-back-to-back-western-mass-gymnastics-championships-behind-raina-szenda.html",
-      "published": "2026-11-02T02:58:36+00:00",
-      "summary": "Westfield captured its second straight Western Mass. gymnastics championship, led by Raina Szenda's All-Around title on Sunday at Roots in Westfield."
-    },
-    {
-      "id": "4d4e94f2594b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "5 keys to Mount Greylock's fourth straight Western Mass. championship",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/mount-greylock-captures-fourth-straight-western-mass-title-5-keys-to-the-win.html",
-      "published": "2026-11-02T02:32:52+00:00",
-      "summary": "Mount Greylock defeated Franklin Tech to capture its fourth consecutive Western Mass. Class C boys soccer championship. Here are five keys to the Mounties' latest title run."
-    },
-    {
-      "id": "149d6bec9271",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How lightning can hurt you without striking you",
-      "link": "https://www.masslive.com/news/2026/11/lightning-didnt-hit-them-so-why-did-4-adults-end-up-in-the-hospital.html",
-      "published": "2026-11-02T02:27:33+00:00",
-      "summary": "Four adults were hurt by a lightning strike near El Mirage Elementary School in Arizona. Learn how lightning injures people it doesn’t hit directly."
-    },
-    {
-      "id": "8e724560a17d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Red Sox have three 2026 Gold Glove winners, including first-timer",
-      "link": "https://www.masslive.com/redsox/2026/11/red-sox-have-three-2026-gold-glove-winners-including-first-timer-who-played-through-injuries.html",
-      "published": "2026-11-02T02:08:44+00:00",
-      "summary": "Red Sox right fielder Wilyer Abreu won his third consecutive Gold Glove on Sunday. Center fielder Ceddanne Rafaela won his second straight and third baseman Caleb Durbin became a first-time winner."
-    },
-    {
-      "id": "c5a48ea949a1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Drake Maye praised highly by Mike Vrabel after big second half in Patriots' win",
-      "link": "https://www.masslive.com/patriots/2026/11/mike-vrabel-sings-drake-mayes-praises-after-patriots-win-vs-dolphins.html",
-      "published": "2026-11-02T01:47:42+00:00",
-      "summary": "Drake Maye found a way to get things done on Sunday at Hard Rock Stadium despite being without several key offensive weapons. After the game, Mike Vrabel had high praise for the Patriots quarterback."
-    },
-    {
-      "id": "8a76ac283463",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots postgame: Drake Maye has big second half in Week 8 win vs. Dolphins",
-      "link": "https://www.masslive.com/patriots/2026/11/patriots-postgame-drake-maye-has-big-second-half-in-week-8-win-vs-dolphins.html",
-      "published": "2026-11-02T01:41:01+00:00",
-      "summary": "The Patriots escaped Week 8 with a 24-19 win over the Dolphins at Hard Rock Stadium. MassLive columnist Karen Guregian joined Lauren Campbell postgame to walk through what she saw throughout the game."
-    },
-    {
-      "id": "9113cf0e7d93",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pope Francis outlasts Monument Mountain in penalty shootout to win Class B championship",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/pope-francis-boys-soccer-outlasts-monument-mountain-to-claim-western-mass-class-b-title-in-pks.html",
-      "published": "2026-11-02T01:27:40+00:00",
-      "summary": "Max Graham made two saves in the penalty shootout as Pope Francis boys soccer defeated Monument Mountain to win the Western Mass. Class B championship Sunday in Pittsfield."
-    },
-    {
-      "id": "99139e21b04b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "5 takeaways from Granby's third straight Western Mass. Class D title",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/granby-girls-soccer-earns-third-straight-western-mass-class-d-crown-with-win-over-hopkins-academy-video.html",
-      "published": "2026-11-02T01:23:59+00:00",
-      "summary": "Margo Healy and Kalli White powered the Rams to their 11th straight win, and another Western Mass. title."
-    },
-    {
-      "id": "f2244db0409c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Paul George makes statement on his priorities: ‘I don’t care about scoring’",
-      "link": "https://www.masslive.com/celtics/2026/11/paul-george-makes-statement-on-nba-title-i-dont-care-about-scoring.html",
-      "published": "2026-11-02T00:46:31+00:00",
-      "summary": "Paul George has said and continues to say all the right things ever since he got traded to the Celtics."
-    },
-    {
-      "id": "c5b21a225b40",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Drake Maye playing short-handed, lifts Patriots over Dolphins",
-      "link": "https://www.masslive.com/patriots/2026/11/drake-maye-minus-his-four-top-receiving-targets-shines-in-win-over-miami.html",
-      "published": "2026-11-02T00:31:03+00:00",
-      "summary": "Assessing Drake Maye's performance in win over the Miami Dolphins."
-    },
-    {
-      "id": "9342d44f9718",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "5 Patriots takeaways as Drake Maye pulls off second-half comeback",
-      "link": "https://www.masslive.com/patriots/2026/11/5-patriots-takeaways-as-drake-maye-pulls-off-second-half-comeback-in-win-over-dolphins.html",
-      "published": "2026-11-02T00:29:13+00:00",
-      "summary": "Drake Maye led the Patriots to a comeback at Hard Rock Stadium, overcoming a 13-3 halftime deficit and a depleted roster to improve to 5-3."
-    },
-    {
-      "id": "a1b7ac4ab4b6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "From Paul George to new lineup: What we learned from Celtics’ win over Magic",
-      "link": "https://www.masslive.com/celtics/2026/11/from-paul-george-to-new-lineup-what-we-learned-from-celtics-win-over-magic.html",
-      "published": "2026-11-02T00:17:08+00:00",
-      "summary": "The Celtics fended off the Magic for their fifth straight victory to open the month of November with a win."
-    },
-    {
-      "id": "28e4fb5bc0ee",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Watch Tom Brady do it again, curses on FOX NFL broadcast",
-      "link": "https://www.masslive.com/sports/2026/11/watch-tom-brady-do-it-again-accidentally-curses-on-fox-nfl-broadcast.html",
-      "published": "2026-11-02T00:16:14+00:00",
-      "summary": "It isn't the first time the seven-time Super Bowl champion has done it."
-    },
-    {
-      "id": "37af597e0393",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots offense gets thinner with Hunter Henry injury",
-      "link": "https://www.masslive.com/patriots/2026/11/patriots-offense-gets-thinner-with-hunter-henry-injury.html",
-      "published": "2026-11-02T00:05:57+00:00",
-      "summary": "A depleted Patriots offense took another hit on Sunday."
-    },
-    {
-      "id": "5cc656ced5fb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "LEGO’s most adorable Botanicals set just dropped to only $23 at Walmart — normally $60",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/legos-most-adorable-botanicals-set-just-dropped-to-only-23-at-walmart-normally-60.html",
-      "published": "2026-11-02T00:00:36+00:00",
-      "summary": "The LEGO Botanicals Cozy Plants set (10371) is currently discounted 62% at Walmart, dropping from $59.99 to $22.96."
-    },
-    {
-      "id": "368e593dd0c3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "1 taken to hospital after guardrail impales car during crash in Western Mass.",
-      "link": "https://www.masslive.com/westernmass/2026/11/1-taken-to-hospital-after-guardrail-impales-car-during-crash-in-bernardston.html",
-      "published": "2026-11-01T23:45:27+00:00",
-      "summary": "A car crashed through a guardrail on a Bernardston road Saturday evening before falling 25 feet down an embankment."
-    },
-    {
-      "id": "f9f8929dbdc0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A Wisconsin mom’s warning about a common Halloween treat",
-      "link": "https://www.masslive.com/news/2026/11/why-a-wisconsin-mom-is-warning-parents-about-balloon-animals.html",
-      "published": "2026-11-01T23:38:52+00:00",
-      "summary": "A Kenosha baby died after biting a balloon at a trunk-or-treat. His mom and safety experts explain the hidden danger balloons pose to young kids."
-    },
-    {
-      "id": "b466c309a473",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘I have lost a friend;’ golfers reflect on closing of storied Holyoke golf course",
-      "link": "https://www.masslive.com/westernmass/2026/11/i-have-lost-a-friend-golfers-reflect-on-closing-of-storied-holyoke-golf-course.html",
-      "published": "2026-11-01T23:32:04+00:00",
-      "summary": "“It’s a sad day in Holyoke,” said Marc Joyce, a longtime Holyoke community leader and former Ward 7 City Councilor. “I have been golfing here for close to 30 years.”"
-    },
-    {
-      "id": "022eb8c9a826",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Why a camera company is facing pushback in its own hometown",
-      "link": "https://www.masslive.com/news/2026/11/a-license-plate-camera-picked-the-wrong-car-then-police-drew-guns.html",
-      "published": "2026-11-01T23:22:30+00:00",
-      "summary": "Flock Safety license plate cameras are everywhere in Atlanta, its hometown. Here is why police, city leaders and senators are rethinking how they are used."
-    },
-    {
-      "id": "59df237a9c72",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Jayson Tatum is Celtics’ Name to Know Player of the Game in win over Magic",
-      "link": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-magic.html",
-      "published": "2026-11-01T23:17:27+00:00",
-      "summary": "Jayson Tatum once again lived at the free throw line in the Celtics' win over the Magic, also coming up with some clutch buckets."
+      "id": "2e0eed251125",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+      "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+      "published": "2026-11-02T10:27:49+00:00",
+      "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek ."
     },
     {
       "id": "ff9c9693b43d",
@@ -715,26 +705,6 @@
       "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
       "published": "2026-10-30T14:00:00+00:00",
       "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek ."
-    },
-    {
-      "id": "4119054fab74",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
-      "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
-      "published": "2026-10-30T13:36:12+00:00",
-      "summary": "It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek ."
-    },
-    {
-      "id": "3556a8b02424",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
-      "published": "2026-10-30T12:04:13+00:00",
-      "summary": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek ."
     },
     {
       "id": "cf591b1496f8",
