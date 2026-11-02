@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T14:11:33+00:00",
+  "generated_at": "2026-11-02T16:08:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 15,
+      "count": 16,
       "errors": []
     },
     "verge": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 3,
+      "count": 2,
       "errors": []
     },
     "omnissa": {
@@ -46,6 +46,16 @@
     }
   },
   "items": [
+    {
+      "id": "78036d3639cc",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "The world has a new plan to save nature, but it still needs the money",
+      "link": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+      "published": "2026-11-02T14:56:52+00:00",
+      "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate."
+    },
     {
       "id": "aa5c09b1dfd3",
       "source": "Ars Technica",
@@ -197,12 +207,72 @@
       "summary": "There's no evidence that Starship will launch traditional satellites, either."
     },
     {
-      "id": "105b9aa8b86d",
+      "id": "0adae2bf5ad8",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Why Peacock is making a huge bet on YouTube",
+      "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+      "published": "2026-11-02T16:00:00+00:00",
+      "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait.…"
+    },
+    {
+      "id": "92245d9b1fd5",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+      "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+      "published": "2026-11-02T15:15:00+00:00",
+      "summary": "When I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most capable ultrawide in any phone worldwide. You won't find either in the new X500 Pro […]"
+    },
+    {
+      "id": "7ffb9fb9f527",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Could data center backlash flip Florida?",
+      "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
+      "published": "2026-11-02T15:05:00+00:00",
+      "summary": "Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. \"My ballot is all mixed up,\" she says. She's voting for some Republicans, some independents, and even…"
+    },
+    {
+      "id": "b706826d4003",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "YouTuber Druski is going to make exclusive content for Netflix",
+      "link": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
+      "published": "2026-11-02T15:00:00+00:00",
+      "summary": "Netflix today announced a multiyear deal with the YouTuber, comedian, and influencer Druski, and he'll create original content \"exclusively\" for the streaming service. The announcement is the latest in Netflix's efforts to bring creators onto the platform, having previously landed deals with…"
+    },
+    {
+      "id": "9abb81eaf70e",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+      "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+      "published": "2026-11-02T14:07:22+00:00",
+      "summary": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120 and now costs more than triple that price. The 16GB versions of the Raspberry Pi Compute Module 5 also got a […]"
+    },
+    {
+      "id": "909cb1cec82b",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+      "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+      "published": "2026-11-02T14:05:34+00:00",
+      "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post. The deal, which comes as SpaceX aims to make Starlink a \"major\" mobile carrier, reportedly involves the Elon Musk-owned company acquiring…"
+    },
+    {
+      "id": "7ec47cc3fe98",
       "source": "The Verge",
       "source_id": "verge",
       "category": "tech",
       "title": "Affinity’s creative studio is now available on iPad for free",
-      "link": "https://www.theverge.com/design/1024283/canva-affinity-for-ipad-design-app-availability",
+      "link": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
       "published": "2026-11-02T14:00:00+00:00",
       "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinity for iPad, which provides the same…"
     },
@@ -214,7 +284,7 @@
       "title": "More European supermarkets are getting their freezers hacked",
       "link": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
       "published": "2026-11-02T13:00:35+00:00",
-      "summary": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg, and Estonia were affected according to local reports shared by Bloomberg…"
+      "summary": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg, and Estonia were affected, according to local reports shared by Bloomberg…"
     },
     {
       "id": "c22e5e7d6e81",
@@ -234,67 +304,237 @@
       "title": "NASA hopes the commercial space industry can help save Hubble",
       "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
       "published": "2026-11-01T21:09:21+00:00",
-      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals…"
+      "summary": "Gravity is a cruel mistress, slowly dragging the famed Hubble Space Telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is…"
     },
     {
-      "id": "5c5502d97d0c",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "published": "2026-11-01T19:58:02+00:00",
-      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month,…"
+      "id": "fa35f534af53",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Legendary Hollywood director, 83, accidentally shoots himself",
+      "link": "https://www.masslive.com/entertainment/2026/11/legendary-hollywood-director-83-accidentally-shoots-himself.html",
+      "published": "2026-11-02T16:02:00+00:00",
+      "summary": "Michael Mann, the 83-year-old director of “Heat” and “Collateral,” was hospitalized after accidentally shooting himself in the leg at a Los Angeles gun range."
     },
     {
-      "id": "08a98f93893b",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple’s HomeView could add security camera features",
-      "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "published": "2026-11-01T17:16:07+00:00",
-      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there…"
+      "id": "a3eeddfbb96b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ex-spouses of former ABC news anchors tie the knot after explosive affair scandal",
+      "link": "https://www.masslive.com/entertainment/2026/11/ex-spouses-of-former-abc-news-anchors-tie-the-knot-after-explosive-affair-scandal.html",
+      "published": "2026-11-02T16:00:49+00:00",
+      "summary": "The wedding comes one month after the couple announced their engagement."
     },
     {
-      "id": "a53a40d9d648",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "A fully playable version of Portal prequel F-Stop leaked",
-      "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "published": "2026-11-01T16:19:21+00:00",
-      "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord…"
+      "id": "6d2579c1f296",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Annie: I walked away from my family and finally found peace for the first time",
+      "link": "https://www.masslive.com/advice/2026/11/dear-annie-i-walked-away-from-my-family-and-finally-found-peace-for-the-first-time.html",
+      "published": "2026-11-02T16:00:00+00:00",
+      "summary": "I’m deeply hurt. How did I go from being the person everyone depended on to the person everyone blames?"
     },
     {
-      "id": "d47dca67557a",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "North Korea linked to massive Binance crypto heist",
-      "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-      "published": "2026-11-01T14:33:11+00:00",
-      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the…"
+      "id": "65817fabac11",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Check your cabinets: Cinnamon recalled in 14 states over elevated lead levels",
+      "link": "https://www.masslive.com/news/2026/11/check-your-cabinets-cinnamon-recalled-in-14-states-over-elevated-lead-levels.html",
+      "published": "2026-11-02T15:56:46+00:00",
+      "summary": "Cinnamon sold in 14 states is being pulled from store shelves after state officials found elevated lead levels in a test sample. Now, the FDA is urging consumers to throw the products away or seek a refund."
     },
     {
-      "id": "9bf5871ddb73",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "published": "2026-11-01T14:00:00+00:00",
-      "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than…"
+      "id": "fdcf16be3a92",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Data breach victims could get up to $5K: Here’s how",
+      "link": "https://www.masslive.com/news/2026/11/data-breach-victims-could-get-up-to-5k-heres-how.html",
+      "published": "2026-11-02T15:54:31+00:00",
+      "summary": "The deadline to submit a claim is next month."
     },
     {
-      "id": "144d2253b8d6",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "published": "2026-11-01T13:00:00+00:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two…"
+      "id": "8a21766d4cf2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Missing Missouri couple found dead 500 yards away on neighbor’s property",
+      "link": "https://www.masslive.com/news/2026/11/missing-couple-found-dead-500-yards-away-on-neighbors-property.html",
+      "published": "2026-11-02T15:47:29+00:00",
+      "summary": "A couple missing since September 15, were found dead on a neighbor's property just \"400 to 500 yards\" from their Missouri home."
+    },
+    {
+      "id": "4910506798bd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Detectives pretended to be kids online. Then 31 adults showed up",
+      "link": "https://www.masslive.com/news/2026/11/disney-universal-workers-arrested-in-florida-sting-the-sheriffs-message-for-parents.html",
+      "published": "2026-11-02T15:45:28+00:00",
+      "summary": "A weeklong Polk County sting led to 281 arrests, including 17 Disney World and Universal workers. Here’s what happened and how families can keep kids safe online."
+    },
+    {
+      "id": "e5f05631f8ae",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "New polls show clear midterm winner — but a big catch",
+      "link": "https://www.masslive.com/politics/2026/11/new-polls-show-clear-midterm-winner-but-a-big-catch.html",
+      "published": "2026-11-02T15:44:00+00:00",
+      "summary": "The final polls are out ahead of Election Day on Tuesday."
+    },
+    {
+      "id": "b7f267bba5b7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A look at concepts of Disney’s much-anticipated Villains Land rides",
+      "link": "https://www.masslive.com/entertainment/2026/11/what-we-know-about-villains-land-being-constructed-at-disney-opening-dates-and-rides.html",
+      "published": "2026-11-02T15:40:32+00:00",
+      "summary": "Villains will include Malificent, Cruella De Vil, Jafar, Doctor Facilier, Scar and Ursula."
+    },
+    {
+      "id": "e080f8f557fe",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "2027 COLA: Key Social Security deadline looms to get early look at new benefits",
+      "link": "https://www.masslive.com/news/2026/11/2027-cola-key-social-security-deadline-looms-for-people-wanting-to-learn-new-benefits-early.html",
+      "published": "2026-11-02T15:38:37+00:00",
+      "summary": "Retirees, survivors and disability recipients, as well as those who receive Supplemental Security Income, will get a 3.6% COLA for 2027. The figure is the highest in four years."
+    },
+    {
+      "id": "8b70eadcd312",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "One week later, Trump is still reeling from Obama’s Cheesecake Factory joke",
+      "link": "https://www.masslive.com/politics/2026/11/one-week-later-trump-is-still-reeling-from-obamas-cheesecake-factory-joke.html",
+      "published": "2026-11-02T15:34:49+00:00",
+      "summary": "Donald Trump is still not happy with former President Barack Obama’s joke comparing the White House to the Cheesecake Factory."
+    },
+    {
+      "id": "e9e82b838d7c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Zillow reveals most pet-friendly cities in America: Here's where Boston fell",
+      "link": "https://www.masslive.com/boston/2026/11/boston-among-the-least-pet-friendly-cities-in-the-us-new-study-shows.html",
+      "published": "2026-11-02T15:28:50+00:00",
+      "summary": "Boston was among several major cities that landed at the tail end of the list."
+    },
+    {
+      "id": "0a7a76f8eb5a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Divers find shipwreck off New England tied to secret Nazi mission",
+      "link": "https://www.masslive.com/news/2026/11/divers-discover-wwii-shipwreck-off-new-england-more-than-80-years-later.html",
+      "published": "2026-11-02T15:26:32+00:00",
+      "summary": "Nearly 400 feet underwater, divers braved cold water and strong currents to uncover a long-lost piece of WWII history."
+    },
+    {
+      "id": "302b27effeb3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Where the 12 Western Mass. football teams stand in the MIAA state tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/whats-the-road-ahead-for-the-12-western-mass-football-teams-in-the-state-tournament.html",
+      "published": "2026-11-02T15:22:10+00:00",
+      "summary": "A look at the matchups, potential opponents and paths to a state championship for all 12 Western Massachusetts football teams in the MIAA state tournament."
+    },
+    {
+      "id": "7a604e938ed1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Nantucket Stop & Shop fatal crash suspect faces arraignment Monday",
+      "link": "https://www.masslive.com/news/2026/11/driver-in-fatal-stop-shop-crash-to-be-arraigned-monday.html",
+      "published": "2026-11-02T15:20:07+00:00",
+      "summary": "Kathleen Featherston, 62, faces arraignment Monday on charges stemming from a June parking lot crash that killed Stacey Rosen, 62, of Atlantic Beach, N.Y."
+    },
+    {
+      "id": "6b39db3e6af7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Martha Stewart faces backlash over costume depicting homelessness",
+      "link": "https://www.masslive.com/entertainment/2026/11/martha-stewart-faces-backlash-over-homeless-halloween-costume.html",
+      "published": "2026-11-02T15:16:12+00:00",
+      "summary": "Martha Stewart apologized after facing backlash for a Halloween costume depicting a homeless person, but criticism continued online."
+    },
+    {
+      "id": "ec09cd643287",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How much you need to earn to live comfortably in every U.S. state",
+      "link": "https://www.masslive.com/news/2026/11/how-much-you-need-to-earn-to-live-comfortably-in-every-us-state.html",
+      "published": "2026-11-02T14:56:37+00:00",
+      "summary": "For a family of four, the analysis found, the income to live comfortably is as much as $329,000."
+    },
+    {
+      "id": "1c62c0115261",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Over 1,227 flights delayed, 70 canceled amid widespread U.S. travel disruptions",
+      "link": "https://www.masslive.com/news/2026/11/over-1227-flights-delayed-70-canceled-amid-widespread-us-travel-disruptions.html",
+      "published": "2026-11-02T14:53:57+00:00",
+      "summary": "Flight cancellations and delays disrupted operations at multiple airports across the U.S."
+    },
+    {
+      "id": "081a9358eec1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The city that ended Chicago’s rat reign is still No. 1",
+      "link": "https://www.masslive.com/news/2026/11/americas-rattiest-city-kept-its-crown-is-your-city-on-the-list.html",
+      "published": "2026-11-02T14:53:26+00:00",
+      "summary": "Los Angeles tops Orkin’s 2026 list of America’s rattiest cities again. See the full top 50, which cities moved most and how to keep rats out of your home."
+    },
+    {
+      "id": "d62e0246dff8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ex-SC cop pleads guilty after pointing gun at coworker who microwaved fish in office",
+      "link": "https://www.masslive.com/news/2026/11/ex-cop-pleads-guilty-after-pointing-gun-at-coworker-who-microwaved-fish-in-office.html",
+      "published": "2026-11-02T14:37:18+00:00",
+      "summary": "He was fired from his job after the incident."
+    },
+    {
+      "id": "8eab241bb6d2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jerry Jones shares what’s next for Cowboys after ‘bewildering’ loss",
+      "link": "https://www.masslive.com/sports/2026/11/jerry-jones-shares-whats-next-for-cowboys-after-bewildering-loss.html",
+      "published": "2026-11-02T14:29:45+00:00",
+      "summary": "The Cowboys blew a 14-point fourth-quarter lead against the Cardinals."
+    },
+    {
+      "id": "f4f2f915bd17",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "From Texas to Maine, Democrats are leading in Senate battlegrounds: Here's what the latest polls show",
+      "link": "https://www.masslive.com/politics/2026/11/final-midterm-polls-show-trouble-for-trumps-gop-across-7-battleground-states.html",
+      "published": "2026-11-02T14:22:29+00:00",
+      "summary": "In order to flip the Senate, Democrats need to keep control of their 47 seats and gain four more."
+    },
+    {
+      "id": "08f101586f16",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Live Wire: Tracy Grammer to play Dolly Parton tribute show in Amherst",
+      "link": "https://www.masslive.com/entertainment/2026/11/live-wire-tracy-grammer-to-play-dolly-parton-tribute-show-in-amherst.html",
+      "published": "2026-11-02T14:20:16+00:00",
+      "summary": "The show, part of Signature Sounds Back Porch Songwriters Night, will be held at The Drake in Amherst later this month."
     },
     {
       "id": "0c2b7b73341b",
@@ -367,234 +607,24 @@
       "summary": "Police say laxatives were accidentally handed out to trick-or-treaters in an Eastern Massachusetts town on Halloween, with at least one child eating them."
     },
     {
-      "id": "5c46312a8726",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump’s $5,000 check pledge may be in jeopardy — here’s why",
-      "link": "https://www.masslive.com/politics/2026/11/trumps-5000-check-pledge-may-be-in-jeopardy-heres-why.html",
-      "published": "2026-11-02T12:00:00+00:00",
-      "summary": "The president repeated his promise as he crisscrossed the country to stump for GOP candidates."
+      "id": "c0b0ac944847",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
+      "published": "2026-11-02T15:01:11+00:00",
+      "summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek ."
     },
     {
-      "id": "d6774b12c6b9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Doctor: I'm taking a drug that creates formaldehyde. Could it raise my cancer risk?",
-      "link": "https://www.masslive.com/advice/2026/11/dear-doctor-im-taking-a-drug-that-creates-formaldehyde-could-it-raise-my-cancer-risk.html",
-      "published": "2026-11-02T12:00:00+00:00",
-      "summary": "A doctor explains that methenamine converts to formaldehyde in urine to prevent UTIs, but large studies show no increased cancer risk from its use."
-    },
-    {
-      "id": "0d960af48584",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "5 injured in 2 Halloween night shootings near college campus",
-      "link": "https://www.masslive.com/news/2026/11/5-injured-in-2-halloween-night-shootings-near-college-campus.html",
-      "published": "2026-11-02T11:52:00+00:00",
-      "summary": "At least 20 shots can be heard in the video."
-    },
-    {
-      "id": "d407448fe8fe",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Record-breaking high November temperatures to hit Mass. this week",
-      "link": "https://www.masslive.com/weather/2026/11/record-breaking-high-november-temperatures-to-hit-mass-this-week.html",
-      "published": "2026-11-02T11:14:34+00:00",
-      "summary": "Temperatures across Massachusetts are expected to reach the upper 60s to mid-70s through Wednesday before heavy rain and possible thunderstorms late in the week. Here's what to know."
-    },
-    {
-      "id": "79a0828f510c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rock band cancels first reunion tour in 33 years: ‘It’s unfortunate they waited so long’",
-      "link": "https://www.masslive.com/entertainment/2026/11/rock-band-cancels-first-reunion-tour-in-33-years-its-unfortunate-they-waited-so-long.html",
-      "published": "2026-11-02T11:05:26+00:00",
-      "summary": "All 17 remaining concerts have been canceled."
-    },
-    {
-      "id": "aabd488e871d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Business Monday ETC: Nov. 2, 2026",
-      "link": "https://www.masslive.com/business/2026/11/business-monday-etc-nov-2-2026.html",
-      "published": "2026-11-02T11:04:00+00:00",
-      "summary": "Business Monday ETC"
-    },
-    {
-      "id": "3992d7be18a3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Red Sox bold predictions: Who stays and who goes this winter?",
-      "link": "https://www.masslive.com/redsox/2026/11/red-sox-bold-predictions-will-franklin-arias-jarren-duran-be-traded-where-will-the-big-bat-come-from.html",
-      "published": "2026-11-02T11:00:01+00:00",
-      "summary": "The MLB offseason might move quickly this winter. What will the Red Sox do? We polled our three baseball writers for some bold predictions on Craig Breslow's plans."
-    },
-    {
-      "id": "5732a9723fd3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dakin Humane Society: The joys of senior pet adoption",
-      "link": "https://www.masslive.com/living/2026/11/dakin-humane-society-the-joys-of-senior-pet-adoption.html",
-      "published": "2026-11-02T11:00:01+00:00",
-      "summary": "While the time you share may be shorter than it would be with a younger animal, the value of that companionship isn’t measured in years alone."
-    },
-    {
-      "id": "63ab13ed90d1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "SEC head coach mentioned as name to watch in Florida State search",
-      "link": "https://www.masslive.com/sports/2026/11/sec-head-coach-mentioned-as-name-to-watch-in-florida-state-search.html",
-      "published": "2026-11-02T11:00:01+00:00",
-      "summary": "The Seminoles are starting a coaching search after firing Mike Norvell."
-    },
-    {
-      "id": "7831a34db58e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The courtroom exchange that put a Dallas judge under investigation",
-      "link": "https://www.masslive.com/news/2026/11/what-a-texas-federal-judge-said-in-court-that-got-her-pulled-from-cases.html",
-      "published": "2026-11-02T11:00:01+00:00",
-      "summary": "A Dallas federal judge was pulled from her cases and ordered to get a psychiatric exam after racial remarks to a Latino lawyer. Here is what happened."
-    },
-    {
-      "id": "d8939b0b5e59",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is Election Day a federal holiday? Here’s what to know",
-      "link": "https://www.masslive.com/news/2026/11/is-election-day-a-federal-holiday-heres-what-to-know.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Here is what you need to know about whether or not Election Day is a federal holiday in the U.S."
-    },
-    {
-      "id": "2d20bf0cd5b7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Music’s silent killer: Another singer dies from disease as list of those lost nears 60",
-      "link": "https://www.masslive.com/entertainment/2026/11/musics-silent-killer-another-singer-dies-from-disease-as-list-of-those-lost-nears-60.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "One disease has ravaged the music world in 2026."
-    },
-    {
-      "id": "eb1f7f04e2e6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: Multiple readers urge immediate action for isolated elderly neighbor",
-      "link": "https://www.masslive.com/advice/2026/11/dear-abby-multiple-readers-urge-immediate-action-for-isolated-elderly-neighbor.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Abby's mailbox was bursting with responses to the Oct. 9 letter from Frustrated Neighbor."
-    },
-    {
-      "id": "521c3e3c02a1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $9 bet",
-      "link": "https://www.masslive.com/casinos/2026/11/mass-casino-player-wins-jackpot-prize-with-9-bet.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "87396c3a37af",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trial over Sandra Birchmore's death enters final week with testimony from defense experts",
-      "link": "https://www.masslive.com/news/2026/11/forensic-experts-to-testify-for-defense-monday-at-trial-over-sandra-birchmores-death.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Jurors are expected to begin their deliberations in the trial of former Stoughton police officer Matthew Farwell later this week."
-    },
-    {
-      "id": "7bb239d619b1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Today’s horoscope: Leo - Someone has ulterior motives, know when to walk away (Nov. 2, 2026)",
-      "link": "https://www.masslive.com/advice/2026/11/todays-horoscope-leo-someone-has-ulterior-motives-know-when-to-walk-away-nov-2-2026.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Celebrities born on this day: Marisol Nichols, 53; David Schwimmer, 60; k.d. lang, 65; Stefanie Powers, 84."
-    },
-    {
-      "id": "1e75e3b7c176",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock band’s frontman reveals date for final show: ‘It’ll be fun’",
-      "link": "https://www.masslive.com/entertainment/2026/11/beloved-rock-bands-frontman-reveals-date-for-final-show-itll-be-fun.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Fans of the band have a date to circle on the calendar."
-    },
-    {
-      "id": "491ba09cdb45",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Watch the 5 craziest commercials of the 2026 midterms from across the country",
-      "link": "https://www.masslive.com/politics/2026/11/sex-and-swearing-grannies-the-5-craziest-ads-of-the-2026-midterms-from-across-the-country.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Some of the craziest ads were almost like an R-rated movie as they featured cursing and sexual themes."
-    },
-    {
-      "id": "2ca54354db72",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Finance Committee is looking to level-fund the town budget for the upcoming fiscal year",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/finance-committee-is-looking-to-level-fund-the-town-budget-for-the-upcoming-fiscal-year.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "After two years of asking town departments to cut their budget between 5% and 10%, Southwick's Finance Committee will ask for department heads to submit a level-funded budget for the upcoming fiscal year."
-    },
-    {
-      "id": "e3b0e27758b1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "People in Business: Nov. 2, 2026",
-      "link": "https://www.masslive.com/business/2026/11/people-in-business-nov-2-2026.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "People in Business"
-    },
-    {
-      "id": "8c4760fcb3ef",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved ’90s rock frontman reveals ‘excruciating’ health issue, steps away from stage",
-      "link": "https://www.masslive.com/entertainment/2026/11/beloved-90s-rock-frontman-reveals-excruciating-health-issue-steps-away-from-stage.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "He shared the news on social media."
-    },
-    {
-      "id": "1191cd7ea159",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Tuesday is Election Day in Mass. Will voters answer the bell? | Bay State Briefing",
-      "link": "https://www.masslive.com/politics/2026/11/mass-has-no-shortage-of-reasons-to-vote-so-will-voters-show-up-bay-state-briefing.html",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Mass. voters have plenty of reasons to cast a ballot Tuesday. The question is whether enough of them will."
-    },
-    {
-      "id": "7a53f8bb5ad1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A hacker is selling Mass. prisoners’ medical records. They told us how and why they stole them",
-      "link": "https://www.masslive.com/news/2026/11/a-hacker-is-selling-mass-prisoners-medical-records-they-told-us-how-and-why-they-stole-them.html",
-      "published": "2026-11-02T10:29:00+00:00",
-      "summary": "Your health history and insurance information could be very valuable to hackers looking to make a profit on the dark web. One hacker told MassLive why."
+      "id": "36bb83401e5a",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+      "link": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
+      "published": "2026-11-02T14:44:18+00:00",
+      "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek ."
     },
     {
       "id": "adcc13fa97b8",
@@ -677,24 +707,14 @@
       "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek ."
     },
     {
-      "id": "f0c80b908a88",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
+      "id": "1516b4343545",
+      "source": "Petri",
+      "source_id": "petri",
       "category": "tech",
-      "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
-      "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
-      "published": "2026-10-31T11:00:00+00:00",
-      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek ."
-    },
-    {
-      "id": "5ec9d44a0613",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
-      "link": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
-      "published": "2026-10-30T15:09:25+00:00",
-      "summary": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek ."
+      "title": "What Does Secure Service Desk Verification Look Like?",
+      "link": "https://petri.com/what-does-secure-service-desk-verification-look-like/",
+      "published": "2026-11-02T16:07:30+00:00",
+      "summary": "An employee contacts the service desk requesting a password reset. They know their username, department, and manager’s name. But how can the agent be sure they’re speaking to the right person? Increasingly, groups like Scattered Spider are exploiting this challenge, using social engineering as…"
     },
     {
       "id": "4a5467980c3e",
@@ -705,26 +725,6 @@
       "link": "https://petri.com/microsoft-new-outlook-template-based-automatic-replies/",
       "published": "2026-11-02T14:04:58+00:00",
       "summary": "One of the feature gaps between classic Outlook and the new Outlook experience has been the lack of template-based automatic replies. Users who regularly handle repetitive emails often have to manually send the same responses over and over, which creates unnecessary administrative work and…"
-    },
-    {
-      "id": "cf591b1496f8",
-      "source": "Petri",
-      "source_id": "petri",
-      "category": "tech",
-      "title": "Bank of America Warns Against Sharing Banking Credentials with AI Agents",
-      "link": "https://petri.com/bank-of-america-warns-ai-agent-bank-account-access/",
-      "published": "2026-10-30T15:26:03+00:00",
-      "summary": "As AI agents become more capable of completing tasks on users’ behalf, some consumers and businesses are experimenting with giving these tools direct access to online accounts. Bank of America has warned customers not to share banking usernames and passwords with AI agents, arguing that doing so…"
-    },
-    {
-      "id": "4412836df070",
-      "source": "Petri",
-      "source_id": "petri",
-      "category": "tech",
-      "title": "First Ring Daily 2047: Touching Money",
-      "link": "https://petri.com/first-ring-daily-2047-touching-money/",
-      "published": "2026-10-30T14:41:06+00:00",
-      "summary": "In this episode of First Ring Daily, Brad Sams and Paul Thurrott discuss Microsoft's FY2027 Q1 results, which follow a major overhaul of the company's financial reporting practices to improve transparency. The post First Ring Daily 2047: Touching Money appeared first on Petri IT Knowledgebase ."
     }
   ]
 }
