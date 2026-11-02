@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:11:58+00:00",
+  "generated_at": "2026-11-02T08:08:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -337,6 +337,16 @@
       "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art…"
     },
     {
+      "id": "d149d39f47fd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Medical Notes: Nov. 2, 2026",
+      "link": "https://www.masslive.com/living/2026/11/medical-notes-nov-2-2026.html",
+      "published": "2026-11-02T08:00:00+00:00",
+      "summary": "Medical Notes"
+    },
+    {
       "id": "c35e5e83c573",
       "source": "MassLive",
       "source_id": "masslive",
@@ -627,14 +637,14 @@
       "summary": "He was a trailblazer in electronic dance music."
     },
     {
-      "id": "6d89f72a86d8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Power 4 school fires coach amid 3-5 football season",
-      "link": "https://www.masslive.com/sports/2026/11/power-4-school-fires-coach-amid-3-5-football-season-on-hook-for-47-million-buyout.html",
-      "published": "2026-11-01T21:10:35+00:00",
-      "summary": "The director of scouting will serve as the interim."
+      "id": "0bc09b42359c",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+      "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+      "published": "2026-11-02T07:57:49+00:00",
+      "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek ."
     },
     {
       "id": "1d293ae9cead",
@@ -725,16 +735,6 @@
       "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
       "published": "2026-10-30T09:41:36+00:00",
       "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek ."
-    },
-    {
-      "id": "4bea3ce24866",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-      "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-      "published": "2026-10-30T09:32:27+00:00",
-      "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek ."
     },
     {
       "id": "cf591b1496f8",
