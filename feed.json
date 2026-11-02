@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:11:58+00:00",
+  "generated_at": "2026-11-02T04:08:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -337,6 +337,46 @@
       "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards…"
     },
     {
+      "id": "9f9eeafbc3a8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Raina Szenda, Westfield lead the way at Western Mass. gymnastics championships",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/westfield-captures-back-to-back-western-mass-gymnastics-championships-behind-raina-szenda.html",
+      "published": "2026-11-02T02:58:36+00:00",
+      "summary": "Westfield captured its second straight Western Mass. gymnastics championship, led by Raina Szenda's All-Around title on Sunday at Roots in Westfield."
+    },
+    {
+      "id": "4d4e94f2594b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "5 keys to Mount Greylock's fourth straight Western Mass. championship",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/mount-greylock-captures-fourth-straight-western-mass-title-5-keys-to-the-win.html",
+      "published": "2026-11-02T02:32:52+00:00",
+      "summary": "Mount Greylock defeated Franklin Tech to capture its fourth consecutive Western Mass. Class C boys soccer championship. Here are five keys to the Mounties' latest title run."
+    },
+    {
+      "id": "149d6bec9271",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How lightning can hurt you without striking you",
+      "link": "https://www.masslive.com/news/2026/11/lightning-didnt-hit-them-so-why-did-4-adults-end-up-in-the-hospital.html",
+      "published": "2026-11-02T02:27:33+00:00",
+      "summary": "Four adults were hurt by a lightning strike near El Mirage Elementary School in Arizona. Learn how lightning injures people it doesn’t hit directly."
+    },
+    {
+      "id": "8e724560a17d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox have three 2026 Gold Glove winners, including first-timer",
+      "link": "https://www.masslive.com/redsox/2026/11/red-sox-have-three-2026-gold-glove-winners-including-first-timer-who-played-through-injuries.html",
+      "published": "2026-11-02T02:08:44+00:00",
+      "summary": "Red Sox right fielder Wilyer Abreu won his third consecutive Gold Glove on Sunday. Center fielder Ceddanne Rafaela won his second straight and third baseman Caleb Durbin became a first-time winner."
+    },
+    {
       "id": "c5a48ea949a1",
       "source": "MassLive",
       "source_id": "masslive",
@@ -595,46 +635,6 @@
       "link": "https://www.masslive.com/redsox/2026/11/red-sox-make-easy-825-million-call-on-key-reliever-bring-him-back-for-2027.html",
       "published": "2026-11-01T20:46:04+00:00",
       "summary": "One of the Red Sox’ first moves of the offseason became official Sunday afternoon — and it was something of a no-brainer."
-    },
-    {
-      "id": "ac00e22052c1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Belchertown girls soccer claims second Western Mass. championship in three years",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/belchertown-strikes-early-shuts-out-hampshire-to-capture-western-mass-class-b-girls-soccer-title.html",
-      "published": "2026-11-01T20:39:02+00:00",
-      "summary": "Belchertown scored twice in the opening four minutes and shut out Hampshire Regional to capture the Western Mass. Class B girls soccer championship."
-    },
-    {
-      "id": "d3d953dc87d8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Martha Stewart reacts to backlash over Halloween costume",
-      "link": "https://www.masslive.com/entertainment/2026/11/martha-stewart-reacts-to-backlash-over-halloween-costume-intended-to-bring-more-awareness.html",
-      "published": "2026-11-01T20:24:29+00:00",
-      "summary": "She released a lengthy statement, saying she was trying to raise awareness."
-    },
-    {
-      "id": "8eb421ce3c2f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Celtics make starting lineup changes for Magic game Sunday",
-      "link": "https://www.masslive.com/celtics/2026/11/celtics-make-starting-lineup-changes-for-magic-game-sunday.html",
-      "published": "2026-11-01T20:21:39+00:00",
-      "summary": "The Celtics had a pair of new starters for their game Sunday against the Magic, which included an intriguing decision."
-    },
-    {
-      "id": "efc8f119aa6e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary director accidentally shoots himself at LA gun range",
-      "link": "https://www.masslive.com/entertainment/2026/11/legendary-director-accidentally-shoots-himself-at-la-gun-range.html",
-      "published": "2026-11-01T20:14:37+00:00",
-      "summary": "\"The subject was transported to a local hospital.\""
     },
     {
       "id": "1d293ae9cead",
