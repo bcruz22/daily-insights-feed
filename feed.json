@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T16:08:33+00:00",
+  "generated_at": "2026-11-02T18:10:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 16,
+      "count": 13,
       "errors": []
     },
     "verge": {
@@ -177,34 +177,44 @@
       "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust."
     },
     {
-      "id": "b10570d1171f",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "16194c055af9",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "published": "2026-10-30T17:38:19+00:00",
-      "summary": "Low costs and offline security mean magnetic tape still has a job."
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "published": "2026-11-02T18:01:30+00:00",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…"
     },
     {
-      "id": "1a9f926a45b8",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "dc6c7ef2ed74",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-      "published": "2026-10-30T16:53:49+00:00",
-      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up."
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "published": "2026-11-02T17:51:19+00:00",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the companies that run…"
     },
     {
-      "id": "f6163eced81a",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "9233f8bfd339",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-      "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
-      "published": "2026-10-30T16:12:59+00:00",
-      "summary": "There's no evidence that Starship will launch traditional satellites, either."
+      "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+      "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "published": "2026-11-02T17:06:10+00:00",
+      "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been finished for around two years,\" but that the software isn't ready. The device's software team has…"
+    },
+    {
+      "id": "2d1a7e8ef61f",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Squarespace is laying off 19 percent of employees",
+      "link": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+      "published": "2026-11-02T16:50:47+00:00",
+      "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts will affect around 300 of Squarespace's 1,800 employees. \"The changes are intended to…"
     },
     {
       "id": "0adae2bf5ad8",
@@ -267,44 +277,294 @@
       "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post. The deal, which comes as SpaceX aims to make Starlink a \"major\" mobile carrier, reportedly involves the Elon Musk-owned company acquiring…"
     },
     {
-      "id": "7ec47cc3fe98",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Affinity’s creative studio is now available on iPad for free",
-      "link": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
-      "published": "2026-11-02T14:00:00+00:00",
-      "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinity for iPad, which provides the same…"
+      "id": "abc233f4ca96",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Is It Real?: Generative AI and Misinformation in Latino Communities Pose New Challenges",
+      "link": "https://www.masslive.com/palabra/2026/11/is-it-real-generative-ai-and-misinformation-in-latino-communities-pose-new-challenges.html",
+      "published": "2026-11-02T18:06:41+00:00",
+      "summary": "AI-generated videos depicting fake ICE confrontations are spreading rapidly online, disproportionately targeting Latino communities amid limited Spanish-language content moderation."
     },
     {
-      "id": "0243151cee9e",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "More European supermarkets are getting their freezers hacked",
-      "link": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
-      "published": "2026-11-02T13:00:35+00:00",
-      "summary": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg, and Estonia were affected, according to local reports shared by Bloomberg…"
+      "id": "6614dc2bff39",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "When is Peacock’s Black Friday deal available?",
+      "link": "https://www.masslive.com/tv/2026/11/when-is-peacocks-black-friday-deal-available.html",
+      "published": "2026-11-02T18:01:00+00:00",
+      "summary": "Peacock has been very inconsistent with the way it offers deals for Black Friday. Here's a look at what we expect this year."
     },
     {
-      "id": "c22e5e7d6e81",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Jackery made its portable power stations even smaller",
-      "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
-      "published": "2026-11-02T05:00:00+00:00",
-      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4…"
+      "id": "3fe0f30d6b1e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patriots takeaways: Mike Vrabel updates A.J. Brown's status",
+      "link": "https://www.masslive.com/patriots/2026/11/patriots-takeaways-updates-on-aj-brown-mack-hollins-hunter-henry-and-more.html",
+      "published": "2026-11-02T17:49:28+00:00",
+      "summary": "The latest news on A.J. Brown and other injured Patriots."
     },
     {
-      "id": "3604bfbf152b",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "NASA hopes the commercial space industry can help save Hubble",
-      "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "published": "2026-11-01T21:09:21+00:00",
-      "summary": "Gravity is a cruel mistress, slowly dragging the famed Hubble Space Telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is…"
+      "id": "869c480d37b4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hungarian fighter jet escorts passenger plane bound for Bulgaria after mid-air bomb threat",
+      "link": "https://www.masslive.com/news/2026/11/fighter-jet-escorts-passenger-plane-after-mid-air-bomb-threat.html",
+      "published": "2026-11-02T17:47:56+00:00",
+      "summary": "A flight from London to Sofia was diverted to Budapest after a bomb threat and was escorted by a Hungarian Gripen fighter jet."
+    },
+    {
+      "id": "e3210b94edad",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Massachusetts man dies in New Hampshire ATV accident",
+      "link": "https://www.masslive.com/news/2026/11/massachusetts-man-killed-in-atv-accident-in-new-hampshire.html",
+      "published": "2026-11-02T17:42:55+00:00",
+      "summary": "A 55-year-old Dracut man died after an ATV accident on a recreational trail in Fremont, New Hampshire, Saturday afternoon."
+    },
+    {
+      "id": "703bc29eb7ae",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved ‘Doctor Who’ actor dies at 83 after ‘summer of illness’",
+      "link": "https://www.masslive.com/entertainment/2026/11/beloved-doctor-who-actor-dies-at-83-after-summer-of-illness.html",
+      "published": "2026-11-02T17:36:49+00:00",
+      "summary": "'Doctor Who' fans are in mourning after the man behind an iconic character died at 83"
+    },
+    {
+      "id": "725f9df6f5d6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Man pleads guilty in $227M COVID scheme, paid $11M for personal info on Medicare recipients",
+      "link": "https://www.masslive.com/news/2026/11/man-pleads-guilty-in-227m-covid-scheme-paid-11m-for-personal-info-on-medicare-recipients.html",
+      "published": "2026-11-02T17:29:08+00:00",
+      "summary": "The man and his co-conspirators were accused of paying $11 million for the personal information so they could bill Medicare for fake COVID tests."
+    },
+    {
+      "id": "44a9cddb85a2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pre-order Costco’s 8-serving Thanksgiving meal: Here’s what you get for $200",
+      "link": "https://www.masslive.com/food/2026/11/pre-order-costcos-ready-to-heat-thanksgiving-meal-heres-what-you-get-for-19999.html",
+      "published": "2026-11-02T17:28:54+00:00",
+      "summary": "To get the deal, you need to pre-order."
+    },
+    {
+      "id": "e62951ea0230",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular chicken finger chain to open 12 new locations this month: See where",
+      "link": "https://www.masslive.com/business/2026/11/popular-chicken-finger-chain-to-open-12-new-locations-this-month-see-where.html",
+      "published": "2026-11-02T17:28:17+00:00",
+      "summary": "The new Raising Cane's locations include three in brand new markets."
+    },
+    {
+      "id": "e5867d51e66a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "U.S. economy could lose $1B as gamers plan to rob liquor stores, steal cars",
+      "link": "https://www.masslive.com/news/2026/11/us-economy-could-lose-1b-as-gamers-plan-to-rob-liquor-stores-steal-cars.html",
+      "published": "2026-11-02T17:27:19+00:00",
+      "summary": "Two of the biggest game franchises of all time — \"World of Warcraft\" and \"Grand Theft Auto\" — are getting new releases this month."
+    },
+    {
+      "id": "b54b9a3e1255",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Lindsay Clancy must wait 2 weeks to learn whether she’ll face a second murder trial",
+      "link": "https://www.masslive.com/news/2026/11/will-lindsay-clancy-be-retried-on-murder-charges-judge-weighs-defense-challenge.html",
+      "published": "2026-11-02T17:23:29+00:00",
+      "summary": "Will Lindsay Clancy face a second murder trial? A judge is considering her attorneys’ argument that trying her again would violate double jeopardy, with a decision expected Nov. 16."
+    },
+    {
+      "id": "594df43053ca",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Packers Super Bowl champion dies following illness",
+      "link": "https://www.masslive.com/sports/2026/11/packers-super-bowl-champion-dies-following-illness.html",
+      "published": "2026-11-02T17:20:43+00:00",
+      "summary": "He was one of 39 Green Bay Packers players to appear in the first Super Bowl."
+    },
+    {
+      "id": "5d19cd451d41",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "6 MBTA workers hurt in maintenance vehicle crash in Norwood",
+      "link": "https://www.masslive.com/news/2026/11/6-mbta-workers-injured-after-maintenance-vehicles-collide-in-norwood.html",
+      "published": "2026-11-02T17:16:39+00:00",
+      "summary": "Two MBTA maintenance vehicles collided on Commuter Rail tracks in Norwood Monday morning, sending six workers to local hospitals."
+    },
+    {
+      "id": "21eabb88ce83",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Her ambulance was headed to Cleveland Clinic. Then the driver called an Uber",
+      "link": "https://www.masslive.com/news/2026/11/lost-on-the-way-to-cleveland-clinic-an-ambulance-driver-reportedly-made-a-surprising-call.html",
+      "published": "2026-11-02T17:02:06+00:00",
+      "summary": "A private ambulance driver got lost taking a Cleveland woman with chest pain to Cleveland Clinic, then reportedly called an Uber home. Here’s what happened."
+    },
+    {
+      "id": "e201b9abbc7e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Starbucks outranks Dunkin’ on top 10 list of best coffee chains nationwide",
+      "link": "https://www.masslive.com/entertainment/2026/11/where-does-dunkin-rank-among-the-best-coffee-chains-in-the-us.html",
+      "published": "2026-11-02T16:57:07+00:00",
+      "summary": "While both Dunkin' and Starbucks made the list, another chain secured the top spot."
+    },
+    {
+      "id": "fed44b5c8bb7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. ranks well for jobs, but one New England state ranks much higher",
+      "link": "https://www.masslive.com/news/2026/11/mass-ranks-among-best-states-for-jobs-but-not-no-1-in-new-england.html",
+      "published": "2026-11-02T16:52:19+00:00",
+      "summary": "Massachusetts fared well nationally, but another New England state proved to be a stronger place for people looking for work."
+    },
+    {
+      "id": "bd60d456277d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Reddit is buzzing about Chick-fil-A's returning soup: 'It just made my day'",
+      "link": "https://www.masslive.com/food/2026/11/the-chick-fil-a-menu-item-fans-say-theyd-choose-over-fries-every-single-time-is-back.html",
+      "published": "2026-11-02T16:52:17+00:00",
+      "summary": "The seasonal soup returns to select locations nationwide through March 2027, alongside the chain's first new permanent sauce in nearly a decade."
+    },
+    {
+      "id": "706ae23cecc4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "MIAA Football Super Bowls seeking new venue after Gillette 'no longer an option'",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/gillette-stadium-no-longer-hosting-miaa-football-state-championships.html",
+      "published": "2026-11-02T16:52:02+00:00",
+      "summary": "Championship games had been played at the home of the New England Patriots since 2007."
+    },
+    {
+      "id": "39f82dcb8f76",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Feds at Mass. polls Tuesday? 'They can observe,' Galvin says",
+      "link": "https://www.masslive.com/politics/2026/11/mass-elections-chief-is-concerned-but-not-terribly-worried-about-federal-interference.html",
+      "published": "2026-11-02T16:48:08+00:00",
+      "summary": "Federal observers will be at polling places in Boston and Lowell on Tuesday. Bill Galvin says that's fine. What he's \"almost as concerned\" about are the self-appointed poll watchers."
+    },
+    {
+      "id": "ed07f3734f7c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Developer eyes Worcester Mill Street site for 7-building complex with 255 apartments",
+      "link": "https://www.masslive.com/centralmass/2026/11/developer-proposes-more-than-200-apartments-near-worcesters-coes-pond.html",
+      "published": "2026-11-02T16:47:53+00:00",
+      "summary": "Worcester Mill LLC proposes a 255-unit apartment complex near Coes Pond, subject to the city's inclusionary zoning ordinance as Worcester works to meet its 12,000-unit housing goal by 2033."
+    },
+    {
+      "id": "b0f39a59885b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular Mass. platform used by 200K restaurants to take orders hit with lawsuit",
+      "link": "https://www.masslive.com/boston/2026/11/popular-mass-platform-used-by-200k-restaurants-to-take-orders-hit-with-lawsuit.html",
+      "published": "2026-11-02T16:39:39+00:00",
+      "summary": "Hidden charges, unwanted add-ons and costly cancellations are at the center of a new federal case against the Mass. company."
+    },
+    {
+      "id": "4176b9145f8e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "He said sorry to the FBI. Prosecutors say the threats kept coming",
+      "link": "https://www.masslive.com/news/2026/11/he-apologized-to-the-fbi-for-a-threat-against-kash-patel-prosecutors-say-it-didnt-end-there.html",
+      "published": "2026-11-02T16:33:19+00:00",
+      "summary": "A Chesterfield Township man is charged with threatening to kill FBI Director Kash Patel in Facebook messages. Here’s what prosecutors say happened next."
+    },
+    {
+      "id": "4b46db6e789d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular coffee chain launches first-ever food menu",
+      "link": "https://www.masslive.com/food/2026/11/popular-coffee-chain-launches-first-ever-food-menu.html",
+      "published": "2026-11-02T16:28:22+00:00",
+      "summary": "7 Brew introduced its first-ever food menu with five bakery items that pair perfectly with its signature beverages."
+    },
+    {
+      "id": "6f9a7034d31d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sweeps slots: 4 new titles players are opening as November starts",
+      "link": "https://www.masslive.com/sweepstakes/2026/11/sweeps-slots-4-new-titles-players-are-opening-as-november-starts.html",
+      "published": "2026-11-02T16:26:00+00:00",
+      "summary": "Check out these four sweeps slots worth trying this November, compare their RTPs and bonus features, and find sweepstakes casinos offering popular games."
+    },
+    {
+      "id": "bec6f5e8cf3d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Election Day forecast: Will weather disrupt voting plans?",
+      "link": "https://www.masslive.com/news/2026/11/election-day-forecast-could-weather-could-disrupt-voting-plans.html",
+      "published": "2026-11-02T16:24:28+00:00",
+      "summary": "There are some areas of the country that will see weather that could make it tough to vote."
+    },
+    {
+      "id": "b84d95d1ce5d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Jessica Lange discusses possible retirement after 50-year career",
+      "link": "https://www.masslive.com/entertainment/2026/11/beloved-actress-77-says-acting-career-is-coming-to-an-end.html",
+      "published": "2026-11-02T16:18:52+00:00",
+      "summary": "Jessica Lange, 77, says she feels her acting career may be nearing its end after more than 50 years in Hollywood."
+    },
+    {
+      "id": "80b253c184df",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Experts release Celtics vs. Rockets prediction as Tatum and Durant headline latest player props",
+      "link": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-rockets-prediction-as-tatum-and-durant-headline-latest-player-props.html",
+      "published": "2026-11-02T16:15:00+00:00",
+      "summary": "The Celtics travel to the Toyota Center to take on the Houston Rockets on Monday. Compare Polymarket odds, spread lines, and score projections before tip off."
+    },
+    {
+      "id": "50d84f97c8cf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "See which 10 teams have the longest drives in the MIAA football playoffs",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/10-longest-road-trips-in-the-first-round-of-the-miaa-football-playoffs.html",
+      "published": "2026-11-02T16:14:56+00:00",
+      "summary": "The advent of the statewide tournament in Massachusetts means some teams will spend serious time on a bus to play in the playoffs. We found the 10 teams with the furthest trips."
+    },
+    {
+      "id": "5715b1f8e476",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Should you say “please” to a chatbot? One company thinks so",
+      "link": "https://www.masslive.com/news/2026/11/being-rude-to-this-ai-chatbot-could-get-you-banned-heres-the-surprising-reason-why.html",
+      "published": "2026-11-02T16:12:26+00:00",
+      "summary": "Anthropic’s new Claude AI policy bans sustained, needless cruelty toward its chatbot starting Nov. 12. Here’s what’s allowed, what’s not and why experts say tone matters."
     },
     {
       "id": "fa35f534af53",
@@ -315,296 +575,6 @@
       "link": "https://www.masslive.com/entertainment/2026/11/legendary-hollywood-director-83-accidentally-shoots-himself.html",
       "published": "2026-11-02T16:02:00+00:00",
       "summary": "Michael Mann, the 83-year-old director of “Heat” and “Collateral,” was hospitalized after accidentally shooting himself in the leg at a Los Angeles gun range."
-    },
-    {
-      "id": "a3eeddfbb96b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ex-spouses of former ABC news anchors tie the knot after explosive affair scandal",
-      "link": "https://www.masslive.com/entertainment/2026/11/ex-spouses-of-former-abc-news-anchors-tie-the-knot-after-explosive-affair-scandal.html",
-      "published": "2026-11-02T16:00:49+00:00",
-      "summary": "The wedding comes one month after the couple announced their engagement."
-    },
-    {
-      "id": "6d2579c1f296",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Annie: I walked away from my family and finally found peace for the first time",
-      "link": "https://www.masslive.com/advice/2026/11/dear-annie-i-walked-away-from-my-family-and-finally-found-peace-for-the-first-time.html",
-      "published": "2026-11-02T16:00:00+00:00",
-      "summary": "I’m deeply hurt. How did I go from being the person everyone depended on to the person everyone blames?"
-    },
-    {
-      "id": "65817fabac11",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Check your cabinets: Cinnamon recalled in 14 states over elevated lead levels",
-      "link": "https://www.masslive.com/news/2026/11/check-your-cabinets-cinnamon-recalled-in-14-states-over-elevated-lead-levels.html",
-      "published": "2026-11-02T15:56:46+00:00",
-      "summary": "Cinnamon sold in 14 states is being pulled from store shelves after state officials found elevated lead levels in a test sample. Now, the FDA is urging consumers to throw the products away or seek a refund."
-    },
-    {
-      "id": "fdcf16be3a92",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Data breach victims could get up to $5K: Here’s how",
-      "link": "https://www.masslive.com/news/2026/11/data-breach-victims-could-get-up-to-5k-heres-how.html",
-      "published": "2026-11-02T15:54:31+00:00",
-      "summary": "The deadline to submit a claim is next month."
-    },
-    {
-      "id": "8a21766d4cf2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Missing Missouri couple found dead 500 yards away on neighbor’s property",
-      "link": "https://www.masslive.com/news/2026/11/missing-couple-found-dead-500-yards-away-on-neighbors-property.html",
-      "published": "2026-11-02T15:47:29+00:00",
-      "summary": "A couple missing since September 15, were found dead on a neighbor's property just \"400 to 500 yards\" from their Missouri home."
-    },
-    {
-      "id": "4910506798bd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Detectives pretended to be kids online. Then 31 adults showed up",
-      "link": "https://www.masslive.com/news/2026/11/disney-universal-workers-arrested-in-florida-sting-the-sheriffs-message-for-parents.html",
-      "published": "2026-11-02T15:45:28+00:00",
-      "summary": "A weeklong Polk County sting led to 281 arrests, including 17 Disney World and Universal workers. Here’s what happened and how families can keep kids safe online."
-    },
-    {
-      "id": "e5f05631f8ae",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "New polls show clear midterm winner — but a big catch",
-      "link": "https://www.masslive.com/politics/2026/11/new-polls-show-clear-midterm-winner-but-a-big-catch.html",
-      "published": "2026-11-02T15:44:00+00:00",
-      "summary": "The final polls are out ahead of Election Day on Tuesday."
-    },
-    {
-      "id": "b7f267bba5b7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A look at concepts of Disney’s much-anticipated Villains Land rides",
-      "link": "https://www.masslive.com/entertainment/2026/11/what-we-know-about-villains-land-being-constructed-at-disney-opening-dates-and-rides.html",
-      "published": "2026-11-02T15:40:32+00:00",
-      "summary": "Villains will include Malificent, Cruella De Vil, Jafar, Doctor Facilier, Scar and Ursula."
-    },
-    {
-      "id": "e080f8f557fe",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2027 COLA: Key Social Security deadline looms to get early look at new benefits",
-      "link": "https://www.masslive.com/news/2026/11/2027-cola-key-social-security-deadline-looms-for-people-wanting-to-learn-new-benefits-early.html",
-      "published": "2026-11-02T15:38:37+00:00",
-      "summary": "Retirees, survivors and disability recipients, as well as those who receive Supplemental Security Income, will get a 3.6% COLA for 2027. The figure is the highest in four years."
-    },
-    {
-      "id": "8b70eadcd312",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "One week later, Trump is still reeling from Obama’s Cheesecake Factory joke",
-      "link": "https://www.masslive.com/politics/2026/11/one-week-later-trump-is-still-reeling-from-obamas-cheesecake-factory-joke.html",
-      "published": "2026-11-02T15:34:49+00:00",
-      "summary": "Donald Trump is still not happy with former President Barack Obama’s joke comparing the White House to the Cheesecake Factory."
-    },
-    {
-      "id": "e9e82b838d7c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Zillow reveals most pet-friendly cities in America: Here's where Boston fell",
-      "link": "https://www.masslive.com/boston/2026/11/boston-among-the-least-pet-friendly-cities-in-the-us-new-study-shows.html",
-      "published": "2026-11-02T15:28:50+00:00",
-      "summary": "Boston was among several major cities that landed at the tail end of the list."
-    },
-    {
-      "id": "0a7a76f8eb5a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Divers find shipwreck off New England tied to secret Nazi mission",
-      "link": "https://www.masslive.com/news/2026/11/divers-discover-wwii-shipwreck-off-new-england-more-than-80-years-later.html",
-      "published": "2026-11-02T15:26:32+00:00",
-      "summary": "Nearly 400 feet underwater, divers braved cold water and strong currents to uncover a long-lost piece of WWII history."
-    },
-    {
-      "id": "302b27effeb3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Where the 12 Western Mass. football teams stand in the MIAA state tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/whats-the-road-ahead-for-the-12-western-mass-football-teams-in-the-state-tournament.html",
-      "published": "2026-11-02T15:22:10+00:00",
-      "summary": "A look at the matchups, potential opponents and paths to a state championship for all 12 Western Massachusetts football teams in the MIAA state tournament."
-    },
-    {
-      "id": "7a604e938ed1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Nantucket Stop & Shop fatal crash suspect faces arraignment Monday",
-      "link": "https://www.masslive.com/news/2026/11/driver-in-fatal-stop-shop-crash-to-be-arraigned-monday.html",
-      "published": "2026-11-02T15:20:07+00:00",
-      "summary": "Kathleen Featherston, 62, faces arraignment Monday on charges stemming from a June parking lot crash that killed Stacey Rosen, 62, of Atlantic Beach, N.Y."
-    },
-    {
-      "id": "6b39db3e6af7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Martha Stewart faces backlash over costume depicting homelessness",
-      "link": "https://www.masslive.com/entertainment/2026/11/martha-stewart-faces-backlash-over-homeless-halloween-costume.html",
-      "published": "2026-11-02T15:16:12+00:00",
-      "summary": "Martha Stewart apologized after facing backlash for a Halloween costume depicting a homeless person, but criticism continued online."
-    },
-    {
-      "id": "ec09cd643287",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How much you need to earn to live comfortably in every U.S. state",
-      "link": "https://www.masslive.com/news/2026/11/how-much-you-need-to-earn-to-live-comfortably-in-every-us-state.html",
-      "published": "2026-11-02T14:56:37+00:00",
-      "summary": "For a family of four, the analysis found, the income to live comfortably is as much as $329,000."
-    },
-    {
-      "id": "1c62c0115261",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Over 1,227 flights delayed, 70 canceled amid widespread U.S. travel disruptions",
-      "link": "https://www.masslive.com/news/2026/11/over-1227-flights-delayed-70-canceled-amid-widespread-us-travel-disruptions.html",
-      "published": "2026-11-02T14:53:57+00:00",
-      "summary": "Flight cancellations and delays disrupted operations at multiple airports across the U.S."
-    },
-    {
-      "id": "081a9358eec1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The city that ended Chicago’s rat reign is still No. 1",
-      "link": "https://www.masslive.com/news/2026/11/americas-rattiest-city-kept-its-crown-is-your-city-on-the-list.html",
-      "published": "2026-11-02T14:53:26+00:00",
-      "summary": "Los Angeles tops Orkin’s 2026 list of America’s rattiest cities again. See the full top 50, which cities moved most and how to keep rats out of your home."
-    },
-    {
-      "id": "d62e0246dff8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ex-SC cop pleads guilty after pointing gun at coworker who microwaved fish in office",
-      "link": "https://www.masslive.com/news/2026/11/ex-cop-pleads-guilty-after-pointing-gun-at-coworker-who-microwaved-fish-in-office.html",
-      "published": "2026-11-02T14:37:18+00:00",
-      "summary": "He was fired from his job after the incident."
-    },
-    {
-      "id": "8eab241bb6d2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Jerry Jones shares what’s next for Cowboys after ‘bewildering’ loss",
-      "link": "https://www.masslive.com/sports/2026/11/jerry-jones-shares-whats-next-for-cowboys-after-bewildering-loss.html",
-      "published": "2026-11-02T14:29:45+00:00",
-      "summary": "The Cowboys blew a 14-point fourth-quarter lead against the Cardinals."
-    },
-    {
-      "id": "f4f2f915bd17",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "From Texas to Maine, Democrats are leading in Senate battlegrounds: Here's what the latest polls show",
-      "link": "https://www.masslive.com/politics/2026/11/final-midterm-polls-show-trouble-for-trumps-gop-across-7-battleground-states.html",
-      "published": "2026-11-02T14:22:29+00:00",
-      "summary": "In order to flip the Senate, Democrats need to keep control of their 47 seats and gain four more."
-    },
-    {
-      "id": "08f101586f16",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Live Wire: Tracy Grammer to play Dolly Parton tribute show in Amherst",
-      "link": "https://www.masslive.com/entertainment/2026/11/live-wire-tracy-grammer-to-play-dolly-parton-tribute-show-in-amherst.html",
-      "published": "2026-11-02T14:20:16+00:00",
-      "summary": "The show, part of Signature Sounds Back Porch Songwriters Night, will be held at The Drake in Amherst later this month."
-    },
-    {
-      "id": "0c2b7b73341b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "FCC will vote this month to let prisons and jails jam contraband cellphones",
-      "link": "https://www.masslive.com/news/2026/11/fcc-will-vote-this-month-to-let-prisons-and-jails-jam-contraband-cellphones.html",
-      "published": "2026-11-02T14:00:00+00:00",
-      "summary": "“Almost 500,000 inmates now have access to them and 25,000 phones are seized in jails annually.\""
-    },
-    {
-      "id": "657388401513",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The 2026 midterms just broke a massive election spending record",
-      "link": "https://www.masslive.com/politics/2026/11/2026-midterms-break-spending-record-here-are-the-most-expensive-races-across-us.html",
-      "published": "2026-11-02T14:00:00+00:00",
-      "summary": "AdImpact reported that the 2025-2026 election cycle hit about $11.6 billion in political ad spending last week, making it the most expensive cycle on record despite there being no presidential race."
-    },
-    {
-      "id": "c788a35583ef",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Miss Manners: What should I do if being rude seems to be the best answer?",
-      "link": "https://www.masslive.com/advice/2026/11/miss-manners-what-should-i-do-if-being-rude-seems-to-be-the-best-answer.html",
-      "published": "2026-11-02T14:00:00+00:00",
-      "summary": "I’ve heard that if you get really nasty, they turn the call over to someone who can actually help."
-    },
-    {
-      "id": "235f36c49574",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asian specialty jewelry shop in Greater Boston shutters after 17 years",
-      "link": "https://www.masslive.com/news/2026/11/asian-specialty-jewelry-shop-in-greater-boston-shutters-after-17-years.html",
-      "published": "2026-11-02T13:28:54+00:00",
-      "summary": "The shop will shift to online sales as its physical store goes dark."
-    },
-    {
-      "id": "942a127bfbb9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Worcester ambulance patient seriously injured after police say they stole, crashed vehicle",
-      "link": "https://www.masslive.com/centralmass/2026/11/patient-steals-ambulance-in-worcester-crashes-in-neighboring-town-police-say.html",
-      "published": "2026-11-02T12:55:16+00:00",
-      "summary": "A Worcester ambulance patient was seriously injured after police say they stole the vehicle, then crashed it in a neighboring town on Sunday evening."
-    },
-    {
-      "id": "421c2611c0f7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "9 dead after Learjet nosedives, erupts into flames in Florida",
-      "link": "https://www.masslive.com/news/2026/11/9-dead-after-learjet-nosedives-erupts-into-flames-in-florida-it-was-a-cataclysmic-plane-crash.html",
-      "published": "2026-11-02T12:07:41+00:00",
-      "summary": "The jet erupted into a giant fireball."
-    },
-    {
-      "id": "53fbfa7afd40",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Laxatives handed out to trick-or-treaters in Mass. town on Halloween",
-      "link": "https://www.masslive.com/news/2026/11/laxatives-handed-out-to-trick-or-treaters-in-mass-town-on-halloween.html",
-      "published": "2026-11-02T12:03:15+00:00",
-      "summary": "Police say laxatives were accidentally handed out to trick-or-treaters in an Eastern Massachusetts town on Halloween, with at least one child eating them."
     },
     {
       "id": "c0b0ac944847",
