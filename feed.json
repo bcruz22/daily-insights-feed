@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:12:04+00:00",
+  "generated_at": "2026-11-02T01:17:07+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -35,6 +35,13 @@
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
       "count": 2,
+      "errors": []
+    },
+    "omnissa": {
+      "name": "Omnissa community blog",
+      "status": "ok",
+      "feed_url": "https://community.omnissa.com/rss/2-omnissa-technical-blog.xml/",
+      "count": 0,
       "errors": []
     }
   },
@@ -330,6 +337,56 @@
       "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards…"
     },
     {
+      "id": "f2244db0409c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Paul George makes statement on NBA title: ‘I don’t care about scoring’",
+      "link": "https://www.masslive.com/celtics/2026/11/paul-george-makes-statement-on-nba-title-i-dont-care-about-scoring.html",
+      "published": "2026-11-02T00:46:31+00:00",
+      "summary": "Paul George has said and continues to say all the right things ever since he got traded to the Celtics."
+    },
+    {
+      "id": "c5b21a225b40",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Drake Maye playing short-handed, lifts Patriots over Dolphins",
+      "link": "https://www.masslive.com/patriots/2026/11/drake-maye-minus-his-four-top-receiving-targets-shines-in-win-over-miami.html",
+      "published": "2026-11-02T00:31:03+00:00",
+      "summary": "Assessing Drake Maye's performance in win over the Miami Dolphins."
+    },
+    {
+      "id": "9342d44f9718",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "5 Patriots takeaways as Drake Maye pulls off second-half comeback",
+      "link": "https://www.masslive.com/patriots/2026/11/5-patriots-takeaways-as-drake-maye-pulls-off-second-half-comeback-in-win-over-dolphins.html",
+      "published": "2026-11-02T00:29:13+00:00",
+      "summary": "Drake Maye led the Patriots to a comeback at Hard Rock Stadium, overcoming a 13-3 halftime deficit and a depleted roster to improve to 5-3."
+    },
+    {
+      "id": "a1b7ac4ab4b6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "From Paul George to new lineup: What we learned from Celtics’ win over Magic",
+      "link": "https://www.masslive.com/celtics/2026/11/from-paul-george-to-new-lineup-what-we-learned-from-celtics-win-over-magic.html",
+      "published": "2026-11-02T00:17:08+00:00",
+      "summary": "The Celtics fended off the Magic for their fifth straight victory to open the month of November with a win."
+    },
+    {
+      "id": "28e4fb5bc0ee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Watch Tom Brady do it again, curses on FOX NFL broadcast",
+      "link": "https://www.masslive.com/sports/2026/11/watch-tom-brady-do-it-again-accidentally-curses-on-fox-nfl-broadcast.html",
+      "published": "2026-11-02T00:16:14+00:00",
+      "summary": "It isn't the first time the seven-time Super Bowl champion has done it."
+    },
+    {
       "id": "37af597e0393",
       "source": "MassLive",
       "source_id": "masslive",
@@ -564,10 +621,10 @@
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Live Coverage: Patriots turn it around, Douglas scores to extend lead",
+      "title": "Rewind: Second-half turnaround leads Patriots over Dolphins",
       "link": "https://www.masslive.com/patriots/2026/11/live-coverage-patriots-take-on-dolphins-without-aj-brown.html",
       "published": "2026-11-01T19:27:26+00:00",
-      "summary": "Drake Maye and DeMario Douglas connected to give New England a cushion in the fourth quarter."
+      "summary": "New England was a complete different team in the second half."
     },
     {
       "id": "a27357078dcc",
@@ -578,56 +635,6 @@
       "link": "https://www.masslive.com/news/2026/11/unidentified-human-remains-discovered-in-new-hampshire-power-line-corridor.html",
       "published": "2026-11-01T19:13:57+00:00",
       "summary": "A hunter in New Hampshire discovered unidentified human remains Saturday morning, prompting a joint investigation by state and local authorities."
-    },
-    {
-      "id": "cd0d337bd883",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ohio city ranks among 3 worst for childhood in the U.S.",
-      "link": "https://www.masslive.com/news/2026/11/2-of-the-3-best-cities-for-growing-up-are-in-1-state-report.html",
-      "published": "2026-11-01T19:00:00+00:00",
-      "summary": "The study analyzed 100 of the U.S.'s biggest cities on thinks like \"chronic absenteeism\" and \"children in poverty.\""
-    },
-    {
-      "id": "26d5bf4ab77a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Indigenous traditions thrive from Alaska salmonberry picking to Las Vegas art",
-      "link": "https://www.masslive.com/native-american-news/2026/11/indigenous-traditions-thrive-from-alaska-salmonberry-picking-to-las-vegas-art.html",
-      "published": "2026-11-01T17:58:59+00:00",
-      "summary": "Six short stories highlight joy, resilience, and cultural preservation across Native American and Alaska Native communities, from berry picking to traditional tattooing."
-    },
-    {
-      "id": "0568c79d507f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "College football game ends in massive brawl",
-      "link": "https://www.masslive.com/sports/2026/11/college-football-game-ends-in-massive-brawl.html",
-      "published": "2026-11-01T17:48:21+00:00",
-      "summary": "One of the schools involved released a statement apologizing for its role in the incident."
-    },
-    {
-      "id": "c7cbdcb8a331",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Car collides with Foxborough ambulance taking 3-year-old to Attleboro hospital",
-      "link": "https://www.masslive.com/news/2026/11/car-collides-with-foxborough-ambulance-taking-3-year-old-to-attleboro-hospital.html",
-      "published": "2026-11-01T17:47:56+00:00",
-      "summary": "A Foxborough ambulance transporting a child having an allergic reaction was involved in a car crash in Attleboro Saturday morning."
-    },
-    {
-      "id": "cb6592d47afd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "22 injured after Australian music festival stand holding fans collapses",
-      "link": "https://www.masslive.com/entertainment/2026/11/22-injured-after-australian-music-festival-stand-holding-fans-collapses.html",
-      "published": "2026-11-01T17:28:18+00:00",
-      "summary": "Four were transpoted to the hospital."
     },
     {
       "id": "1d293ae9cead",
