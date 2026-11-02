@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T18:10:58+00:00",
+  "generated_at": "2026-11-02T20:11:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 13,
+      "count": 15,
       "errors": []
     },
     "verge": {
@@ -46,6 +46,46 @@
     }
   },
   "items": [
+    {
+      "id": "95189256059f",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "published": "2026-11-02T18:32:21+00:00",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses."
+    },
+    {
+      "id": "778dbacaaeb9",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "published": "2026-11-02T18:05:31+00:00",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem."
+    },
+    {
+      "id": "ed27b2587dba",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "China publicly discloses plan for a lunar landing within three years",
+      "link": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+      "published": "2026-11-02T17:09:13+00:00",
+      "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II."
+    },
+    {
+      "id": "3327074e4a4a",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
+      "link": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
+      "published": "2026-11-02T15:57:24+00:00",
+      "summary": "There was plenty of drama on and off the track for Formula 1 this weekend."
+    },
     {
       "id": "78036d3639cc",
       "source": "Ars Technica",
@@ -157,24 +197,54 @@
       "summary": "Faked symptoms still point to infections that antibiotics don't treat."
     },
     {
-      "id": "538ea1326a6a",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "3d15f21ee05a",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "published": "2026-10-30T19:30:52+00:00",
-      "summary": "But it's still early days for the relatively new e-commerce use case."
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "published": "2026-11-02T20:03:52+00:00",
+      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using…"
     },
     {
-      "id": "64f7a393ec93",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "3b566659fe8f",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-      "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
-      "published": "2026-10-30T18:13:42+00:00",
-      "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust."
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+      "published": "2026-11-02T19:24:09+00:00",
+      "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low…"
+    },
+    {
+      "id": "8501e7fca783",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "published": "2026-11-02T19:05:46+00:00",
+      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new…"
+    },
+    {
+      "id": "e3f3f6c0c50f",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "published": "2026-11-02T18:56:02+00:00",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use…"
+    },
+    {
+      "id": "4c6a95aaf3dc",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
+      "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+      "published": "2026-11-02T18:43:24+00:00",
+      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short…"
     },
     {
       "id": "16194c055af9",
@@ -194,7 +264,7 @@
       "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
       "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "published": "2026-11-02T17:51:19+00:00",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the companies that run…"
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News,…"
     },
     {
       "id": "9233f8bfd339",
@@ -227,354 +297,304 @@
       "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait.…"
     },
     {
-      "id": "92245d9b1fd5",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
-      "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
-      "published": "2026-11-02T15:15:00+00:00",
-      "summary": "When I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most capable ultrawide in any phone worldwide. You won't find either in the new X500 Pro […]"
-    },
-    {
-      "id": "7ffb9fb9f527",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Could data center backlash flip Florida?",
-      "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
-      "published": "2026-11-02T15:05:00+00:00",
-      "summary": "Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. \"My ballot is all mixed up,\" she says. She's voting for some Republicans, some independents, and even…"
-    },
-    {
-      "id": "b706826d4003",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "YouTuber Druski is going to make exclusive content for Netflix",
-      "link": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
-      "published": "2026-11-02T15:00:00+00:00",
-      "summary": "Netflix today announced a multiyear deal with the YouTuber, comedian, and influencer Druski, and he'll create original content \"exclusively\" for the streaming service. The announcement is the latest in Netflix's efforts to bring creators onto the platform, having previously landed deals with…"
-    },
-    {
-      "id": "9abb81eaf70e",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
-      "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
-      "published": "2026-11-02T14:07:22+00:00",
-      "summary": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120 and now costs more than triple that price. The 16GB versions of the Raspberry Pi Compute Module 5 also got a […]"
-    },
-    {
-      "id": "909cb1cec82b",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
-      "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
-      "published": "2026-11-02T14:05:34+00:00",
-      "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post. The deal, which comes as SpaceX aims to make Starlink a \"major\" mobile carrier, reportedly involves the Elon Musk-owned company acquiring…"
-    },
-    {
-      "id": "abc233f4ca96",
+      "id": "9f9864075476",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Is It Real?: Generative AI and Misinformation in Latino Communities Pose New Challenges",
-      "link": "https://www.masslive.com/palabra/2026/11/is-it-real-generative-ai-and-misinformation-in-latino-communities-pose-new-challenges.html",
-      "published": "2026-11-02T18:06:41+00:00",
-      "summary": "AI-generated videos depicting fake ICE confrontations are spreading rapidly online, disproportionately targeting Latino communities amid limited Spanish-language content moderation."
+      "title": "Could Sandra Birchmore’s injuries come from hanging? Experts challenge prosecution",
+      "link": "https://www.masslive.com/news/2026/11/defense-experts-challenge-evidence-that-sandra-birchmore-was-strangled.html",
+      "published": "2026-11-02T20:09:31+00:00",
+      "summary": "A fractured bone in Sandra Birchmore’s neck has become a key piece of evidence in Matthew Farwell’s murder trial."
     },
     {
-      "id": "6614dc2bff39",
+      "id": "ee0b4b8629f8",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "When is Peacock’s Black Friday deal available?",
-      "link": "https://www.masslive.com/tv/2026/11/when-is-peacocks-black-friday-deal-available.html",
-      "published": "2026-11-02T18:01:00+00:00",
-      "summary": "Peacock has been very inconsistent with the way it offers deals for Black Friday. Here's a look at what we expect this year."
+      "title": "The 'juicy cup' is coffee's next big thing, and Gen Z is leading the charge",
+      "link": "https://www.masslive.com/food/2026/11/espresso-meet-fruit-the-unexpected-coffee-trend-thats-already-taking-hold-at-major-cafes.html",
+      "published": "2026-11-02T20:05:40+00:00",
+      "summary": "From Starbucks' fruit-inspired drinks to rising banana bread latte searches, the fruity coffee movement has real momentum."
     },
     {
-      "id": "3fe0f30d6b1e",
+      "id": "83305c3ac0a3",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Patriots takeaways: Mike Vrabel updates A.J. Brown's status",
-      "link": "https://www.masslive.com/patriots/2026/11/patriots-takeaways-updates-on-aj-brown-mack-hollins-hunter-henry-and-more.html",
-      "published": "2026-11-02T17:49:28+00:00",
-      "summary": "The latest news on A.J. Brown and other injured Patriots."
+      "title": "$1.2B at stake in Powerball, Mega Millions drawings this week",
+      "link": "https://www.masslive.com/lottery/2026/11/more-than-12b-up-for-grabs-in-lottery-drawings-this-week.html",
+      "published": "2026-11-02T20:00:08+00:00",
+      "summary": "Feeling lucky? It could be a big week for lottery players, with two major drawings just around the corner."
     },
     {
-      "id": "869c480d37b4",
+      "id": "bd7721e9113c",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Hungarian fighter jet escorts passenger plane bound for Bulgaria after mid-air bomb threat",
-      "link": "https://www.masslive.com/news/2026/11/fighter-jet-escorts-passenger-plane-after-mid-air-bomb-threat.html",
-      "published": "2026-11-02T17:47:56+00:00",
-      "summary": "A flight from London to Sofia was diverted to Budapest after a bomb threat and was escorted by a Hungarian Gripen fighter jet."
+      "title": "Veteran seeks stranger who gave him a Costco gift card as thanks for his service",
+      "link": "https://www.masslive.com/entertainment/2026/11/veteran-seeks-stranger-who-handed-him-a-gift-at-costco-as-thanks-for-his-service.html",
+      "published": "2026-11-02T19:58:12+00:00",
+      "summary": "“This is the America I love,” he said."
     },
     {
-      "id": "e3210b94edad",
+      "id": "0f420db0f1f1",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Massachusetts man dies in New Hampshire ATV accident",
-      "link": "https://www.masslive.com/news/2026/11/massachusetts-man-killed-in-atv-accident-in-new-hampshire.html",
-      "published": "2026-11-02T17:42:55+00:00",
-      "summary": "A 55-year-old Dracut man died after an ATV accident on a recreational trail in Fremont, New Hampshire, Saturday afternoon."
+      "title": "2 killed in pool electrocution at a hotel in India",
+      "link": "https://www.masslive.com/news/2026/11/2-killed-in-pool-electrocution-at-hotel.html",
+      "published": "2026-11-02T19:56:16+00:00",
+      "summary": "Two people died after an electric current entered a pool at the Conrad Bengaluru hotel in India, while two others survived."
     },
     {
-      "id": "703bc29eb7ae",
+      "id": "ae2333cd8b90",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Beloved ‘Doctor Who’ actor dies at 83 after ‘summer of illness’",
-      "link": "https://www.masslive.com/entertainment/2026/11/beloved-doctor-who-actor-dies-at-83-after-summer-of-illness.html",
-      "published": "2026-11-02T17:36:49+00:00",
-      "summary": "'Doctor Who' fans are in mourning after the man behind an iconic character died at 83"
+      "title": "Officials identify human remains found in New Hampshire power line corridor",
+      "link": "https://www.masslive.com/news/2026/11/officials-identify-human-remains-found-in-new-hampshire-power-line-corridor.html",
+      "published": "2026-11-02T19:55:42+00:00",
+      "summary": "Human remains found by a hunter in Bow, New Hampshire, Saturday morning have been identified as belonging to a 31-year-old man."
     },
     {
-      "id": "725f9df6f5d6",
+      "id": "fcfbb1dbf245",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Man pleads guilty in $227M COVID scheme, paid $11M for personal info on Medicare recipients",
-      "link": "https://www.masslive.com/news/2026/11/man-pleads-guilty-in-227m-covid-scheme-paid-11m-for-personal-info-on-medicare-recipients.html",
-      "published": "2026-11-02T17:29:08+00:00",
-      "summary": "The man and his co-conspirators were accused of paying $11 million for the personal information so they could bill Medicare for fake COVID tests."
+      "title": "European countries hit by apparent cyberattacks",
+      "link": "https://www.masslive.com/news/2026/11/european-countries-hit-by-apparent-cyberattacks-targeting-supermarket-freezers.html",
+      "published": "2026-11-02T19:46:38+00:00",
+      "summary": "This follows last month's attacks on stores across France."
     },
     {
-      "id": "44a9cddb85a2",
+      "id": "f01e8ed60e69",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Pre-order Costco’s 8-serving Thanksgiving meal: Here’s what you get for $200",
-      "link": "https://www.masslive.com/food/2026/11/pre-order-costcos-ready-to-heat-thanksgiving-meal-heres-what-you-get-for-19999.html",
-      "published": "2026-11-02T17:28:54+00:00",
-      "summary": "To get the deal, you need to pre-order."
+      "title": "Plum crumble",
+      "link": "https://www.masslive.com/nytcooking/2026/11/793196301-plum-crumble.html",
+      "published": "2026-11-02T19:42:55+00:00",
+      "summary": "Indulge in this delightful plum crumble featuring juicy Italian plums and a hint of ginger, topped with a golden, buttery crust that's perfect warm with a scoop of vanilla ice cream."
     },
     {
-      "id": "e62951ea0230",
+      "id": "02a9a1454aa1",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Popular chicken finger chain to open 12 new locations this month: See where",
-      "link": "https://www.masslive.com/business/2026/11/popular-chicken-finger-chain-to-open-12-new-locations-this-month-see-where.html",
-      "published": "2026-11-02T17:28:17+00:00",
-      "summary": "The new Raising Cane's locations include three in brand new markets."
+      "title": "Slow-cooker turkey meatballs and gravy",
+      "link": "https://www.masslive.com/nytcooking/2026/11/793138315-slow-cooker-turkey-meatballs-and-gravy.html",
+      "published": "2026-11-02T19:42:53+00:00",
+      "summary": "These slow-cooker turkey meatballs with gravy offer a convenient and flavorful alternative to traditional Thanksgiving turkey, perfect for serving with mashed potatoes and cranberries."
     },
     {
-      "id": "e5867d51e66a",
+      "id": "18a52b039a12",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "U.S. economy could lose $1B as gamers plan to rob liquor stores, steal cars",
-      "link": "https://www.masslive.com/news/2026/11/us-economy-could-lose-1b-as-gamers-plan-to-rob-liquor-stores-steal-cars.html",
-      "published": "2026-11-02T17:27:19+00:00",
-      "summary": "Two of the biggest game franchises of all time — \"World of Warcraft\" and \"Grand Theft Auto\" — are getting new releases this month."
+      "title": "YETI’s new Dusk collection is the soft, understated color drop you didn’t know you needed",
+      "link": "https://www.masslive.com/shopping-deals/2026/11/yetis-new-dusk-collection-is-the-soft-understated-color-drop-you-didnt-know-you-needed.html",
+      "published": "2026-11-02T19:42:51+00:00",
+      "summary": "YETI has launched Dusk, a muted purple colorway available on select bags and backpacks, offered for a limited time on YETI's official website."
     },
     {
-      "id": "b54b9a3e1255",
+      "id": "2fd60dedaf79",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Lindsay Clancy must wait 2 weeks to learn whether she’ll face a second murder trial",
-      "link": "https://www.masslive.com/news/2026/11/will-lindsay-clancy-be-retried-on-murder-charges-judge-weighs-defense-challenge.html",
-      "published": "2026-11-02T17:23:29+00:00",
-      "summary": "Will Lindsay Clancy face a second murder trial? A judge is considering her attorneys’ argument that trying her again would violate double jeopardy, with a decision expected Nov. 16."
+      "title": "Cranberry walnut cheese ball",
+      "link": "https://www.masslive.com/nytcooking/2026/11/793137938-cranberry-walnut-cheese-ball.html",
+      "published": "2026-11-02T19:42:51+00:00",
+      "summary": "This make-ahead cranberry walnut cheese ball combines sharp Cheddar, scallions, and Worcestershire sauce for a flavorful party appetizer, perfect with crackers, chips, or crudités."
     },
     {
-      "id": "594df43053ca",
+      "id": "75c3be93d9c4",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Packers Super Bowl champion dies following illness",
-      "link": "https://www.masslive.com/sports/2026/11/packers-super-bowl-champion-dies-following-illness.html",
-      "published": "2026-11-02T17:20:43+00:00",
-      "summary": "He was one of 39 Green Bay Packers players to appear in the first Super Bowl."
+      "title": "Balsamic-roasted strawberries and cream",
+      "link": "https://www.masslive.com/nytcooking/2026/11/793136624-balsamic-roasted-strawberries-and-cream.html",
+      "published": "2026-11-02T19:42:44+00:00",
+      "summary": "Indulge in this luscious dessert where balsamic-roasted strawberries are enveloped in whipped cream and topped with crunchy hazelnuts, creating a delightful balance of sweet, tart, and creamy flavors."
     },
     {
-      "id": "5d19cd451d41",
+      "id": "bf63ab66ae0f",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "6 MBTA workers hurt in maintenance vehicle crash in Norwood",
-      "link": "https://www.masslive.com/news/2026/11/6-mbta-workers-injured-after-maintenance-vehicles-collide-in-norwood.html",
-      "published": "2026-11-02T17:16:39+00:00",
-      "summary": "Two MBTA maintenance vehicles collided on Commuter Rail tracks in Norwood Monday morning, sending six workers to local hospitals."
+      "title": "Here's why the 2026 MIAA football state championships are leaving Gillette",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/miaa-super-bowls-moving-away-from-gillette-for-revolution-and-patriots.html",
+      "published": "2026-11-02T19:38:08+00:00",
+      "summary": "Logistical complications with the professional sports tenants are requiring the MIAA to move it's football state championships away from Gillette Stadium."
     },
     {
-      "id": "21eabb88ce83",
+      "id": "62064425f891",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Her ambulance was headed to Cleveland Clinic. Then the driver called an Uber",
-      "link": "https://www.masslive.com/news/2026/11/lost-on-the-way-to-cleveland-clinic-an-ambulance-driver-reportedly-made-a-surprising-call.html",
-      "published": "2026-11-02T17:02:06+00:00",
-      "summary": "A private ambulance driver got lost taking a Cleveland woman with chest pain to Cleveland Clinic, then reportedly called an Uber home. Here’s what happened."
+      "title": "Girl, 8, attacked by wolf during kids' event at zoo",
+      "link": "https://www.masslive.com/news/2026/11/girl-8-attacked-by-wolf-during-kids-event-at-zoo.html",
+      "published": "2026-11-02T19:31:55+00:00",
+      "summary": "The zoo is closed until further notice as an investigation takes place."
     },
     {
-      "id": "e201b9abbc7e",
+      "id": "7df8fa3475c9",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Starbucks outranks Dunkin’ on top 10 list of best coffee chains nationwide",
-      "link": "https://www.masslive.com/entertainment/2026/11/where-does-dunkin-rank-among-the-best-coffee-chains-in-the-us.html",
-      "published": "2026-11-02T16:57:07+00:00",
-      "summary": "While both Dunkin' and Starbucks made the list, another chain secured the top spot."
+      "title": "Actress breaks silence after alleged violent episode on airplane: ‘I am so sorry’",
+      "link": "https://www.masslive.com/entertainment/2026/11/actress-breaks-silence-after-alleged-violent-episode-on-airplane-i-am-so-sorry.html",
+      "published": "2026-11-02T19:21:56+00:00",
+      "summary": "A popular actress is facing assault charges after an Oct. 11 incident aboard a Delta flight"
     },
     {
-      "id": "fed44b5c8bb7",
+      "id": "7ee1994e52a1",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Mass. ranks well for jobs, but one New England state ranks much higher",
-      "link": "https://www.masslive.com/news/2026/11/mass-ranks-among-best-states-for-jobs-but-not-no-1-in-new-england.html",
-      "published": "2026-11-02T16:52:19+00:00",
-      "summary": "Massachusetts fared well nationally, but another New England state proved to be a stronger place for people looking for work."
+      "title": "Paul George downgraded on Celtics injury report for Rockets game",
+      "link": "https://www.masslive.com/celtics/2026/11/paul-george-downgraded-on-celtics-injury-report-for-rockets-game.html",
+      "published": "2026-11-02T19:13:35+00:00",
+      "summary": "The Celtics will be shorthanded when they face the 6-1 Rockets on Monday, though that was expected."
     },
     {
-      "id": "bd60d456277d",
+      "id": "65ae114ac2db",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Reddit is buzzing about Chick-fil-A's returning soup: 'It just made my day'",
-      "link": "https://www.masslive.com/food/2026/11/the-chick-fil-a-menu-item-fans-say-theyd-choose-over-fries-every-single-time-is-back.html",
-      "published": "2026-11-02T16:52:17+00:00",
-      "summary": "The seasonal soup returns to select locations nationwide through March 2027, alongside the chain's first new permanent sauce in nearly a decade."
+      "title": "Barbra Streisand mourns heartbreaking loss",
+      "link": "https://www.masslive.com/entertainment/2026/11/hollywood-icon-84-mourns-devastating-loss-he-can-never-be-replaced.html",
+      "published": "2026-11-02T19:07:48+00:00",
+      "summary": "Barbra Streisand is mourning the death of Marty Erlichman, her longtime manager and friend of more than 60 years, who died at 97."
     },
     {
-      "id": "706ae23cecc4",
+      "id": "cd8c7d412b03",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "MIAA Football Super Bowls seeking new venue after Gillette 'no longer an option'",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/gillette-stadium-no-longer-hosting-miaa-football-state-championships.html",
-      "published": "2026-11-02T16:52:02+00:00",
-      "summary": "Championship games had been played at the home of the New England Patriots since 2007."
+      "title": "When will Medicare Part B increases be announced? 2027 predictions and what to expect",
+      "link": "https://www.masslive.com/news/2026/11/when-will-medicare-part-b-increases-be-announced-2027-predictions-and-what-to-expect.html",
+      "published": "2026-11-02T19:05:27+00:00",
+      "summary": "Medicare Part B increases will be announced any day now. Here's what enrollees can expect."
     },
     {
-      "id": "39f82dcb8f76",
+      "id": "f4a420c7036e",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Feds at Mass. polls Tuesday? 'They can observe,' Galvin says",
-      "link": "https://www.masslive.com/politics/2026/11/mass-elections-chief-is-concerned-but-not-terribly-worried-about-federal-interference.html",
-      "published": "2026-11-02T16:48:08+00:00",
-      "summary": "Federal observers will be at polling places in Boston and Lowell on Tuesday. Bill Galvin says that's fine. What he's \"almost as concerned\" about are the self-appointed poll watchers."
+      "title": "Dunkin’ giving 3 beloved cereal brands a coffee shop makeover",
+      "link": "https://www.masslive.com/food/2026/11/dunkin-giving-3-beloved-cereal-brands-a-coffee-shop-makeover.html",
+      "published": "2026-11-02T19:05:01+00:00",
+      "summary": "Cinnamon Toast Crunch, Reese's Puffs, and Golden Grahams are getting a coffee shop makeover with Cinnamon Caramel Latte, Peanut Butter Mocha, and Vanilla Graham Latte flavors."
     },
     {
-      "id": "ed07f3734f7c",
+      "id": "e8429c027bd2",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Developer eyes Worcester Mill Street site for 7-building complex with 255 apartments",
-      "link": "https://www.masslive.com/centralmass/2026/11/developer-proposes-more-than-200-apartments-near-worcesters-coes-pond.html",
-      "published": "2026-11-02T16:47:53+00:00",
-      "summary": "Worcester Mill LLC proposes a 255-unit apartment complex near Coes Pond, subject to the city's inclusionary zoning ordinance as Worcester works to meet its 12,000-unit housing goal by 2033."
+      "title": "Olympian dies at 34 after cancer battle",
+      "link": "https://www.masslive.com/entertainment/2026/11/olympian-dies-at-34-after-cancer-battle.html",
+      "published": "2026-11-02T19:04:11+00:00",
+      "summary": "She announced her cancer diagnosis in July 2025 and later revealed she had stage 4 bowel cancer."
     },
     {
-      "id": "b0f39a59885b",
+      "id": "17be538e6f51",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Popular Mass. platform used by 200K restaurants to take orders hit with lawsuit",
-      "link": "https://www.masslive.com/boston/2026/11/popular-mass-platform-used-by-200k-restaurants-to-take-orders-hit-with-lawsuit.html",
-      "published": "2026-11-02T16:39:39+00:00",
-      "summary": "Hidden charges, unwanted add-ons and costly cancellations are at the center of a new federal case against the Mass. company."
+      "title": "Police investigate bomb threat against Massachusetts middle school Monday afternoon",
+      "link": "https://www.masslive.com/news/2026/11/police-investigate-threat-involving-medway-middle-school-monday-afternoon.html",
+      "published": "2026-11-02T19:02:07+00:00",
+      "summary": "Medway police investigated a bomb threat against Medway Middle School Monday afternoon and determined that the threat was a hoax."
     },
     {
-      "id": "4176b9145f8e",
+      "id": "8e484f44d41e",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "He said sorry to the FBI. Prosecutors say the threats kept coming",
-      "link": "https://www.masslive.com/news/2026/11/he-apologized-to-the-fbi-for-a-threat-against-kash-patel-prosecutors-say-it-didnt-end-there.html",
-      "published": "2026-11-02T16:33:19+00:00",
-      "summary": "A Chesterfield Township man is charged with threatening to kill FBI Director Kash Patel in Facebook messages. Here’s what prosecutors say happened next."
+      "title": "Whatever happens on Election Day, we still have to live together | Daniel Aaron Cohen",
+      "link": "https://www.masslive.com/opinion/2026/11/whatever-happens-on-election-day-we-still-have-to-live-together-daniel-aaron-cohen.html",
+      "published": "2026-11-02T18:49:21+00:00",
+      "summary": "Though fear is here to stay, let’s work to minimize it in our interactions with our fellow Americans."
     },
     {
-      "id": "4b46db6e789d",
+      "id": "7986434ac8df",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Popular coffee chain launches first-ever food menu",
-      "link": "https://www.masslive.com/food/2026/11/popular-coffee-chain-launches-first-ever-food-menu.html",
-      "published": "2026-11-02T16:28:22+00:00",
-      "summary": "7 Brew introduced its first-ever food menu with five bakery items that pair perfectly with its signature beverages."
+      "title": "Group pauses push to make Worcester anti-abortion advocate a saint: 'The matter rests in God's hands'",
+      "link": "https://www.masslive.com/centralmass/2026/11/group-suspends-petition-for-sainthood-of-worcester-anti-abortion-advocate.html",
+      "published": "2026-11-02T18:42:10+00:00",
+      "summary": "The Ruth V.K. Pakaluk Foundation has suspended its petition to have the Worcester anti-abortion advocate and mother canonized as a Catholic saint."
     },
     {
-      "id": "6f9a7034d31d",
+      "id": "8d6b7aa105b1",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Sweeps slots: 4 new titles players are opening as November starts",
-      "link": "https://www.masslive.com/sweepstakes/2026/11/sweeps-slots-4-new-titles-players-are-opening-as-november-starts.html",
-      "published": "2026-11-02T16:26:00+00:00",
-      "summary": "Check out these four sweeps slots worth trying this November, compare their RTPs and bonus features, and find sweepstakes casinos offering popular games."
+      "title": "Fans praying for ESPN star Michael Wilbon following major announcement",
+      "link": "https://www.masslive.com/sports/2026/11/fans-praying-for-espn-star-michael-wilbon-following-major-announcement.html",
+      "published": "2026-11-02T18:34:23+00:00",
+      "summary": "ESPN Chairman Jimmy Pitaro said the network is \"here for Michael every step of the way.\""
     },
     {
-      "id": "bec6f5e8cf3d",
+      "id": "33bac9e64ad3",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Election Day forecast: Will weather disrupt voting plans?",
-      "link": "https://www.masslive.com/news/2026/11/election-day-forecast-could-weather-could-disrupt-voting-plans.html",
-      "published": "2026-11-02T16:24:28+00:00",
-      "summary": "There are some areas of the country that will see weather that could make it tough to vote."
+      "title": "Boston calls for winter coat donations to help residents experiencing homelessness",
+      "link": "https://www.masslive.com/boston/2026/11/boston-launches-winter-coat-drive-for-residents-experiencing-homelessness.html",
+      "published": "2026-11-02T18:34:18+00:00",
+      "summary": "The annual drive collects hundreds of new coats each year, with donations helping people stay warm during Boston’s coldest months."
     },
     {
-      "id": "b84d95d1ce5d",
+      "id": "3703c52a17b7",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Jessica Lange discusses possible retirement after 50-year career",
-      "link": "https://www.masslive.com/entertainment/2026/11/beloved-actress-77-says-acting-career-is-coming-to-an-end.html",
-      "published": "2026-11-02T16:18:52+00:00",
-      "summary": "Jessica Lange, 77, says she feels her acting career may be nearing its end after more than 50 years in Hollywood."
+      "title": "Western Mass. teen identified as victim in fatal I-91 car crash",
+      "link": "https://www.masslive.com/westernmass/2026/11/authorities-identify-teen-killed-in-crash-on-i-91-in-whately.html",
+      "published": "2026-11-02T18:33:09+00:00",
+      "summary": "A Westfield 18-year-old died after his vehicle struck a concrete bridge pillar on I-91 in Whately Thursday afternoon."
     },
     {
-      "id": "80b253c184df",
+      "id": "1698f26dd38e",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Experts release Celtics vs. Rockets prediction as Tatum and Durant headline latest player props",
-      "link": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-rockets-prediction-as-tatum-and-durant-headline-latest-player-props.html",
-      "published": "2026-11-02T16:15:00+00:00",
-      "summary": "The Celtics travel to the Toyota Center to take on the Houston Rockets on Monday. Compare Polymarket odds, spread lines, and score projections before tip off."
+      "title": "Here's where the MIAA should host the football state championships",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/heres-where-the-miaa-should-host-the-football-state-championships.html",
+      "published": "2026-11-02T18:30:00+00:00",
+      "summary": "After almost 20 years, football state championships will no longer be played at Gillette Stadium. Here are some potential alternatives for a new venue."
     },
     {
-      "id": "50d84f97c8cf",
+      "id": "09c455d6f4ee",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "See which 10 teams have the longest drives in the MIAA football playoffs",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/10-longest-road-trips-in-the-first-round-of-the-miaa-football-playoffs.html",
-      "published": "2026-11-02T16:14:56+00:00",
-      "summary": "The advent of the statewide tournament in Massachusetts means some teams will spend serious time on a bus to play in the playoffs. We found the 10 teams with the furthest trips."
+      "title": "Shoppers warned about cinnamon sold in 14 states, including Mass.",
+      "link": "https://www.masslive.com/news/2026/11/cinnamon-sold-in-14-states-including-mass-recalled-over-lead.html",
+      "published": "2026-11-02T18:29:29+00:00",
+      "summary": "Shoppers are being urged to check their spice cabinets and throw out or return the affected product because of potential health risks."
     },
     {
-      "id": "5715b1f8e476",
+      "id": "d3f4722567b9",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Should you say “please” to a chatbot? One company thinks so",
-      "link": "https://www.masslive.com/news/2026/11/being-rude-to-this-ai-chatbot-could-get-you-banned-heres-the-surprising-reason-why.html",
-      "published": "2026-11-02T16:12:26+00:00",
-      "summary": "Anthropic’s new Claude AI policy bans sustained, needless cruelty toward its chatbot starting Nov. 12. Here’s what’s allowed, what’s not and why experts say tone matters."
+      "title": "Swag Golf and Taco Bell are now a thing, and the gear is exactly what you'd expect",
+      "link": "https://www.masslive.com/food/2026/11/you-can-now-bring-your-love-of-taco-bell-onto-the-golf-course-heres-how.html",
+      "published": "2026-11-02T18:26:46+00:00",
+      "summary": "The brand's playful identity — built on skulls, pop-culture designs and irreverent accessories — has landed it at the highest levels of professional golf."
     },
     {
-      "id": "fa35f534af53",
+      "id": "0cb052efa25d",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Legendary Hollywood director, 83, accidentally shoots himself",
-      "link": "https://www.masslive.com/entertainment/2026/11/legendary-hollywood-director-83-accidentally-shoots-himself.html",
-      "published": "2026-11-02T16:02:00+00:00",
-      "summary": "Michael Mann, the 83-year-old director of “Heat” and “Collateral,” was hospitalized after accidentally shooting himself in the leg at a Los Angeles gun range."
+      "title": "Trump threatens these 2 presidential powers if midterms are disastrous",
+      "link": "https://www.masslive.com/politics/2026/11/trump-threatens-these-2-presidential-powers-if-midterms-are-disastrous.html",
+      "published": "2026-11-02T18:22:00+00:00",
+      "summary": "The president outlined his fallback strategy — but said he believes \"we’re going to do great.\""
     },
     {
       "id": "c0b0ac944847",
