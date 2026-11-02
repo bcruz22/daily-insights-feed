@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:08:33+00:00",
+  "generated_at": "2026-11-02T06:11:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -237,6 +237,16 @@
       "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight."
     },
     {
+      "id": "c22e5e7d6e81",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Jackery made its portable power stations even smaller",
+      "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4…"
+    },
+    {
       "id": "3604bfbf152b",
       "source": "The Verge",
       "source_id": "verge",
@@ -327,14 +337,14 @@
       "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art…"
     },
     {
-      "id": "8853d414a301",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Keyboards of The Verge",
-      "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "published": "2026-10-31T19:30:00+00:00",
-      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards…"
+      "id": "c35e5e83c573",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Messi delivers game-winner as Inter Miami edges Revolution in front of 54,112 fans",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/lionel-messis-late-goal-lifts-inter-miami-past-revolution-at-gillette-stadium.html",
+      "published": "2026-11-02T04:24:08+00:00",
+      "summary": "Lionel Messi scored the game-winning goal in the 83rd minute as Inter Miami rallied past the New England Revolution in front of a season-high crowd of 54,112 at Gillette Stadium."
     },
     {
       "id": "9f9eeafbc3a8",
@@ -625,16 +635,6 @@
       "link": "https://www.masslive.com/sports/2026/11/power-4-school-fires-coach-amid-3-5-football-season-on-hook-for-47-million-buyout.html",
       "published": "2026-11-01T21:10:35+00:00",
       "summary": "The director of scouting will serve as the interim."
-    },
-    {
-      "id": "c6a96b8effa6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Garrett Whitlock's $8.25M option an easy call for Red Sox",
-      "link": "https://www.masslive.com/redsox/2026/11/red-sox-make-easy-825-million-call-on-key-reliever-bring-him-back-for-2027.html",
-      "published": "2026-11-01T20:46:04+00:00",
-      "summary": "One of the Red Sox’ first moves of the offseason became official Sunday afternoon — and it was something of a no-brainer."
     },
     {
       "id": "1d293ae9cead",
