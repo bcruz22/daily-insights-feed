@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T20:11:58+00:00",
+  "generated_at": "2026-11-02T22:09:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 15,
+      "count": 14,
       "errors": []
     },
     "verge": {
@@ -46,6 +46,36 @@
     }
   },
   "items": [
+    {
+      "id": "f329f77c5b55",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "published": "2026-11-02T21:21:43+00:00",
+      "summary": "The threat is still considered to be low, but the virus continues to spread."
+    },
+    {
+      "id": "65e0f2251cb4",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+      "published": "2026-11-02T19:52:23+00:00",
+      "summary": "\"The flow of time is always cruel.\""
+    },
+    {
+      "id": "3cf3bf32d794",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Most of our measures of a key cognitive process don't agree",
+      "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+      "published": "2026-11-02T19:13:26+00:00",
+      "summary": "A big study with very little beyond negative results still gets published."
+    },
     {
       "id": "95189256059f",
       "source": "Ars Technica",
@@ -157,44 +187,34 @@
       "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\""
     },
     {
-      "id": "df26d5473c41",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "b1dffed82969",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "published": "2026-10-30T21:41:54+00:00",
-      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer."
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "published": "2026-11-02T22:02:36+00:00",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, marking a 17 percent jump from the same time last year. The…"
     },
     {
-      "id": "ce0cce9f3bc5",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "b47c84055461",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "published": "2026-10-30T21:09:54+00:00",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "published": "2026-11-02T21:04:20+00:00",
+      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of […]"
     },
     {
-      "id": "65d255a74525",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "6e1e33600ad3",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-      "published": "2026-10-30T20:40:13+00:00",
-      "summary": "People who love AI don't always love telling others they used it."
-    },
-    {
-      "id": "a222d0a212be",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-      "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
-      "published": "2026-10-30T20:17:50+00:00",
-      "summary": "Faked symptoms still point to infections that antibiotics don't treat."
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "published": "2026-11-02T20:37:49+00:00",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been…"
     },
     {
       "id": "3d15f21ee05a",
@@ -267,34 +287,144 @@
       "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News,…"
     },
     {
-      "id": "9233f8bfd339",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-      "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-      "published": "2026-11-02T17:06:10+00:00",
-      "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been finished for around two years,\" but that the software isn't ready. The device's software team has…"
+      "id": "bb7aa00690f2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "This Le Creuset Dutch oven is made for Thanksgiving — and right now it’s on sale with a free gift",
+      "link": "https://www.masslive.com/shopping-deals/2026/11/this-le-creuset-dutch-oven-is-made-for-thanksgiving-and-right-now-its-on-sale-with-a-free-gift.html",
+      "published": "2026-11-02T21:59:01+00:00",
+      "summary": "Le Creuset's 6.5-qt. Round Deep Oven is $289.99, saving $170, and includes free soup bowls with code SOUPSEASON."
     },
     {
-      "id": "2d1a7e8ef61f",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Squarespace is laying off 19 percent of employees",
-      "link": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
-      "published": "2026-11-02T16:50:47+00:00",
-      "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts will affect around 300 of Squarespace's 1,800 employees. \"The changes are intended to…"
+      "id": "c3d6cc06fca2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Marlborough middle schooler unresponsive after being injured during recess",
+      "link": "https://www.masslive.com/centralmass/2026/11/marlborough-middle-schooler-unresponsive-after-being-injured-during-recess.html",
+      "published": "2026-11-02T21:39:35+00:00",
+      "summary": "A Marlborough sixth grader was airlifted to a hospital on Monday after becoming unresponsive during recess at Whitcomb Middle School."
     },
     {
-      "id": "0adae2bf5ad8",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Why Peacock is making a huge bet on YouTube",
-      "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
-      "published": "2026-11-02T16:00:00+00:00",
-      "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait.…"
+      "id": "a03473b62cd5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bill Belichick reacts to reported Jordon Hudson breakup",
+      "link": "https://www.masslive.com/sports/2026/11/bill-belichick-responds-to-question-about-reported-jordon-hudson-breakup.html",
+      "published": "2026-11-02T21:37:38+00:00",
+      "summary": "The Tar Heels coach responded pretty much like you would figure."
+    },
+    {
+      "id": "b80ef4345a7f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Executive producer of popular talk show dead at 52 after ‘unfathomable tragedy’",
+      "link": "https://www.masslive.com/entertainment/2026/11/executive-producer-of-popular-talk-show-dead-at-52-after-unfathomable-tragedy.html",
+      "published": "2026-11-02T21:28:35+00:00",
+      "summary": "“He was an amazing guy. He was funny. God, he made me laugh,” DeGeneres said."
+    },
+    {
+      "id": "9b0d0d341c39",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Gun fired twice, occupants flee West Springfield hotel room, police say",
+      "link": "https://www.masslive.com/westernmass/2026/11/gun-fired-twice-occupants-flee-west-springfield-hotel-room-police-say.html",
+      "published": "2026-11-02T21:24:34+00:00",
+      "summary": "Police said several people fled the scene before their vehicle was later found abandoned in Springfield."
+    },
+    {
+      "id": "5f3e411eb116",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Big Ten coach: Daughter, 13 verbally accosted after loss",
+      "link": "https://www.masslive.com/sports/2026/11/big-ten-coach-daughter-13-verbally-accosted-10-year-old-implores-him-not-to-quit.html",
+      "published": "2026-11-02T21:12:57+00:00",
+      "summary": "His younger daughter has given him a reason to double down."
+    },
+    {
+      "id": "18a441a94d28",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "MassMutual announces record $3.3B policyowner dividend for 2027",
+      "link": "https://www.masslive.com/westernmass/2026/11/massmutual-announces-record-33b-policyowner-dividend-for-2027.html",
+      "published": "2026-11-02T21:09:19+00:00",
+      "summary": "The number surpassed $3 billion for the first time in company history."
+    },
+    {
+      "id": "91380901a833",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump would ‘love’ this Democrat to join the Republican Party",
+      "link": "https://www.masslive.com/politics/2026/11/trump-would-love-this-democrat-to-join-the-republican-party.html",
+      "published": "2026-11-02T21:02:00+00:00",
+      "summary": "The president praised the congresswoman after she endorsed a Republican over her party's candidate."
+    },
+    {
+      "id": "7c38e8d87758",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield’s Forest Park completes fundraising to bring back train",
+      "link": "https://www.masslive.com/westernmass/2026/11/springfields-forest-park-completes-fundraising-to-bring-back-train.html",
+      "published": "2026-11-02T20:56:29+00:00",
+      "summary": "The city raised $85,000 for the train."
+    },
+    {
+      "id": "bcc12124521e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Why is ‘Dancing With the Stars’ on Monday this week?",
+      "link": "https://www.masslive.com/entertainment/2026/11/why-is-dancing-with-the-stars-on-monday-this-week.html",
+      "published": "2026-11-02T20:54:07+00:00",
+      "summary": "'Dancing With the Stars' is getting a schedule shakeup this week"
+    },
+    {
+      "id": "fc42f4c5a804",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Baystate celebrates takeover of Mercy Medical Center, looks to bring in more patients",
+      "link": "https://www.masslive.com/westernmass/2026/11/baystate-celebrates-takeover-of-mercy-medical-center-looks-to-bring-in-more-patients.html",
+      "published": "2026-11-02T20:52:06+00:00",
+      "summary": "Mercy’s emergency room is not being used to its fullest, Baystate President and CEO Peter Banko said at a ceremony conducted at the new Baystate Mercy on Carew Street. He predicted that it would get back to 80,000 visits annually."
+    },
+    {
+      "id": "e1ea5eef0a05",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patient dies after stealing ambulance in Worcester, crashing it in West Boylston",
+      "link": "https://www.masslive.com/centralmass/2026/11/patient-dies-after-stealing-ambulance-in-worcester-and-crashing-it-in-west-boylston.html",
+      "published": "2026-11-02T20:51:57+00:00",
+      "summary": "A patient who stole a Coastal Medical Transport Systems ambulance in Worcester and crashed it in West Boylston has died from their injuries."
+    },
+    {
+      "id": "78ab7600c958",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield officer injured, suspect taken into custody in Liberty Heights incident",
+      "link": "https://www.masslive.com/westernmass/2026/11/springfield-officer-injured-suspect-taken-into-custody-in-liberty-heights-incident.html",
+      "published": "2026-11-02T20:33:29+00:00",
+      "summary": "The officer was not injured by gunfire."
+    },
+    {
+      "id": "a794ae8d189d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump claims he would solve Vietnam War in a week. But there’s one problem.",
+      "link": "https://www.masslive.com/politics/2026/11/trump-claims-he-would-solve-vietnam-war-in-a-week-but-theres-one-problem.html",
+      "published": "2026-11-02T20:22:49+00:00",
+      "summary": "President Donald Trump claimed on Sunday he would have won the Vietnam War in one week if he had been president."
     },
     {
       "id": "9f9864075476",
@@ -455,146 +585,6 @@
       "link": "https://www.masslive.com/celtics/2026/11/paul-george-downgraded-on-celtics-injury-report-for-rockets-game.html",
       "published": "2026-11-02T19:13:35+00:00",
       "summary": "The Celtics will be shorthanded when they face the 6-1 Rockets on Monday, though that was expected."
-    },
-    {
-      "id": "65ae114ac2db",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Barbra Streisand mourns heartbreaking loss",
-      "link": "https://www.masslive.com/entertainment/2026/11/hollywood-icon-84-mourns-devastating-loss-he-can-never-be-replaced.html",
-      "published": "2026-11-02T19:07:48+00:00",
-      "summary": "Barbra Streisand is mourning the death of Marty Erlichman, her longtime manager and friend of more than 60 years, who died at 97."
-    },
-    {
-      "id": "cd8c7d412b03",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "When will Medicare Part B increases be announced? 2027 predictions and what to expect",
-      "link": "https://www.masslive.com/news/2026/11/when-will-medicare-part-b-increases-be-announced-2027-predictions-and-what-to-expect.html",
-      "published": "2026-11-02T19:05:27+00:00",
-      "summary": "Medicare Part B increases will be announced any day now. Here's what enrollees can expect."
-    },
-    {
-      "id": "f4a420c7036e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dunkin’ giving 3 beloved cereal brands a coffee shop makeover",
-      "link": "https://www.masslive.com/food/2026/11/dunkin-giving-3-beloved-cereal-brands-a-coffee-shop-makeover.html",
-      "published": "2026-11-02T19:05:01+00:00",
-      "summary": "Cinnamon Toast Crunch, Reese's Puffs, and Golden Grahams are getting a coffee shop makeover with Cinnamon Caramel Latte, Peanut Butter Mocha, and Vanilla Graham Latte flavors."
-    },
-    {
-      "id": "e8429c027bd2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Olympian dies at 34 after cancer battle",
-      "link": "https://www.masslive.com/entertainment/2026/11/olympian-dies-at-34-after-cancer-battle.html",
-      "published": "2026-11-02T19:04:11+00:00",
-      "summary": "She announced her cancer diagnosis in July 2025 and later revealed she had stage 4 bowel cancer."
-    },
-    {
-      "id": "17be538e6f51",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Police investigate bomb threat against Massachusetts middle school Monday afternoon",
-      "link": "https://www.masslive.com/news/2026/11/police-investigate-threat-involving-medway-middle-school-monday-afternoon.html",
-      "published": "2026-11-02T19:02:07+00:00",
-      "summary": "Medway police investigated a bomb threat against Medway Middle School Monday afternoon and determined that the threat was a hoax."
-    },
-    {
-      "id": "8e484f44d41e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Whatever happens on Election Day, we still have to live together | Daniel Aaron Cohen",
-      "link": "https://www.masslive.com/opinion/2026/11/whatever-happens-on-election-day-we-still-have-to-live-together-daniel-aaron-cohen.html",
-      "published": "2026-11-02T18:49:21+00:00",
-      "summary": "Though fear is here to stay, let’s work to minimize it in our interactions with our fellow Americans."
-    },
-    {
-      "id": "7986434ac8df",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Group pauses push to make Worcester anti-abortion advocate a saint: 'The matter rests in God's hands'",
-      "link": "https://www.masslive.com/centralmass/2026/11/group-suspends-petition-for-sainthood-of-worcester-anti-abortion-advocate.html",
-      "published": "2026-11-02T18:42:10+00:00",
-      "summary": "The Ruth V.K. Pakaluk Foundation has suspended its petition to have the Worcester anti-abortion advocate and mother canonized as a Catholic saint."
-    },
-    {
-      "id": "8d6b7aa105b1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Fans praying for ESPN star Michael Wilbon following major announcement",
-      "link": "https://www.masslive.com/sports/2026/11/fans-praying-for-espn-star-michael-wilbon-following-major-announcement.html",
-      "published": "2026-11-02T18:34:23+00:00",
-      "summary": "ESPN Chairman Jimmy Pitaro said the network is \"here for Michael every step of the way.\""
-    },
-    {
-      "id": "33bac9e64ad3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Boston calls for winter coat donations to help residents experiencing homelessness",
-      "link": "https://www.masslive.com/boston/2026/11/boston-launches-winter-coat-drive-for-residents-experiencing-homelessness.html",
-      "published": "2026-11-02T18:34:18+00:00",
-      "summary": "The annual drive collects hundreds of new coats each year, with donations helping people stay warm during Boston’s coldest months."
-    },
-    {
-      "id": "3703c52a17b7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Western Mass. teen identified as victim in fatal I-91 car crash",
-      "link": "https://www.masslive.com/westernmass/2026/11/authorities-identify-teen-killed-in-crash-on-i-91-in-whately.html",
-      "published": "2026-11-02T18:33:09+00:00",
-      "summary": "A Westfield 18-year-old died after his vehicle struck a concrete bridge pillar on I-91 in Whately Thursday afternoon."
-    },
-    {
-      "id": "1698f26dd38e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Here's where the MIAA should host the football state championships",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/heres-where-the-miaa-should-host-the-football-state-championships.html",
-      "published": "2026-11-02T18:30:00+00:00",
-      "summary": "After almost 20 years, football state championships will no longer be played at Gillette Stadium. Here are some potential alternatives for a new venue."
-    },
-    {
-      "id": "09c455d6f4ee",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Shoppers warned about cinnamon sold in 14 states, including Mass.",
-      "link": "https://www.masslive.com/news/2026/11/cinnamon-sold-in-14-states-including-mass-recalled-over-lead.html",
-      "published": "2026-11-02T18:29:29+00:00",
-      "summary": "Shoppers are being urged to check their spice cabinets and throw out or return the affected product because of potential health risks."
-    },
-    {
-      "id": "d3f4722567b9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Swag Golf and Taco Bell are now a thing, and the gear is exactly what you'd expect",
-      "link": "https://www.masslive.com/food/2026/11/you-can-now-bring-your-love-of-taco-bell-onto-the-golf-course-heres-how.html",
-      "published": "2026-11-02T18:26:46+00:00",
-      "summary": "The brand's playful identity — built on skulls, pop-culture designs and irreverent accessories — has landed it at the highest levels of professional golf."
-    },
-    {
-      "id": "0cb052efa25d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump threatens these 2 presidential powers if midterms are disastrous",
-      "link": "https://www.masslive.com/politics/2026/11/trump-threatens-these-2-presidential-powers-if-midterms-are-disastrous.html",
-      "published": "2026-11-02T18:22:00+00:00",
-      "summary": "The president outlined his fallback strategy — but said he believes \"we’re going to do great.\""
     },
     {
       "id": "c0b0ac944847",
