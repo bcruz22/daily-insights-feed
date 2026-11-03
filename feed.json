@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:10:33+00:00",
+  "generated_at": "2026-11-03T10:07:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -277,6 +277,116 @@
       "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…"
     },
     {
+      "id": "1b9b60fa7448",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Iconic singer, Pa. native with a star on the Hollywood Walk of Fame, dies at 87",
+      "link": "https://www.masslive.com/entertainment/2026/11/iconic-singer-pa-native-with-a-star-on-the-hollywood-walk-of-fame-dies-at-87.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "His group earned four Grammy nominations."
+    },
+    {
+      "id": "2c21bfd5b469",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music singer and actor dies at 84: ‘Leaves behind a beautiful legacy’",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-music-singer-and-actor-dies-at-84-leaves-behind-a-beautiful-legacy.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "He died at home surrounded by family."
+    },
+    {
+      "id": "d743601a2fa9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patriots backup receivers silenced critics in Miami",
+      "link": "https://www.masslive.com/patriots/2026/11/patriots-backup-receivers-silenced-critics-with-dominant-performance-in-miami.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "With A.J. Brown, Romeo Doubs and Mack Hollins all out, three backup receivers stepped up and torched the Dolphins in Sunday's comeback win."
+    },
+    {
+      "id": "320577b56c80",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Iconic rock band postpones tour after singer is hospitalized: ‘Serious risk involved’",
+      "link": "https://www.masslive.com/entertainment/2026/11/iconic-rock-band-postpones-tour-after-singer-is-hospitalized-serious-risk-involved.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "The news comes just days after he suffered a medical emergency."
+    },
+    {
+      "id": "5f6f040a5f15",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Legendary singer, iconic group’s founding member, dead at 87: ‘His spirit will live on’",
+      "link": "https://www.masslive.com/politics/2026/11/legendary-singer-iconic-groups-founding-member-dead-at-87-his-spirit-will-live-on.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "His group shared the news of his death."
+    },
+    {
+      "id": "ddf2261a0583",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Some drivers caught going 100 mph got an unusual choice",
+      "link": "https://www.masslive.com/news/2026/11/some-drivers-now-have-a-gadget-in-their-car-that-wont-let-them-speed.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "Virginia is putting GPS speed limiters in the cars of some reckless drivers. Here’s how the devices work, what’s going wrong and which places could be next."
+    },
+    {
+      "id": "e13daf7d5231",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular rock frontman has stage 3 cancer: ‘Going to be a really tough year’",
+      "link": "https://www.masslive.com/entertainment/2026/11/popular-rock-frontman-has-stage-3-cancer-going-to-be-a-really-tough-year.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "He shared the news in a video on the band's social media pages."
+    },
+    {
+      "id": "0107d319bc81",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mitchell Robinson injury scare, new starters, no excuses (Celtics Notebook)",
+      "link": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-injury-scare-new-starters-no-excuses-celtics-notebook.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "The Celtics lost to the Rockets on Monday, but they didn't pick up any injury concerns coming out of the game."
+    },
+    {
+      "id": "49208e8ba06a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "James Hagens is ahead of schedule in his first full NHL season | Matt Vautour",
+      "link": "https://www.masslive.com/bruins/2026/11/bruins-rookie-james-hagens-rise-to-stardom-is-ahead-of-schedule.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "Coach Marco Sturm says Hagens is exceeding expectations, and the numbers back him up."
+    },
+    {
+      "id": "b475b324e583",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Asking Eric: How do I reconnect with my teen daughter after she witnessed my worst moment?",
+      "link": "https://www.masslive.com/advice/2026/11/asking-eric-how-do-i-reconnect-with-my-teen-daughter-after-she-witnessed-my-worst-moment.html",
+      "published": "2026-11-03T10:00:00+00:00",
+      "summary": "A day hasn’t passed that I don’t think of her. She doesn’t respond to any contact."
+    },
+    {
+      "id": "66e3423dee06",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bruins coach Marco Sturm calls out star's lack of discipline",
+      "link": "https://www.masslive.com/bruins/2026/11/bruins-coach-marco-sturm-calls-out-one-of-his-leaders-for-lack-of-discipline.html",
+      "published": "2026-11-03T09:59:00+00:00",
+      "summary": "Marco Sturm called out Charlie McAvoy's lack of poise in the second period."
+    },
+    {
       "id": "6551ce26b66b",
       "source": "MassLive",
       "source_id": "masslive",
@@ -467,114 +577,34 @@
       "summary": "In a dead-even tie once the race wrapped up, Springfield Central and Pope Francis went to their sixth runner to determine the winner."
     },
     {
-      "id": "6c984b6a7a81",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Red Sox DFA pair of pitchers as offseason roster moves begin",
-      "link": "https://www.masslive.com/redsox/2026/11/red-sox-roster-crunch-leads-to-two-cuts-from-pitching-staff-including-longtime-reliever.html",
-      "published": "2026-11-03T00:15:37+00:00",
-      "summary": "Faced with a deadline to clean up their 40-man roster Monday afternoon, the Red Sox moved on from two high-powered arms by designating them for assignment"
+      "id": "5e74da19f3eb",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
+      "link": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
+      "published": "2026-11-03T09:49:12+00:00",
+      "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on…"
     },
     {
-      "id": "4e47e41b84e7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "NFL Draft analyst reveals his top QB for 2027",
-      "link": "https://www.masslive.com/sports/2026/11/nfl-draft-analyst-reveals-his-top-qb-for-2027.html",
-      "published": "2026-11-03T00:12:47+00:00",
-      "summary": "Todd McShay reveals who the top quarterbacks are for the 2027 NFL Draft."
+      "id": "402458e4dacc",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
+      "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
+      "published": "2026-11-03T09:22:09+00:00",
+      "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek ."
     },
     {
-      "id": "cdddc0efe71d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Investigators recover cockpit section from fatal jet crash off Nantucket",
-      "link": "https://www.masslive.com/news/2026/11/voice-recorder-cockpit-section-recovered-from-the-bermuda-boston-air-ambulance-crash.html",
-      "published": "2026-11-03T00:11:13+00:00",
-      "summary": "Canadian investigators recovered the cockpit voice recorder and partial cockpit of a medical jet that crashed south of Nantucket on Oct. 3, killing all six aboard."
-    },
-    {
-      "id": "ea99af5c65b3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "State trooper relieved of duty after being charged with breaking and entering",
-      "link": "https://www.masslive.com/news/2026/11/mass-state-police-trooper-relieved-of-duty-after-being-charged-with-breaking-and-entering.html",
-      "published": "2026-11-03T00:09:58+00:00",
-      "summary": "Boston police arrested a 37-year-old state trooper on a breaking and entering charge on Sunday."
-    },
-    {
-      "id": "ae7329260fad",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Live Powerball results for 11/02/26: $793 million jackpot is 10th largest in game’s history",
-      "link": "https://www.masslive.com/news/2026/11/live-powerball-results-for-110226-793-million-jackpot-is-10th-largest-in-games-history.html",
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "The cash option for tonight's drawing is worth an estimated $339.9 million."
-    },
-    {
-      "id": "f8d01543d146",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Florida man allegedly murdered his 2 roommates after a fight over ice cream",
-      "link": "https://www.masslive.com/news/2026/11/man-allegedly-murdered-his-2-roommates-after-a-fight-over-ice-cream.html",
-      "published": "2026-11-02T23:47:20+00:00",
-      "summary": "A Florida man shot and killed his two roommates following a dispute over ice cream."
-    },
-    {
-      "id": "857ec55c96dd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Wayfair’s Black Friday pop-up sale ends tonight — here are the can’t-miss deals",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/wayfairs-black-friday-pop-up-sale-ends-tonight-here-are-the-cant-miss-deals.html",
-      "published": "2026-11-02T23:43:26+00:00",
-      "summary": "Wayfair is running a 48-hour Black Friday pop-up sale ending tonight, offering discounts of up to 70% off furniture, décor, and home essentials."
-    },
-    {
-      "id": "5267546d692a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Who pays when state orders switch to sewer at Chicopee mobile home park?",
-      "link": "https://www.masslive.com/westernmass/2026/11/who-pays-when-state-orders-switch-to-sewer-at-chicopee-mobile-home-park.html",
-      "published": "2026-11-02T23:34:40+00:00",
-      "summary": "The Attorney General’s Office argued that depending on how the state Supreme Judicial Court rules, its regulations regarding manufactured housing might be invalidated across two dozen communities that have rent control."
-    },
-    {
-      "id": "f64e0116183e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "American International College nearly drains unrestricted endowment in face of financial challenges",
-      "link": "https://www.masslive.com/westernmass/2026/11/american-international-college-nearly-drains-unrestricted-endowment-in-face-of-financial-challenges.html",
-      "published": "2026-11-02T23:08:28+00:00",
-      "summary": "The Springfield school is confronting significant financial issues and a long-term trend of declining enrollment. It projects $17 million in losses through the fiscal year that ends in June 2028 and it been drawing millions from its endowment."
-    },
-    {
-      "id": "429e19baab89",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Kiffin has message to LSU fans ahead of Alabama game",
-      "link": "https://www.masslive.com/sports/2026/11/lane-kiffins-message-to-lsu-fans-ahead-of-alabama-game-start-drinking-earlier.html",
-      "published": "2026-11-02T22:42:56+00:00",
-      "summary": "The LSU coach wants everyone to do their part Saturday."
-    },
-    {
-      "id": "b934360b4dec",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Family, including 2 young kids, on plane that crashed",
-      "link": "https://www.masslive.com/news/2026/11/family-including-2-young-kids-on-learjet-that-crashed-in-florida-en-route-to-bahamas-quite-a-blow.html",
-      "published": "2026-11-02T22:25:18+00:00",
-      "summary": "The family of the deceased released statement on social media."
+      "id": "0658f100b664",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+      "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+      "published": "2026-11-03T08:49:03+00:00",
+      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek ."
     },
     {
       "id": "f9c39fb133ac",
@@ -645,36 +675,6 @@
       "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
       "published": "2026-11-02T10:27:49+00:00",
       "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek ."
-    },
-    {
-      "id": "ff9c9693b43d",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
-      "link": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
-      "published": "2026-11-02T09:33:15+00:00",
-      "summary": "DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted. The post Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack appeared first on SecurityWeek ."
-    },
-    {
-      "id": "1befc30403b6",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
-      "link": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
-      "published": "2026-11-02T08:40:36+00:00",
-      "summary": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto. The post FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist appeared first on SecurityWeek ."
-    },
-    {
-      "id": "0bc09b42359c",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
-      "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-      "published": "2026-11-02T07:57:49+00:00",
-      "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek ."
     },
     {
       "id": "1516b4343545",
