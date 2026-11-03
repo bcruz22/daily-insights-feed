@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:07:33+00:00",
+  "generated_at": "2026-11-03T08:10:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -577,6 +577,16 @@
       "summary": "The family of the deceased released statement on social media."
     },
     {
+      "id": "f9c39fb133ac",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+      "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+      "published": "2026-11-03T07:43:24+00:00",
+      "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek ."
+    },
+    {
       "id": "c0b0ac944847",
       "source": "SecurityWeek",
       "source_id": "securityweek",
@@ -601,10 +611,10 @@
       "source": "SecurityWeek",
       "source_id": "securityweek",
       "category": "tech",
-      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "title": "Revolve Data Breach Impacts at Least 200,000 People",
       "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
       "published": "2026-11-02T13:35:21+00:00",
-      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek ."
+      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek ."
     },
     {
       "id": "afbf72609830",
@@ -665,16 +675,6 @@
       "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
       "published": "2026-11-02T07:57:49+00:00",
       "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek ."
-    },
-    {
-      "id": "1d293ae9cead",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-      "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-      "published": "2026-11-01T11:15:00+00:00",
-      "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek ."
     },
     {
       "id": "1516b4343545",
