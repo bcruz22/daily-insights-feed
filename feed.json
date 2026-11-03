@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T12:09:53+00:00",
+  "generated_at": "2026-11-03T14:11:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -157,6 +157,56 @@
       "summary": "This DIY e-paper display works in two official ecosystems or on your own server."
     },
     {
+      "id": "5796f7e1c5a5",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Peak Design expands its collection of wireless charging accessories",
+      "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Peak Design, best known for its backpacks and travel bags packed full of useful features, announced it's expanding its collection of chargers and charging accessories with new devices that focus on pairing premium materials with innovative functionality. \"Somewhere along the way, we accepted that…"
+    },
+    {
+      "id": "e2bd95cfef5f",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
+      "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Three years ago, I told you how home 3D printers had evolved for speed, producing parts in minutes that used to take hours or days. Now, the next evolution is here: printers that can swap between materials on the fly, mix different colors to produce nearly the full rainbow, mix soft and hard…"
+    },
+    {
+      "id": "11ec741f890f",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
+      "link": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "The iPad Mini sometimes feels like a trap. It is, in some ways and for some people, the perfect iPad: meaningfully larger than my phone's screen but still small and light enough to use for reading in bed or gaming on the subway. As most of the rest of the iPad line has tilted ever […]"
+    },
+    {
+      "id": "4ab429c7e635",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
+      "link": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with this partnership, but Adobe said it will include \"popular songs\" from \"leading artists,\" and…"
+    },
+    {
+      "id": "079f5a8c8ee2",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+      "link": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
+      "published": "2026-11-03T13:22:38+00:00",
+      "summary": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share…"
+    },
+    {
       "id": "ded31a8bb0b0",
       "source": "The Verge",
       "source_id": "verge",
@@ -207,54 +257,104 @@
       "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of […]"
     },
     {
-      "id": "6e1e33600ad3",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-      "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "published": "2026-11-02T20:37:49+00:00",
-      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been…"
+      "id": "a7d84018d6df",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Is your city or county getting a federal election monitor on Tuesday?",
+      "link": "https://www.masslive.com/politics/2026/11/trump-doj-is-sending-election-monitors-nationwide-is-your-city-or-county-on-the-list.html",
+      "published": "2026-11-03T14:09:57+00:00",
+      "summary": "The Justice Department is deploying roughly 1,000 election monitors and observers across all 50 states on Election Day."
     },
     {
-      "id": "3d15f21ee05a",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-      "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-      "published": "2026-11-02T20:03:52+00:00",
-      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using…"
+      "id": "50789bf0a749",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WATCH: MassLive hosts MIAA football bracket analysis show",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/watch-masslive-hosts-miaa-football-bracket-analysis-show.html",
+      "published": "2026-11-03T14:06:19+00:00",
+      "summary": "This year's bracket analysis show features interviews with student-athletes from Barnstable, Watertown, Cohasset, Tantasqua and Hudson"
     },
     {
-      "id": "3b566659fe8f",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-      "published": "2026-11-02T19:24:09+00:00",
-      "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low…"
+      "id": "19cfb55ecac6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: Is the suggestion crass or a sly way to get more donations?",
+      "link": "https://www.masslive.com/advice/2026/11/miss-manners-is-the-suggestion-crass-or-a-sly-way-to-get-more-donations.html",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "In place of flowers or another traditional funeral offering, my branch of the family would like to start a fund for the children’s future."
     },
     {
-      "id": "8501e7fca783",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Ford promises not to sell your driving habits to data brokers",
-      "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-      "published": "2026-11-02T19:05:46+00:00",
-      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new…"
+      "id": "aa6c825648c7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A Mass. seafood spot left its original home after 88 years — Here's where it is now",
+      "link": "https://www.masslive.com/capecod/2026/11/iconic-cape-cod-seafood-spot-closes-original-location-after-88-years-to-relocate.html",
+      "published": "2026-11-03T13:53:27+00:00",
+      "summary": "Founded in 1938, the eatery has officially closed its Osterville location due to a lease non-renewal."
     },
     {
-      "id": "e3f3f6c0c50f",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "published": "2026-11-02T18:56:02+00:00",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use…"
+      "id": "bfdda3539f75",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bettors are banking against Trump, GOP: See Election Day odds",
+      "link": "https://www.masslive.com/politics/2026/11/bettors-are-banking-against-trump-gop-see-election-day-odds.html",
+      "published": "2026-11-03T13:30:00+00:00",
+      "summary": "Here's what traders are thinking as voters head to the polls."
+    },
+    {
+      "id": "7243799e5c7e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Judge dismisses DOJ lawsuit against Harvard over admissions data",
+      "link": "https://www.masslive.com/boston/2026/11/judge-dismisses-doj-lawsuit-against-harvard-over-admissions-records.html",
+      "published": "2026-11-03T13:23:53+00:00",
+      "summary": "The Justice Department accused Harvard of refusing to comply with a federal investigation."
+    },
+    {
+      "id": "491be5934611",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Iranian fishing boat rescued from hijackers off Somalia",
+      "link": "https://www.masslive.com/news/2026/11/indian-navy-rescues-20-from-iranian-fishing-boat-hijacked-off-somalia.html",
+      "published": "2026-11-03T13:21:41+00:00",
+      "summary": "Three of those who came ashore had minor injuries."
+    },
+    {
+      "id": "a5330e4ea493",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Federal judge dismisses lawsuit against Harvard over federal demand for admissions data",
+      "link": "https://www.masslive.com/education/2026/11/federal-judge-dismisses-lawsuit-against-harvard-over-federal-demand-for-admissions-data.html",
+      "published": "2026-11-03T13:12:44+00:00",
+      "summary": "A federal judge has dismissed a lawsuit against Harvard University over its alleged failure to provide admissions records that the Justice Department demanded to ensure the Ivy League school stopped using affirmative action in admissions."
+    },
+    {
+      "id": "0df7582dc49f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How Dems will reshape Washington if they win power in the midterms",
+      "link": "https://www.masslive.com/politics/2026/11/how-dems-will-reshape-washington-if-they-win-power-in-the-midterms.html",
+      "published": "2026-11-03T13:00:00+00:00",
+      "summary": "The party will challenge Trump, but challenges remain."
+    },
+    {
+      "id": "a309978be00e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Stabbing at Copley Station leaves man hospitalized",
+      "link": "https://www.masslive.com/boston/2026/11/man-stabbed-in-neck-at-busy-boston-mbta-station.html",
+      "published": "2026-11-03T12:35:02+00:00",
+      "summary": "On the westbound platform, officers found a 59-year-old man who had been stabbed in the neck."
     },
     {
       "id": "d99d3dc72264",
@@ -367,36 +467,6 @@
       "summary": "Former Stoughton police officer Matthew Farwell's defense could rest its case as soon as Wednesday."
     },
     {
-      "id": "f3e5a7148f0c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is the stock market open on Election Day 2026?",
-      "link": "https://www.masslive.com/news/2026/11/is-the-stock-market-open-on-election-day-2026.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "Here is what you need to know about the stock market and bond market trading hours for Election Day 2026"
-    },
-    {
-      "id": "42296d4c1e2e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield man pleads guilty to open and gross lewdness",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-man-pleads-guilty-to-open-and-gross-lewdness.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "A Westfield man pleaded guilty Thursday in District Court to open and gross lewdness for exposing himself at the Athenaeum, according to court records."
-    },
-    {
-      "id": "904dae9e650c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Hold on to your Stetsons: The biggest potential upsets of the 2026 midterms",
-      "link": "https://www.masslive.com/politics/2026/11/hold-on-to-your-stetsons-the-biggest-potential-upsets-of-the-2026-midterms.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "Democrats are competitive in eight states that Donald Trump won by double-digits in 2024."
-    },
-    {
       "id": "340fde45b657",
       "source": "MassLive",
       "source_id": "masslive",
@@ -427,14 +497,14 @@
       "summary": "Sweet has founded and played in local bands and orchestras for decades. He has also taught music privately, worked in retail sales and started a business selling horsetail hair for bows."
     },
     {
-      "id": "00a64873bec1",
+      "id": "f3e5a7148f0c",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "A researcher was “totally surprised” by what this sleep study found",
-      "link": "https://www.masslive.com/news/2026/11/people-who-use-marijuana-for-sleep-may-be-missing-something-important.html",
+      "title": "Is the stock market open on Election Day 2026?",
+      "link": "https://www.masslive.com/news/2026/11/is-the-stock-market-open-on-election-day-2026.html",
       "published": "2026-11-03T11:00:01+00:00",
-      "summary": "A 35-year Northwestern study found marijuana users woke up more at night but didn’t notice. Here’s what the sleep trackers showed and what really helps."
+      "summary": "Here is what you need to know about the stock market and bond market trading hours for Election Day 2026"
     },
     {
       "id": "33e7faec46e9",
@@ -447,6 +517,36 @@
       "summary": "Westfield honored DPW Assistant Director Francis Cain at a retirement reception, marking 23 years of service and key achievements including leading the city's PFAS contamination response."
     },
     {
+      "id": "904dae9e650c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hold on to your Stetsons: The biggest potential upsets of the 2026 midterms",
+      "link": "https://www.masslive.com/politics/2026/11/hold-on-to-your-stetsons-the-biggest-potential-upsets-of-the-2026-midterms.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "Democrats are competitive in eight states that Donald Trump won by double-digits in 2024."
+    },
+    {
+      "id": "42296d4c1e2e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield man pleads guilty to open and gross lewdness",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-man-pleads-guilty-to-open-and-gross-lewdness.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "A Westfield man pleaded guilty Thursday in District Court to open and gross lewdness for exposing himself at the Athenaeum, according to court records."
+    },
+    {
+      "id": "00a64873bec1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A researcher was “totally surprised” by what this sleep study found",
+      "link": "https://www.masslive.com/news/2026/11/people-who-use-marijuana-for-sleep-may-be-missing-something-important.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "A 35-year Northwestern study found marijuana users woke up more at night but didn’t notice. Here’s what the sleep trackers showed and what really helps."
+    },
+    {
       "id": "1a28fb936ceb",
       "source": "MassLive",
       "source_id": "masslive",
@@ -457,104 +557,24 @@
       "summary": "The blame falls on the parents who failed to teach them basic good manners."
     },
     {
-      "id": "0bbe0cc0b42c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $5 bet",
-      "link": "https://www.masslive.com/casinos/2026/11/mass-casino-player-wins-jackpot-prize-with-5-bet.html",
-      "published": "2026-11-03T11:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+      "id": "14152597814e",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
+      "link": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
+      "published": "2026-11-03T12:21:49+00:00",
+      "summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek ."
     },
     {
-      "id": "7a9f85598154",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock musician died in spring, singer reveals: ‘It only became known in October’",
-      "link": "https://www.masslive.com/entertainment/2026/11/beloved-rock-musician-died-in-spring-singer-reveals-it-only-became-known-in-october.html",
-      "published": "2026-11-03T11:00:00+00:00",
-      "summary": "A cause of death has not been reported."
-    },
-    {
-      "id": "ef2d2afa66bb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Today’s horoscope: Aquarius - Market a skill into additional income (Nov. 3, 2026)",
-      "link": "https://www.masslive.com/advice/2026/11/todays-horoscope-aquarius-market-a-skill-into-additional-income-nov-3-2026.html",
-      "published": "2026-11-03T11:00:00+00:00",
-      "summary": "Celebrities born on this day: Elizabeth Smart, 39; Gemma Ward, 39; Colin Kaepernick, 39; Dolph Lundgren, 69."
-    },
-    {
-      "id": "2e815f2ec0a9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2026 midterm elections: What to know about Election Day across the U.S.",
-      "link": "https://www.masslive.com/politics/2026/11/election-day-2026-what-to-know-about-the-midterms-polls-and-more.html",
-      "published": "2026-11-03T10:45:00+00:00",
-      "summary": "Democrats are hoping to take back control of Congress in the 2026 midterm elections as President Donald Trump faces widespread disapproval."
-    },
-    {
-      "id": "34cf5b9ecb2b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "See which TV show landed the coveted post-Super Bowl time slot for 2027",
-      "link": "https://www.masslive.com/entertainment/2026/11/see-which-tv-show-landed-the-coveted-post-super-bowl-time-slot-for-2027.html",
-      "published": "2026-11-03T10:35:00+00:00",
-      "summary": "The 2027 Super Bowl lead-out program has been selected"
-    },
-    {
-      "id": "9d425e4f2e40",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "From smash burgers to a Thai curry burger, these are the 30 best places to get a burger in Mass.",
-      "link": "https://www.masslive.com/ne-where/2026/11/the-30-best-burgers-in-massachusetts-ranked.html",
-      "published": "2026-11-03T10:34:00+00:00",
-      "summary": "After months of serious burger research, here are my picks for the top 30 burgers in Massachusetts."
-    },
-    {
-      "id": "6b899780647b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rock legend known for iconic song dies at 76: ‘Rest easy soul brother’",
-      "link": "https://www.masslive.com/entertainment/2026/11/rock-legend-known-for-iconic-song-dies-at-76-rest-easy-soul-brother.html",
-      "published": "2026-11-03T10:30:00+00:00",
-      "summary": "A cause of death was not reported."
-    },
-    {
-      "id": "5f7bfe0dfbfb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Safety or surveillance? Mass. colleges turn to Flock and AI cameras",
-      "link": "https://www.masslive.com/education/2026/11/safety-or-surveillance-colleges-are-turning-to-flock-and-ai-cameras-across-massachusetts.html",
-      "published": "2026-11-03T10:29:00+00:00",
-      "summary": "From community colleges to private universities, the use of AI cameras on campus is sparking debate over privacy, lack of community consultation and fears of misuse against marginalized students."
-    },
-    {
-      "id": "1b9b60fa7448",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Iconic singer, Pa. native with a star on the Hollywood Walk of Fame, dies at 87",
-      "link": "https://www.masslive.com/entertainment/2026/11/iconic-singer-pa-native-with-a-star-on-the-hollywood-walk-of-fame-dies-at-87.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "His group earned four Grammy nominations."
-    },
-    {
-      "id": "5f6f040a5f15",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Legendary singer, iconic group’s founding member, dead at 87: ‘His spirit will live on’",
-      "link": "https://www.masslive.com/politics/2026/11/legendary-singer-iconic-groups-founding-member-dead-at-87-his-spirit-will-live-on.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "His group shared the news of his death."
+      "id": "5c6c31b6a9d3",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Critical Node-RED Flaw Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
+      "published": "2026-11-03T12:10:19+00:00",
+      "summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek ."
     },
     {
       "id": "5e74da19f3eb",
@@ -635,26 +655,6 @@
       "link": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
       "published": "2026-11-02T13:25:11+00:00",
       "summary": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek ."
-    },
-    {
-      "id": "fe787079c468",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
-      "link": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
-      "published": "2026-11-02T11:29:39+00:00",
-      "summary": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek ."
-    },
-    {
-      "id": "2e0eed251125",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-      "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-      "published": "2026-11-02T10:27:49+00:00",
-      "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek ."
     },
     {
       "id": "1516b4343545",
