@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T22:09:58+00:00",
+  "generated_at": "2026-11-03T00:09:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 14,
+      "count": 13,
       "errors": []
     },
     "verge": {
@@ -46,6 +46,26 @@
     }
   },
   "items": [
+    {
+      "id": "0dfcca5dfebc",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "published": "2026-11-02T23:30:16+00:00",
+      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open."
+    },
+    {
+      "id": "187838088a8f",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Why large dogs age faster than small ones, and other October research highlights",
+      "link": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+      "published": "2026-11-02T22:54:35+00:00",
+      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more."
+    },
     {
       "id": "f329f77c5b55",
       "source": "Ars Technica",
@@ -157,34 +177,14 @@
       "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?"
     },
     {
-      "id": "e7a0d7ebfffd",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "e2a2fb1dcb69",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-      "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "published": "2026-10-31T00:07:22+00:00",
-      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere."
-    },
-    {
-      "id": "b1311b7a9510",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-      "published": "2026-10-30T22:36:41+00:00",
-      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June."
-    },
-    {
-      "id": "df4feec8b4d8",
-      "source": "Ars Technica",
-      "source_id": "ars",
-      "category": "tech",
-      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-      "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-      "published": "2026-10-30T22:21:05+00:00",
-      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\""
+      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+      "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "published": "2026-11-02T22:56:11+00:00",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand…"
     },
     {
       "id": "b1dffed82969",
@@ -194,7 +194,7 @@
       "title": "Apple set an iPhone sales record even without a new standard iPhone",
       "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
       "published": "2026-11-02T22:02:36+00:00",
-      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, marking a 17 percent jump from the same time last year. The…"
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in…"
     },
     {
       "id": "b47c84055461",
@@ -254,7 +254,7 @@
       "title": "Anthropic clamps down on Claude’s AI video game clones",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
       "published": "2026-11-02T18:56:02+00:00",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use…"
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use…"
     },
     {
       "id": "4c6a95aaf3dc",
@@ -277,14 +277,94 @@
       "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…"
     },
     {
-      "id": "dc6c7ef2ed74",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "published": "2026-11-02T17:51:19+00:00",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News,…"
+      "id": "ae7329260fad",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Live Powerball results for 11/02/26: $793 million jackpot is 10th largest in game’s history",
+      "link": "https://www.masslive.com/news/2026/11/live-powerball-results-for-110226-793-million-jackpot-is-10th-largest-in-games-history.html",
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "The cash option for tonight's drawing is worth an estimated $339.9 million."
+    },
+    {
+      "id": "f8d01543d146",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Florida man allegedly murdered his 2 roommates after a fight over ice cream",
+      "link": "https://www.masslive.com/news/2026/11/man-allegedly-murdered-his-2-roommates-after-a-fight-over-ice-cream.html",
+      "published": "2026-11-02T23:47:20+00:00",
+      "summary": "A Florida man shot and killed his two roommates following a dispute over ice cream."
+    },
+    {
+      "id": "857ec55c96dd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Wayfair’s Black Friday pop-up sale ends tonight — here are the can’t-miss deals",
+      "link": "https://www.masslive.com/shopping-deals/2026/11/wayfairs-black-friday-pop-up-sale-ends-tonight-here-are-the-cant-miss-deals.html",
+      "published": "2026-11-02T23:43:26+00:00",
+      "summary": "Wayfair is running a 48-hour Black Friday pop-up sale ending tonight, offering discounts of up to 70% off furniture, décor, and home essentials."
+    },
+    {
+      "id": "5267546d692a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Who pays when state orders switch to sewer at Chicopee mobile home park?",
+      "link": "https://www.masslive.com/westernmass/2026/11/who-pays-when-state-orders-switch-to-sewer-at-chicopee-mobile-home-park.html",
+      "published": "2026-11-02T23:34:40+00:00",
+      "summary": "The Attorney General’s Office argued that depending on how the state Supreme Judicial Court rules, its regulations regarding manufactured housing might be invalidated across two dozen communities that have rent control."
+    },
+    {
+      "id": "f64e0116183e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "American International College nearly drains unrestricted endowment in face of financial challenges",
+      "link": "https://www.masslive.com/westernmass/2026/11/american-international-college-nearly-drains-unrestricted-endowment-in-face-of-financial-challenges.html",
+      "published": "2026-11-02T23:08:28+00:00",
+      "summary": "The Springfield school is confronting significant financial issues and a long-term trend of declining enrollment. It projects $17 million in losses through the fiscal year that ends in June 2028 and it been drawing millions from its endowment."
+    },
+    {
+      "id": "429e19baab89",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Kiffin has message to LSU fans ahead of Alabama game",
+      "link": "https://www.masslive.com/sports/2026/11/lane-kiffins-message-to-lsu-fans-ahead-of-alabama-game-start-drinking-earlier.html",
+      "published": "2026-11-02T22:42:56+00:00",
+      "summary": "The LSU coach wants everyone to do their part Saturday."
+    },
+    {
+      "id": "b934360b4dec",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Family, including 2 young kids, on plane that crashed",
+      "link": "https://www.masslive.com/news/2026/11/family-including-2-young-kids-on-learjet-that-crashed-in-florida-en-route-to-bahamas-quite-a-blow.html",
+      "published": "2026-11-02T22:25:18+00:00",
+      "summary": "The family of the deceased released statement on social media."
+    },
+    {
+      "id": "31571772a4cf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Judge OKs forced medical procedure for Hampden inmate who swallowed 2 dozen pencils",
+      "link": "https://www.masslive.com/westernmass/2026/11/judge-oks-forced-medical-procedure-for-hampden-inmate-who-swallowed-2-dozen-pencils.html",
+      "published": "2026-11-02T22:11:14+00:00",
+      "summary": "Prior to the latest incident, he had inserted objects into his urethra, like foil from a hospital juice container, pieces of floor tile and pens."
+    },
+    {
+      "id": "7dec92ef2d4a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. ‘homeless church’ will dissolve tent community on its own property after order from city",
+      "link": "https://www.masslive.com/news/2026/11/lawrence-homeless-church-will-dissolve-tent-community-after-cease-and-desist-from-city.html",
+      "published": "2026-11-02T22:04:06+00:00",
+      "summary": "House of Mercy Church in Lawrence was ordered to dismantle a organized tent community it established on private property, displacing roughly 60 homeless residents who had found stability there."
     },
     {
       "id": "bb7aa00690f2",
@@ -495,96 +575,6 @@
       "link": "https://www.masslive.com/news/2026/11/european-countries-hit-by-apparent-cyberattacks-targeting-supermarket-freezers.html",
       "published": "2026-11-02T19:46:38+00:00",
       "summary": "This follows last month's attacks on stores across France."
-    },
-    {
-      "id": "f01e8ed60e69",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Plum crumble",
-      "link": "https://www.masslive.com/nytcooking/2026/11/793196301-plum-crumble.html",
-      "published": "2026-11-02T19:42:55+00:00",
-      "summary": "Indulge in this delightful plum crumble featuring juicy Italian plums and a hint of ginger, topped with a golden, buttery crust that's perfect warm with a scoop of vanilla ice cream."
-    },
-    {
-      "id": "02a9a1454aa1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Slow-cooker turkey meatballs and gravy",
-      "link": "https://www.masslive.com/nytcooking/2026/11/793138315-slow-cooker-turkey-meatballs-and-gravy.html",
-      "published": "2026-11-02T19:42:53+00:00",
-      "summary": "These slow-cooker turkey meatballs with gravy offer a convenient and flavorful alternative to traditional Thanksgiving turkey, perfect for serving with mashed potatoes and cranberries."
-    },
-    {
-      "id": "18a52b039a12",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "YETI’s new Dusk collection is the soft, understated color drop you didn’t know you needed",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/yetis-new-dusk-collection-is-the-soft-understated-color-drop-you-didnt-know-you-needed.html",
-      "published": "2026-11-02T19:42:51+00:00",
-      "summary": "YETI has launched Dusk, a muted purple colorway available on select bags and backpacks, offered for a limited time on YETI's official website."
-    },
-    {
-      "id": "2fd60dedaf79",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Cranberry walnut cheese ball",
-      "link": "https://www.masslive.com/nytcooking/2026/11/793137938-cranberry-walnut-cheese-ball.html",
-      "published": "2026-11-02T19:42:51+00:00",
-      "summary": "This make-ahead cranberry walnut cheese ball combines sharp Cheddar, scallions, and Worcestershire sauce for a flavorful party appetizer, perfect with crackers, chips, or crudités."
-    },
-    {
-      "id": "75c3be93d9c4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Balsamic-roasted strawberries and cream",
-      "link": "https://www.masslive.com/nytcooking/2026/11/793136624-balsamic-roasted-strawberries-and-cream.html",
-      "published": "2026-11-02T19:42:44+00:00",
-      "summary": "Indulge in this luscious dessert where balsamic-roasted strawberries are enveloped in whipped cream and topped with crunchy hazelnuts, creating a delightful balance of sweet, tart, and creamy flavors."
-    },
-    {
-      "id": "bf63ab66ae0f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Here's why the 2026 MIAA football state championships are leaving Gillette",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/miaa-super-bowls-moving-away-from-gillette-for-revolution-and-patriots.html",
-      "published": "2026-11-02T19:38:08+00:00",
-      "summary": "Logistical complications with the professional sports tenants are requiring the MIAA to move it's football state championships away from Gillette Stadium."
-    },
-    {
-      "id": "62064425f891",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Girl, 8, attacked by wolf during kids' event at zoo",
-      "link": "https://www.masslive.com/news/2026/11/girl-8-attacked-by-wolf-during-kids-event-at-zoo.html",
-      "published": "2026-11-02T19:31:55+00:00",
-      "summary": "The zoo is closed until further notice as an investigation takes place."
-    },
-    {
-      "id": "7df8fa3475c9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Actress breaks silence after alleged violent episode on airplane: ‘I am so sorry’",
-      "link": "https://www.masslive.com/entertainment/2026/11/actress-breaks-silence-after-alleged-violent-episode-on-airplane-i-am-so-sorry.html",
-      "published": "2026-11-02T19:21:56+00:00",
-      "summary": "A popular actress is facing assault charges after an Oct. 11 incident aboard a Delta flight"
-    },
-    {
-      "id": "7ee1994e52a1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Paul George downgraded on Celtics injury report for Rockets game",
-      "link": "https://www.masslive.com/celtics/2026/11/paul-george-downgraded-on-celtics-injury-report-for-rockets-game.html",
-      "published": "2026-11-02T19:13:35+00:00",
-      "summary": "The Celtics will be shorthanded when they face the 6-1 Rockets on Monday, though that was expected."
     },
     {
       "id": "c0b0ac944847",
