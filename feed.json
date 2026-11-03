@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-03T14:11:33+00:00",
+  "generated_at": "2026-11-03T16:09:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 11,
+      "count": 12,
       "errors": []
     },
     "verge": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 2,
+      "count": 4,
       "errors": []
     },
     "omnissa": {
@@ -46,6 +46,16 @@
     }
   },
   "items": [
+    {
+      "id": "fbd0eff8d1e7",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+      "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+      "published": "2026-11-03T14:00:07+00:00",
+      "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield."
+    },
     {
       "id": "0dfcca5dfebc",
       "source": "Ars Technica",
@@ -157,6 +167,66 @@
       "summary": "This DIY e-paper display works in two official ecosystems or on your own server."
     },
     {
+      "id": "85827c831b0b",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Midterm elections 2026: all the news",
+      "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "published": "2026-11-03T15:58:39+00:00",
+      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there’s…"
+    },
+    {
+      "id": "dde5f3bd6293",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Apple is all in on AI — its own and everyone else’s",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "published": "2026-11-03T15:24:51+00:00",
+      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in…"
+    },
+    {
+      "id": "ba6e84d774d4",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "GTA VI’s download will need up to 212GB of hard drive space",
+      "link": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
+      "published": "2026-11-03T15:15:00+00:00",
+      "summary": "You're going to need a lot of extra storage space on your console if you're planning to play Grand Theft Auto VI later this month. Rockstar Games confirmed on Tuesday that the pre-load file will require up to 212GB \"depending on your device.\" Rockstar says you can start pre-loading the game on the…"
+    },
+    {
+      "id": "6b04867deb46",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The Elder Scrolls VI officially has a name: Sentinel",
+      "link": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
+      "published": "2026-11-03T15:07:39+00:00",
+      "summary": "Bethesda is officially confirming today that the next Elder Scrolls game will be called The Elder Scrolls VI Sentinel. The confirmation came in a less than 10-minute video celebrating 40 years of Bethesda game studios. It's been more than eight years since Bethesda officially announced the…"
+    },
+    {
+      "id": "32791f69eb2c",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "published": "2026-11-03T15:00:44+00:00",
+      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to…"
+    },
+    {
+      "id": "e207e0c8c62f",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "A truck-sized NASA space telescope is about to crash to Earth",
+      "link": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
+      "published": "2026-11-03T14:17:55+00:00",
+      "summary": "Almost 22 years after it was launched, NASA's Swift Observatory is now about to fall back to Earth on Wednesday after attempts to push it back into a higher orbit failed. NASA announced that the aging space telescope is anticipated to re-enter Earth's atmosphere at approximately 3:30AM ET (give or…"
+    },
+    {
       "id": "5796f7e1c5a5",
       "source": "The Verge",
       "source_id": "verge",
@@ -197,64 +267,194 @@
       "summary": "Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with this partnership, but Adobe said it will include \"popular songs\" from \"leading artists,\" and…"
     },
     {
-      "id": "079f5a8c8ee2",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
-      "link": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
-      "published": "2026-11-03T13:22:38+00:00",
-      "summary": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share…"
+      "id": "df6c7a40a58e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Annie: Why do my elderly in-laws keep couch surfing instead of facing financial reality?",
+      "link": "https://www.masslive.com/advice/2026/11/dear-annie-why-do-my-elderly-in-laws-keep-couch-surfing-instead-of-facing-financial-reality.html",
+      "published": "2026-11-03T16:00:00+00:00",
+      "summary": "Over the years, extravagant spending, poor investments and failed get-rich-quick schemes drained their savings."
     },
     {
-      "id": "ded31a8bb0b0",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
-      "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on, and they can be set to glow in set patterns, activate for specific apps, or…"
+      "id": "131ab6bfeab3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Both Russia and Ukraine had their alert apps hacked on the same night",
+      "link": "https://www.masslive.com/news/2026/11/phones-in-two-countries-lit-up-with-a-terrifying-alert-nobody-fell-for-it.html",
+      "published": "2026-11-03T15:50:14+00:00",
+      "summary": "Hackers sent fake nuclear and chemical attack warnings through emergency apps in Ukraine and Russia. Here’s what happened and how people reacted."
     },
     {
-      "id": "e940e682ad6f",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
-      "link": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD and former CTO at Specialized, runs the startup as an independent business that…"
+      "id": "48a250dbfd81",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Woman linked to former NBA star’s affair allegations found dead at 54",
+      "link": "https://www.masslive.com/entertainment/2026/11/woman-linked-to-former-nba-stars-affair-allegations-found-dead-at-54.html",
+      "published": "2026-11-03T15:49:07+00:00",
+      "summary": "Erin Benavides, a former Texas prosecutor linked to Eva Longoria and Tony Parker's 2010 divorce controversy, died at 54."
     },
     {
-      "id": "e2a2fb1dcb69",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-      "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-      "published": "2026-11-02T22:56:11+00:00",
-      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand…"
+      "id": "d9df6e8cf787",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hillary Clinton 'optimistic' but 'worried' ahead of midterms",
+      "link": "https://www.masslive.com/politics/2026/11/hillary-clinton-warns-trump-will-be-out-of-control-if-this-party-wins.html",
+      "published": "2026-11-03T15:36:23+00:00",
+      "summary": "Hillary Clinton warned Democrats that President Donald Trump will be “out of control” if Republicans lose the midterms."
     },
     {
-      "id": "b1dffed82969",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple set an iPhone sales record even without a new standard iPhone",
-      "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-      "published": "2026-11-02T22:02:36+00:00",
-      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in…"
+      "id": "401937975a89",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Over 881 flights delayed, 133 canceled amid widespread U.S. travel disruptions",
+      "link": "https://www.masslive.com/news/2026/11/over-881-flights-delayed-133-canceled-amid-widespread-us-travel-disruptions.html",
+      "published": "2026-11-03T15:24:23+00:00",
+      "summary": "Flight cancellations and delays disrupted operations at multiple airports across the U.S."
     },
     {
-      "id": "b47c84055461",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Meta will end Quest 2 OS updates in 2027",
-      "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-      "published": "2026-11-02T21:04:20+00:00",
-      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of […]"
+      "id": "783a527cc4cc",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump fires off eleventh-hour midterm attacks in the middle of the night",
+      "link": "https://www.masslive.com/politics/2026/11/trump-unleashes-eleventh-hour-midterm-attacks-in-the-middle-of-the-night.html",
+      "published": "2026-11-03T15:22:00+00:00",
+      "summary": "He said that one \"hates\" Jewish, Black and white people and suggesting that the other had been \"kidnapped.\""
+    },
+    {
+      "id": "688e134985d9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Former MAGA darling rips Trump’s closing midterm message: ‘I was very disappointed’",
+      "link": "https://www.masslive.com/politics/2026/11/former-maga-darling-rips-trumps-closing-midterm-message-i-was-very-disappointed.html",
+      "published": "2026-11-03T15:19:42+00:00",
+      "summary": "Former Georgia Republican Congresswoman Marjorie Taylor Greene said Trump lost focus on the \"real things\" affecting Americans."
+    },
+    {
+      "id": "1c260031c418",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hip-hop legend, 62, involved in highway crash with garbage truck",
+      "link": "https://www.masslive.com/entertainment/2026/11/hip-hop-legend-62-involved-in-highway-crash-with-garbage-truck.html",
+      "published": "2026-11-03T15:18:08+00:00",
+      "summary": "The two-vehicle crash occurred on Friday, Oct. 30."
+    },
+    {
+      "id": "0da30f8c78d0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "5 things we learned from the final MIAA boys soccer power rankings update",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/5-takeaways-from-the-final-miaa-boys-soccer-power-rankings-update.html",
+      "published": "2026-11-03T15:17:41+00:00",
+      "summary": "Squint and you a see the bracket. The MIAA released its final boys soccer power rankings update Tuesday. Here are five things we learned."
+    },
+    {
+      "id": "e244e02ea01f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Student of Springfield: A City Council worth knowing | Shane Dillon",
+      "link": "https://www.masslive.com/opinion/2026/11/student-of-springfield-a-city-council-worth-knowing-shane-dillon.html",
+      "published": "2026-11-03T15:12:34+00:00",
+      "summary": "Residents fought for ward representation because they believed this City Council could do more for their neighborhoods. We owe that history more than appreciation; we owe it an honest look at whether people feel heard by the council today."
+    },
+    {
+      "id": "909e95052662",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Taylor Red singer Nicole Taylor dies at 35 after breast cancer battle",
+      "link": "https://www.masslive.com/entertainment/2026/11/beloved-country-music-singer-dies-at-35-after-cancer-battle.html",
+      "published": "2026-11-03T15:04:34+00:00",
+      "summary": "Nicole Taylor, a member of the country music trio Taylor Red, died at 35 after battling breast cancer. Her triplet sisters announced her death."
+    },
+    {
+      "id": "51f5a5df5255",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Buttigieg agrees with top Republican: This is what’s at stake in midterms",
+      "link": "https://www.masslive.com/politics/2026/11/buttigieg-agrees-with-top-republican-this-is-whats-at-stake-in-midterms.html",
+      "published": "2026-11-03T14:59:13+00:00",
+      "summary": "GOP leader “may have said it best.”"
+    },
+    {
+      "id": "e18ac961f75e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved North Shore jeweler retiring after 51 years, saying goodbye with a sale",
+      "link": "https://www.masslive.com/news/2026/11/beloved-mass-jeweler-retiring-after-51-years-i-am-incredibly-grateful.html",
+      "published": "2026-11-03T14:55:54+00:00",
+      "summary": "Victoria Kelley built Tory's Jewelry into one of Marblehead's longest-running businesses — now she's saying goodbye."
+    },
+    {
+      "id": "715c3832ff0a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "7 foods you can get at Costco in November to complete your holiday table",
+      "link": "https://www.masslive.com/business/2026/11/7-dishes-you-can-get-at-costco-in-november-to-complete-your-thanksgiving-table.html",
+      "published": "2026-11-03T14:51:33+00:00",
+      "summary": "Rather than wandering aimlessly up and down the aisles of Costco during busy pre-holiday hours, check out this list."
+    },
+    {
+      "id": "079d2e74d8ad",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Influencer dead at 29 after motorcycle accident",
+      "link": "https://www.masslive.com/entertainment/2026/11/influencer-dead-at-29-after-motorcycle-accident.html",
+      "published": "2026-11-03T14:38:58+00:00",
+      "summary": "His girlfriend announced his death in an Instagram post over the weekend."
+    },
+    {
+      "id": "f5e361d0ce30",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield’s urban forest is growing, one tree at a time",
+      "link": "https://www.masslive.com/westernmass/2026/11/springfields-urban-forest-is-growing-one-tree-at-a-time.html",
+      "published": "2026-11-03T14:31:42+00:00",
+      "summary": "The city's Forestry Department is making headway in planting new trees with the help of two critical grants and several community organizations."
+    },
+    {
+      "id": "7c961f478e16",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Gateway Gators win 2026 Western Mass. Class D soccer title in PKs",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/gateway-gators-win-2026-western-mass-class-d-soccer-title-in-pks.html",
+      "published": "2026-11-03T14:22:09+00:00",
+      "summary": "Gateway Gators claimed their fifth program title, defeating Hopkins Academy 4-1 in a penalty shootout after 100 minutes of scoreless soccer in the Western Mass. Class D championship."
+    },
+    {
+      "id": "ae04c51701d0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Poll shows key constituency turning its back on Trump, top WH official",
+      "link": "https://www.masslive.com/politics/2026/11/poll-shows-key-constituency-turning-its-back-on-trump-top-official.html",
+      "published": "2026-11-03T14:20:36+00:00",
+      "summary": "Yet more gloomy midterm news for the president."
+    },
+    {
+      "id": "52bf2fd33c5c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball numbers for 11/02/26: Did anyone win the $803M jackpot?",
+      "link": "https://www.masslive.com/news/2026/11/powerball-numbers-for-110226-did-anyone-win-the-803m-jackpot.html",
+      "published": "2026-11-03T14:17:31+00:00",
+      "summary": "The grand prize has not been won since Aug. 12, leading to the current jackpot being the 10th largest in Powerball history."
     },
     {
       "id": "a7d84018d6df",
@@ -367,194 +567,24 @@
       "summary": "The program may be expanded based on the results."
     },
     {
-      "id": "b04b3d0ffe7b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Major Social Security change could cost some workers $967 a year",
-      "link": "https://www.masslive.com/news/2026/11/major-social-security-change-could-cost-some-workers-967-a-year.html",
-      "published": "2026-11-03T12:00:01+00:00",
-      "summary": "The change opens more income to payroll taxes that fund Social Security."
+      "id": "ed61802f64c7",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+      "link": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
+      "published": "2026-11-03T14:32:38+00:00",
+      "summary": "Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over 1.3 Million appeared first on SecurityWeek ."
     },
     {
-      "id": "52708d13a6b2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "If oncoming headlights make you squint, you’re not alone",
-      "link": "https://www.masslive.com/news/2026/11/those-blinding-headlights-arent-your-imagination-heres-whats-really-going-on.html",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "Headlights really are brighter, thanks to LED bulbs and taller SUVs. Here’s why glare bugs so many drivers and what federal safety officials plan to do."
-    },
-    {
-      "id": "e1fc171c8bdb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. polls are open until 8 p.m. Here's how to make your vote count",
-      "link": "https://www.masslive.com/politics/2026/11/election-2026-the-polls-are-open-heres-what-to-know-about-where-and-how-to-vote.html",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "Polls are open across Massachusetts until 8 p.m. Governor, Senate, Congress and a whopping nine ballot questions. Here's where and how to vote."
-    },
-    {
-      "id": "ac0425664bc1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is Election Day a state holiday? See the states which observe the holiday",
-      "link": "https://www.masslive.com/news/2026/11/is-election-day-a-state-holiday-see-the-states-which-observe-the-holiday.html",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "Election Day is not a federal holiday, but it is observed as a state holiday in a handful of state. See where it is observed"
-    },
-    {
-      "id": "c3c139d8837b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Doctor: Are COVID vaccines really causing heart attacks and strokes? The research says otherwise",
-      "link": "https://www.masslive.com/advice/2026/11/dear-doctor-are-covid-vaccines-really-causing-heart-attacks-and-strokes-the-research-says-otherwise.html",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "Large-scale global studies show COVID vaccines reduce the risk of heart attacks, strokes, blood clots, and miscarriages rather than causing them."
-    },
-    {
-      "id": "ff10afe452a0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "1 dead as helicopters collide below Mount Everest camp",
-      "link": "https://www.masslive.com/news/2026/11/1-dead-as-helicopters-collide-below-mount-everest-base-camp.html",
-      "published": "2026-11-03T11:55:50+00:00",
-      "summary": "A 47-year-old tourist died."
-    },
-    {
-      "id": "8254e8eecfde",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "1 dead in Indiana Walmart shooting; Teen in custody: ‘We’re heartbroken’",
-      "link": "https://www.masslive.com/news/2026/11/1-dead-in-walmart-shooting-teen-in-custody-were-heartbroken.html",
-      "published": "2026-11-03T11:49:50+00:00",
-      "summary": "The woman was shot multiple times."
-    },
-    {
-      "id": "15092450ba17",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. could break heat records this week",
-      "link": "https://www.masslive.com/weather/2026/11/mass-weather-possible-record-setting-warm-temps-on-the-way.html",
-      "published": "2026-11-03T11:36:36+00:00",
-      "summary": "High temperatures could challenge daily records throughout the week."
-    },
-    {
-      "id": "d357fb2de33b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "After 110 concerts, classic rock band gives surprising update on farewell tour",
-      "link": "https://www.masslive.com/entertainment/2026/11/after-110-concerts-classic-rock-band-gives-surprising-update-on-farewell-tour.html",
-      "published": "2026-11-03T11:05:42+00:00",
-      "summary": "\"We’ve felt something powerful happen,\" the group's co-founding guitarist said."
-    },
-    {
-      "id": "7dff8cef0aa3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "DNA expert to testify Tuesday as trial over Sandra Birchmore's death nears end",
-      "link": "https://www.masslive.com/news/2026/11/dna-expert-to-testify-tuesday-for-defense-at-trial-over-sandra-birchmores-death.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "Former Stoughton police officer Matthew Farwell's defense could rest its case as soon as Wednesday."
-    },
-    {
-      "id": "340fde45b657",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump and more: 5 reasons why the GOP is in danger in 2026 midterms",
-      "link": "https://www.masslive.com/politics/2026/11/trump-and-more-5-reasons-why-the-gop-is-in-danger-in-2026-midterms.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "Many of the problems start with the president."
-    },
-    {
-      "id": "bf99e11ec4cb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘Wind phone’ is installed in Grandmothers’ Garden",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/wind-phone-is-installed-in-grandmothers-garden.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "A 'Wind Phone' was unveiled at Grandmother's Garden in Chauncey Allen Park, inspired by intermediate school students who learned about it in their grief group, and suggested one be placed in Westfield."
-    },
-    {
-      "id": "5e7b3200d844",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Granby fiddler turns forgotten Western Massachusetts heroes into songs",
-      "link": "https://www.masslive.com/westernmass/2026/11/granby-fiddler-turns-forgotten-western-massachusetts-heroes-into-songs.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "Sweet has founded and played in local bands and orchestras for decades. He has also taught music privately, worked in retail sales and started a business selling horsetail hair for bows."
-    },
-    {
-      "id": "f3e5a7148f0c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is the stock market open on Election Day 2026?",
-      "link": "https://www.masslive.com/news/2026/11/is-the-stock-market-open-on-election-day-2026.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "Here is what you need to know about the stock market and bond market trading hours for Election Day 2026"
-    },
-    {
-      "id": "33e7faec46e9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield honors Cain on last day before retirement",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-honors-cain-on-last-day-before-retirement.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "Westfield honored DPW Assistant Director Francis Cain at a retirement reception, marking 23 years of service and key achievements including leading the city's PFAS contamination response."
-    },
-    {
-      "id": "904dae9e650c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Hold on to your Stetsons: The biggest potential upsets of the 2026 midterms",
-      "link": "https://www.masslive.com/politics/2026/11/hold-on-to-your-stetsons-the-biggest-potential-upsets-of-the-2026-midterms.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "Democrats are competitive in eight states that Donald Trump won by double-digits in 2024."
-    },
-    {
-      "id": "42296d4c1e2e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield man pleads guilty to open and gross lewdness",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-man-pleads-guilty-to-open-and-gross-lewdness.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "A Westfield man pleaded guilty Thursday in District Court to open and gross lewdness for exposing himself at the Athenaeum, according to court records."
-    },
-    {
-      "id": "00a64873bec1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A researcher was “totally surprised” by what this sleep study found",
-      "link": "https://www.masslive.com/news/2026/11/people-who-use-marijuana-for-sleep-may-be-missing-something-important.html",
-      "published": "2026-11-03T11:00:01+00:00",
-      "summary": "A 35-year Northwestern study found marijuana users woke up more at night but didn’t notice. Here’s what the sleep trackers showed and what really helps."
-    },
-    {
-      "id": "1a28fb936ceb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: Hey parents - Relative sends a gift. You teach about gratitude. Simple",
-      "link": "https://www.masslive.com/advice/2026/11/dear-abby-hey-parents-relative-sends-a-gift-you-teach-about-gratitude-simple.html",
-      "published": "2026-11-03T11:00:00+00:00",
-      "summary": "The blame falls on the parents who failed to teach them basic good manners."
+      "id": "b981c2f988c9",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+      "link": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+      "published": "2026-11-03T14:12:44+00:00",
+      "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode appeared first on SecurityWeek ."
     },
     {
       "id": "14152597814e",
@@ -637,24 +667,24 @@
       "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek ."
     },
     {
-      "id": "adcc13fa97b8",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
+      "id": "6e632444b3b7",
+      "source": "Petri",
+      "source_id": "petri",
       "category": "tech",
-      "title": "Revolve Data Breach Impacts at Least 200,000 People",
-      "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
-      "published": "2026-11-02T13:35:21+00:00",
-      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek ."
+      "title": "Windows Deployment Services Alternatives: 5 Options to Consider",
+      "link": "https://petri.com/windows-deployment-services-alternatives-to-consider/",
+      "published": "2026-11-03T15:44:40+00:00",
+      "summary": "Are you researching Windows Deployment Services alternatives? Windows Deployment Services (WDS) is going away. Not soon, but you should start preparing for it. I recommend considering the deployment outcome, not with a search for a like-for-like WDS replacement. Use Windows Autopilot and Microsoft…"
     },
     {
-      "id": "afbf72609830",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
+      "id": "2f0ac45bef3c",
+      "source": "Petri",
+      "source_id": "petri",
       "category": "tech",
-      "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
-      "link": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
-      "published": "2026-11-02T13:25:11+00:00",
-      "summary": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek ."
+      "title": "Microsoft Intune Expands Controls for Windows, Apple, and Cloud PCs",
+      "link": "https://petri.com/microsoft-intune-controls-cloud-pcs-apple-devices/",
+      "published": "2026-11-03T15:04:35+00:00",
+      "summary": "As organizations manage growing fleets of Windows, Apple, and cloud-based devices, IT teams often face a difficult balancing issue. Security teams need stricter controls and faster compliance enforcement, while end users expect flexibility and minimal disruption. Traditional approaches frequently…"
     },
     {
       "id": "1516b4343545",
