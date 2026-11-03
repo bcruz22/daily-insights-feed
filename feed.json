@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:09:58+00:00",
+  "generated_at": "2026-11-03T04:11:26+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -277,6 +277,66 @@
       "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…"
     },
     {
+      "id": "f469fcc8ce2e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball: See the winning numbers in Monday’s $793 million drawing",
+      "link": "https://www.masslive.com/lottery/2026/11/powerball-see-the-winning-numbers-in-mondays-793-million-drawing.html",
+      "published": "2026-11-03T04:06:39+00:00",
+      "summary": "Check your numbers to see if you hit it big in Monday's jackpot."
+    },
+    {
+      "id": "c58dd95ade27",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "4 takeaways as Celtics lose to Rockets, 5-game win streak snapped",
+      "link": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-rockets-5-game-win-streak-snapped.html",
+      "published": "2026-11-03T04:06:18+00:00",
+      "summary": "The Celtics saw their five-game win streak snapped to the Rockets, plus they saw old friend Marcus Smart who showed why he's still such a pest."
+    },
+    {
+      "id": "342c050827cf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Balanced scoring carries UMass men’s basketball past Troy",
+      "link": "https://www.masslive.com/umassbasketball/2026/11/balanced-scoring-carries-umass-mens-basketball-past-troy.html",
+      "published": "2026-11-03T03:56:42+00:00",
+      "summary": "Balanced scoring led the UMass men's basketball team to a season-opening win against Troy."
+    },
+    {
+      "id": "0d72a52c94b5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Tuesday’s HS sport: Faythe Sobieski powers Franklin Tech girls soccer past St. Mary",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/tuesdays-hs-sports-roundup-faythe-sobieski-powers-franklin-tech-over-st-mary.html",
+      "published": "2026-11-03T03:18:06+00:00",
+      "summary": "The final day of the regular season gave teams one last chance to improve their state tournament resume. See how local teams closed it out."
+    },
+    {
+      "id": "d9313a9291b0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "UMass women's basketball can't complete comeback in opener against Marshall",
+      "link": "https://www.masslive.com/umassbasketball/2026/11/comeback-falls-short-against-marshall-for-umass-womens-basketball.html",
+      "published": "2026-11-03T02:44:37+00:00",
+      "summary": "The UMass women's basketball team faced a challenging defense in Marshall to open the season. The Minutewomen couldn't overcome an early deficit."
+    },
+    {
+      "id": "3aecb63bf9c5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mitchell Robinson injury: Celtics center returns vs. Rockets",
+      "link": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-injury-celtics-center-goes-to-locker-room-vs-rockets.html",
+      "published": "2026-11-03T02:15:51+00:00",
+      "summary": "Mitchell Robinson played four minutes before heading to the locker room Monday against the Rockets."
+    },
+    {
       "id": "7c40bbb1069a",
       "source": "MassLive",
       "source_id": "masslive",
@@ -515,66 +575,6 @@
       "link": "https://www.masslive.com/sports/2026/11/bill-belichick-responds-to-question-about-reported-jordon-hudson-breakup.html",
       "published": "2026-11-02T21:37:38+00:00",
       "summary": "The Tar Heels coach responded pretty much like you would figure."
-    },
-    {
-      "id": "b80ef4345a7f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Executive producer of popular talk show dead at 52 after ‘unfathomable tragedy’",
-      "link": "https://www.masslive.com/entertainment/2026/11/executive-producer-of-popular-talk-show-dead-at-52-after-unfathomable-tragedy.html",
-      "published": "2026-11-02T21:28:35+00:00",
-      "summary": "“He was an amazing guy. He was funny. God, he made me laugh,” DeGeneres said."
-    },
-    {
-      "id": "9b0d0d341c39",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Gun fired twice, occupants flee West Springfield hotel room, police say",
-      "link": "https://www.masslive.com/westernmass/2026/11/gun-fired-twice-occupants-flee-west-springfield-hotel-room-police-say.html",
-      "published": "2026-11-02T21:24:34+00:00",
-      "summary": "Police said several people fled the scene before their vehicle was later found abandoned in Springfield."
-    },
-    {
-      "id": "5f3e411eb116",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Big Ten coach: Daughter, 13 verbally accosted after loss",
-      "link": "https://www.masslive.com/sports/2026/11/big-ten-coach-daughter-13-verbally-accosted-10-year-old-implores-him-not-to-quit.html",
-      "published": "2026-11-02T21:12:57+00:00",
-      "summary": "His younger daughter has given him a reason to double down."
-    },
-    {
-      "id": "18a441a94d28",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "MassMutual announces record $3.3B policyowner dividend for 2027",
-      "link": "https://www.masslive.com/westernmass/2026/11/massmutual-announces-record-33b-policyowner-dividend-for-2027.html",
-      "published": "2026-11-02T21:09:19+00:00",
-      "summary": "The number surpassed $3 billion for the first time in company history."
-    },
-    {
-      "id": "91380901a833",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump would ‘love’ this Democrat to join the Republican Party",
-      "link": "https://www.masslive.com/politics/2026/11/trump-would-love-this-democrat-to-join-the-republican-party.html",
-      "published": "2026-11-02T21:02:00+00:00",
-      "summary": "The president praised the congresswoman after she endorsed a Republican over her party's candidate."
-    },
-    {
-      "id": "7c38e8d87758",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield’s Forest Park completes fundraising to bring back train",
-      "link": "https://www.masslive.com/westernmass/2026/11/springfields-forest-park-completes-fundraising-to-bring-back-train.html",
-      "published": "2026-11-02T20:56:29+00:00",
-      "summary": "The city raised $85,000 for the train."
     },
     {
       "id": "c0b0ac944847",
