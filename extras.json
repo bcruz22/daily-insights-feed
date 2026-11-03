@@ -1,0 +1,44 @@
+{
+ "generated_at": "2026-11-03T20:09:40+00:00",
+ "versions": {
+  "tailscale": {
+   "status": "ok",
+   "version": "v1.104.5",
+   "published": "2026-11-03T00:29:40Z",
+   "url": "https://github.com/tailscale/tailscale/releases/tag/v1.104.5"
+  },
+  "pihole_core": {
+   "status": "ok",
+   "version": "v6.5",
+   "published": "2026-10-17T11:28:24Z",
+   "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.5"
+  },
+  "pihole_ftl": {
+   "status": "ok",
+   "version": "v6.8",
+   "published": "2026-10-17T11:10:01Z",
+   "url": "https://github.com/pi-hole/FTL/releases/tag/v6.8"
+  },
+  "pihole_web": {
+   "status": "ok",
+   "version": "v6.6.1",
+   "published": "2026-10-17T11:28:14Z",
+   "url": "https://github.com/pi-hole/web/releases/tag/v6.6.1"
+  },
+  "plex": {
+   "status": "ok",
+   "version": "1.43.5.11079-b3b13e506",
+   "published": "2026-10-23T11:44:26+00:00"
+  }
+ },
+ "uv": {
+  "status": "ok",
+  "date": "Nov/03/2026",
+  "uv_index": "3",
+  "alert": "0"
+ },
+ "aqi": {
+  "status": "off",
+  "error": "no AirNow key on this box"
+ }
+}
