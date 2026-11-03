@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-03T10:07:33+00:00",
+  "generated_at": "2026-11-03T12:09:53+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
       "name": "Ars Technica",
       "status": "ok",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "count": 13,
+      "count": 11,
       "errors": []
     },
     "verge": {
@@ -157,24 +157,24 @@
       "summary": "This DIY e-paper display works in two official ecosystems or on your own server."
     },
     {
-      "id": "e58df0c82cd4",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "ded31a8bb0b0",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "Seabirds racing home over the ocean can get jet-lagged",
-      "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-      "published": "2026-10-31T11:15:26+00:00",
-      "summary": "A long flight home from feeding grounds messes with birds' internal clocks."
+      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+      "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on, and they can be set to glow in set patterns, activate for specific apps, or…"
     },
     {
-      "id": "58f1874bf514",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "e940e682ad6f",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "published": "2026-10-31T11:02:34+00:00",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?"
+      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
+      "link": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD and former CTO at Specialized, runs the startup as an independent business that…"
     },
     {
       "id": "e2a2fb1dcb69",
@@ -257,24 +257,284 @@
       "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use…"
     },
     {
-      "id": "4c6a95aaf3dc",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
-      "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-      "published": "2026-11-02T18:43:24+00:00",
-      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short…"
+      "id": "d99d3dc72264",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Veterans may soon find it easier to access disability, benefits information",
+      "link": "https://www.masslive.com/news/2026/11/veterans-may-soon-find-it-easier-to-access-disability-benefits-information.html",
+      "published": "2026-11-03T12:00:01+00:00",
+      "summary": "The program may be expanded based on the results."
     },
     {
-      "id": "16194c055af9",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "published": "2026-11-02T18:01:30+00:00",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…"
+      "id": "b04b3d0ffe7b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Major Social Security change could cost some workers $967 a year",
+      "link": "https://www.masslive.com/news/2026/11/major-social-security-change-could-cost-some-workers-967-a-year.html",
+      "published": "2026-11-03T12:00:01+00:00",
+      "summary": "The change opens more income to payroll taxes that fund Social Security."
+    },
+    {
+      "id": "52708d13a6b2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "If oncoming headlights make you squint, you’re not alone",
+      "link": "https://www.masslive.com/news/2026/11/those-blinding-headlights-arent-your-imagination-heres-whats-really-going-on.html",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "Headlights really are brighter, thanks to LED bulbs and taller SUVs. Here’s why glare bugs so many drivers and what federal safety officials plan to do."
+    },
+    {
+      "id": "e1fc171c8bdb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. polls are open until 8 p.m. Here's how to make your vote count",
+      "link": "https://www.masslive.com/politics/2026/11/election-2026-the-polls-are-open-heres-what-to-know-about-where-and-how-to-vote.html",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "Polls are open across Massachusetts until 8 p.m. Governor, Senate, Congress and a whopping nine ballot questions. Here's where and how to vote."
+    },
+    {
+      "id": "ac0425664bc1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Is Election Day a state holiday? See the states which observe the holiday",
+      "link": "https://www.masslive.com/news/2026/11/is-election-day-a-state-holiday-see-the-states-which-observe-the-holiday.html",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "Election Day is not a federal holiday, but it is observed as a state holiday in a handful of state. See where it is observed"
+    },
+    {
+      "id": "c3c139d8837b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Doctor: Are COVID vaccines really causing heart attacks and strokes? The research says otherwise",
+      "link": "https://www.masslive.com/advice/2026/11/dear-doctor-are-covid-vaccines-really-causing-heart-attacks-and-strokes-the-research-says-otherwise.html",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "Large-scale global studies show COVID vaccines reduce the risk of heart attacks, strokes, blood clots, and miscarriages rather than causing them."
+    },
+    {
+      "id": "ff10afe452a0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "1 dead as helicopters collide below Mount Everest camp",
+      "link": "https://www.masslive.com/news/2026/11/1-dead-as-helicopters-collide-below-mount-everest-base-camp.html",
+      "published": "2026-11-03T11:55:50+00:00",
+      "summary": "A 47-year-old tourist died."
+    },
+    {
+      "id": "8254e8eecfde",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "1 dead in Indiana Walmart shooting; Teen in custody: ‘We’re heartbroken’",
+      "link": "https://www.masslive.com/news/2026/11/1-dead-in-walmart-shooting-teen-in-custody-were-heartbroken.html",
+      "published": "2026-11-03T11:49:50+00:00",
+      "summary": "The woman was shot multiple times."
+    },
+    {
+      "id": "15092450ba17",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. could break heat records this week",
+      "link": "https://www.masslive.com/weather/2026/11/mass-weather-possible-record-setting-warm-temps-on-the-way.html",
+      "published": "2026-11-03T11:36:36+00:00",
+      "summary": "High temperatures could challenge daily records throughout the week."
+    },
+    {
+      "id": "d357fb2de33b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "After 110 concerts, classic rock band gives surprising update on farewell tour",
+      "link": "https://www.masslive.com/entertainment/2026/11/after-110-concerts-classic-rock-band-gives-surprising-update-on-farewell-tour.html",
+      "published": "2026-11-03T11:05:42+00:00",
+      "summary": "\"We’ve felt something powerful happen,\" the group's co-founding guitarist said."
+    },
+    {
+      "id": "7dff8cef0aa3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "DNA expert to testify Tuesday as trial over Sandra Birchmore's death nears end",
+      "link": "https://www.masslive.com/news/2026/11/dna-expert-to-testify-tuesday-for-defense-at-trial-over-sandra-birchmores-death.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "Former Stoughton police officer Matthew Farwell's defense could rest its case as soon as Wednesday."
+    },
+    {
+      "id": "f3e5a7148f0c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Is the stock market open on Election Day 2026?",
+      "link": "https://www.masslive.com/news/2026/11/is-the-stock-market-open-on-election-day-2026.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "Here is what you need to know about the stock market and bond market trading hours for Election Day 2026"
+    },
+    {
+      "id": "42296d4c1e2e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield man pleads guilty to open and gross lewdness",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-man-pleads-guilty-to-open-and-gross-lewdness.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "A Westfield man pleaded guilty Thursday in District Court to open and gross lewdness for exposing himself at the Athenaeum, according to court records."
+    },
+    {
+      "id": "904dae9e650c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hold on to your Stetsons: The biggest potential upsets of the 2026 midterms",
+      "link": "https://www.masslive.com/politics/2026/11/hold-on-to-your-stetsons-the-biggest-potential-upsets-of-the-2026-midterms.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "Democrats are competitive in eight states that Donald Trump won by double-digits in 2024."
+    },
+    {
+      "id": "340fde45b657",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump and more: 5 reasons why the GOP is in danger in 2026 midterms",
+      "link": "https://www.masslive.com/politics/2026/11/trump-and-more-5-reasons-why-the-gop-is-in-danger-in-2026-midterms.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "Many of the problems start with the president."
+    },
+    {
+      "id": "bf99e11ec4cb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "‘Wind phone’ is installed in Grandmothers’ Garden",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/wind-phone-is-installed-in-grandmothers-garden.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "A 'Wind Phone' was unveiled at Grandmother's Garden in Chauncey Allen Park, inspired by intermediate school students who learned about it in their grief group, and suggested one be placed in Westfield."
+    },
+    {
+      "id": "5e7b3200d844",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Granby fiddler turns forgotten Western Massachusetts heroes into songs",
+      "link": "https://www.masslive.com/westernmass/2026/11/granby-fiddler-turns-forgotten-western-massachusetts-heroes-into-songs.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "Sweet has founded and played in local bands and orchestras for decades. He has also taught music privately, worked in retail sales and started a business selling horsetail hair for bows."
+    },
+    {
+      "id": "00a64873bec1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A researcher was “totally surprised” by what this sleep study found",
+      "link": "https://www.masslive.com/news/2026/11/people-who-use-marijuana-for-sleep-may-be-missing-something-important.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "A 35-year Northwestern study found marijuana users woke up more at night but didn’t notice. Here’s what the sleep trackers showed and what really helps."
+    },
+    {
+      "id": "33e7faec46e9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield honors Cain on last day before retirement",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-honors-cain-on-last-day-before-retirement.html",
+      "published": "2026-11-03T11:00:01+00:00",
+      "summary": "Westfield honored DPW Assistant Director Francis Cain at a retirement reception, marking 23 years of service and key achievements including leading the city's PFAS contamination response."
+    },
+    {
+      "id": "1a28fb936ceb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Abby: Hey parents - Relative sends a gift. You teach about gratitude. Simple",
+      "link": "https://www.masslive.com/advice/2026/11/dear-abby-hey-parents-relative-sends-a-gift-you-teach-about-gratitude-simple.html",
+      "published": "2026-11-03T11:00:00+00:00",
+      "summary": "The blame falls on the parents who failed to teach them basic good manners."
+    },
+    {
+      "id": "0bbe0cc0b42c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $5 bet",
+      "link": "https://www.masslive.com/casinos/2026/11/mass-casino-player-wins-jackpot-prize-with-5-bet.html",
+      "published": "2026-11-03T11:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "7a9f85598154",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved rock musician died in spring, singer reveals: ‘It only became known in October’",
+      "link": "https://www.masslive.com/entertainment/2026/11/beloved-rock-musician-died-in-spring-singer-reveals-it-only-became-known-in-october.html",
+      "published": "2026-11-03T11:00:00+00:00",
+      "summary": "A cause of death has not been reported."
+    },
+    {
+      "id": "ef2d2afa66bb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Today’s horoscope: Aquarius - Market a skill into additional income (Nov. 3, 2026)",
+      "link": "https://www.masslive.com/advice/2026/11/todays-horoscope-aquarius-market-a-skill-into-additional-income-nov-3-2026.html",
+      "published": "2026-11-03T11:00:00+00:00",
+      "summary": "Celebrities born on this day: Elizabeth Smart, 39; Gemma Ward, 39; Colin Kaepernick, 39; Dolph Lundgren, 69."
+    },
+    {
+      "id": "2e815f2ec0a9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "2026 midterm elections: What to know about Election Day across the U.S.",
+      "link": "https://www.masslive.com/politics/2026/11/election-day-2026-what-to-know-about-the-midterms-polls-and-more.html",
+      "published": "2026-11-03T10:45:00+00:00",
+      "summary": "Democrats are hoping to take back control of Congress in the 2026 midterm elections as President Donald Trump faces widespread disapproval."
+    },
+    {
+      "id": "34cf5b9ecb2b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "See which TV show landed the coveted post-Super Bowl time slot for 2027",
+      "link": "https://www.masslive.com/entertainment/2026/11/see-which-tv-show-landed-the-coveted-post-super-bowl-time-slot-for-2027.html",
+      "published": "2026-11-03T10:35:00+00:00",
+      "summary": "The 2027 Super Bowl lead-out program has been selected"
+    },
+    {
+      "id": "9d425e4f2e40",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "From smash burgers to a Thai curry burger, these are the 30 best places to get a burger in Mass.",
+      "link": "https://www.masslive.com/ne-where/2026/11/the-30-best-burgers-in-massachusetts-ranked.html",
+      "published": "2026-11-03T10:34:00+00:00",
+      "summary": "After months of serious burger research, here are my picks for the top 30 burgers in Massachusetts."
+    },
+    {
+      "id": "6b899780647b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rock legend known for iconic song dies at 76: ‘Rest easy soul brother’",
+      "link": "https://www.masslive.com/entertainment/2026/11/rock-legend-known-for-iconic-song-dies-at-76-rest-easy-soul-brother.html",
+      "published": "2026-11-03T10:30:00+00:00",
+      "summary": "A cause of death was not reported."
+    },
+    {
+      "id": "5f7bfe0dfbfb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Safety or surveillance? Mass. colleges turn to Flock and AI cameras",
+      "link": "https://www.masslive.com/education/2026/11/safety-or-surveillance-colleges-are-turning-to-flock-and-ai-cameras-across-massachusetts.html",
+      "published": "2026-11-03T10:29:00+00:00",
+      "summary": "From community colleges to private universities, the use of AI cameras on campus is sparking debate over privacy, lack of community consultation and fears of misuse against marginalized students."
     },
     {
       "id": "1b9b60fa7448",
@@ -287,36 +547,6 @@
       "summary": "His group earned four Grammy nominations."
     },
     {
-      "id": "2c21bfd5b469",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music singer and actor dies at 84: ‘Leaves behind a beautiful legacy’",
-      "link": "https://www.masslive.com/entertainment/2026/11/country-music-singer-and-actor-dies-at-84-leaves-behind-a-beautiful-legacy.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "He died at home surrounded by family."
-    },
-    {
-      "id": "d743601a2fa9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots backup receivers silenced critics in Miami",
-      "link": "https://www.masslive.com/patriots/2026/11/patriots-backup-receivers-silenced-critics-with-dominant-performance-in-miami.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "With A.J. Brown, Romeo Doubs and Mack Hollins all out, three backup receivers stepped up and torched the Dolphins in Sunday's comeback win."
-    },
-    {
-      "id": "320577b56c80",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Iconic rock band postpones tour after singer is hospitalized: ‘Serious risk involved’",
-      "link": "https://www.masslive.com/entertainment/2026/11/iconic-rock-band-postpones-tour-after-singer-is-hospitalized-serious-risk-involved.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "The news comes just days after he suffered a medical emergency."
-    },
-    {
       "id": "5f6f040a5f15",
       "source": "MassLive",
       "source_id": "masslive",
@@ -325,256 +555,6 @@
       "link": "https://www.masslive.com/politics/2026/11/legendary-singer-iconic-groups-founding-member-dead-at-87-his-spirit-will-live-on.html",
       "published": "2026-11-03T10:00:00+00:00",
       "summary": "His group shared the news of his death."
-    },
-    {
-      "id": "ddf2261a0583",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Some drivers caught going 100 mph got an unusual choice",
-      "link": "https://www.masslive.com/news/2026/11/some-drivers-now-have-a-gadget-in-their-car-that-wont-let-them-speed.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "Virginia is putting GPS speed limiters in the cars of some reckless drivers. Here’s how the devices work, what’s going wrong and which places could be next."
-    },
-    {
-      "id": "e13daf7d5231",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular rock frontman has stage 3 cancer: ‘Going to be a really tough year’",
-      "link": "https://www.masslive.com/entertainment/2026/11/popular-rock-frontman-has-stage-3-cancer-going-to-be-a-really-tough-year.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "He shared the news in a video on the band's social media pages."
-    },
-    {
-      "id": "0107d319bc81",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mitchell Robinson injury scare, new starters, no excuses (Celtics Notebook)",
-      "link": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-injury-scare-new-starters-no-excuses-celtics-notebook.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "The Celtics lost to the Rockets on Monday, but they didn't pick up any injury concerns coming out of the game."
-    },
-    {
-      "id": "49208e8ba06a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "James Hagens is ahead of schedule in his first full NHL season | Matt Vautour",
-      "link": "https://www.masslive.com/bruins/2026/11/bruins-rookie-james-hagens-rise-to-stardom-is-ahead-of-schedule.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "Coach Marco Sturm says Hagens is exceeding expectations, and the numbers back him up."
-    },
-    {
-      "id": "b475b324e583",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: How do I reconnect with my teen daughter after she witnessed my worst moment?",
-      "link": "https://www.masslive.com/advice/2026/11/asking-eric-how-do-i-reconnect-with-my-teen-daughter-after-she-witnessed-my-worst-moment.html",
-      "published": "2026-11-03T10:00:00+00:00",
-      "summary": "A day hasn’t passed that I don’t think of her. She doesn’t respond to any contact."
-    },
-    {
-      "id": "66e3423dee06",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Bruins coach Marco Sturm calls out star's lack of discipline",
-      "link": "https://www.masslive.com/bruins/2026/11/bruins-coach-marco-sturm-calls-out-one-of-his-leaders-for-lack-of-discipline.html",
-      "published": "2026-11-03T09:59:00+00:00",
-      "summary": "Marco Sturm called out Charlie McAvoy's lack of poise in the second period."
-    },
-    {
-      "id": "6551ce26b66b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Penalty shootout decided the WMass Class D boys soccer final between Gateway and Hopkins Academy",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/zachary-hess-saves-gateway-in-penalties-to-win-wmass-class-d-boys-soccer-title.html",
-      "published": "2026-11-03T05:28:19+00:00",
-      "summary": "Scoreless through regulation and two overtime periods, it took penalty kicks to decide the Western Mass. Class D boys soccer championships."
-    },
-    {
-      "id": "f42f2e87b1ce",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Marcus Smart still a pest: What we learned from Celtics’ loss to Rockets",
-      "link": "https://www.masslive.com/celtics/2026/11/marcus-smart-still-a-pest-what-we-learned-from-celtics-loss-to-rockets.html",
-      "published": "2026-11-03T05:17:20+00:00",
-      "summary": "The Celtics saw their five-game win streak snapped as they return to Boston for a rare home game in November."
-    },
-    {
-      "id": "5e6b39046c60",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Who went home on ‘Dancing With the Stars’ this week?",
-      "link": "https://www.masslive.com/entertainment/2026/11/who-went-home-on-dancing-with-the-stars-this-week.html",
-      "published": "2026-11-03T05:04:29+00:00",
-      "summary": "Monday, Nov. 2 was Disney night on 'Dancing With the Stars'"
-    },
-    {
-      "id": "f7085a0c0004",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "5 key moments from Northampton boys soccer's WMass Class A championship",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/will-senn-mcnallys-late-goal-secures-northampton-boys-soccer-wmass-class-a-crown-video.html",
-      "published": "2026-11-03T04:26:54+00:00",
-      "summary": "After coming up short in last season's Western Mass. final, the Blue Devils righted their wrongs to win the Class A title on Monday night."
-    },
-    {
-      "id": "94105395d3c5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Neemias Queta is Celtics’ Name to Know Player of the Game in loss to Rockets",
-      "link": "https://www.masslive.com/celtics/2026/11/neemias-queta-is-celtics-name-to-know-player-of-the-game-in-loss-to-rockets.html",
-      "published": "2026-11-03T04:15:21+00:00",
-      "summary": "Neemias Queta got his second straight start, though the Celtics fell to the Rockets on Monday."
-    },
-    {
-      "id": "f469fcc8ce2e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Powerball: See the winning numbers in Monday’s $793 million drawing",
-      "link": "https://www.masslive.com/lottery/2026/11/powerball-see-the-winning-numbers-in-mondays-793-million-drawing.html",
-      "published": "2026-11-03T04:06:39+00:00",
-      "summary": "Check your numbers to see if you hit it big in Monday's jackpot."
-    },
-    {
-      "id": "c58dd95ade27",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "4 takeaways as Celtics lose to Rockets, 5-game win streak snapped",
-      "link": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-rockets-5-game-win-streak-snapped.html",
-      "published": "2026-11-03T04:06:18+00:00",
-      "summary": "The Celtics saw their five-game win streak snapped to the Rockets, plus they saw old friend Marcus Smart who showed why he's still such a pest."
-    },
-    {
-      "id": "342c050827cf",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Balanced scoring carries UMass men’s basketball past Troy",
-      "link": "https://www.masslive.com/umassbasketball/2026/11/balanced-scoring-carries-umass-mens-basketball-past-troy.html",
-      "published": "2026-11-03T03:56:42+00:00",
-      "summary": "Balanced scoring led the UMass men's basketball team to a season-opening win against Troy."
-    },
-    {
-      "id": "0d72a52c94b5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Tuesday’s HS sport: Faythe Sobieski powers Franklin Tech girls soccer past St. Mary",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/tuesdays-hs-sports-roundup-faythe-sobieski-powers-franklin-tech-over-st-mary.html",
-      "published": "2026-11-03T03:18:06+00:00",
-      "summary": "The final day of the regular season gave teams one last chance to improve their state tournament resume. See how local teams closed it out."
-    },
-    {
-      "id": "d9313a9291b0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "UMass women's basketball can't complete comeback in opener against Marshall",
-      "link": "https://www.masslive.com/umassbasketball/2026/11/comeback-falls-short-against-marshall-for-umass-womens-basketball.html",
-      "published": "2026-11-03T02:44:37+00:00",
-      "summary": "The UMass women's basketball team faced a challenging defense in Marshall to open the season. The Minutewomen couldn't overcome an early deficit."
-    },
-    {
-      "id": "3aecb63bf9c5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mitchell Robinson injury: Celtics center returns vs. Rockets",
-      "link": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-injury-celtics-center-goes-to-locker-room-vs-rockets.html",
-      "published": "2026-11-03T02:15:51+00:00",
-      "summary": "Mitchell Robinson played four minutes before heading to the locker room Monday against the Rockets."
-    },
-    {
-      "id": "7c40bbb1069a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pope Francis girls soccer wins another WMass title in thriller",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/chelsea-brennan-guides-pope-francis-girls-soccer-to-wmass-class-a-crown-video.html",
-      "published": "2026-11-03T02:01:36+00:00",
-      "summary": "The Pope Francis girls soccer team earned its fourth regional crown in five years on Monday night with a thrilling win over Northampton."
-    },
-    {
-      "id": "35e5462f36fc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "State opens 1st veterans office in Western Mass. to provide one-stop service help",
-      "link": "https://www.masslive.com/westernmass/2026/11/state-opens-1st-veterans-office-in-western-mass-to-provide-one-stop-service-help.html",
-      "published": "2026-11-03T01:37:10+00:00",
-      "summary": "The office located at 1550 Main St. will provide walk-in assistance."
-    },
-    {
-      "id": "7bed7d189cf3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "KitchenAid’s farmhouse style stand mixer is $150 off at Target just in time for holiday baking season",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/kitchenaids-farmhouse-style-stand-mixer-is-150-off-at-target-just-in-time-for-holiday-baking-season.html",
-      "published": "2026-11-03T01:36:01+00:00",
-      "summary": "Target is offering the KitchenAid Hearth & Hand with Magnolia stand mixer for $349.99, a $150 discount, featuring a matte Fresh Linen finish and copper bowl exclusive to Target."
-    },
-    {
-      "id": "f2e9ac17179a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Monson sticks to it to score winning goal in WMass Class C girls soccer final",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/mackayla-st-georges-goal-lifts-monson-to-western-mass-class-c-title-over-drury.html",
-      "published": "2026-11-03T01:33:08+00:00",
-      "summary": "A Mackayla St. George goal helped crown the Mustangs Class C WMass champions for the second time in four seasons."
-    },
-    {
-      "id": "bdfa96f72f15",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "3 Springfield officers taken to hospital, suspect arrested after construction site incident",
-      "link": "https://www.masslive.com/westernmass/2026/11/3-springfield-police-officers-taken-to-hospital-suspect-arrested-after-construction-site-incident.html",
-      "published": "2026-11-03T00:47:12+00:00",
-      "summary": "A suspect punched a police officer during an incident at a construction site in Springfield Monday afternoon, according to police."
-    },
-    {
-      "id": "38405d982d04",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield police officers suffers head injury, 2 others injured in assault",
-      "link": "https://www.masslive.com/westernmass/2026/11/springfield-police-officers-suffers-head-injury-2-others-injured-in-assault.html",
-      "published": "2026-11-03T00:40:58+00:00",
-      "summary": "Christopher Jimenez, 27, was arrested in the attack."
-    },
-    {
-      "id": "172e9990a24e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Red Sox duo earns spots among BBWAA award finalists",
-      "link": "https://www.masslive.com/redsox/2026/11/two-red-sox-named-finalists-for-bbwaa-awards.html",
-      "published": "2026-11-03T00:35:14+00:00",
-      "summary": "Payton Tolle and Chad Tracy were named BBWAA award finalists, while Sonny Gray was snubbed for the AL Cy Young despite an 18-5 record and 2.72 ERA."
-    },
-    {
-      "id": "11c6479ec0a6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sixth runner decided Springfield Citywide Cross Country Championships",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/springfield-central-takes-down-pope-francis-at-citywide-cross-country-championships.html",
-      "published": "2026-11-03T00:26:20+00:00",
-      "summary": "In a dead-even tie once the race wrapped up, Springfield Central and Pope Francis went to their sixth runner to determine the winner."
     },
     {
       "id": "5e74da19f3eb",
