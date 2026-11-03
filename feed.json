@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:09:33+00:00",
+  "generated_at": "2026-11-03T02:09:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -277,6 +277,126 @@
       "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…"
     },
     {
+      "id": "7c40bbb1069a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pope Francis girls soccer wins another WMass title in thriller",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/chelsea-brennan-guides-pope-francis-girls-soccer-to-wmass-class-a-crown-video.html",
+      "published": "2026-11-03T02:01:36+00:00",
+      "summary": "The Pope Francis girls soccer team earned its fourth regional crown in five years on Monday night with a thrilling win over Northampton."
+    },
+    {
+      "id": "35e5462f36fc",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "State opens 1st veterans office in Western Mass. to provide one-stop service help",
+      "link": "https://www.masslive.com/westernmass/2026/11/state-opens-1st-veterans-office-in-western-mass-to-provide-one-stop-service-help.html",
+      "published": "2026-11-03T01:37:10+00:00",
+      "summary": "The office located at 1550 Main St. will provide walk-in assistance."
+    },
+    {
+      "id": "7bed7d189cf3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "KitchenAid’s farmhouse style stand mixer is $150 off at Target just in time for holiday baking season",
+      "link": "https://www.masslive.com/shopping-deals/2026/11/kitchenaids-farmhouse-style-stand-mixer-is-150-off-at-target-just-in-time-for-holiday-baking-season.html",
+      "published": "2026-11-03T01:36:01+00:00",
+      "summary": "Target is offering the KitchenAid Hearth & Hand with Magnolia stand mixer for $349.99, a $150 discount, featuring a matte Fresh Linen finish and copper bowl exclusive to Target."
+    },
+    {
+      "id": "f2e9ac17179a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Monson sticks to it to score winning goal in WMass Class C girls soccer final",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/mackayla-st-georges-goal-lifts-monson-to-western-mass-class-c-title-over-drury.html",
+      "published": "2026-11-03T01:33:08+00:00",
+      "summary": "A Mackayla St. George goal helped crown the Mustangs Class C WMass champions for the second time in four seasons."
+    },
+    {
+      "id": "bdfa96f72f15",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "3 Springfield officers taken to hospital, suspect arrested after construction site incident",
+      "link": "https://www.masslive.com/westernmass/2026/11/3-springfield-police-officers-taken-to-hospital-suspect-arrested-after-construction-site-incident.html",
+      "published": "2026-11-03T00:47:12+00:00",
+      "summary": "A suspect punched a police officer during an incident at a construction site in Springfield Monday afternoon, according to police."
+    },
+    {
+      "id": "38405d982d04",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Springfield police officers suffers head injury, 2 others injured in assault",
+      "link": "https://www.masslive.com/westernmass/2026/11/springfield-police-officers-suffers-head-injury-2-others-injured-in-assault.html",
+      "published": "2026-11-03T00:40:58+00:00",
+      "summary": "Christopher Jimenez, 27, was arrested in the attack."
+    },
+    {
+      "id": "172e9990a24e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox duo earns spots among BBWAA award finalists",
+      "link": "https://www.masslive.com/redsox/2026/11/two-red-sox-named-finalists-for-bbwaa-awards.html",
+      "published": "2026-11-03T00:35:14+00:00",
+      "summary": "Payton Tolle and Chad Tracy were named BBWAA award finalists, while Sonny Gray was snubbed for the AL Cy Young despite an 18-5 record and 2.72 ERA."
+    },
+    {
+      "id": "11c6479ec0a6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Sixth runner decided Springfield Citywide Cross Country Championships",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/springfield-central-takes-down-pope-francis-at-citywide-cross-country-championships.html",
+      "published": "2026-11-03T00:26:20+00:00",
+      "summary": "In a dead-even tie once the race wrapped up, Springfield Central and Pope Francis went to their sixth runner to determine the winner."
+    },
+    {
+      "id": "6c984b6a7a81",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox DFA pair of pitchers as offseason roster moves begin",
+      "link": "https://www.masslive.com/redsox/2026/11/red-sox-roster-crunch-leads-to-two-cuts-from-pitching-staff-including-longtime-reliever.html",
+      "published": "2026-11-03T00:15:37+00:00",
+      "summary": "Faced with a deadline to clean up their 40-man roster Monday afternoon, the Red Sox moved on from two high-powered arms by designating them for assignment"
+    },
+    {
+      "id": "4e47e41b84e7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "NFL Draft analyst reveals his top QB for 2027",
+      "link": "https://www.masslive.com/sports/2026/11/nfl-draft-analyst-reveals-his-top-qb-for-2027.html",
+      "published": "2026-11-03T00:12:47+00:00",
+      "summary": "Todd McShay reveals who the top quarterbacks are for the 2027 NFL Draft."
+    },
+    {
+      "id": "cdddc0efe71d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Investigators recover cockpit section from fatal jet crash off Nantucket",
+      "link": "https://www.masslive.com/news/2026/11/voice-recorder-cockpit-section-recovered-from-the-bermuda-boston-air-ambulance-crash.html",
+      "published": "2026-11-03T00:11:13+00:00",
+      "summary": "Canadian investigators recovered the cockpit voice recorder and partial cockpit of a medical jet that crashed south of Nantucket on Oct. 3, killing all six aboard."
+    },
+    {
+      "id": "ea99af5c65b3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "State trooper relieved of duty after being charged with breaking and entering",
+      "link": "https://www.masslive.com/news/2026/11/mass-state-police-trooper-relieved-of-duty-after-being-charged-with-breaking-and-entering.html",
+      "published": "2026-11-03T00:09:58+00:00",
+      "summary": "Boston police arrested a 37-year-old state trooper on a breaking and entering charge on Sunday."
+    },
+    {
       "id": "ae7329260fad",
       "source": "MassLive",
       "source_id": "masslive",
@@ -455,126 +575,6 @@
       "link": "https://www.masslive.com/westernmass/2026/11/springfields-forest-park-completes-fundraising-to-bring-back-train.html",
       "published": "2026-11-02T20:56:29+00:00",
       "summary": "The city raised $85,000 for the train."
-    },
-    {
-      "id": "bcc12124521e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Why is ‘Dancing With the Stars’ on Monday this week?",
-      "link": "https://www.masslive.com/entertainment/2026/11/why-is-dancing-with-the-stars-on-monday-this-week.html",
-      "published": "2026-11-02T20:54:07+00:00",
-      "summary": "'Dancing With the Stars' is getting a schedule shakeup this week"
-    },
-    {
-      "id": "fc42f4c5a804",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Baystate celebrates takeover of Mercy Medical Center, looks to bring in more patients",
-      "link": "https://www.masslive.com/westernmass/2026/11/baystate-celebrates-takeover-of-mercy-medical-center-looks-to-bring-in-more-patients.html",
-      "published": "2026-11-02T20:52:06+00:00",
-      "summary": "Mercy’s emergency room is not being used to its fullest, Baystate President and CEO Peter Banko said at a ceremony conducted at the new Baystate Mercy on Carew Street. He predicted that it would get back to 80,000 visits annually."
-    },
-    {
-      "id": "e1ea5eef0a05",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patient dies after stealing ambulance in Worcester, crashing it in West Boylston",
-      "link": "https://www.masslive.com/centralmass/2026/11/patient-dies-after-stealing-ambulance-in-worcester-and-crashing-it-in-west-boylston.html",
-      "published": "2026-11-02T20:51:57+00:00",
-      "summary": "A patient who stole a Coastal Medical Transport Systems ambulance in Worcester and crashed it in West Boylston has died from their injuries."
-    },
-    {
-      "id": "78ab7600c958",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield officer injured, suspect taken into custody in Liberty Heights incident",
-      "link": "https://www.masslive.com/westernmass/2026/11/springfield-officer-injured-suspect-taken-into-custody-in-liberty-heights-incident.html",
-      "published": "2026-11-02T20:33:29+00:00",
-      "summary": "The officer was not injured by gunfire."
-    },
-    {
-      "id": "a794ae8d189d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump claims he would solve Vietnam War in a week. But there’s one problem.",
-      "link": "https://www.masslive.com/politics/2026/11/trump-claims-he-would-solve-vietnam-war-in-a-week-but-theres-one-problem.html",
-      "published": "2026-11-02T20:22:49+00:00",
-      "summary": "President Donald Trump claimed on Sunday he would have won the Vietnam War in one week if he had been president."
-    },
-    {
-      "id": "9f9864075476",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Could Sandra Birchmore’s injuries come from hanging? Experts challenge prosecution",
-      "link": "https://www.masslive.com/news/2026/11/defense-experts-challenge-evidence-that-sandra-birchmore-was-strangled.html",
-      "published": "2026-11-02T20:09:31+00:00",
-      "summary": "A fractured bone in Sandra Birchmore’s neck has become a key piece of evidence in Matthew Farwell’s murder trial."
-    },
-    {
-      "id": "ee0b4b8629f8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The 'juicy cup' is coffee's next big thing, and Gen Z is leading the charge",
-      "link": "https://www.masslive.com/food/2026/11/espresso-meet-fruit-the-unexpected-coffee-trend-thats-already-taking-hold-at-major-cafes.html",
-      "published": "2026-11-02T20:05:40+00:00",
-      "summary": "From Starbucks' fruit-inspired drinks to rising banana bread latte searches, the fruity coffee movement has real momentum."
-    },
-    {
-      "id": "83305c3ac0a3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "$1.2B at stake in Powerball, Mega Millions drawings this week",
-      "link": "https://www.masslive.com/lottery/2026/11/more-than-12b-up-for-grabs-in-lottery-drawings-this-week.html",
-      "published": "2026-11-02T20:00:08+00:00",
-      "summary": "Feeling lucky? It could be a big week for lottery players, with two major drawings just around the corner."
-    },
-    {
-      "id": "bd7721e9113c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Veteran seeks stranger who gave him a Costco gift card as thanks for his service",
-      "link": "https://www.masslive.com/entertainment/2026/11/veteran-seeks-stranger-who-handed-him-a-gift-at-costco-as-thanks-for-his-service.html",
-      "published": "2026-11-02T19:58:12+00:00",
-      "summary": "“This is the America I love,” he said."
-    },
-    {
-      "id": "0f420db0f1f1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2 killed in pool electrocution at a hotel in India",
-      "link": "https://www.masslive.com/news/2026/11/2-killed-in-pool-electrocution-at-hotel.html",
-      "published": "2026-11-02T19:56:16+00:00",
-      "summary": "Two people died after an electric current entered a pool at the Conrad Bengaluru hotel in India, while two others survived."
-    },
-    {
-      "id": "ae2333cd8b90",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Officials identify human remains found in New Hampshire power line corridor",
-      "link": "https://www.masslive.com/news/2026/11/officials-identify-human-remains-found-in-new-hampshire-power-line-corridor.html",
-      "published": "2026-11-02T19:55:42+00:00",
-      "summary": "Human remains found by a hunter in Bow, New Hampshire, Saturday morning have been identified as belonging to a 31-year-old man."
-    },
-    {
-      "id": "fcfbb1dbf245",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "European countries hit by apparent cyberattacks",
-      "link": "https://www.masslive.com/news/2026/11/european-countries-hit-by-apparent-cyberattacks-targeting-supermarket-freezers.html",
-      "published": "2026-11-02T19:46:38+00:00",
-      "summary": "This follows last month's attacks on stores across France."
     },
     {
       "id": "c0b0ac944847",
