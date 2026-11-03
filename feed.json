@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:11:26+00:00",
+  "generated_at": "2026-11-03T06:07:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -277,6 +277,56 @@
       "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…"
     },
     {
+      "id": "6551ce26b66b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Penalty shootout decided the WMass Class D boys soccer final between Gateway and Hopkins Academy",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/zachary-hess-saves-gateway-in-penalties-to-win-wmass-class-d-boys-soccer-title.html",
+      "published": "2026-11-03T05:28:19+00:00",
+      "summary": "Scoreless through regulation and two overtime periods, it took penalty kicks to decide the Western Mass. Class D boys soccer championships."
+    },
+    {
+      "id": "f42f2e87b1ce",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Marcus Smart still a pest: What we learned from Celtics’ loss to Rockets",
+      "link": "https://www.masslive.com/celtics/2026/11/marcus-smart-still-a-pest-what-we-learned-from-celtics-loss-to-rockets.html",
+      "published": "2026-11-03T05:17:20+00:00",
+      "summary": "The Celtics saw their five-game win streak snapped as they return to Boston for a rare home game in November."
+    },
+    {
+      "id": "5e6b39046c60",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Who went home on ‘Dancing With the Stars’ this week?",
+      "link": "https://www.masslive.com/entertainment/2026/11/who-went-home-on-dancing-with-the-stars-this-week.html",
+      "published": "2026-11-03T05:04:29+00:00",
+      "summary": "Monday, Nov. 2 was Disney night on 'Dancing With the Stars'"
+    },
+    {
+      "id": "f7085a0c0004",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "5 key moments from Northampton boys soccer's WMass Class A championship",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/will-senn-mcnallys-late-goal-secures-northampton-boys-soccer-wmass-class-a-crown-video.html",
+      "published": "2026-11-03T04:26:54+00:00",
+      "summary": "After coming up short in last season's Western Mass. final, the Blue Devils righted their wrongs to win the Class A title on Monday night."
+    },
+    {
+      "id": "94105395d3c5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Neemias Queta is Celtics’ Name to Know Player of the Game in loss to Rockets",
+      "link": "https://www.masslive.com/celtics/2026/11/neemias-queta-is-celtics-name-to-know-player-of-the-game-in-loss-to-rockets.html",
+      "published": "2026-11-03T04:15:21+00:00",
+      "summary": "Neemias Queta got his second straight start, though the Celtics fell to the Rockets on Monday."
+    },
+    {
       "id": "f469fcc8ce2e",
       "source": "MassLive",
       "source_id": "masslive",
@@ -525,56 +575,6 @@
       "link": "https://www.masslive.com/news/2026/11/family-including-2-young-kids-on-learjet-that-crashed-in-florida-en-route-to-bahamas-quite-a-blow.html",
       "published": "2026-11-02T22:25:18+00:00",
       "summary": "The family of the deceased released statement on social media."
-    },
-    {
-      "id": "31571772a4cf",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Judge OKs forced medical procedure for Hampden inmate who swallowed 2 dozen pencils",
-      "link": "https://www.masslive.com/westernmass/2026/11/judge-oks-forced-medical-procedure-for-hampden-inmate-who-swallowed-2-dozen-pencils.html",
-      "published": "2026-11-02T22:11:14+00:00",
-      "summary": "Prior to the latest incident, he had inserted objects into his urethra, like foil from a hospital juice container, pieces of floor tile and pens."
-    },
-    {
-      "id": "7dec92ef2d4a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. ‘homeless church’ will dissolve tent community on its own property after order from city",
-      "link": "https://www.masslive.com/news/2026/11/lawrence-homeless-church-will-dissolve-tent-community-after-cease-and-desist-from-city.html",
-      "published": "2026-11-02T22:04:06+00:00",
-      "summary": "House of Mercy Church in Lawrence was ordered to dismantle a organized tent community it established on private property, displacing roughly 60 homeless residents who had found stability there."
-    },
-    {
-      "id": "bb7aa00690f2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "This Le Creuset Dutch oven is made for Thanksgiving — and right now it’s on sale with a free gift",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/this-le-creuset-dutch-oven-is-made-for-thanksgiving-and-right-now-its-on-sale-with-a-free-gift.html",
-      "published": "2026-11-02T21:59:01+00:00",
-      "summary": "Le Creuset's 6.5-qt. Round Deep Oven is $289.99, saving $170, and includes free soup bowls with code SOUPSEASON."
-    },
-    {
-      "id": "c3d6cc06fca2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Marlborough middle schooler unresponsive after being injured during recess",
-      "link": "https://www.masslive.com/centralmass/2026/11/marlborough-middle-schooler-unresponsive-after-being-injured-during-recess.html",
-      "published": "2026-11-02T21:39:35+00:00",
-      "summary": "A Marlborough sixth grader was airlifted to a hospital on Monday after becoming unresponsive during recess at Whitcomb Middle School."
-    },
-    {
-      "id": "a03473b62cd5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Bill Belichick reacts to reported Jordon Hudson breakup",
-      "link": "https://www.masslive.com/sports/2026/11/bill-belichick-responds-to-question-about-reported-jordon-hudson-breakup.html",
-      "published": "2026-11-02T21:37:38+00:00",
-      "summary": "The Tar Heels coach responded pretty much like you would figure."
     },
     {
       "id": "c0b0ac944847",
