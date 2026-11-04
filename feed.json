@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:11:58+00:00",
+  "generated_at": "2026-11-04T12:10:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 4,
+      "count": 5,
       "errors": []
     },
     "omnissa": {
@@ -289,6 +289,26 @@
       "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II."
     },
     {
+      "id": "f11d9a22fb66",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Google hasn’t figured out how to make AI pay like its search engine",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "published": "2026-11-04T12:00:00+00:00",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in…"
+    },
+    {
+      "id": "e611f86acbc7",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The Legend of Zelda: Ocarina of Time never gets old",
+      "link": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "Breath of the Wild changed everything. Two decades after The Legend of Zelda made the transformational shift to 3D, Breath of the Wild reinvigorated the franchise with an open-ended adventure that was built around player freedom and expression. Instead of following a set path, players could go…"
+    },
+    {
       "id": "1965c7f85c2d",
       "source": "The Verge",
       "source_id": "verge",
@@ -369,324 +389,334 @@
       "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious…"
     },
     {
-      "id": "db371fb8cc2d",
-      "source": "The Verge",
-      "source_id": "verge",
+      "id": "05aa581d001b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular children’s clothing chain reportedly preparing for bankruptcy, may close all stores",
+      "link": "https://www.masslive.com/news/2026/11/popular-childrens-clothing-chain-reportedly-preparing-for-bankruptcy-may-close-all-stores.html",
+      "published": "2026-11-04T12:00:01+00:00",
+      "summary": "A bankruptcy filing could reportedly come as early as next week."
+    },
+    {
+      "id": "3c628c38fff3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Check your account: Millions of people will get Social Security payments early next week",
+      "link": "https://www.masslive.com/news/2026/11/check-your-account-millions-of-people-will-get-social-security-payments-early-next-week.html",
+      "published": "2026-11-04T12:00:01+00:00",
+      "summary": "There are several payment changes coming for remainder of 2026."
+    },
+    {
+      "id": "68292a7017b7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The ride Walt Disney opened in 1955 is getting its biggest change yet",
+      "link": "https://www.masslive.com/news/2026/11/disneylands-oldest-car-ride-is-about-to-sound-very-different.html",
+      "published": "2026-11-04T12:00:00+00:00",
+      "summary": "Disneyland’s Autopia is dropping gas engines after 71 years. Here’s why California stepped in, when the deadline hits and how the new cars will work."
+    },
+    {
+      "id": "920b7774b716",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Doctor: Why your water bottle habit may be overblown",
+      "link": "https://www.masslive.com/advice/2026/11/dear-doctor-have-we-become-a-little-too-obsessed-with-drinking-water-all-day.html",
+      "published": "2026-11-04T12:00:00+00:00",
+      "summary": "Dr. Roach addresses modern hydration habits, noting water obsession may be overblown, and advises a 79-year-old knee replacement patient to seek imaging for post-surgery pain."
+    },
+    {
+      "id": "dfa439ca6052",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Man found dead at Connecticut polling place",
+      "link": "https://www.masslive.com/news/2026/11/man-found-dead-at-connecticut-polling-place.html",
+      "published": "2026-11-04T11:54:36+00:00",
+      "summary": "Officials called it a “police-related incident.”"
+    },
+    {
+      "id": "765218f4a8a7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Some Mass. ballot questions have yet to be decided. Here's what they are",
+      "link": "https://www.masslive.com/election/2026/11/these-are-the-mass-ballot-questions-that-still-need-to-be-decided.html",
+      "published": "2026-11-04T11:53:14+00:00",
+      "summary": "Two Massachusetts ballot questions on tax refunds and housing lot sizes remained undecided Wednesday morning, with both too close to call at roughly 80% of votes counted."
+    },
+    {
+      "id": "c3d49eb4135f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How Red Sox prospects from 2026 Draft did in their debuts (and other notes)",
+      "link": "https://www.masslive.com/redsox/2026/11/how-red-sox-prospects-from-2026-draft-did-in-their-debuts-and-other-notes.html",
+      "published": "2026-11-04T11:44:37+00:00",
+      "summary": "Six of the 20 players who the Red Sox selected in the 2026 Draft made their professional debuts before the season ended. Here's how they did."
+    },
+    {
+      "id": "d13d73e5a4cd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Near 80-degree heat possible as unusual November warmth grips Mass.",
+      "link": "https://www.masslive.com/weather/2026/11/mass-temps-near-80-degrees-as-unusual-november-warmth-grips-state.html",
+      "published": "2026-11-04T11:39:57+00:00",
+      "summary": "Temperatures across Massachusetts may approach record November highs in the mid- to upper 70s Wednesday, before heavy rain moves in this weekend. Here's what to know."
+    },
+    {
+      "id": "cd1416103ffb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pa. city bill would tax robot services",
+      "link": "https://www.masslive.com/news/2026/11/bill-would-tax-robot-services-driverless-taxis.html",
+      "published": "2026-11-04T11:30:00+00:00",
+      "summary": "People are punching, kicking, and even trying to throw robots all over the country."
+    },
+    {
+      "id": "99f3aeeab467",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "5 new social casinos with free Sweeps Coins players are opening right now",
+      "link": "https://www.masslive.com/sweepstakes/2026/11/5-new-social-casinos-with-free-sweeps-coins-players-are-opening-right-now.html",
+      "published": "2026-11-04T11:20:48+00:00",
+      "summary": "Meet five new social casinos attracting attention in 2026. See what each platform offers, from free Sweeps Coins and game variety to bonuses and features."
+    },
+    {
+      "id": "83e8c907ad65",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Are Trump’s proposed $5,000 checks still coming?",
+      "link": "https://www.masslive.com/politics/2026/11/is-trumps-5000-check-promise-still-happening.html",
+      "published": "2026-11-04T11:15:00+00:00",
+      "summary": "The president's pledge hinged on Republicans winning Congress."
+    },
+    {
+      "id": "e6cb46c221b1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "No music, no name brands, prices lower than Walmart — here's the Aldi model explained",
+      "link": "https://www.masslive.com/food/2026/11/the-clever-grocery-store-trick-that-saves-you-money-before-you-even-put-food-in-your-cart.html",
+      "published": "2026-11-04T11:15:00+00:00",
+      "summary": "Aldi's no-frills model — no music, no name brands, products left in their shipping boxes — has helped it rack up $29 billion in U.S. sales."
+    },
+    {
+      "id": "25359f5b8ba2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Kansas elects first Democrat Senator in 94 years after Trump’s comments",
+      "link": "https://www.masslive.com/politics/2026/11/kansas-elects-first-democratic-senator-in-94-years-after-trumps-comments.html",
+      "published": "2026-11-04T11:10:08+00:00",
+      "summary": "President Trump wasn't even born when Kansas last elected a Democrat to the U.S. Senate."
+    },
+    {
+      "id": "aee6dfc6671c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield faces budget strain from rising special education expenses",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-faces-budget-strain-from-rising-special-education-expenses.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Westfield's School Committee heard that special education out-of-district costs are driving a budget deficit, with officials urging state intervention to address rising expenses."
+    },
+    {
+      "id": "d12ead99fa19",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "From penalty shootouts to postseason streaks: Western Mass. fall championship recap",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/western-mass-fall-sports-recapping-all-19-regional-championships.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Western Massachusetts crowned 19 fall regional champions over the past several days. Catch up on all the title games and look ahead to the cross country championships."
+    },
+    {
+      "id": "224cf27c2b5b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Southwick CAO Nicole Parker's contract status remains unclear",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/southwick-cao-nicole-parkers-contract-status-remains-unclear.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "While Nicole Parker, Southwick's chief administrative officer still has seven months left on the three-year contract she signed in May 2024, recent events indicate she’ll leave the town’s employ before June 30, 2027."
+    },
+    {
+      "id": "e9aa885941db",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Former Westfield man sentenced to two years' probation for sexual assaults",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/former-westfield-man-sentenced-to-two-years-probation-for-sexual-assaults.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "A man formally of Westfield who was charged with five counts of indecent assault and battery for sexually assaulting an adult woman on a public transportation bus last December was sentenced to two years of supervised probation after agreeing to the state’s offer of continuing three of the counts…"
+    },
+    {
+      "id": "509b105cfd48",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Housing prices up in 78% of metro areas, here’s where prices have jumped the most",
+      "link": "https://www.masslive.com/news/2026/11/housing-prices-up-in-78-of-metro-areas-heres-where-prices-have-jumped-the-most.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Buyers in three major metro areas have seen prices jump by more than 10% year-over-year according to the National Association of Realtors."
+    },
+    {
+      "id": "b425dab40cec",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "MassLive releases final statewide Top 25 football regular season media poll",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/masslive-releases-final-statewide-top-25-football-regular-season-media-poll.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Three teams joined the rankings in the final media poll of the regular season."
+    },
+    {
+      "id": "2aa1ea7d1c38",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pepsi and Walmart just launched a $20 holiday baking kit — and it comes with a cardboard oven",
+      "link": "https://www.masslive.com/food/2026/11/this-clever-20-pepsi-holiday-kit-from-walmart-includes-a-surprise-you-wont-expect.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "The limited-edition kit pairs Pepsi Vanilla & Cream with sugar cookie mix, icing and festive kitchen accessories."
+    },
+    {
+      "id": "a807dcf87650",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Swipe fees: Dating apps can cost up to $600 a year, report finds",
+      "link": "https://www.masslive.com/news/2026/11/swipe-fees-dating-apps-can-cost-up-to-600-a-year-report-finds.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Dating apps are currently experiencing a user fatigue."
+    },
+    {
+      "id": "b4494106bab6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Defense to rest its case Wednesday at trial over Sandra Birchmore’s death",
+      "link": "https://www.masslive.com/news/2026/11/defense-to-rest-its-case-wednesday-at-trial-over-sandra-birchmores-death.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Former Stoughton police officer Matthew Farwell's defense is set to call two witnesses on Wednesday: a former medical examiner and a digital forensics expert."
+    },
+    {
+      "id": "c5f9c0703de4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Binance hack: How to spot fake support messages after the $6.3 billion theft",
+      "link": "https://www.masslive.com/news/2026/11/binance-hack-how-to-spot-fake-support-messages-after-the-63-billion-theft.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "After the $6.3 billion Binance hack, scammers may pose as support staff. Learn how to spot fake messages and protect your cryptocurrency account."
+    },
+    {
+      "id": "69510750c0c0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Here are 21 football players to watch in the D1 state tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/21-players-to-watch-in-the-division-1-football-state-tournament.html",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "The list includes Power 4 commits, conference players of the year and rising stars. Don't miss these 21 high school football players to watch in the D1 state tournament."
+    },
+    {
+      "id": "280e199ce0e5",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "This South Hadley sophomore runner is already an All-American",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/south-hadley-sophomore-trevor-sullivan-building-an-all-american-distance-running-resume.html",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "Earning local and national acclaim, sophomore Trevor Sullivan marks the next generation of exceptional runners while posting tips and times online."
+    },
+    {
+      "id": "df8ef2d9cffe",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with $1.25 bet",
+      "link": "https://www.masslive.com/casinos/2026/11/mass-casino-player-wins-jackpot-prize-with-125-bet.html",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "a1ebde8fbaf0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Today’s horoscope: Is today your birthday? - Pace yourself, concentrate on what’s doable (Nov. 4, 2026)",
+      "link": "https://www.masslive.com/advice/2026/11/todays-horoscope-is-today-your-birthday-pace-yourself-concentrate-on-whats-doable-nov-4-2026.html",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "Celebrities born on this day: Matthew McConaughey, 57; Ralph Macchio, 65; Jeff Probst, 65; Kathy Griffin, 66"
+    },
+    {
+      "id": "edc392209222",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Abby: Decades after workplace sexual abuse, I’m still struggling to move forward",
+      "link": "https://www.masslive.com/advice/2026/11/dear-abby-decades-after-workplace-sexual-abuse-im-still-struggling-to-move-forward.html",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "I left the job a year later after another incident occurred and the company swept it under the rug."
+    },
+    {
+      "id": "a2eef4792406",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Social Security retirement cuts could exceed 20%",
+      "link": "https://www.masslive.com/news/2026/11/social-security-retirement-cuts-could-exceed-20.html",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "Retirement funds might run out by 2032."
+    },
+    {
+      "id": "6b0e68c0d6dd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Actress reacts to heartbreaking Netflix show cancellation: ‘I don’t understand’",
+      "link": "https://www.masslive.com/entertainment/2026/11/actress-reacts-to-heartbreaking-netflix-show-cancellation-i-dont-understand.html",
+      "published": "2026-11-04T10:35:00+00:00",
+      "summary": "The star of a canceled Netflix show is speaking out about the 'sad' decision"
+    },
+    {
+      "id": "9726794b0c18",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
       "category": "tech",
-      "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-      "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
-      "published": "2026-11-03T21:21:04+00:00",
-      "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that…"
+      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+      "link": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
+      "published": "2026-11-04T10:54:48+00:00",
+      "summary": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on SecurityWeek ."
     },
     {
-      "id": "39cfcbde58ed",
-      "source": "The Verge",
-      "source_id": "verge",
+      "id": "493913be8a05",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
       "category": "tech",
-      "title": "Those Jeff Bezos hair transplant photos are very fake",
-      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "published": "2026-11-03T21:01:07+00:00",
-      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have…"
+      "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
+      "link": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
+      "published": "2026-11-04T10:38:46+00:00",
+      "summary": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek ."
     },
     {
-      "id": "f88d5457bc2f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Gut-health soda is here, and Coca-Cola is the latest brand to get in on the trend",
-      "link": "https://www.masslive.com/food/2026/11/coca-cola-is-jumping-into-the-gut-health-trend-with-a-bold-new-lineup-of-sodas.html",
-      "published": "2026-11-04T10:00:00+00:00",
-      "summary": "Each drink contains 6 grams of prebiotic fiber, with a wider rollout depending on how consumers respond."
-    },
-    {
-      "id": "7b06f248e807",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Plan ahead: All banks will be closed for multiple days this month",
-      "link": "https://www.masslive.com/news/2026/11/plan-ahead-all-banks-will-be-closed-for-multiple-days-this-month.html",
-      "published": "2026-11-04T10:00:00+00:00",
-      "summary": "Here is everything you need to know about banking hours coming up this month for Veterans Day and Thanksgiving Day 2026"
-    },
-    {
-      "id": "0d7f378e1994",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Beloved rock frontman’s cancer news has prayers pouring in: ‘You will never be alone’",
-      "link": "https://www.masslive.com/entertainment/2026/11/beloved-rock-frontmans-cancer-news-has-prayers-pouring-in-you-will-never-be-alone.html",
-      "published": "2026-11-04T10:00:00+00:00",
-      "summary": "He shared the news on social media."
-    },
-    {
-      "id": "1b04ba856d08",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A Queens renter washed dishes by hand to save power. Then she learned whose electricity she was paying for",
-      "link": "https://www.masslive.com/news/2026/11/she-cut-back-on-ac-for-10-years-the-bill-was-never-hers.html",
-      "published": "2026-11-04T10:00:00+00:00",
-      "summary": "Queens woman paid her upstairs neighbor’s Con Edison bill for 10 years. Here’s how the mix-up was found and why only 6 years were refunded."
-    },
-    {
-      "id": "da0ab0a424ee",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Asking Eric: Quarterly dinners lost their spark when most everyone just stopped eating",
-      "link": "https://www.masslive.com/advice/2026/11/asking-eric-quarterly-dinners-lost-their-spark-when-most-everyone-just-stopped-eating.html",
-      "published": "2026-11-04T10:00:00+00:00",
-      "summary": "Sometimes the waitresses see the others done and we feel we have to be done too."
-    },
-    {
-      "id": "4a5a88d80c0d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music’s disturbing divorce trend: These couples have split up",
-      "link": "https://www.masslive.com/entertainment/2026/11/country-musics-disturbing-divorce-trend-these-couples-have-split-up.html",
-      "published": "2026-11-04T10:00:00+00:00",
-      "summary": "Some of country's most popular couples have split up."
-    },
-    {
-      "id": "065cffa4923a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Garden Notes: Nov. 4, 2026",
-      "link": "https://www.masslive.com/living/2026/11/garden-notes-nov-4-2026.html",
-      "published": "2026-11-04T08:00:00+00:00",
-      "summary": "Garden Notes"
-    },
-    {
-      "id": "4788455e5ad0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. voters keep party primaries, rejecting Question 3",
-      "link": "https://www.masslive.com/politics/2026/11/ballot-question-3-fails-as-voters-keep-party-primaries-in-mass.html",
-      "published": "2026-11-04T07:25:05+00:00",
-      "summary": "The measure would have instituted a single, all-party primary ballot for state offices starting in 2028."
-    },
-    {
-      "id": "085420734bde",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. voters back landmark gun law with nearly 69% approval",
-      "link": "https://www.masslive.com/politics/2026/11/mass-voters-preserve-landmark-gun-reform-law-in-question-9-vote.html",
-      "published": "2026-11-04T05:37:39+00:00",
-      "summary": "Massachusetts voters approved ballot question 9 to preserve the wide-reaching gun reform law passed in 2024."
-    },
-    {
-      "id": "bf30f8a4705c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Voters keep recreational marijuana legal in Mass.",
-      "link": "https://www.masslive.com/politics/2026/11/voters-reject-ballot-question-8-which-would-have-repealed-recreational-marijuana-law.html",
-      "published": "2026-11-04T05:21:58+00:00",
-      "summary": "The ballot question would not have made it illegal for adults to possess marijuana, and would not have impacted medical marijuana dispensaries."
-    },
-    {
-      "id": "8ca1c2209eed",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Voters pass Ballot Question 1, expanding public records law",
-      "link": "https://www.masslive.com/politics/2026/11/voters-pass-ballot-question-1-expanding-public-records-law.html",
-      "published": "2026-11-04T04:59:51+00:00",
-      "summary": "Ballot question 1 would subject the governor’s office and state Legislature to public records law."
-    },
-    {
-      "id": "d8486051d687",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Powerful Dem in terse, 2-word warning to Trump amid shellacking of GOP",
-      "link": "https://www.masslive.com/politics/2026/11/powerful-dem-in-terse-2-word-warning-to-trump-amid-shellacking-of-gop.html",
-      "published": "2026-11-04T04:59:50+00:00",
-      "summary": "Dem-led House set to launch raft of probes of president."
-    },
-    {
-      "id": "6ac29ea91ad4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "First Native American, black governors elected in sweeping historic midterms",
-      "link": "https://www.masslive.com/native-american-news/2026/11/first-native-american-black-governors-elected-in-sweeping-historic-midterms.html",
-      "published": "2026-11-04T04:53:39+00:00",
-      "summary": "Midterms bringing in wave of historic firsts for some states — and for the nation."
-    },
-    {
-      "id": "a1eba04b2a59",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "States vote on abortion, redistricting and voter ID mandates",
-      "link": "https://www.masslive.com/politics/2026/11/states-vote-on-abortion-redistricting-and-voter-id-mandates.html",
-      "published": "2026-11-04T04:48:13+00:00",
-      "summary": "Nationwide, voters were deciding 145 state ballot questions."
-    },
-    {
-      "id": "649bee682322",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "South Carolina race shocks Republicans in major blow to Trump: ‘Brutal’",
-      "link": "https://www.masslive.com/politics/2026/11/south-carolina-race-shocks-republicans-in-major-blow-to-trump-brutal.html",
-      "published": "2026-11-04T04:39:43+00:00",
-      "summary": "Graham’s seat was seen as a safe Republican seat until a New York Times/Siena College poll found her neck-and-neck with Andrews, with about a week to go before Election Day."
-    },
-    {
-      "id": "632d65015a06",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Unofficial tallies show Duffy fending off 5th Hampden seat challenge from Candelario Gonzalez",
-      "link": "https://www.masslive.com/westernmass/2026/11/unofficial-tallies-show-duffy-fending-off-5th-hampden-seat-challenge-from-candelario-gonzalez.html",
-      "published": "2026-11-04T04:27:23+00:00",
-      "summary": "The incumbent Democrat received more than 71% of the vote in Chicopee, while unofficial results from Holyoke remained unavailable late Tuesday."
-    },
-    {
-      "id": "b7ff5f7fb2fb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump breaks silence as midterm results come in",
-      "link": "https://www.masslive.com/politics/2026/11/trump-breaks-silence-as-midterm-results-come-in.html",
-      "published": "2026-11-04T04:21:00+00:00",
-      "summary": "The president said this one thing is costing his party."
-    },
-    {
-      "id": "9ca985ce90b0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mega Millions numbers: Are you the lucky winner of Tuesday’s $482 million jackpot?",
-      "link": "https://www.masslive.com/lottery/2026/11/mega-millions-numbers-are-you-the-lucky-winner-of-tuesdays-482-million-jackpot.html",
-      "published": "2026-11-04T04:10:30+00:00",
-      "summary": "Check your numbers to see if you hit it big in Tuesday's jackpot."
-    },
-    {
-      "id": "8023280c9536",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Early returns suggest Rep. Ashe keeps 2nd Hampden seat for 10th term",
-      "link": "https://www.masslive.com/westernmass/2026/11/early-returns-suggest-rep-ashe-keeps-2nd-hampden-seat-for-10th-term.html",
-      "published": "2026-11-04T04:08:12+00:00",
-      "summary": "Ashe has prevailed in all nine of the general elections in which he has run. On Tuesday evening, early results suggested he would notch his tenth."
-    },
-    {
-      "id": "a91741470540",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Incumbent state Rep. Nicholas Boldyga wins 3rd Hampden; opponents concede",
-      "link": "https://www.masslive.com/westernmass/2026/11/incumbent-state-rep-nicholas-boldyga-wins-3rd-hampden-opponents-concede.html",
-      "published": "2026-11-04T04:07:16+00:00",
-      "summary": "“We’re Republican, and we think he’s the best candidate, and he’s the incumbent,” said John Hollywood, a business owner, while holding a “Re-elect Nick Boldyga” sign at the James Clark School in the town."
-    },
-    {
-      "id": "2d5b5b24527c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "The Mass. GOP braced for a beating on Election Day. It got one, and Trump is the 'why'",
-      "link": "https://www.masslive.com/politics/2026/11/theyre-fed-up-with-washington-mass-voters-made-republicans-pay-for-trump.html",
-      "published": "2026-11-04T03:56:47+00:00",
-      "summary": "The Mass. GOP went into Tuesday expecting to lose and lost everything. Voters were worried about prices and the economy. And they blamed the White House."
-    },
-    {
-      "id": "513ade816d23",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dan Koh elected to Congress in Mass. 6th District",
-      "link": "https://www.masslive.com/politics/2026/11/dan-koh-elected-to-congress-in-mass-6th-district.html",
-      "published": "2026-11-04T03:34:57+00:00",
-      "summary": "Democrat Dan Koh has won election to Congress representing the Massachusetts 6th District, replacing outgoing U.S. Rep. Seth Moulton."
-    },
-    {
-      "id": "c260baa09d35",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Unofficial results: State Rep. Kelly Pease secures 4th term in 4th Hampden race",
-      "link": "https://www.masslive.com/westernmass/2026/11/unofficial-results-state-rep-kelly-pease-secures-4th-term-in-4th-hampden-race.html",
-      "published": "2026-11-04T03:31:14+00:00",
-      "summary": "Pease said he will continue to advocate for more funding for rural schools and more local aid from the state for cities and towns."
-    },
-    {
-      "id": "2b0b944a380f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Amid huge GOP losses, White House scorned for saying Trump wasn’t on ballot",
-      "link": "https://www.masslive.com/politics/2026/11/amid-huge-gop-losses-white-house-scorned-for-saying-trump-wasnt-on-ballot.html",
-      "published": "2026-11-04T03:24:51+00:00",
-      "summary": "President had beseeched voters to pretend he was on the ballot."
-    },
-    {
-      "id": "9f6465e4a755",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Brookline, BC High boys soccer teams head into playoffs with scoreless draw",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/brookline-bc-high-boys-soccer-head-into-the-playoffs-with-dramatic-scoreless-draw.html",
-      "published": "2026-11-04T03:16:37+00:00",
-      "summary": "The Eagles and Warriors closed out their regular seasons with a scoreless tie ahead of postseason action."
-    },
-    {
-      "id": "d8453628b3e4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Poll workers in Holyoke report turnout far above primary levels",
-      "link": "https://www.masslive.com/westernmass/2026/11/poll-workers-in-holyoke-report-turnout-far-above-primary-levels.html",
-      "published": "2026-11-04T03:13:40+00:00",
-      "summary": "Voter turnout in Holyoke far exceeded primary levels, with poll workers reporting two to three times more ballots cast across multiple wards."
-    },
-    {
-      "id": "875c47c370f3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rep. Richard Neal wins return to House, key chairmanship",
-      "link": "https://www.masslive.com/westernmass/2026/11/rep-richard-neal-wins-return-to-house-key-chairmanship.html",
-      "published": "2026-11-04T03:10:31+00:00",
-      "summary": "Richard Neal, 77, has been cagey when asked if he’ll run again, saying only that he has more elections behind him than in front of him."
-    },
-    {
-      "id": "8ba31aad0b8e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Neal wins reelection to U.S. House in Mass. 1st Congressional District",
-      "link": "https://www.masslive.com/news/2026/11/democrat-richard-neal-wins-reelection-to-us-house-in-mass-1st-congressional-district.html",
-      "published": "2026-11-04T02:49:35+00:00",
-      "summary": "Neal, a 38-year House veteran, defeated independent challenger Nadia Milleron to retain his Massachusetts 1st Congressional District seat."
-    },
-    {
-      "id": "574edb0e9ac3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "New Hampshire Democrat makes history with Senate victory: ‘I’m the luckiest guy’",
-      "link": "https://www.masslive.com/politics/2026/11/new-hampshire-democrat-makes-history-with-senate-victory-im-the-luckiest-guy.html",
-      "published": "2026-11-04T02:47:43+00:00",
-      "summary": ".Chris Pappas (D-N.H.) made history on Tuesday night by becoming the first openly gay man elected to the U.S. Senate."
-    },
-    {
-      "id": "bff72be485aa",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Amid Dem Election Night optimism, Jeffries circumspect on relationship with Trump",
-      "link": "https://www.masslive.com/politics/2026/11/amid-dem-election-night-optimism-jeffries-circumspect-on-relationship-with-trump.html",
-      "published": "2026-11-04T02:40:38+00:00",
-      "summary": "NY lawmaker is poised to be new Speaker of the House."
+      "id": "76f398aa937f",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
+      "link": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
+      "published": "2026-11-04T10:36:32+00:00",
+      "summary": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek ."
     },
     {
       "id": "68960d2138eb",
@@ -759,34 +789,14 @@
       "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on…"
     },
     {
-      "id": "402458e4dacc",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
+      "id": "288697ef9dd0",
+      "source": "Petri",
+      "source_id": "petri",
       "category": "tech",
-      "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
-      "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
-      "published": "2026-11-03T09:22:09+00:00",
-      "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek ."
-    },
-    {
-      "id": "0658f100b664",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
-      "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
-      "published": "2026-11-03T08:49:03+00:00",
-      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek ."
-    },
-    {
-      "id": "f9c39fb133ac",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
-      "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
-      "published": "2026-11-03T07:43:24+00:00",
-      "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek ."
+      "title": "Microsoft Optimizes Windows 11 Version 26H2 for PCs With 8GB of RAM",
+      "link": "https://petri.com/microsoft-optimizes-windows-11-26h2-8gb-pcs/",
+      "published": "2026-11-04T12:09:42+00:00",
+      "summary": "When available memory runs low, Windows must move active data from RAM to slower storage, which causes applications and browser tabs to reload when users return to them. This can make everyday tasks feel less responsive, especially on lower-cost devices. The issue has become more significant as…"
     },
     {
       "id": "6e632444b3b7",
@@ -1079,6 +1089,26 @@
       "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and…"
     },
     {
+      "id": "6b3d3097159d",
+      "source": "Engadget",
+      "source_id": "engadget",
+      "category": "tech",
+      "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+      "link": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
+      "published": "2026-11-04T11:02:04+00:00",
+      "summary": "Apple Music will launch 'Selfie Sing' with iOS 27.3."
+    },
+    {
+      "id": "613fdd0c460e",
+      "source": "Engadget",
+      "source_id": "engadget",
+      "category": "tech",
+      "title": "The Legend of Zelda: Ocarina of Time review: A masterpiece reborn",
+      "link": "https://www.engadget.com/2305825/the-legend-of-zelda-ocarina-of-time-review/",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "The magic of the original is fully intact while looking and playing better than ever."
+    },
+    {
       "id": "354cff3a8166",
       "source": "Engadget",
       "source_id": "engadget",
@@ -1257,26 +1287,6 @@
       "link": "https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/",
       "published": "2026-11-03T18:28:03+00:00",
       "summary": "It sure is pretty and will likely be expensive."
-    },
-    {
-      "id": "064ab150be20",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "How to make your older Android phones last longer",
-      "link": "https://www.engadget.com/2302743/how-to-make-older-android-phones-last-longer/",
-      "published": "2026-11-03T18:00:00+00:00",
-      "summary": "Your Android phone can last much longer if you take steps to protect and optimize it. Try these tactics to extend your phone's life."
-    },
-    {
-      "id": "3ee36116bc1f",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "Don't throw away your old AirPods — do this instead",
-      "link": "https://www.engadget.com/2300435/dont-throw-away-old-airpods-do-this-instead/",
-      "published": "2026-11-03T17:45:00+00:00",
-      "summary": "AirPods aren't useless even after you've had them for years and get a new pair. Repurpose them with a few tricks."
     },
     {
       "id": "af5c97bd7711",
@@ -1699,14 +1709,34 @@
       "summary": ""
     },
     {
-      "id": "61112eca404d",
+      "id": "2bb8cfb782e7",
       "source": "Hartford Business Journal",
       "source_id": "hbj",
       "category": "local",
-      "title": "Democrats sweep CT’s five U.S. House seats as Bronin joins delegation",
-      "link": "https://hartfordbusiness.com/article/democrats-sweep-cts-five-u-s-house-seats-as-bronin-joins-delegation/",
-      "published": "2026-11-04T10:00:12+00:00",
-      "summary": "Luke Bronin replaces longtime U.S. Rep. John Larson as four incumbents win reelection, positioning Connecticut Democrats for key House roles."
+      "title": "🔒 Democrats poised to sweep CT attorney general, treasurer and other statewide races",
+      "link": "https://hartfordbusiness.com/article/democrats-poised-to-sweep-ct-attorney-general-treasurer-and-other-statewide-races/",
+      "published": "2026-11-04T10:33:44+00:00",
+      "summary": "Four Democratic incumbents secured new terms in statewide offices overseeing Connecticut's finances, elections and legal affairs."
+    },
+    {
+      "id": "4e57312db24e",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "Reports: CVS Health plans breakup that would separate Hartford-based Aetna from drugstore chain",
+      "link": "https://hartfordbusiness.com/article/reports-cvs-health-plans-breakup-that-would-separate-hartford-based-aetna-from-drugstore-chain/",
+      "published": "2026-11-04T10:21:21+00:00",
+      "summary": "CVS plans to split its retail pharmacy chain from Aetna and Caremark, reshaping its business as Hartford headquarters commitments near expiration."
+    },
+    {
+      "id": "2b55dc5efeb7",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "Lamont wins third term as Democrats expand control of CT legislature",
+      "link": "https://hartfordbusiness.com/article/lamont-wins-third-term-as-democrats-expand-control-of-ct-legislature/",
+      "published": "2026-11-04T09:57:06+00:00",
+      "summary": "Democrats are poised for historic legislative majorities as Lamont defeats Republican Ryan Fazio amid voter concerns over affordability."
     },
     {
       "id": "b81b603e5d79",
@@ -1719,14 +1749,14 @@
       "summary": "Republicans face their smallest-ever presence in the state Senate as Democrats flip seats across Connecticut, including in Fairfield County."
     },
     {
-      "id": "2b55dc5efeb7",
+      "id": "61112eca404d",
       "source": "Hartford Business Journal",
       "source_id": "hbj",
       "category": "local",
-      "title": "Lamont wins third term as Democrats expand control of CT legislature",
-      "link": "https://hartfordbusiness.com/article/lamont-wins-third-term-as-democrats-expand-control-of-ct-legislature/",
-      "published": "2026-11-04T09:53:06+00:00",
-      "summary": "Democrats are poised for historic legislative majorities as Lamont defeats Republican Ryan Fazio amid voter concerns over affordability."
+      "title": "🔒 Democrats sweep CT’s five U.S. House seats as Bronin joins delegation",
+      "link": "https://hartfordbusiness.com/article/democrats-sweep-cts-five-u-s-house-seats-as-bronin-joins-delegation/",
+      "published": "2026-11-04T09:45:12+00:00",
+      "summary": "Luke Bronin replaces longtime U.S. Rep. John Larson as four incumbents win reelection, positioning Connecticut Democrats for key House roles."
     },
     {
       "id": "a78767151eec",
@@ -1777,26 +1807,6 @@
       "link": "https://hartfordbusiness.com/article/new-ct-cannabis-brand-targets-consumers-seeking-more-than-a-high/",
       "published": "2026-11-03T16:00:52+00:00",
       "summary": "With Connecticut cannabis sales slipping and a federal hemp crackdown coming Dec. 11, brands are chasing a new kind of customer."
-    },
-    {
-      "id": "db556cfb3e8f",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "🔒 New Playbook: Municipalities rethink zoning, permitting and infrastructure to attract development",
-      "link": "https://hartfordbusiness.com/article/new-playbook-municipalities-rethink-zoning-permitting-and-infrastructure-to-attract-development/",
-      "published": "2026-11-03T16:00:52+00:00",
-      "summary": "From zoning overhauls to faster permits, Connecticut towns are changing how they compete for investment amid shifting market demands."
-    },
-    {
-      "id": "76f88755590e",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "🔒 Private equity-backed equipment rental business opens seventh New England location",
-      "link": "https://hartfordbusiness.com/article/private-equity-backed-equipment-rental-business-opens-seventh-new-england-location/",
-      "published": "2026-11-03T15:55:31+00:00",
-      "summary": "The sales and service center in Bourne on Cape Cod is aimed at landscapers, arborists and homeowners."
     }
   ]
 }
