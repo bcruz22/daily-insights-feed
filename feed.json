@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:10:33+00:00",
+  "generated_at": "2026-11-04T14:28:24+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -389,6 +389,16 @@
       "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed…"
     },
     {
+      "id": "cd12595d7d2c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "'Love Is Blind' Boston: Here's who got hitched, cold feet during Season 11 finale",
+      "link": "https://www.masslive.com/entertainment/2026/11/only-1-couple-gets-married-in-love-is-blind-boston-season-11-finale.html",
+      "published": "2026-11-04T14:05:18+00:00",
+      "summary": "The Season 11 finale answered whether four Boston couples would marry."
+    },
+    {
       "id": "1c9e00c4ce54",
       "source": "MassLive",
       "source_id": "masslive",
@@ -499,16 +509,6 @@
       "summary": "“Fiddler on the Roof” will be staged at the Academy of Music on Nov. 5 and 6 at 7:30 p.m., and Nov.7 and 8 at 2 p.m."
     },
     {
-      "id": "05aa581d001b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Popular children’s clothing chain reportedly preparing for bankruptcy, may close all stores",
-      "link": "https://www.masslive.com/news/2026/11/popular-childrens-clothing-chain-reportedly-preparing-for-bankruptcy-may-close-all-stores.html",
-      "published": "2026-11-04T12:00:01+00:00",
-      "summary": "A bankruptcy filing could reportedly come as early as next week."
-    },
-    {
       "id": "3c628c38fff3",
       "source": "MassLive",
       "source_id": "masslive",
@@ -517,6 +517,16 @@
       "link": "https://www.masslive.com/news/2026/11/check-your-account-millions-of-people-will-get-social-security-payments-early-next-week.html",
       "published": "2026-11-04T12:00:01+00:00",
       "summary": "There are several payment changes coming for remainder of 2026."
+    },
+    {
+      "id": "05aa581d001b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Popular children’s clothing chain reportedly preparing for bankruptcy, may close all stores",
+      "link": "https://www.masslive.com/news/2026/11/popular-childrens-clothing-chain-reportedly-preparing-for-bankruptcy-may-close-all-stores.html",
+      "published": "2026-11-04T12:00:01+00:00",
+      "summary": "A bankruptcy filing could reportedly come as early as next week."
     },
     {
       "id": "68292a7017b7",
@@ -599,16 +609,6 @@
       "summary": "Meet five new social casinos attracting attention in 2026. See what each platform offers, from free Sweeps Coins and game variety to bonuses and features."
     },
     {
-      "id": "83e8c907ad65",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Are Trump’s proposed $5,000 checks still coming?",
-      "link": "https://www.masslive.com/politics/2026/11/is-trumps-5000-check-promise-still-happening.html",
-      "published": "2026-11-04T11:15:00+00:00",
-      "summary": "The president's pledge hinged on Republicans winning Congress."
-    },
-    {
       "id": "e6cb46c221b1",
       "source": "MassLive",
       "source_id": "masslive",
@@ -619,6 +619,16 @@
       "summary": "Aldi's no-frills model — no music, no name brands, products left in their shipping boxes — has helped it rack up $29 billion in U.S. sales."
     },
     {
+      "id": "83e8c907ad65",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Are Trump’s proposed $5,000 checks still coming?",
+      "link": "https://www.masslive.com/politics/2026/11/is-trumps-5000-check-promise-still-happening.html",
+      "published": "2026-11-04T11:15:00+00:00",
+      "summary": "The president's pledge hinged on Republicans winning Congress."
+    },
+    {
       "id": "25359f5b8ba2",
       "source": "MassLive",
       "source_id": "masslive",
@@ -627,6 +637,36 @@
       "link": "https://www.masslive.com/politics/2026/11/kansas-elects-first-democratic-senator-in-94-years-after-trumps-comments.html",
       "published": "2026-11-04T11:10:08+00:00",
       "summary": "President Trump wasn't even born when Kansas last elected a Democrat to the U.S. Senate."
+    },
+    {
+      "id": "2aa1ea7d1c38",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pepsi and Walmart just launched a $20 holiday baking kit — and it comes with a cardboard oven",
+      "link": "https://www.masslive.com/food/2026/11/this-clever-20-pepsi-holiday-kit-from-walmart-includes-a-surprise-you-wont-expect.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "The limited-edition kit pairs Pepsi Vanilla & Cream with sugar cookie mix, icing and festive kitchen accessories."
+    },
+    {
+      "id": "a807dcf87650",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Swipe fees: Dating apps can cost up to $600 a year, report finds",
+      "link": "https://www.masslive.com/news/2026/11/swipe-fees-dating-apps-can-cost-up-to-600-a-year-report-finds.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Dating apps are currently experiencing a user fatigue."
+    },
+    {
+      "id": "b4494106bab6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Defense to rest its case Wednesday at trial over Sandra Birchmore’s death",
+      "link": "https://www.masslive.com/news/2026/11/defense-to-rest-its-case-wednesday-at-trial-over-sandra-birchmores-death.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Former Stoughton police officer Matthew Farwell's defense is set to call two witnesses on Wednesday: a former medical examiner and a digital forensics expert."
     },
     {
       "id": "224cf27c2b5b",
@@ -649,44 +689,24 @@
       "summary": "A man formally of Westfield who was charged with five counts of indecent assault and battery for sexually assaulting an adult woman on a public transportation bus last December was sentenced to two years of supervised probation after agreeing to the state’s offer of continuing three of the counts…"
     },
     {
-      "id": "aee6dfc6671c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield faces budget strain from rising special education expenses",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-faces-budget-strain-from-rising-special-education-expenses.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Westfield's School Committee heard that special education out-of-district costs are driving a budget deficit, with officials urging state intervention to address rising expenses."
+      "id": "e17a54acdaac",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+      "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
+      "published": "2026-11-04T14:24:54+00:00",
+      "summary": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek ."
     },
     {
-      "id": "d12ead99fa19",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "From penalty shootouts to postseason streaks: Western Mass. fall championship recap",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/western-mass-fall-sports-recapping-all-19-regional-championships.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Western Massachusetts crowned 19 fall regional champions over the past several days. Catch up on all the title games and look ahead to the cross country championships."
-    },
-    {
-      "id": "509b105cfd48",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Housing prices up in 78% of metro areas, here’s where prices have jumped the most",
-      "link": "https://www.masslive.com/news/2026/11/housing-prices-up-in-78-of-metro-areas-heres-where-prices-have-jumped-the-most.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Buyers in three major metro areas have seen prices jump by more than 10% year-over-year according to the National Association of Realtors."
-    },
-    {
-      "id": "b425dab40cec",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "MassLive releases final statewide Top 25 football regular season media poll",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/masslive-releases-final-statewide-top-25-football-regular-season-media-poll.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Three teams joined the rankings in the final media poll of the regular season."
+      "id": "1cb3088dd861",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Agentic Data Security Firm Sentra Raises $150 Million",
+      "link": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
+      "published": "2026-11-04T14:09:20+00:00",
+      "summary": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek ."
     },
     {
       "id": "2f5877591bfd",
@@ -767,26 +787,6 @@
       "link": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
       "published": "2026-11-03T14:32:38+00:00",
       "summary": "Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over 1.3 Million appeared first on SecurityWeek ."
-    },
-    {
-      "id": "b981c2f988c9",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
-      "link": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
-      "published": "2026-11-03T14:12:44+00:00",
-      "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode appeared first on SecurityWeek ."
-    },
-    {
-      "id": "14152597814e",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
-      "link": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
-      "published": "2026-11-03T12:21:49+00:00",
-      "summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek ."
     },
     {
       "id": "c5ab50d87112",
@@ -1669,6 +1669,16 @@
       "summary": "The Garmin Vivoactive 5 is down to its lowest price of all time in all four colors for a limited time, making this the least expensive Garmin you can buy today. more…"
     },
     {
+      "id": "7e533c808975",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "A national rebuke to Trump, Republicans",
+      "link": "https://gazettenet.com/2026/11/04/a-national-rebuke-to-trump-republicans/",
+      "published": "2026-11-04T13:08:56+00:00",
+      "summary": ""
+    },
+    {
       "id": "7bf3315c91f3",
       "source": "Daily Hampshire Gazette",
       "source_id": "gazette",
@@ -1756,16 +1766,6 @@
       "title": "Nearly 1.17 million Bay Staters voted before Election Day",
       "link": "https://gazettenet.com/2026/11/03/nearly-1-17-million-bay-staters-voted-before-election-day/",
       "published": "2026-11-03T23:46:32+00:00",
-      "summary": ""
-    },
-    {
-      "id": "4f275d7bc6db",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "UMass men’s basketball topples Troy, 71-60, in 2026-27 opener",
-      "link": "https://gazettenet.com/2026/11/03/umass-mens-basketball-topples-troy-71-60-in-2026-27-opener/",
-      "published": "2026-11-03T22:00:00+00:00",
       "summary": ""
     },
     {
