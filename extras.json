@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T18:32:24+00:00",
+ "generated_at": "2026-11-04T20:10:23+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 41,
-  "pollutant": "PM2.5",
+  "aqi": 38,
+  "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-04 13:00 EST"
+  "observed": "2026-11-04 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -330,6 +330,14 @@
     "published": "2026-11-03T18:18:03.130",
     "summary": "Elo is a purely functional expression language for no-code tools. Prior to 1.0.1, plain Elo strings supplied to defaultFormats.elo.parse(), bin/elo, or elo-lang.org/try can use .constructor.constructor to reach JavaScript Function because the member_access handler in src/transform.ts does not reject meta-properties, src/compilers/javascript.ts emits the surviving property directly, and src/parser.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-44267"
+   },
+   {
+    "id": "CVE-2026-107846",
+    "score": 9.3,
+    "cvss": "4.0",
+    "published": "2026-11-04T19:17:18.130",
+    "summary": "bitcoinjs-lib is a JavaScript Bitcoin library for Node.js and browsers. From 2.3.0 until 5.2.1, 6.1.8, and 7.0.2, fastMerkleRoot pads odd Merkle-tree levels by hashing the final node with itself but does not report adjacent duplicate hashes. The affected block-root verifier was introduced as Block.checkMerkleRoot() alongside Block.calculateMerkleRoot(), while later versions expose validation throu",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107846"
    },
    {
     "id": "CVE-2026-95860",
