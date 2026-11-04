@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:11:58+00:00",
+  "generated_at": "2026-11-04T04:09:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -389,6 +389,126 @@
       "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have…"
     },
     {
+      "id": "2d5b5b24527c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The Mass. GOP braced for a beating on Election Day. It got one, and Trump is the 'why'",
+      "link": "https://www.masslive.com/politics/2026/11/theyre-fed-up-with-washington-mass-voters-made-republicans-pay-for-trump.html",
+      "published": "2026-11-04T03:56:47+00:00",
+      "summary": "The Mass. GOP went into Tuesday expecting to lose and lost everything. Voters were worried about prices and the economy. And they blamed the White House."
+    },
+    {
+      "id": "513ade816d23",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dan Koh elected to Congress in Mass. 6th District",
+      "link": "https://www.masslive.com/politics/2026/11/dan-koh-elected-to-congress-in-mass-6th-district.html",
+      "published": "2026-11-04T03:34:57+00:00",
+      "summary": "Democrat Dan Koh has won election to Congress representing the Massachusetts 6th District, replacing outgoing U.S. Rep. Seth Moulton."
+    },
+    {
+      "id": "c260baa09d35",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Unofficial results: State Rep. Kelly Pease secures 4th term in 4th Hampden race",
+      "link": "https://www.masslive.com/westernmass/2026/11/unofficial-results-state-rep-kelly-pease-secures-4th-term-in-4th-hampden-race.html",
+      "published": "2026-11-04T03:31:14+00:00",
+      "summary": "Pease said he will continue to advocate for more funding for rural schools and more local aid from the state for cities and towns."
+    },
+    {
+      "id": "2b0b944a380f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Amid huge GOP losses, White House scorned for saying Trump wasn’t on ballot",
+      "link": "https://www.masslive.com/politics/2026/11/amid-huge-gop-losses-white-house-scorned-for-saying-trump-wasnt-on-ballot.html",
+      "published": "2026-11-04T03:24:51+00:00",
+      "summary": "President had beseeched voters to pretend he was on the ballot."
+    },
+    {
+      "id": "9f6465e4a755",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Brookline, BC High boys soccer teams head into playoffs with scoreless draw",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/brookline-bc-high-boys-soccer-head-into-the-playoffs-with-dramatic-scoreless-draw.html",
+      "published": "2026-11-04T03:16:37+00:00",
+      "summary": "The Eagles and Warriors closed out their regular seasons with a scoreless tie ahead of postseason action."
+    },
+    {
+      "id": "d8453628b3e4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Poll workers in Holyoke report turnout far above primary levels",
+      "link": "https://www.masslive.com/westernmass/2026/11/poll-workers-in-holyoke-report-turnout-far-above-primary-levels.html",
+      "published": "2026-11-04T03:13:40+00:00",
+      "summary": "Voter turnout in Holyoke far exceeded primary levels, with poll workers reporting two to three times more ballots cast across multiple wards."
+    },
+    {
+      "id": "875c47c370f3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rep. Richard Neal wins return to House, key chairmanship",
+      "link": "https://www.masslive.com/westernmass/2026/11/rep-richard-neal-wins-return-to-house-key-chairmanship.html",
+      "published": "2026-11-04T03:10:31+00:00",
+      "summary": "Richard Neal, 77, has been cagey when asked if he’ll run again, saying only that he has more elections behind him than in front of him."
+    },
+    {
+      "id": "8ba31aad0b8e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Neal wins reelection to U.S. House in Mass. 1st Congressional District",
+      "link": "https://www.masslive.com/news/2026/11/democrat-richard-neal-wins-reelection-to-us-house-in-mass-1st-congressional-district.html",
+      "published": "2026-11-04T02:49:35+00:00",
+      "summary": "Neal, a 38-year House veteran, defeated independent challenger Nadia Milleron to retain his Massachusetts 1st Congressional District seat."
+    },
+    {
+      "id": "574edb0e9ac3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "New Hampshire Democrat makes history with Senate victory: ‘I’m the luckiest guy’",
+      "link": "https://www.masslive.com/politics/2026/11/new-hampshire-democrat-makes-history-with-senate-victory-im-the-luckiest-guy.html",
+      "published": "2026-11-04T02:47:43+00:00",
+      "summary": ".Chris Pappas (D-N.H.) made history on Tuesday night by becoming the first openly gay man elected to the U.S. Senate."
+    },
+    {
+      "id": "bff72be485aa",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Amid Dem Election Night optimism, Jeffries circumspect on relationship with Trump",
+      "link": "https://www.masslive.com/politics/2026/11/amid-dem-election-night-optimism-jeffries-circumspect-on-relationship-with-trump.html",
+      "published": "2026-11-04T02:40:38+00:00",
+      "summary": "NY lawmaker is poised to be new Speaker of the House."
+    },
+    {
+      "id": "158a778c5e55",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump’s $5,000 check promise is already facing doubt",
+      "link": "https://www.masslive.com/politics/2026/11/trumps-5000-check-promise-is-already-facing-doubt.html",
+      "published": "2026-11-04T02:33:00+00:00",
+      "summary": "Early election results have commentators questioning whether the payments will happen."
+    },
+    {
+      "id": "e5f4434f7d1c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WMass voters stream to polls on Election Day, concerned about economy, guns, schools",
+      "link": "https://www.masslive.com/westernmass/2026/11/wmass-voters-stream-to-polls-on-election-day-concerned-about-economy-guns-schools.html",
+      "published": "2026-11-04T02:29:39+00:00",
+      "summary": "“People are obviously energized. But are people coming out to fight against the socialists? Or are they coming out because they’re disappointed in the direction in which this country is going? I guess we’ll see,” state Rep. Kelly Pease said Tuesday evening."
+    },
+    {
       "id": "4046f82bf1d3",
       "source": "MassLive",
       "source_id": "masslive",
@@ -453,7 +573,7 @@
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Democrats press to win a majority of governors’ offices in midterms after power struggles with Trump",
+      "title": "Democrats record historic win in Georgia as they press for a majority of governors’ offices",
       "link": "https://www.masslive.com/politics/2026/11/democrats-press-to-win-a-majority-of-governors-offices-in-midterms-after-power-struggles-with-trump.html",
       "published": "2026-11-04T01:30:08+00:00",
       "summary": "The surprising number of states that are in play is a sign of voter discontent."
@@ -567,126 +687,6 @@
       "link": "https://www.masslive.com/news/2026/11/replica-world-cup-trophy-lifted-by-lionel-messi-up-for-auction-nov-7.html",
       "published": "2026-11-04T00:00:00+00:00",
       "summary": "The trophy is paired with a trading card depicting Messi carrying the replica trophy after Argentina defeated France at the 2022 World Cup."
-    },
-    {
-      "id": "7a6d43b6339f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Live election updates: Supreme Court rejects Trump's push to sideline California ballots",
-      "link": "https://www.masslive.com/politics/2026/11/live-updates-midterm-election-2026-trump-makes-final-pitch-as-administration-appeals-to-supreme-court-over-ballots.html",
-      "published": "2026-11-03T23:49:29+00:00",
-      "summary": "Trump made his closing pitch of the midterms Monday afternoon at the Lincoln Memorial Reflecting Pool."
-    },
-    {
-      "id": "bd41995ad459",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former SEC football player has both legs amputated following medical emergency",
-      "link": "https://www.masslive.com/sports/2026/11/former-sec-football-player-has-both-legs-amputated-following-medical-emergency.html",
-      "published": "2026-11-03T23:36:45+00:00",
-      "summary": "A GoFundMe page has been started for former South Carolina safety D.J. Smith following his medical emergency."
-    },
-    {
-      "id": "abb242f9e800",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Joe Scarborough goes after ESPN’s Pat McAfee",
-      "link": "https://www.masslive.com/sports/2026/11/joe-scarborough-goes-after-espns-pat-mcafee-it-is-a-shame-for-the-viewer.html",
-      "published": "2026-11-03T23:25:12+00:00",
-      "summary": "He contends ESPN can run its company how it wants."
-    },
-    {
-      "id": "b996c2c50739",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Voters send Trump a message: Disapproval drives midterm turnout",
-      "link": "https://www.masslive.com/politics/2026/11/cost-of-living-corruption-top-issues-and-voters-in-the-mood-for-change-early-election-takeaways.html",
-      "published": "2026-11-03T23:13:38+00:00",
-      "summary": "Trump is not on the ballot, but there’s reason to believe Tuesday’s midterms will be a referendum on his performance over the last two years."
-    },
-    {
-      "id": "59f6665d5ff6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Man accused of assaulting Springfield officers to get mental health evaluation",
-      "link": "https://www.masslive.com/westernmass/2026/11/man-accused-of-assaulting-springfield-officers-to-get-mental-health-evaluation.html",
-      "published": "2026-11-03T23:05:20+00:00",
-      "summary": "Police went to the nearby home where Jimenez was outside talking to his brother and not making sense, the report says. He then pushed his brother, and police stepped in, according to the report."
-    },
-    {
-      "id": "2ce008c49afc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Early turnout surge credited with smoother Election Day",
-      "link": "https://www.masslive.com/politics/2026/11/election-day-sees-few-disruptions-despite-trumps-interference-push.html",
-      "published": "2026-11-03T22:54:50+00:00",
-      "summary": "Some voters were disrupted by weather, machine issues."
-    },
-    {
-      "id": "3c8c46b5322a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Officials first blamed the paper. They were wrong 🗳️",
-      "link": "https://www.masslive.com/news/2026/11/why-did-voting-machines-in-this-new-york-county-keep-rejecting-ballots.html",
-      "published": "2026-11-03T22:53:55+00:00",
-      "summary": "Westchester ballot scanners failed on Election Day. A barcode error is to blame, and up to 250,000 ballots wait in emergency bags to be counted."
-    },
-    {
-      "id": "bbdde93b977c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Anger over prices, corruption drives midterm turnout",
-      "link": "https://www.masslive.com/politics/2026/11/midterm-elections-are-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term.html",
-      "published": "2026-11-03T22:46:21+00:00",
-      "summary": "The AP Voter Poll found the midterm electorate is deeply unhappy with the country’s direction and feels pessimistic about the future."
-    },
-    {
-      "id": "4460abc3e913",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Bomb threat disrupts voting at one Ohio elementary school",
-      "link": "https://www.masslive.com/politics/2026/11/bomb-threat-disrupts-voting-at-one-ohio-elementary-school-on-election-day.html",
-      "published": "2026-11-03T22:44:22+00:00",
-      "summary": "Four elementary schools in the area dealt with bomb threats."
-    },
-    {
-      "id": "6f1229100fe7",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Who watched you vote in Mass. on Tuesday? More people than usual",
-      "link": "https://www.masslive.com/election/2026/11/historic-election-monitoring-operation-puts-more-eyes-on-mass-voters.html",
-      "published": "2026-11-03T22:32:12+00:00",
-      "summary": "Hundreds of volunteers, federal monitors and other advocates observed Massachusetts polling locations, marking one of the largest such election protection effort in state history."
-    },
-    {
-      "id": "3bfc7456b801",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "A legendary boxer unexpectedly turned up in N.H. on Election Day",
-      "link": "https://www.masslive.com/politics/2026/11/legendary-boxer-makes-surprise-election-day-appearance-in-nh.html",
-      "published": "2026-11-03T22:26:06+00:00",
-      "summary": "Voters in New Hampshire got more than they expected when some famous faces turned up on Election Day."
-    },
-    {
-      "id": "7077ccbbf5a9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Man caught with drugs and lamb named Pablo Escobar",
-      "link": "https://www.masslive.com/news/2026/11/scottish-man-caught-with-18k-worth-of-drugs-and-lamb-named-pablo-escobar.html",
-      "published": "2026-11-03T22:24:51+00:00",
-      "summary": "The lamb was found eating chips in the back seat of the vehicle."
     },
     {
       "id": "ed61802f64c7",
@@ -1609,6 +1609,26 @@
       "summary": "The Garmin Vivoactive 5 is down to its lowest price of all time in all four colors for a limited time, making this the least expensive Garmin you can buy today. more…"
     },
     {
+      "id": "3b9a25c3fa33",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "A Look Back, Nov. 4",
+      "link": "https://gazettenet.com/2026/11/03/a-look-back-nov-4-2/",
+      "published": "2026-11-04T04:01:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f77ac8e7c358",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Massachusetts Gov. Maura Healey secures reelection to second term over GOP challenger Mike Minogue",
+      "link": "https://gazettenet.com/2026/11/03/maura-healey-wins-reelection/",
+      "published": "2026-11-04T02:29:37+00:00",
+      "summary": ""
+    },
+    {
       "id": "4bc366ab88d5",
       "source": "Daily Hampshire Gazette",
       "source_id": "gazette",
@@ -1686,26 +1706,6 @@
       "title": "Amherst bus route plan draws parent pushback ahead of Nov. 30 rollout",
       "link": "https://gazettenet.com/2026/11/03/amherst-bus-route-plan-draws-parent-pushback-ahead-of-nov-30-rollout/",
       "published": "2026-11-03T20:14:08+00:00",
-      "summary": ""
-    },
-    {
-      "id": "aa16538b58fa",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Easthampton tenants band together to fight rent hikes at Pleasant View apartments",
-      "link": "https://gazettenet.com/2026/11/03/easthampton-pleasant-view-rent-negotiations/",
-      "published": "2026-11-03T19:53:15+00:00",
-      "summary": ""
-    },
-    {
-      "id": "80b40fa3f611",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Guest columnist Tristram W. Metcalfe III: Don’t demolish the Gare garage — Reuse it",
-      "link": "https://gazettenet.com/2026/11/03/guest-columnist-tristram-w-metcalfe-iii-dont-demolish-the-gare-garage-reuse-it/",
-      "published": "2026-11-03T19:00:00+00:00",
       "summary": ""
     },
     {
