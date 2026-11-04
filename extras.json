@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T18:08:30+00:00",
+ "generated_at": "2026-11-04T18:32:24+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -25,6 +25,18 @@
    "published": "2026-10-17T11:28:14Z",
    "url": "https://github.com/pi-hole/web/releases/tag/v6.6.1"
   },
+  "dnscrypt_proxy": {
+   "status": "ok",
+   "version": "2.1.20",
+   "published": "2026-10-22T20:30:19Z",
+   "url": "https://github.com/DNSCrypt/dnscrypt-proxy/releases/tag/2.1.20"
+  },
+  "home_assistant": {
+   "status": "ok",
+   "version": "2026.11.0",
+   "published": "2026-11-04T17:32:55Z",
+   "url": "https://github.com/home-assistant/core/releases/tag/2026.11.0"
+  },
   "plex": {
    "status": "ok",
    "version": "1.43.5.11079-b3b13e506",
@@ -39,9 +51,326 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 47,
+  "aqi": 41,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-04 12:00 EST"
+  "observed": "2026-11-04 13:00 EST"
+ },
+ "nodejs": {
+  "status": "ok",
+  "posts": [
+   {
+    "title": "Wednesday, November 11, 2026 Security Releases",
+    "link": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+    "published": "2026-11-03T23:00:00+00:00"
+   },
+   {
+    "title": "Wednesday, October 21, 2026 Security Releases",
+    "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+    "published": "2026-10-21T22:00:00+00:00"
+   },
+   {
+    "title": "Wednesday, July 29, 2026 Security Releases",
+    "link": "https://nodejs.org/en/blog/vulnerability/july-2026-security-releases",
+    "published": "2026-07-29T00:00:00+00:00"
+   }
+  ]
+ },
+ "igel_isn": {
+  "status": "ok",
+  "notices": [
+   {
+    "isn": "2026-46",
+    "title": "ISN 2026-46: Critical Linux Kernel Issue in IGEL OS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-46-critical-linux-kernel-issue-in-igel-os"
+   },
+   {
+    "isn": "2026-45",
+    "title": "ISN 2026-45: EMudhra CA Compromise Affecting UMS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-45-emudhra-ca-compromise-affecting-ums"
+   },
+   {
+    "isn": "2026-43",
+    "title": "ISN 2026-43: Critical Brotli Issue in IGEL OS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-43-critical-brotli-issue-in-igel-os"
+   },
+   {
+    "isn": "2026-42",
+    "title": "ISN 2026-42: EMudhra CA Compromise Affecting IGEL OS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-42-emudhra-ca-compromise-affecting-igel-os"
+   },
+   {
+    "isn": "2026-41",
+    "title": "ISN 2026-41: Critical Chromium Vulnerabilities",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-41-critical-chromium-vulnerabilities"
+   },
+   {
+    "isn": "2026-39",
+    "title": "ISN 2026-39: Critical Chromium Vulnerabilities",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-39-critical-chromium-vulnerabilities"
+   },
+   {
+    "isn": "2026-38",
+    "title": "ISN 2026-38: Critical Firefox ESR Vulnerabilities",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-38-critical-firefox-esr-vulnerabilities"
+   },
+   {
+    "isn": "2026-37",
+    "title": "ISN 2026-37: OpenSSH Vulnerability",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-37-openssh-vulnerability"
+   }
+  ]
+ },
+ "m365_roadmap": {
+  "status": "ok",
+  "window_hours": 72,
+  "items": [
+   {
+    "title": "Microsoft Viva: Engage - Improved shared messages end-user experience",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578870",
+    "published": "2026-11-04T00:02:09+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Viva",
+     "Desktop",
+     "Web"
+    ],
+    "summary": "Improving the shared conversation experience in Viva Engage to so it's easier for users to discover, read, and participate. GA date: November CY2026"
+   },
+   {
+    "title": "Microsoft Teams: Copilot in the Queues app on Mobile",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578859",
+    "published": "2026-11-04T00:02:09+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Android",
+     "iOS"
+    ],
+    "summary": "Agents and supervisors can use Copilot in the Queues app on Mobile to quickly understand and follow up on customer conversations. From shared call history, users can ask questions about a past call and use Copilot to surface relevant information and insights from the conversation, helping them get u"
+   },
+   {
+    "title": "Microsoft Teams: Shared call history in the Queues app on Mobile",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578858",
+    "published": "2026-11-04T00:02:09+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Android",
+     "iOS"
+    ],
+    "summary": "Calling reps and Supervisor leads can view shared call history for their call queues in the Queues app on Mobile, helping them track call activity, review call details, and coordinate customer follow-ups while on the go. GA date: December CY2026"
+   },
+   {
+    "title": "Microsoft Teams: Turn meeting discussions into PowerPoint presentations with Facilitator",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571296",
+    "published": "2026-11-04T00:02:09+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Desktop",
+     "Mac"
+    ],
+    "summary": "When it's time to present what your team decided, you can ask Facilitator to create a PowerPoint presentation from what was said, chats, and shared files in the meeting. It turns the conversation into the slides, whether that's a project update, a proposal, or a readout for leadership. Facilitator c"
+   },
+   {
+    "title": "Microsoft Teams: Intelligent call recap for call queue calls on Mobile",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578871",
+    "published": "2026-11-03T00:14:11+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Android",
+     "iOS"
+    ],
+    "summary": "Calling reps and supervisor leads can access intelligent call recap for call queue calls directly from the Queues app on Mobile. After a call, users can quickly catch up on the conversation with AI-generated notes, key discussion points, and recommended follow-up tasks, helping reduce the time spent"
+   },
+   {
+    "title": "Microsoft Teams: Automatic recording indicator for call queue calls on Mobile",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578867",
+    "published": "2026-11-03T00:14:11+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Android",
+     "iOS"
+    ],
+    "summary": "For call queue calls that are automatically recorded by the organization, Teams on Mobile will clearly indicate that recording and transcription have started automatically and cannot be stopped. This gives users clearer and more accurate information about the recording state of their call and provid"
+   },
+   {
+    "title": "Microsoft Teams: Manage call groups on Mobile",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578860",
+    "published": "2026-11-03T00:14:11+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Android",
+     "iOS"
+    ],
+    "summary": "Users can create and manage their call group directly from Teams on Mobile. They can add or remove members, configure how the group should ring, and choose to forward or simultaneously ring incoming calls to their call group. This makes it easier for users to manage how their calls are handled witho"
+   },
+   {
+    "title": "OneDrive: Respond to access requests directly in the Share dialog",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578856",
+    "published": "2026-11-03T00:14:11+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "GCC",
+     "GCC High",
+     "DoD",
+     "OneDrive",
+     "SharePoint",
+     "Web"
+    ],
+    "summary": "Review and respond to access requests inside the Share dialog. When people request access to a file, folder, or library, anyone who can share it will see pending requests right in the Share dialog for that item. From there, they can choose the level of access to grant, approve or decline requests in"
+   },
+   {
+    "title": "Microsoft Copilot (Microsoft 365): New Microsoft 365 Copilot usage reports for Copilot Search, Connectors, and Agents for US Government customers",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573170",
+    "published": "2026-11-03T00:14:11+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "GCC",
+     "GCC High",
+     "DoD",
+     "Microsoft Copilot (Microsoft 365)",
+     "Microsoft 365 admin center",
+     "Web"
+    ],
+    "summary": "We are introducing new Microsoft 365 Copilot usage reports for Copilot Search, Copilot Connectors, and Copilot Agents for US Government customers across GCC Moderate, GCC High, and DoD environments. These reports will provide administrators with organization-level and user-level insights to help the"
+   }
+  ]
+ },
+ "kev": {
+  "status": "ok",
+  "window_days": 7,
+  "cves": [
+   {
+    "id": "CVE-2026-119977",
+    "score": 8.1,
+    "cvss": "3.1",
+    "published": "2026-10-31T06:16:34.550",
+    "summary": "WordPress Core is vulnerable to Remote Code Execution in versions 4.7 through 7.1.3. This is due to predictable, web-accessible staging paths used during full-package core upgrades. This makes it possible for unauthenticated attackers to execute code on the server during the upgrade window.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
+    "kev_added": "2026-11-03",
+    "kev_due": "2026-11-06",
+    "kev_name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability"
+   },
+   {
+    "id": "CVE-2026-111357",
+    "score": 7.0,
+    "cvss": "3.1",
+    "published": "2026-10-15T21:17:13.190",
+    "summary": "Ivanti Connect Secure 22.8R2.4 mishandles the manner in which the dsinvoked broker trusts DSCache configuration data, leading to privilege escalation to root, as exploited in the wild in October 2026.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357",
+    "kev_added": "2026-10-30",
+    "kev_due": "2026-11-02",
+    "kev_name": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability"
+   },
+   {
+    "id": "CVE-2026-118527",
+    "score": 4.3,
+    "cvss": "3.1",
+    "published": "2026-11-03T15:17:24.920",
+    "summary": "Use of predictable filenames in Ivanti Connect Secure before versions 25.1.1.3 and 22.8R2.6 allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527",
+    "kev_added": "2026-10-30",
+    "kev_due": "2026-11-13",
+    "kev_name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability"
+   },
+   {
+    "id": "CVE-2026-97229",
+    "score": 10.0,
+    "cvss": "3.1",
+    "published": "2026-10-13T02:17:00.840",
+    "summary": "GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229",
+    "kev_added": "2026-10-29",
+    "kev_due": "2026-11-01",
+    "kev_name": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability"
+   },
+   {
+    "id": "CVE-2026-76418",
+    "score": 8.6,
+    "cvss": "3.1",
+    "published": "2026-10-28T20:18:47.063",
+    "summary": "A vulnerability in the Remote Access SSL VPN service of Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition. This vulnerability is due to logic errors when secondary authentication is config",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76418",
+    "kev_added": "2026-10-29",
+    "kev_due": "2026-11-01",
+    "kev_name": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability"
+   }
+  ]
+ },
+ "nvd": {
+  "status": "ok",
+  "window_hours": 48,
+  "cves": [
+   {
+    "id": "CVE-2026-44267",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-03T18:18:03.130",
+    "summary": "Elo is a purely functional expression language for no-code tools. Prior to 1.0.1, plain Elo strings supplied to defaultFormats.elo.parse(), bin/elo, or elo-lang.org/try can use .constructor.constructor to reach JavaScript Function because the member_access handler in src/transform.ts does not reject meta-properties, src/compilers/javascript.ts emits the surviving property directly, and src/parser.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-44267"
+   },
+   {
+    "id": "CVE-2026-95860",
+    "score": 9.1,
+    "cvss": "3.1",
+    "published": "2026-11-03T21:17:45.907",
+    "summary": "node-opcua is an OPC UA implementation for TypeScript and Node.js. From 2.42.0 until 2.180.0, namespace-level access control configured through setDefaultRolePermissions is not honored by the runtime enforcement path for nodes without explicit per-node RolePermissions. SessionContext.getApplicableRolePermissions reads a missing or null DefaultRolePermissions metadata value instead of the configure",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95860"
+   },
+   {
+    "id": "CVE-2026-63395",
+    "score": 8.8,
+    "cvss": "3.1",
+    "published": "2026-11-03T20:18:14.917",
+    "summary": "isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.6, isomorphic-git's git.checkout writes new child paths through symlinked leading directory components without checking them. A malicious repository can first place a directory symlink and later replace the tree state with a child file beneath that path; the usual trigger is a clone followed by a late",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63395"
+   },
+   {
+    "id": "CVE-2026-119179",
+    "score": 8.3,
+    "cvss": "4.0",
+    "published": "2026-11-03T14:17:33.617",
+    "summary": "A flaw in the connection management layer of the MongoDB Node.js driver can leave a pooled network connection in the pool for reuse while data from an earlier operation is still outstanding on it. In applications that enable an optional client-side operation timeout, an unauthenticated party that can send ordinary requests to the application may cause database replies to be paired with the wrong r",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-119179"
+   },
+   {
+    "id": "CVE-2026-111751",
+    "score": 8.2,
+    "cvss": "4.0",
+    "published": "2026-11-03T21:16:57.800",
+    "summary": "Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. From 21.2.0 until 21.2.25 and 22.2.1, RouterLink directives rendered during Node.js server-side rendering retain computed UrlTree instances for the lifetime of each request. When queryParamsHandling is set to merge or preserve, either per link or through defaultQueryP",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111751"
+   },
+   {
+    "id": "CVE-2026-111752",
+    "score": 8.2,
+    "cvss": "4.0",
+    "published": "2026-11-03T21:16:57.993",
+    "summary": "Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. Prior to 20.3.33, 21.2.25, and 22.2.1, @angular/router in Node.js server-side rendering fails to require auxiliary outlet URL segments to match routes configured for their outlet names. Crafted requests containing multiple unconfigured empty-path outlet groups can rep",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111752"
+   }
+  ]
  }
 }
