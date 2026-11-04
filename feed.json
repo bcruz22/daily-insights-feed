@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:11:58+00:00",
+  "generated_at": "2026-11-04T10:11:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -48,7 +48,7 @@
       "name": "The Hacker News",
       "status": "ok",
       "feed_url": "https://feeds.feedburner.com/TheHackersNews",
-      "count": 24,
+      "count": 25,
       "errors": []
     },
     "engadget": {
@@ -389,6 +389,66 @@
       "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have…"
     },
     {
+      "id": "f88d5457bc2f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Gut-health soda is here, and Coca-Cola is the latest brand to get in on the trend",
+      "link": "https://www.masslive.com/food/2026/11/coca-cola-is-jumping-into-the-gut-health-trend-with-a-bold-new-lineup-of-sodas.html",
+      "published": "2026-11-04T10:00:00+00:00",
+      "summary": "Each drink contains 6 grams of prebiotic fiber, with a wider rollout depending on how consumers respond."
+    },
+    {
+      "id": "7b06f248e807",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Plan ahead: All banks will be closed for multiple days this month",
+      "link": "https://www.masslive.com/news/2026/11/plan-ahead-all-banks-will-be-closed-for-multiple-days-this-month.html",
+      "published": "2026-11-04T10:00:00+00:00",
+      "summary": "Here is everything you need to know about banking hours coming up this month for Veterans Day and Thanksgiving Day 2026"
+    },
+    {
+      "id": "0d7f378e1994",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Beloved rock frontman’s cancer news has prayers pouring in: ‘You will never be alone’",
+      "link": "https://www.masslive.com/entertainment/2026/11/beloved-rock-frontmans-cancer-news-has-prayers-pouring-in-you-will-never-be-alone.html",
+      "published": "2026-11-04T10:00:00+00:00",
+      "summary": "He shared the news on social media."
+    },
+    {
+      "id": "1b04ba856d08",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "A Queens renter washed dishes by hand to save power. Then she learned whose electricity she was paying for",
+      "link": "https://www.masslive.com/news/2026/11/she-cut-back-on-ac-for-10-years-the-bill-was-never-hers.html",
+      "published": "2026-11-04T10:00:00+00:00",
+      "summary": "Queens woman paid her upstairs neighbor’s Con Edison bill for 10 years. Here’s how the mix-up was found and why only 6 years were refunded."
+    },
+    {
+      "id": "da0ab0a424ee",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Asking Eric: Quarterly dinners lost their spark when most everyone just stopped eating",
+      "link": "https://www.masslive.com/advice/2026/11/asking-eric-quarterly-dinners-lost-their-spark-when-most-everyone-just-stopped-eating.html",
+      "published": "2026-11-04T10:00:00+00:00",
+      "summary": "Sometimes the waitresses see the others done and we feel we have to be done too."
+    },
+    {
+      "id": "4a5a88d80c0d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music’s disturbing divorce trend: These couples have split up",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-musics-disturbing-divorce-trend-these-couples-have-split-up.html",
+      "published": "2026-11-04T10:00:00+00:00",
+      "summary": "Some of country's most popular couples have split up."
+    },
+    {
       "id": "065cffa4923a",
       "source": "MassLive",
       "source_id": "masslive",
@@ -629,64 +689,24 @@
       "summary": "NY lawmaker is poised to be new Speaker of the House."
     },
     {
-      "id": "158a778c5e55",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump’s $5,000 check promise is already facing doubt",
-      "link": "https://www.masslive.com/politics/2026/11/trumps-5000-check-promise-is-already-facing-doubt.html",
-      "published": "2026-11-04T02:33:00+00:00",
-      "summary": "Early election results have commentators questioning whether the payments will happen."
+      "id": "68960d2138eb",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+      "link": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+      "published": "2026-11-04T09:23:22+00:00",
+      "summary": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on SecurityWeek ."
     },
     {
-      "id": "e5f4434f7d1c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "WMass voters stream to polls on Election Day, concerned about economy, guns, schools",
-      "link": "https://www.masslive.com/westernmass/2026/11/wmass-voters-stream-to-polls-on-election-day-concerned-about-economy-guns-schools.html",
-      "published": "2026-11-04T02:29:39+00:00",
-      "summary": "“People are obviously energized. But are people coming out to fight against the socialists? Or are they coming out because they’re disappointed in the direction in which this country is going? I guess we’ll see,” state Rep. Kelly Pease said Tuesday evening."
-    },
-    {
-      "id": "4046f82bf1d3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Democrat Helena Foulkes wins election for governor in Rhode Island",
-      "link": "https://www.masslive.com/news/2026/11/democrat-helena-foulkes-wins-election-for-governor-in-rhode-island.html",
-      "published": "2026-11-04T01:56:57+00:00",
-      "summary": "Democrat Helena Foulkes won election Tuesday as governor of Rhode Island, defeating Republican Aaron Guckian."
-    },
-    {
-      "id": "50935be51bfe",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Alaska GOP senator blasts Dems’ tactic to unseat him: ‘The scheme is working’",
-      "link": "https://www.masslive.com/politics/2026/11/alaska-gop-senator-blasts-dems-tactic-to-unseat-him-the-scheme-is-working.html",
-      "published": "2026-11-04T01:53:00+00:00",
-      "summary": "Republican Sen. Dan Sullivan is up against Democrat Mary Peltola and independent Daniel J. Sullivan, who was recruited by Peltola's staff."
-    },
-    {
-      "id": "e8cc6a09c115",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Alabama’s CFP ranking gets mocked on social media",
-      "link": "https://www.masslive.com/sports/2026/11/alabamas-cfp-ranking-gets-mocked-on-social-media-legit-insane.html",
-      "published": "2026-11-04T01:49:37+00:00",
-      "summary": "Social media wasn't kind to the Crimson Tide on Tuesday."
-    },
-    {
-      "id": "32fd2e21bceb",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Agawam mayor defends affordable housing trust ahead of council vote",
-      "link": "https://www.masslive.com/westernmass/2026/11/agawam-mayor-defends-affordable-housing-trust-ahead-of-council-vote.html",
-      "published": "2026-11-04T01:44:54+00:00",
-      "summary": "Monday's meeting sets up Agawam City Council for a potential vote over creating an affordable housing trust fund."
+      "id": "1f8acdc5d8c6",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+      "link": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+      "published": "2026-11-04T08:27:05+00:00",
+      "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek ."
     },
     {
       "id": "ed61802f64c7",
@@ -769,26 +789,6 @@
       "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek ."
     },
     {
-      "id": "c0b0ac944847",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
-      "published": "2026-11-02T15:01:11+00:00",
-      "summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek ."
-    },
-    {
-      "id": "36bb83401e5a",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
-      "link": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
-      "published": "2026-11-02T14:44:18+00:00",
-      "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek ."
-    },
-    {
       "id": "6e632444b3b7",
       "source": "Petri",
       "source_id": "petri",
@@ -827,6 +827,26 @@
       "link": "https://petri.com/microsoft-new-outlook-template-based-automatic-replies/",
       "published": "2026-11-02T14:04:58+00:00",
       "summary": "One of the feature gaps between classic Outlook and the new Outlook experience has been the lack of template-based automatic replies. Users who regularly handle repetitive emails often have to manually send the same responses over and over, which creates unnecessary administrative work and…"
+    },
+    {
+      "id": "40a5a2749a72",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "published": "2026-11-04T08:17:11+00:00",
+      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the…"
+    },
+    {
+      "id": "32c90d2f0958",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "published": "2026-11-04T07:46:15+00:00",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and…"
     },
     {
       "id": "349817163ae5",
@@ -1059,14 +1079,24 @@
       "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and…"
     },
     {
-      "id": "c1c20131973a",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
+      "id": "354cff3a8166",
+      "source": "Engadget",
+      "source_id": "engadget",
       "category": "tech",
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "published": "2026-11-01T08:51:31+00:00",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that…"
+      "title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist",
+      "link": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+      "published": "2026-11-04T08:50:36+00:00",
+      "summary": "Binance has revealed more details about the cyber attack that resulted in the loss of $6.34 billion in digital assets."
+    },
+    {
+      "id": "f098053f630b",
+      "source": "Engadget",
+      "source_id": "engadget",
+      "category": "tech",
+      "title": "Valve just changed its Steam release rules amid a flood of AI games",
+      "link": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+      "published": "2026-11-04T08:28:09+00:00",
+      "summary": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI."
     },
     {
       "id": "bdcb114647f0",
@@ -1247,26 +1277,6 @@
       "link": "https://www.engadget.com/2300435/dont-throw-away-old-airpods-do-this-instead/",
       "published": "2026-11-03T17:45:00+00:00",
       "summary": "AirPods aren't useless even after you've had them for years and get a new pair. Repurpose them with a few tricks."
-    },
-    {
-      "id": "e5bfba757e7e",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "How to choose the right gaming monitor for you",
-      "link": "https://www.engadget.com/2300429/how-to-choose-the-right-gaming-monitor-for-you/",
-      "published": "2026-11-03T17:15:00+00:00",
-      "summary": "If you're looking for a gaming monitor upgrade (or even your first), here's what you should consider."
-    },
-    {
-      "id": "fe68d0a4c104",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "Google says students in schools that ban AI won't have access to Search",
-      "link": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
-      "published": "2026-11-03T17:10:43+00:00",
-      "summary": "This is another example of how closely Google Search is tied to the company's AI products."
     },
     {
       "id": "af5c97bd7711",
@@ -1689,6 +1699,36 @@
       "summary": ""
     },
     {
+      "id": "61112eca404d",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "Democrats sweep CT’s five U.S. House seats as Bronin joins delegation",
+      "link": "https://hartfordbusiness.com/article/democrats-sweep-cts-five-u-s-house-seats-as-bronin-joins-delegation/",
+      "published": "2026-11-04T10:00:12+00:00",
+      "summary": "Luke Bronin replaces longtime U.S. Rep. John Larson as four incumbents win reelection, positioning Connecticut Democrats for key House roles."
+    },
+    {
+      "id": "b81b603e5d79",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "CT Democrats expand legislative majorities as GOP suffers historic Senate losses",
+      "link": "https://hartfordbusiness.com/article/ct-democrats-expand-legislative-majorities-as-gop-suffers-historic-senate-losses/",
+      "published": "2026-11-04T09:56:29+00:00",
+      "summary": "Republicans face their smallest-ever presence in the state Senate as Democrats flip seats across Connecticut, including in Fairfield County."
+    },
+    {
+      "id": "2b55dc5efeb7",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "Lamont wins third term as Democrats expand control of CT legislature",
+      "link": "https://hartfordbusiness.com/article/lamont-wins-third-term-as-democrats-expand-control-of-ct-legislature/",
+      "published": "2026-11-04T09:53:06+00:00",
+      "summary": "Democrats are poised for historic legislative majorities as Lamont defeats Republican Ryan Fazio amid voter concerns over affordability."
+    },
+    {
       "id": "a78767151eec",
       "source": "Hartford Business Journal",
       "source_id": "hbj",
@@ -1757,36 +1797,6 @@
       "link": "https://hartfordbusiness.com/article/private-equity-backed-equipment-rental-business-opens-seventh-new-england-location/",
       "published": "2026-11-03T15:55:31+00:00",
       "summary": "The sales and service center in Bourne on Cape Cod is aimed at landscapers, arborists and homeowners."
-    },
-    {
-      "id": "f96e7ce65671",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "Rhode Island-based Centreville Bank plans three new CT branches, including ‘seven-figure’ Essex investment",
-      "link": "https://hartfordbusiness.com/article/rhode-island-based-centreville-bank-plans-three-new-ct-branches-including-seven-figure-essex-investment/",
-      "published": "2026-11-03T14:45:48+00:00",
-      "summary": "The expansion would grow Centreville's Connecticut network to 10 branches as the bank targets underserved shoreline markets."
-    },
-    {
-      "id": "1e801b9dec93",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "Introducing HBJ’s ‘Best Places for Business’ publication: Ranking Connecticut’s 169 municipalities",
-      "link": "https://hartfordbusiness.com/article/introducing-hbjs-best-places-for-business-publication-ranking-connecticuts-169-municipalities/",
-      "published": "2026-11-03T11:41:04+00:00",
-      "summary": "Connecticut’s 169 municipalities offer vastly different environments for businesses, developers and investors. Some benefit from large employment centers and established commercial districts, while others compete through lower taxes, streamlined permitting, […]"
-    },
-    {
-      "id": "f479f7e5fb0c",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "FuelCell Energy looks to hire 100 at Torrington plant as data center demand grows",
-      "link": "https://hartfordbusiness.com/article/fuelcell-energy-looks-to-hire-100-at-torrington-plant-as-data-center-demand-grows/",
-      "published": "2026-11-03T11:40:42+00:00",
-      "summary": "FuelCell Energy is expanding its Torrington workforce as data center demand drives production growth, with entry-level manufacturing pay starting at $21 an hour."
     }
   ]
 }
