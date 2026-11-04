@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:28:24+00:00",
+  "generated_at": "2026-11-04T14:32:03+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -389,6 +389,26 @@
       "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed…"
     },
     {
+      "id": "349dd1a41fec",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How did Trump-endorsed candidates fare in key 2026 midterm races?",
+      "link": "https://www.masslive.com/politics/2026/11/how-did-trump-endorsed-candidates-fare-in-key-2026-midterm-races.html",
+      "published": "2026-11-04T14:22:38+00:00",
+      "summary": "Donald Trump endorsed hundreds of Republicans in the midterm elections—but the results show that his support was not enough."
+    },
+    {
+      "id": "e3bf5daf8905",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump showed off the repaired Reflecting Pool. Then reporters took a walk",
+      "link": "https://www.masslive.com/news/2026/11/reporters-walked-around-the-newly-fixed-reflecting-pool-heres-what-they-saw.html",
+      "published": "2026-11-04T14:22:31+00:00",
+      "summary": "The newly repaired Lincoln Memorial Reflecting Pool already shows cracks and light-blue streaks, just after Trump called the job complete. Here’s what to know."
+    },
+    {
       "id": "cd12595d7d2c",
       "source": "MassLive",
       "source_id": "masslive",
@@ -609,16 +629,6 @@
       "summary": "Meet five new social casinos attracting attention in 2026. See what each platform offers, from free Sweeps Coins and game variety to bonuses and features."
     },
     {
-      "id": "e6cb46c221b1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "No music, no name brands, prices lower than Walmart — here's the Aldi model explained",
-      "link": "https://www.masslive.com/food/2026/11/the-clever-grocery-store-trick-that-saves-you-money-before-you-even-put-food-in-your-cart.html",
-      "published": "2026-11-04T11:15:00+00:00",
-      "summary": "Aldi's no-frills model — no music, no name brands, products left in their shipping boxes — has helped it rack up $29 billion in U.S. sales."
-    },
-    {
       "id": "83e8c907ad65",
       "source": "MassLive",
       "source_id": "masslive",
@@ -627,6 +637,16 @@
       "link": "https://www.masslive.com/politics/2026/11/is-trumps-5000-check-promise-still-happening.html",
       "published": "2026-11-04T11:15:00+00:00",
       "summary": "The president's pledge hinged on Republicans winning Congress."
+    },
+    {
+      "id": "e6cb46c221b1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "No music, no name brands, prices lower than Walmart — here's the Aldi model explained",
+      "link": "https://www.masslive.com/food/2026/11/the-clever-grocery-store-trick-that-saves-you-money-before-you-even-put-food-in-your-cart.html",
+      "published": "2026-11-04T11:15:00+00:00",
+      "summary": "Aldi's no-frills model — no music, no name brands, products left in their shipping boxes — has helped it rack up $29 billion in U.S. sales."
     },
     {
       "id": "25359f5b8ba2",
@@ -639,54 +659,34 @@
       "summary": "President Trump wasn't even born when Kansas last elected a Democrat to the U.S. Senate."
     },
     {
-      "id": "2aa1ea7d1c38",
+      "id": "aee6dfc6671c",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Pepsi and Walmart just launched a $20 holiday baking kit — and it comes with a cardboard oven",
-      "link": "https://www.masslive.com/food/2026/11/this-clever-20-pepsi-holiday-kit-from-walmart-includes-a-surprise-you-wont-expect.html",
+      "title": "Westfield faces budget strain from rising special education expenses",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-faces-budget-strain-from-rising-special-education-expenses.html",
       "published": "2026-11-04T11:00:01+00:00",
-      "summary": "The limited-edition kit pairs Pepsi Vanilla & Cream with sugar cookie mix, icing and festive kitchen accessories."
+      "summary": "Westfield's School Committee heard that special education out-of-district costs are driving a budget deficit, with officials urging state intervention to address rising expenses."
     },
     {
-      "id": "a807dcf87650",
+      "id": "d12ead99fa19",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Swipe fees: Dating apps can cost up to $600 a year, report finds",
-      "link": "https://www.masslive.com/news/2026/11/swipe-fees-dating-apps-can-cost-up-to-600-a-year-report-finds.html",
+      "title": "From penalty shootouts to postseason streaks: Western Mass. fall championship recap",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/western-mass-fall-sports-recapping-all-19-regional-championships.html",
       "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Dating apps are currently experiencing a user fatigue."
+      "summary": "Western Massachusetts crowned 19 fall regional champions over the past several days. Catch up on all the title games and look ahead to the cross country championships."
     },
     {
-      "id": "b4494106bab6",
+      "id": "c5f9c0703de4",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Defense to rest its case Wednesday at trial over Sandra Birchmore’s death",
-      "link": "https://www.masslive.com/news/2026/11/defense-to-rest-its-case-wednesday-at-trial-over-sandra-birchmores-death.html",
+      "title": "Binance hack: How to spot fake support messages after the $6.3 billion theft",
+      "link": "https://www.masslive.com/news/2026/11/binance-hack-how-to-spot-fake-support-messages-after-the-63-billion-theft.html",
       "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Former Stoughton police officer Matthew Farwell's defense is set to call two witnesses on Wednesday: a former medical examiner and a digital forensics expert."
-    },
-    {
-      "id": "224cf27c2b5b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Southwick CAO Nicole Parker's contract status remains unclear",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/southwick-cao-nicole-parkers-contract-status-remains-unclear.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "While Nicole Parker, Southwick's chief administrative officer still has seven months left on the three-year contract she signed in May 2024, recent events indicate she’ll leave the town’s employ before June 30, 2027."
-    },
-    {
-      "id": "e9aa885941db",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former Westfield man sentenced to two years' probation for sexual assaults",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/former-westfield-man-sentenced-to-two-years-probation-for-sexual-assaults.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "A man formally of Westfield who was charged with five counts of indecent assault and battery for sexually assaulting an adult woman on a public transportation bus last December was sentenced to two years of supervised probation after agreeing to the state’s offer of continuing three of the counts…"
+      "summary": "After the $6.3 billion Binance hack, scammers may pose as support staff. Learn how to spot fake messages and protect your cryptocurrency account."
     },
     {
       "id": "e17a54acdaac",
