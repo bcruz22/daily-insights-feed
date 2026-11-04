@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:10:58+00:00",
+  "generated_at": "2026-11-04T14:10:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 5,
+      "count": 6,
       "errors": []
     },
     "omnissa": {
@@ -48,7 +48,7 @@
       "name": "The Hacker News",
       "status": "ok",
       "feed_url": "https://feeds.feedburner.com/TheHackersNews",
-      "count": 25,
+      "count": 29,
       "errors": []
     },
     "engadget": {
@@ -62,7 +62,7 @@
       "name": "Cloudflare Blog",
       "status": "ok",
       "feed_url": "https://blog.cloudflare.com/rss/",
-      "count": 2,
+      "count": 3,
       "errors": []
     },
     "9to5google": {
@@ -289,6 +289,16 @@
       "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II."
     },
     {
+      "id": "e2beab5fa777",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Does opting out of TV tracking work?",
+      "link": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
+      "published": "2026-11-04T14:00:00+00:00",
+      "summary": "The fact our TVs are gathering our information isn't new, but what and how they're tracking - and if we can stop it - is hard to figure out. Researchers at Northeastern University monitored 12 TVs from 10 manufacturers to test whether opting out of automatic content recognition (ACR) actually…"
+    },
+    {
       "id": "f11d9a22fb66",
       "source": "The Verge",
       "source_id": "verge",
@@ -379,14 +389,114 @@
       "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed…"
     },
     {
-      "id": "07464b8766d5",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "published": "2026-11-03T22:04:02+00:00",
-      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious…"
+      "id": "1c9e00c4ce54",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Miss Manners: Do I offer a courtesy when someone says ‘excuse me’ for a sneeze?",
+      "link": "https://www.masslive.com/advice/2026/11/miss-manners-do-i-offer-a-courtesy-when-someone-says-excuse-me-for-a-sneeze.html",
+      "published": "2026-11-04T14:00:00+00:00",
+      "summary": "I can’t really think of one."
+    },
+    {
+      "id": "fb794e955eaf",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Did Ron DeSantis break with Donald Trump before midterm?",
+      "link": "https://www.masslive.com/politics/2026/11/did-ron-desantis-break-with-donald-trump-before-midterm.html",
+      "published": "2026-11-04T13:41:32+00:00",
+      "summary": "\"When you’re in a midterm cycle, it tends to go against the party in power.\""
+    },
+    {
+      "id": "46941720acbd",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ohio’s next governor once moved 18 times by age 12",
+      "link": "https://www.masslive.com/news/2026/11/ohio-just-did-something-in-a-governors-race-it-had-never-done-before.html",
+      "published": "2026-11-04T13:40:15+00:00",
+      "summary": "Democrat Amy Acton beat Vivek Ramaswamy to become Ohio’s first woman elected governor. Here’s who she is, how she won and what could come next."
+    },
+    {
+      "id": "0c7884bec33d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "3 things Texas’ Democratic governor plans to do",
+      "link": "https://www.masslive.com/politics/2026/11/3-things-texas-first-democratic-governor-in-35-years-plans-to-do.html",
+      "published": "2026-11-04T13:28:15+00:00",
+      "summary": "Here's what to expect in Texas moving forward."
+    },
+    {
+      "id": "d924ee78ac5d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump weighs in on his own political future, including 2028",
+      "link": "https://www.masslive.com/politics/2026/11/trump-weighs-in-on-his-own-political-future-including-2028.html",
+      "published": "2026-11-04T13:15:00+00:00",
+      "summary": "The president has continued to acknowledge his constitutional limits."
+    },
+    {
+      "id": "d6668df0405c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Question 1 passed. When can you request records from Beacon Hill?",
+      "link": "https://www.masslive.com/election/2026/11/ballot-question-1-passed-in-massachusetts-heres-what-happens-next.html",
+      "published": "2026-11-04T13:13:24+00:00",
+      "summary": "Voters approved Question 1 with 85% support, expanding Massachusetts public records law to the governor's office and Legislature. Here's what that means and when requests can start."
+    },
+    {
+      "id": "9fa95f53996a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Blue wave for 2026 midterm elections: ‘The beginning of the end of the Trump era’",
+      "link": "https://www.masslive.com/politics/2026/11/blue-wave-for-2026-midterm-elections-the-beginning-of-the-end-of-the-trump-era.html",
+      "published": "2026-11-04T12:54:22+00:00",
+      "summary": "Democrats won both the U.S. Senate and House in Tuesday's election."
+    },
+    {
+      "id": "aefd3f4325c7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
+      "link": "https://www.masslive.com/redsox/2026/11/fenway-insider-submit-questions-for-masslives-sean-mcadam.html",
+      "published": "2026-11-04T12:40:38+00:00",
+      "summary": "What questions do you have for Sean McAdam this week? Drop them in the comments or send an email to fenwayinsider@masslive.com"
+    },
+    {
+      "id": "c452730c6770",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Girl trick-or-treating on Halloween grabbed by Washington man in van, escapes with groin kick",
+      "link": "https://www.masslive.com/news/2026/11/girl-trick-or-treating-on-halloween-grabbed-by-washington-man-in-van-escapes-with-groin-kick.html",
+      "published": "2026-11-04T12:37:08+00:00",
+      "summary": "Police still don't have a suspect."
+    },
+    {
+      "id": "8818f4eb380f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Boston voters may decide a housing ballot question that won't affect them",
+      "link": "https://www.masslive.com/election/2026/11/close-fought-mass-housing-ballot-question-may-be-decided-by-boston-voters-exempt-from-it.html",
+      "published": "2026-11-04T12:30:47+00:00",
+      "summary": "Massachusetts Question 7, a housing measure to allow smaller lot sizes, was nearly tied with Boston voters heavily supporting it despite the city being exempt from the law."
+    },
+    {
+      "id": "4f88d75109d1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Valley Light Opera to stage ‘Fiddler on the Roof’ in Northampton",
+      "link": "https://www.masslive.com/living/2026/11/valley-light-opera-to-stage-fiddler-on-the-roof-in-northampton.html",
+      "published": "2026-11-04T12:23:08+00:00",
+      "summary": "“Fiddler on the Roof” will be staged at the Academy of Music on Nov. 5 and 6 at 7:30 p.m., and Nov.7 and 8 at 2 p.m."
     },
     {
       "id": "05aa581d001b",
@@ -519,26 +629,6 @@
       "summary": "President Trump wasn't even born when Kansas last elected a Democrat to the U.S. Senate."
     },
     {
-      "id": "aee6dfc6671c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield faces budget strain from rising special education expenses",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-faces-budget-strain-from-rising-special-education-expenses.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Westfield's School Committee heard that special education out-of-district costs are driving a budget deficit, with officials urging state intervention to address rising expenses."
-    },
-    {
-      "id": "d12ead99fa19",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "From penalty shootouts to postseason streaks: Western Mass. fall championship recap",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/western-mass-fall-sports-recapping-all-19-regional-championships.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Western Massachusetts crowned 19 fall regional champions over the past several days. Catch up on all the title games and look ahead to the cross country championships."
-    },
-    {
       "id": "224cf27c2b5b",
       "source": "MassLive",
       "source_id": "masslive",
@@ -557,6 +647,26 @@
       "link": "https://www.masslive.com/westfieldnews/2026/11/former-westfield-man-sentenced-to-two-years-probation-for-sexual-assaults.html",
       "published": "2026-11-04T11:00:01+00:00",
       "summary": "A man formally of Westfield who was charged with five counts of indecent assault and battery for sexually assaulting an adult woman on a public transportation bus last December was sentenced to two years of supervised probation after agreeing to the state’s offer of continuing three of the counts…"
+    },
+    {
+      "id": "aee6dfc6671c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield faces budget strain from rising special education expenses",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-faces-budget-strain-from-rising-special-education-expenses.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Westfield's School Committee heard that special education out-of-district costs are driving a budget deficit, with officials urging state intervention to address rising expenses."
+    },
+    {
+      "id": "d12ead99fa19",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "From penalty shootouts to postseason streaks: Western Mass. fall championship recap",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/western-mass-fall-sports-recapping-all-19-regional-championships.html",
+      "published": "2026-11-04T11:00:01+00:00",
+      "summary": "Western Massachusetts crowned 19 fall regional champions over the past several days. Catch up on all the title games and look ahead to the cross country championships."
     },
     {
       "id": "509b105cfd48",
@@ -579,114 +689,24 @@
       "summary": "Three teams joined the rankings in the final media poll of the regular season."
     },
     {
-      "id": "2aa1ea7d1c38",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pepsi and Walmart just launched a $20 holiday baking kit — and it comes with a cardboard oven",
-      "link": "https://www.masslive.com/food/2026/11/this-clever-20-pepsi-holiday-kit-from-walmart-includes-a-surprise-you-wont-expect.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "The limited-edition kit pairs Pepsi Vanilla & Cream with sugar cookie mix, icing and festive kitchen accessories."
+      "id": "2f5877591bfd",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+      "link": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "published": "2026-11-04T12:43:20+00:00",
+      "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek ."
     },
     {
-      "id": "a807dcf87650",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Swipe fees: Dating apps can cost up to $600 a year, report finds",
-      "link": "https://www.masslive.com/news/2026/11/swipe-fees-dating-apps-can-cost-up-to-600-a-year-report-finds.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Dating apps are currently experiencing a user fatigue."
-    },
-    {
-      "id": "b4494106bab6",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Defense to rest its case Wednesday at trial over Sandra Birchmore’s death",
-      "link": "https://www.masslive.com/news/2026/11/defense-to-rest-its-case-wednesday-at-trial-over-sandra-birchmores-death.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "Former Stoughton police officer Matthew Farwell's defense is set to call two witnesses on Wednesday: a former medical examiner and a digital forensics expert."
-    },
-    {
-      "id": "c5f9c0703de4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Binance hack: How to spot fake support messages after the $6.3 billion theft",
-      "link": "https://www.masslive.com/news/2026/11/binance-hack-how-to-spot-fake-support-messages-after-the-63-billion-theft.html",
-      "published": "2026-11-04T11:00:01+00:00",
-      "summary": "After the $6.3 billion Binance hack, scammers may pose as support staff. Learn how to spot fake messages and protect your cryptocurrency account."
-    },
-    {
-      "id": "69510750c0c0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Here are 21 football players to watch in the D1 state tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/21-players-to-watch-in-the-division-1-football-state-tournament.html",
-      "published": "2026-11-04T11:00:00+00:00",
-      "summary": "The list includes Power 4 commits, conference players of the year and rising stars. Don't miss these 21 high school football players to watch in the D1 state tournament."
-    },
-    {
-      "id": "280e199ce0e5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "This South Hadley sophomore runner is already an All-American",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/south-hadley-sophomore-trevor-sullivan-building-an-all-american-distance-running-resume.html",
-      "published": "2026-11-04T11:00:00+00:00",
-      "summary": "Earning local and national acclaim, sophomore Trevor Sullivan marks the next generation of exceptional runners while posting tips and times online."
-    },
-    {
-      "id": "df8ef2d9cffe",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. casino player wins jackpot prize with $1.25 bet",
-      "link": "https://www.masslive.com/casinos/2026/11/mass-casino-player-wins-jackpot-prize-with-125-bet.html",
-      "published": "2026-11-04T11:00:00+00:00",
-      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
-    },
-    {
-      "id": "a1ebde8fbaf0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Today’s horoscope: Is today your birthday? - Pace yourself, concentrate on what’s doable (Nov. 4, 2026)",
-      "link": "https://www.masslive.com/advice/2026/11/todays-horoscope-is-today-your-birthday-pace-yourself-concentrate-on-whats-doable-nov-4-2026.html",
-      "published": "2026-11-04T11:00:00+00:00",
-      "summary": "Celebrities born on this day: Matthew McConaughey, 57; Ralph Macchio, 65; Jeff Probst, 65; Kathy Griffin, 66"
-    },
-    {
-      "id": "edc392209222",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Abby: Decades after workplace sexual abuse, I’m still struggling to move forward",
-      "link": "https://www.masslive.com/advice/2026/11/dear-abby-decades-after-workplace-sexual-abuse-im-still-struggling-to-move-forward.html",
-      "published": "2026-11-04T11:00:00+00:00",
-      "summary": "I left the job a year later after another incident occurred and the company swept it under the rug."
-    },
-    {
-      "id": "a2eef4792406",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Social Security retirement cuts could exceed 20%",
-      "link": "https://www.masslive.com/news/2026/11/social-security-retirement-cuts-could-exceed-20.html",
-      "published": "2026-11-04T11:00:00+00:00",
-      "summary": "Retirement funds might run out by 2032."
-    },
-    {
-      "id": "6b0e68c0d6dd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Actress reacts to heartbreaking Netflix show cancellation: ‘I don’t understand’",
-      "link": "https://www.masslive.com/entertainment/2026/11/actress-reacts-to-heartbreaking-netflix-show-cancellation-i-dont-understand.html",
-      "published": "2026-11-04T10:35:00+00:00",
-      "summary": "The star of a canceled Netflix show is speaking out about the 'sad' decision"
+      "id": "9c2441032957",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
+      "link": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+      "published": "2026-11-04T12:27:58+00:00",
+      "summary": "A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek ."
     },
     {
       "id": "9726794b0c18",
@@ -769,24 +789,14 @@
       "summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek ."
     },
     {
-      "id": "5c6c31b6a9d3",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
+      "id": "c5ab50d87112",
+      "source": "Petri",
+      "source_id": "petri",
       "category": "tech",
-      "title": "Critical Node-RED Flaw Exploited in Attacks",
-      "link": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
-      "published": "2026-11-03T12:10:19+00:00",
-      "summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek ."
-    },
-    {
-      "id": "5e74da19f3eb",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
-      "link": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
-      "published": "2026-11-03T09:49:12+00:00",
-      "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on…"
+      "title": "How Agentic NetOps Accelerates Operations Team Efficiency at Scale",
+      "link": "https://petri.com/how-agentic-netops-accelerates-operations/",
+      "published": "2026-11-04T14:00:00+00:00",
+      "summary": "The biggest challenge in network operations isn’t always finding the problem. It’s getting the right context to the right people at the right time. Consider a routine overnight incident that quickly spirals into hours of investigation, handoffs, and decision-making. The alert goes off at 2:47 a.m.…"
     },
     {
       "id": "288697ef9dd0",
@@ -837,6 +847,46 @@
       "link": "https://petri.com/microsoft-new-outlook-template-based-automatic-replies/",
       "published": "2026-11-02T14:04:58+00:00",
       "summary": "One of the feature gaps between classic Outlook and the new Outlook experience has been the lack of template-based automatic replies. Users who regularly handle repetitive emails often have to manually send the same responses over and over, which creates unnecessary administrative work and…"
+    },
+    {
+      "id": "d013e25bf406",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "published": "2026-11-04T12:07:04+00:00",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The…"
+    },
+    {
+      "id": "de8bbdd0e39a",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "published": "2026-11-04T11:46:27+00:00",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project…"
+    },
+    {
+      "id": "ecf2013fdfbb",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "published": "2026-11-04T11:34:20+00:00",
+      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like…"
+    },
+    {
+      "id": "8384c224e801",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "published": "2026-11-04T11:24:31+00:00",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP).…"
     },
     {
       "id": "40a5a2749a72",
@@ -1287,6 +1337,16 @@
       "link": "https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/",
       "published": "2026-11-03T18:28:03+00:00",
       "summary": "It sure is pretty and will likely be expensive."
+    },
+    {
+      "id": "c62c3211dde6",
+      "source": "Cloudflare Blog",
+      "source_id": "cloudflare",
+      "category": "tech",
+      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "published": "2026-11-04T14:00:00+00:00",
+      "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
     },
     {
       "id": "af5c97bd7711",
