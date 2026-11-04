@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:07:33+00:00",
+  "generated_at": "2026-11-04T08:11:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -48,7 +48,7 @@
       "name": "The Hacker News",
       "status": "ok",
       "feed_url": "https://feeds.feedburner.com/TheHackersNews",
-      "count": 26,
+      "count": 24,
       "errors": []
     },
     "engadget": {
@@ -389,6 +389,26 @@
       "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have…"
     },
     {
+      "id": "065cffa4923a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Garden Notes: Nov. 4, 2026",
+      "link": "https://www.masslive.com/living/2026/11/garden-notes-nov-4-2026.html",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "Garden Notes"
+    },
+    {
+      "id": "4788455e5ad0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. voters keep party primaries, rejecting Question 3",
+      "link": "https://www.masslive.com/politics/2026/11/ballot-question-3-fails-as-voters-keep-party-primaries-in-mass.html",
+      "published": "2026-11-04T07:25:05+00:00",
+      "summary": "The measure would have instituted a single, all-party primary ballot for state offices starting in 2028."
+    },
+    {
       "id": "085420734bde",
       "source": "MassLive",
       "source_id": "masslive",
@@ -669,26 +689,6 @@
       "summary": "Monday's meeting sets up Agawam City Council for a potential vote over creating an affordable housing trust fund."
     },
     {
-      "id": "e0d5e02fb146",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump ready to wield ‘tremendous powers’ if GOP loses midterms",
-      "link": "https://www.masslive.com/politics/2026/11/trump-ready-to-wield-tremendous-powers-if-gop-loses-midterms.html",
-      "published": "2026-11-04T01:34:56+00:00",
-      "summary": "The president cited a recent ruling he believes gives him expanded authority inside the federal government to bypass Congress."
-    },
-    {
-      "id": "c39d2b54fbfd",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "ESPN analyst rips CFP over Ohio State, Indiana rankings",
-      "link": "https://www.masslive.com/sports/2026/11/espn-analyst-rips-college-football-playoff-committee-over-ohio-state-indiana-rankings.html",
-      "published": "2026-11-04T01:33:11+00:00",
-      "summary": "The numbers didn't add for the analyst."
-    },
-    {
       "id": "ed61802f64c7",
       "source": "SecurityWeek",
       "source_id": "securityweek",
@@ -827,6 +827,16 @@
       "link": "https://petri.com/microsoft-new-outlook-template-based-automatic-replies/",
       "published": "2026-11-02T14:04:58+00:00",
       "summary": "One of the feature gaps between classic Outlook and the new Outlook experience has been the lack of template-based automatic replies. Users who regularly handle repetitive emails often have to manually send the same responses over and over, which creates unnecessary administrative work and…"
+    },
+    {
+      "id": "349817163ae5",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "published": "2026-11-04T05:43:11+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of…"
     },
     {
       "id": "9ca07b46843b",
@@ -1057,36 +1067,6 @@
       "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
       "published": "2026-11-01T08:51:31+00:00",
       "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that…"
-    },
-    {
-      "id": "2a3e4a8e199c",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "published": "2026-11-01T07:25:40+00:00",
-      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about $2.7 million to 726…"
-    },
-    {
-      "id": "6e20a9798345",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "published": "2026-11-01T07:03:00+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along…"
-    },
-    {
-      "id": "be08e34bf976",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "published": "2026-11-01T07:02:58+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and…"
     },
     {
       "id": "bdcb114647f0",
