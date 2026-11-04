@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:09:58+00:00",
+  "generated_at": "2026-11-04T06:07:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -389,6 +389,126 @@
       "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have…"
     },
     {
+      "id": "085420734bde",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. voters back landmark gun law with nearly 69% approval",
+      "link": "https://www.masslive.com/politics/2026/11/mass-voters-preserve-landmark-gun-reform-law-in-question-9-vote.html",
+      "published": "2026-11-04T05:37:39+00:00",
+      "summary": "Massachusetts voters approved ballot question 9 to preserve the wide-reaching gun reform law passed in 2024."
+    },
+    {
+      "id": "bf30f8a4705c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Voters keep recreational marijuana legal in Mass.",
+      "link": "https://www.masslive.com/politics/2026/11/voters-reject-ballot-question-8-which-would-have-repealed-recreational-marijuana-law.html",
+      "published": "2026-11-04T05:21:58+00:00",
+      "summary": "The ballot question would not have made it illegal for adults to possess marijuana, and would not have impacted medical marijuana dispensaries."
+    },
+    {
+      "id": "8ca1c2209eed",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Voters pass Ballot Question 1, expanding public records law",
+      "link": "https://www.masslive.com/politics/2026/11/voters-pass-ballot-question-1-expanding-public-records-law.html",
+      "published": "2026-11-04T04:59:51+00:00",
+      "summary": "Ballot question 1 would subject the governor’s office and state Legislature to public records law."
+    },
+    {
+      "id": "d8486051d687",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerful Dem in terse, 2-word warning to Trump amid shellacking of GOP",
+      "link": "https://www.masslive.com/politics/2026/11/powerful-dem-in-terse-2-word-warning-to-trump-amid-shellacking-of-gop.html",
+      "published": "2026-11-04T04:59:50+00:00",
+      "summary": "Dem-led House set to launch raft of probes of president."
+    },
+    {
+      "id": "6ac29ea91ad4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "First Native American, black governors elected in sweeping historic midterms",
+      "link": "https://www.masslive.com/native-american-news/2026/11/first-native-american-black-governors-elected-in-sweeping-historic-midterms.html",
+      "published": "2026-11-04T04:53:39+00:00",
+      "summary": "Midterms bringing in wave of historic firsts for some states — and for the nation."
+    },
+    {
+      "id": "a1eba04b2a59",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "States vote on abortion, redistricting and voter ID mandates",
+      "link": "https://www.masslive.com/politics/2026/11/states-vote-on-abortion-redistricting-and-voter-id-mandates.html",
+      "published": "2026-11-04T04:48:13+00:00",
+      "summary": "Nationwide, voters were deciding 145 state ballot questions."
+    },
+    {
+      "id": "649bee682322",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "South Carolina race shocks Republicans in major blow to Trump: ‘Brutal’",
+      "link": "https://www.masslive.com/politics/2026/11/south-carolina-race-shocks-republicans-in-major-blow-to-trump-brutal.html",
+      "published": "2026-11-04T04:39:43+00:00",
+      "summary": "Graham’s seat was seen as a safe Republican seat until a New York Times/Siena College poll found her neck-and-neck with Andrews, with about a week to go before Election Day."
+    },
+    {
+      "id": "632d65015a06",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Unofficial tallies show Duffy fending off 5th Hampden seat challenge from Candelario Gonzalez",
+      "link": "https://www.masslive.com/westernmass/2026/11/unofficial-tallies-show-duffy-fending-off-5th-hampden-seat-challenge-from-candelario-gonzalez.html",
+      "published": "2026-11-04T04:27:23+00:00",
+      "summary": "The incumbent Democrat received more than 71% of the vote in Chicopee, while unofficial results from Holyoke remained unavailable late Tuesday."
+    },
+    {
+      "id": "b7ff5f7fb2fb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Trump breaks silence as midterm results come in",
+      "link": "https://www.masslive.com/politics/2026/11/trump-breaks-silence-as-midterm-results-come-in.html",
+      "published": "2026-11-04T04:21:00+00:00",
+      "summary": "The president said this one thing is costing his party."
+    },
+    {
+      "id": "9ca985ce90b0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mega Millions numbers: Are you the lucky winner of Tuesday’s $482 million jackpot?",
+      "link": "https://www.masslive.com/lottery/2026/11/mega-millions-numbers-are-you-the-lucky-winner-of-tuesdays-482-million-jackpot.html",
+      "published": "2026-11-04T04:10:30+00:00",
+      "summary": "Check your numbers to see if you hit it big in Tuesday's jackpot."
+    },
+    {
+      "id": "8023280c9536",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Early returns suggest Rep. Ashe keeps 2nd Hampden seat for 10th term",
+      "link": "https://www.masslive.com/westernmass/2026/11/early-returns-suggest-rep-ashe-keeps-2nd-hampden-seat-for-10th-term.html",
+      "published": "2026-11-04T04:08:12+00:00",
+      "summary": "Ashe has prevailed in all nine of the general elections in which he has run. On Tuesday evening, early results suggested he would notch his tenth."
+    },
+    {
+      "id": "a91741470540",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Incumbent state Rep. Nicholas Boldyga wins 3rd Hampden; opponents concede",
+      "link": "https://www.masslive.com/westernmass/2026/11/incumbent-state-rep-nicholas-boldyga-wins-3rd-hampden-opponents-concede.html",
+      "published": "2026-11-04T04:07:16+00:00",
+      "summary": "“We’re Republican, and we think he’s the best candidate, and he’s the incumbent,” said John Hollywood, a business owner, while holding a “Re-elect Nick Boldyga” sign at the James Clark School in the town."
+    },
+    {
       "id": "2d5b5b24527c",
       "source": "MassLive",
       "source_id": "masslive",
@@ -567,126 +687,6 @@
       "link": "https://www.masslive.com/sports/2026/11/espn-analyst-rips-college-football-playoff-committee-over-ohio-state-indiana-rankings.html",
       "published": "2026-11-04T01:33:11+00:00",
       "summary": "The numbers didn't add for the analyst."
-    },
-    {
-      "id": "943ba0dd5ea0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Democrats record historic win in Georgia as they press for a majority of governors’ offices",
-      "link": "https://www.masslive.com/politics/2026/11/democrats-press-to-win-a-majority-of-governors-offices-in-midterms-after-power-struggles-with-trump.html",
-      "published": "2026-11-04T01:30:08+00:00",
-      "summary": "The surprising number of states that are in play is a sign of voter discontent."
-    },
-    {
-      "id": "ef377324e669",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Kate Spade Outlet is clearing out handbags with prices starting at only $53",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/kate-spade-outlet-is-clearing-out-handbags-with-prices-starting-at-only-53.html",
-      "published": "2026-11-04T01:27:58+00:00",
-      "summary": "Kate Spade Outlet is offering extra discounts on select handbags, with styles starting at $53 and additional savings available at checkout."
-    },
-    {
-      "id": "f123de836717",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pappas defeats Sununu to keep New Hampshire U.S. Senate seat in Democratic hands",
-      "link": "https://www.masslive.com/politics/2026/11/pappas-defeats-sununu-to-keep-new-hampshire-us-senate-seat-in-democratic-hands.html",
-      "published": "2026-11-04T01:27:40+00:00",
-      "summary": "The race for a New Hampshire Senate seat has been called."
-    },
-    {
-      "id": "b4b061f2eeac",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Trump rants at Fox News in Election Day social media meltdown: ‘Dumb as a rock’",
-      "link": "https://www.masslive.com/politics/2026/11/trump-rants-at-fox-news-in-election-day-social-media-meltdown-dumb-as-a-rock.html",
-      "published": "2026-11-04T01:11:22+00:00",
-      "summary": "“My numbers are better than they’ve ever been.”"
-    },
-    {
-      "id": "cdde1f5ac748",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mass. Gov. Healey defeats Republican Mike Minogue: Wins second term",
-      "link": "https://www.masslive.com/politics/2026/11/mass-gov-healey-defeats-republican-mike-minogue-wins-second-term.html",
-      "published": "2026-11-04T01:09:17+00:00",
-      "summary": "The Associated Press called the race at 8:01 p.m. for the Arlington Democrat — just one minute after polls closed across the Bay State."
-    },
-    {
-      "id": "809e2983b969",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Wednesday heat could break record daily high temps in Massachusetts",
-      "link": "https://www.masslive.com/weather/2026/11/wednesday-heat-could-break-record-daily-high-temps-in-massachusetts.html",
-      "published": "2026-11-04T01:07:15+00:00",
-      "summary": "Massachusetts may see record-breaking November warmth mid-week before rain moves in Friday, bringing 1-3 inches of rainfall through Saturday."
-    },
-    {
-      "id": "b2788629b74a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sen. Ed Markey wins reelection, handily defeating challenger John Deaton",
-      "link": "https://www.masslive.com/politics/2026/11/sen-ed-markey-wins-reelection-over-republican-challenger-john-deaton.html",
-      "published": "2026-11-04T01:06:13+00:00",
-      "summary": "The incumbent Democrat defeated Republican John Deaton, securing a third full Senate term and overcoming criticism of his age and five decades in office."
-    },
-    {
-      "id": "18614744035e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "National exit poll has ominous midterm news for Trump, GOP as polls begin to close",
-      "link": "https://www.masslive.com/politics/2026/11/national-exit-poll-has-ominous-midterm-news-for-trump-gop-as-polls-begin-to-close.html",
-      "published": "2026-11-04T00:43:58+00:00",
-      "summary": "A cascade of grim findings for the president."
-    },
-    {
-      "id": "6073381a5c1d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Woman killed by MBTA Commuter Rail train while walking tracks in Abington",
-      "link": "https://www.masslive.com/news/2026/11/woman-killed-by-mbta-commuter-rail-train-while-walking-tracks-in-abington.html",
-      "published": "2026-11-04T00:31:35+00:00",
-      "summary": "A woman entered Commuter Rail train tracks at a railroad crossing in Abington Tuesday afternoon and was struck and killed by a train after walking an eighth of a mile."
-    },
-    {
-      "id": "e946970fca2f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "My unhappy day in small claims court | Letters to The Republican",
-      "link": "https://www.masslive.com/opinion/2026/11/my-unhappy-day-in-small-claims-court-letters-to-the-republican.html",
-      "published": "2026-11-04T00:27:44+00:00",
-      "summary": "Readers also comment on fallen decency in U.S. politics, a frightening historical comparison, evenings of magic in Forest Park and more."
-    },
-    {
-      "id": "4b8833d56c9f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Is the Caraway Dutch oven worth $165? Here’s what you need to know before you buy",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/is-the-caraway-dutch-oven-worth-165-heres-what-you-need-to-know-before-you-buy.html",
-      "published": "2026-11-04T00:21:53+00:00",
-      "summary": "The Caraway 6.5-quart Dutch oven offers a lightweight aluminum build, ceramic nonstick coating, and stylish design for $165, but requires careful maintenance to preserve its finish."
-    },
-    {
-      "id": "b4a279b0ce04",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Replica World Cup trophy lifted by Lionel Messi up for auction Nov. 7",
-      "link": "https://www.masslive.com/news/2026/11/replica-world-cup-trophy-lifted-by-lionel-messi-up-for-auction-nov-7.html",
-      "published": "2026-11-04T00:00:00+00:00",
-      "summary": "The trophy is paired with a trading card depicting Messi carrying the replica trophy after Argentina defeated France at the 2022 World Cup."
     },
     {
       "id": "ed61802f64c7",
@@ -1609,6 +1609,36 @@
       "summary": "The Garmin Vivoactive 5 is down to its lowest price of all time in all four colors for a limited time, making this the least expensive Garmin you can buy today. more…"
     },
     {
+      "id": "7bf3315c91f3",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Joseph Ustaitis Jr.",
+      "link": "https://gazettenet.com/2026/11/04/obit-joseph-ustaitis-jr-212725617/",
+      "published": "2026-11-04T06:00:59+00:00",
+      "summary": ""
+    },
+    {
+      "id": "6baf1c1db6f6",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Edward A. Towles Sr.",
+      "link": "https://gazettenet.com/2026/11/04/obit-edward-a-towles-sr-212725220/",
+      "published": "2026-11-04T06:00:43+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f335f9aa90b5",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Neal defeats Milleron, secures 20th term in House",
+      "link": "https://gazettenet.com/2026/11/04/neal-defeats-milleron-secures-20th-term-in-house/",
+      "published": "2026-11-04T05:01:18+00:00",
+      "summary": ""
+    },
+    {
       "id": "3b9a25c3fa33",
       "source": "Daily Hampshire Gazette",
       "source_id": "gazette",
@@ -1676,36 +1706,6 @@
       "title": "UMass men’s basketball topples Troy, 71-60, in 2026-27 opener",
       "link": "https://gazettenet.com/2026/11/03/umass-mens-basketball-topples-troy-71-60-in-2026-27-opener/",
       "published": "2026-11-03T22:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "id": "4324f97a9ca7",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Columnist J.M. Sorrell: What then must we do?",
-      "link": "https://gazettenet.com/2026/11/03/guest-columnist-j-m-sorrell-what-then-must-we-do/",
-      "published": "2026-11-03T21:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "id": "0d2659a58f15",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Antisemitic sticker found in child’s Halloween candy bag in Southampton",
-      "link": "https://gazettenet.com/2026/11/03/antisemitic-sticker-found-in-childs-halloween-candy-bag-in-southampton/",
-      "published": "2026-11-03T20:39:29+00:00",
-      "summary": ""
-    },
-    {
-      "id": "caf0c4f5f561",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Amherst bus route plan draws parent pushback ahead of Nov. 30 rollout",
-      "link": "https://gazettenet.com/2026/11/03/amherst-bus-route-plan-draws-parent-pushback-ahead-of-nov-30-rollout/",
-      "published": "2026-11-03T20:14:08+00:00",
       "summary": ""
     },
     {
