@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T20:10:23+00:00",
+ "generated_at": "2026-11-04T22:09:25+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 38,
+  "aqi": 39,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-04 14:00 EST"
+  "observed": "2026-11-04 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -378,6 +378,14 @@
     "published": "2026-11-03T21:16:57.993",
     "summary": "Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. Prior to 20.3.33, 21.2.25, and 22.2.1, @angular/router in Node.js server-side rendering fails to require auxiliary outlet URL segments to match routes configured for their outlet names. Crafted requests containing multiple unconfigured empty-path outlet groups can rep",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111752"
+   },
+   {
+    "id": "CVE-2026-97705",
+    "score": 7.5,
+    "cvss": "3.1",
+    "published": "2026-11-04T20:19:13.137",
+    "summary": "Moleculer is a progressive microservices framework for Node.js. Prior to 0.14.36 and 0.15.2, Parser._write in src/transporters/tcp/parser.js used Buffer.prototype.readInt32BE to read a signed packet length, so a remote unauthenticated peer could supply a negative value that caused packet.slice(length) to return the unchanged buffer while the while (packet.length > 0) loop continued indefinitely. T",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97705"
    }
   ]
  }
