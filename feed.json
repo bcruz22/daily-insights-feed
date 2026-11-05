@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:09:33+00:00",
+  "generated_at": "2026-11-05T04:09:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -237,7 +237,7 @@
       "name": "ServeTheHome",
       "status": "ok",
       "feed_url": "https://www.servethehome.com/feed/",
-      "count": 5,
+      "count": 4,
       "errors": []
     },
     "vhowto": {
@@ -328,6 +328,20 @@
       "name": "Greenfield Recorder",
       "status": "ok",
       "feed_url": "https://www.recorder.com/feed/",
+      "count": 10,
+      "errors": []
+    },
+    "bandt": {
+      "name": "Banker and Tradesman",
+      "status": "ok",
+      "feed_url": "https://bankerandtradesman.com/category/industry-news/banking-lending/feed/",
+      "count": 4,
+      "errors": []
+    },
+    "cuinsight": {
+      "name": "CUInsight",
+      "status": "ok",
+      "feed_url": "https://www.cuinsight.com/feed",
       "count": 10,
       "errors": []
     }
@@ -634,6 +648,86 @@
       "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and…"
     },
     {
+      "id": "5e66ac25fc70",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball: See the winning numbers in Wednesday’s $835 million drawing",
+      "link": "https://www.masslive.com/lottery/2026/11/powerball-see-the-winning-numbers-in-wednesdays-835-million-drawing.html",
+      "published": "2026-11-05T04:05:55+00:00",
+      "summary": "Check your numbers to see if you hit it big in Wednesday's jackpot."
+    },
+    {
+      "id": "116ea592f01a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Empower Health Group Celebrates Grand Opening of Springfield Treatment Center",
+      "link": "https://www.masslive.com/business/2026/11/empower-health-group-celebrates-grand-opening-of-springfield-treatment-center.html",
+      "published": "2026-11-05T03:00:20+00:00",
+      "summary": "Empower Health Group new Springfield Treatment Center"
+    },
+    {
+      "id": "f4cfc6c000e9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Neemias Queta is Celtics’ Name to Know Player of the Game in win over Bucks",
+      "link": "https://www.masslive.com/celtics/2026/11/neemias-queta-is-celtics-name-to-know-player-of-the-game-in-win-over-bucks.html",
+      "published": "2026-11-05T02:59:45+00:00",
+      "summary": "Neemias Queta made multiple winning plays during a close fourth quarter to help the Celtics to a 109-102 win over the Bucks at TD Garden."
+    },
+    {
+      "id": "5bd3f0061047",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "4 takeaways as Celtics beat Bucks with late rally following stunning collapse",
+      "link": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-bucks-with-late-rally-following-stunning-collapse.html",
+      "published": "2026-11-05T02:58:52+00:00",
+      "summary": "The Celtics led by as many as 22 points in the first half before holding off a Bucks rally late in the win."
+    },
+    {
+      "id": "fae39be2e918",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Girls Volleyball Roundup: Easthampton sweeps Saint Paul in D-IV",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/girls-volleyball-roundup-easthampton-sweeps-saint-paul-in-d-iv.html",
+      "published": "2026-11-05T02:44:29+00:00",
+      "summary": "Check out scores and stats from girls volleyball playoff matches across the state on Wednesday."
+    },
+    {
+      "id": "c941a3e4435b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Field Hockey Roundup: Malden Catholic defeats Methuen in thriller to advance",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/field-hockey-roundup-malden-catholic-defeats-methuen-in-thriller-to-advance.html",
+      "published": "2026-11-05T02:37:11+00:00",
+      "summary": "Check out results from field hockey tournament games from around the state on Wednesday."
+    },
+    {
+      "id": "89adfd59a0e9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Líderes latinos instan a los jóvenes a votar",
+      "link": "https://www.masslive.com/elpueblolatino/2026/11/lideres-latinos-instan-a-los-jovenes-a-votar.html",
+      "published": "2026-11-05T02:34:45+00:00",
+      "summary": "Noticias locales"
+    },
+    {
+      "id": "1853d466cb0a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "2026 Massachusetts high school football playoffs: MIAA state tournament schedule and where to watch",
+      "link": "https://www.masslive.com/tv/2026/11/2026-massachusetts-high-school-football-playoffs-miaa-state-tournament-schedule-and-where-to-watch.html",
+      "published": "2026-11-05T02:18:21+00:00",
+      "summary": "MIAA football state playoffs kick off this week and run through state championships in early December."
+    },
+    {
       "id": "6428ac9d32c0",
       "source": "MassLive",
       "source_id": "masslive",
@@ -852,86 +946,6 @@
       "link": "https://www.masslive.com/news/2026/11/mom-daughter-killed-in-suspected-bear-attack.html",
       "published": "2026-11-04T21:29:47+00:00",
       "summary": "A mother and daughter were found dead on a local trail, with authorities investigating a suspected grizzly bear attack."
-    },
-    {
-      "id": "7789a401ea11",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Mixed results for Worcester County in Tuesday's state races",
-      "link": "https://www.masslive.com/centralmass/2026/11/republicans-and-democrats-split-key-worcester-county-legislative-races.html",
-      "published": "2026-11-04T21:13:59+00:00",
-      "summary": "In three Worcester County legislative races, Democrats flipped the 1st Worcester House District for the first time in 20 years, while Republican incumbents retained the Worcester/Hampshire Senate seat and 7th Worcester House District."
-    },
-    {
-      "id": "1d4a187116ab",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Family of former ‘Ellen’ producer who died at 52 shares more details about his death",
-      "link": "https://www.masslive.com/entertainment/2026/11/family-of-former-ellen-producer-who-died-at-52-shares-more-details-about-his-death.html",
-      "published": "2026-11-04T21:11:40+00:00",
-      "summary": "The former executive producer of “The Ellen DeGeneres Show died on Friday."
-    },
-    {
-      "id": "b1160f2e4615",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Snowport returns to Boston for 6th season Friday: What to know before you go",
-      "link": "https://www.masslive.com/ne-where/2026/11/snowport-returns-to-boston-for-6th-season-friday-what-to-know-before-you-go.html",
-      "published": "2026-11-04T21:11:07+00:00",
-      "summary": "From free entry and Fast Pass tickets to cheese wheel pasta and a Mistletoe Arch, there's a ton to know about Snowport."
-    },
-    {
-      "id": "00cf0a6050a3",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "NJ among 10 states getting new Raising Cane's this month",
-      "link": "https://www.masslive.com/news/2026/11/cult-chicken-chain-to-open-12-new-spots.html",
-      "published": "2026-11-04T21:08:39+00:00",
-      "summary": "The Raising Cane's expansion continues."
-    },
-    {
-      "id": "0519e6af96d4",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rep. Ashe scores 10th win in district that stretches from Longmeadow to Monson",
-      "link": "https://www.masslive.com/westernmass/2026/11/rep-ashe-scores-10th-win-in-district-that-stretches-from-longmeadow-to-monson.html",
-      "published": "2026-11-04T21:06:49+00:00",
-      "summary": "The lawmaker faced a challenge from former Monson Select Board member Peter Warren, a Republican."
-    },
-    {
-      "id": "908df7d1640f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ex-MAGA firebrand drops craziest midterm conspiracy theory about Trump",
-      "link": "https://www.masslive.com/politics/2026/11/ex-maga-firebrand-drops-craziest-midterm-conspiracy-theory-about-trump.html",
-      "published": "2026-11-04T21:02:00+00:00",
-      "summary": "He alleged, without evidence, that the president deliberately sabotaged the GOP."
-    },
-    {
-      "id": "beb90477b77a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Patriots takeaways: Are Christian Barmore and Carlton Davis being shopped?",
-      "link": "https://www.masslive.com/patriots/2026/11/patriots-takeaways-christian-barmore-and-carlton-davis-trade-rumors-aj-brown-update-and-more.html",
-      "published": "2026-11-04T20:54:41+00:00",
-      "summary": "Are the Patriots looking to deal Christian Barmore or Carlton Davis at the NFL trade deadline?"
-    },
-    {
-      "id": "6d55ce0848f2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Want a holiday job with weekly pay and brand discounts? Macy's is now hiring",
-      "link": "https://www.masslive.com/business/2026/11/need-extra-cash-this-holiday-season-macys-is-holding-open-hiring-events-this-november.html",
-      "published": "2026-11-04T20:53:51+00:00",
-      "summary": "The retailer is staffing up across all Macy's, Bloomingdale's and BlueMercury locations ahead of the holiday rush"
     },
     {
       "id": "6b6d8b64e2bf",
@@ -2964,6 +2978,16 @@
       "summary": "Continuous assurance of customer identity keeps AI decisions grounded in reality"
     },
     {
+      "id": "4ce7bfa440a0",
+      "source": "ABA Banking Journal",
+      "source_id": "abajournal",
+      "category": "tech",
+      "title": "ABA Ag Conference: Policy experts begin to break down midterm’s effect on ag banking",
+      "link": "https://bankingjournal.aba.com/2026/11/aba-ag-conference-policy-experts-begin-to-break-down-midterms-effect-on-ag-banking/",
+      "published": "2026-11-05T02:40:54+00:00",
+      "summary": "Members of ABA’s policy team were on hand to help ag and rural lenders begin to sort out the election results that put Democrats in control of the House and Senate and what that the transfer of power in the next Congress might mean for for ag and rural banking programs and priorities. The post ABA…"
+    },
+    {
       "id": "cf4426e30cf1",
       "source": "ABA Banking Journal",
       "source_id": "abajournal",
@@ -3052,16 +3076,6 @@
       "link": "https://bankingjournal.aba.com/2026/11/bank-acquisitions-announced-in-three-states-13/",
       "published": "2026-11-03T14:45:47+00:00",
       "summary": "First Mid Bancshares to buy Evergreen Bancshares in Missouri. First Community Bankshares to buy Main Street Financial Services in Ohio. Texas Community Bancshares to buy the Banc of San Jacinto County Bancshares in Texas. The post Bank acquisitions announced in three states appeared first on ABA…"
-    },
-    {
-      "id": "496b68d862c4",
-      "source": "ABA Banking Journal",
-      "source_id": "abajournal",
-      "category": "tech",
-      "title": "Eighth Circuit affirms vacatur of Regulation II",
-      "link": "https://bankingjournal.aba.com/2026/11/eighth-circuit-affirms-vacatur-of-regulation-ii/",
-      "published": "2026-11-03T14:13:01+00:00",
-      "summary": "While the Eighth Circuit vacated Reg. II, the Sixth Circuit has yet to issue its decision in Linney’s Pizza. There, a Kentucky federal court granted summary judgment to the Fed and rejected the merchant’s challenge to Reg. II. The post Eighth Circuit affirms vacatur of Regulation II appeared first…"
     },
     {
       "id": "67aa65122c49",
@@ -3432,16 +3446,6 @@
       "link": "https://www.servethehome.com/qualcomm-validates-hbc-stacked-memory-ahead-of-2027-dragonfly-ai250-sampling/",
       "published": "2026-11-02T14:00:14+00:00",
       "summary": "Qualcomm today is announcing that they have completed initial validation on their High Bandwidth Compute technology. The DRAM-stacked-upon-compute architecture moves on to commercialization, with Dragonfly AI250 set to sample in the first half of 2027 The post Qualcomm Validates HBC Stacked Memory…"
-    },
-    {
-      "id": "70e54f07a4e4",
-      "source": "ServeTheHome",
-      "source_id": "servethehome",
-      "category": "tech",
-      "title": "Liquid-Cooled NVIDIA Servers at the ASRock Rack OCP 2026 Booth",
-      "link": "https://www.servethehome.com/liquid-cooled-nvidia-servers-at-the-asrock-rack-ocp-2026-booth/",
-      "published": "2026-11-02T04:00:03+00:00",
-      "summary": "We checked out the ASRock Rack booth at OCP 2026 and saw servers ranging from fully integrated NVIDIA NVL72 racks to liquid-cooled switches The post Liquid-Cooled NVIDIA Servers at the ASRock Rack OCP 2026 Booth appeared first on ServeTheHome ."
     },
     {
       "id": "3d1e0b8c304b",
@@ -3974,6 +3978,26 @@
       "summary": "iOS 27.3 is available now in beta, and it’s a big release for Siri AI improvements. Joining new app actions, Siri Recaps, and developer features, iOS 27.3 also expands Siri AI to several additional languages. more…"
     },
     {
+      "id": "7142d249676b",
+      "source": "AppleInsider",
+      "source_id": "appleinsider",
+      "category": "tech",
+      "title": "How to install macOS Tahoe on unsupported Macs",
+      "link": "https://appleinsider.com/articles/26/11/05/how-to-install-macos-tahoe-on-unsupported-macs?utm_source=rss",
+      "published": "2026-11-05T04:02:52+00:00",
+      "summary": "With OpenCore Legacy Patcher, now on version 3, you can get macOS Tahoe running on Intel Macs released more than fifteen years ago. Here's how to get everything set up. With OpenCore Legacy Patcher 3.0.0, you can install macOS Tahoe on Macs that debuted more than 15 years ago. Though Apple Silicon…"
+    },
+    {
+      "id": "614a0665517a",
+      "source": "AppleInsider",
+      "source_id": "appleinsider",
+      "category": "tech",
+      "title": "Labrinth promotes PROLED MacBook Pro with an all-night music-making stream",
+      "link": "https://appleinsider.com/articles/26/11/05/labrinth-promotes-proled-macbook-pro-with-an-all-night-music-making-stream?utm_source=rss",
+      "published": "2026-11-05T02:24:42+00:00",
+      "summary": "Multi-platinum musician Labrinth will be putting the PROLED MacBook Pro through its paces ahead of launch, using it to produce a full song from scratch on a live stream. Labrinth in a recording studio - Image Credit: Apple Apple's MacBook Pro with a Tandem OLED screen, referred to as PROLED, is…"
+    },
+    {
       "id": "0d9e329e532a",
       "source": "AppleInsider",
       "source_id": "appleinsider",
@@ -4252,26 +4276,6 @@
       "link": "https://appleinsider.com/articles/26/11/03/apple-intelligence-arrives-in-china-via-ios-273-developer-beta?utm_source=rss",
       "published": "2026-11-03T20:07:32+00:00",
       "summary": "After two years of waiting, the first iOS 27.3 developer beta has introduced Apple Intelligence to China, bringing some of its AI features to the country. Apple Intelligence will finally ship in China - Image Credit: Apple The long wait for Apple Intelligence in China started in 2024 after its…"
-    },
-    {
-      "id": "67a1d12292a9",
-      "source": "AppleInsider",
-      "source_id": "appleinsider",
-      "category": "tech",
-      "title": "Modern AirPods got beta firmware today too",
-      "link": "https://appleinsider.com/articles/26/11/03/modern-airpods-got-beta-firmware-today-too?utm_source=rss",
-      "published": "2026-11-03T20:00:38+00:00",
-      "summary": "There's new beta firmware for Airpods, assuming you have AirPods Pro 2 or AirPods 4 and newer, or the AirPods Max 2. The firmware has beta build number 9B5045a, and it's not clear what the update contains. Continue Reading on AppleInsider | Discuss on our Forums"
-    },
-    {
-      "id": "7e8f902eff05",
-      "source": "AppleInsider",
-      "source_id": "appleinsider",
-      "category": "tech",
-      "title": "Elgato's new teleprompter app follows your voice & doesn't need special hardware",
-      "link": "https://appleinsider.com/articles/26/11/03/elgatos-new-teleprompter-app-follows-your-voice-doesnt-need-special-hardware?utm_source=rss",
-      "published": "2026-11-03T19:59:34+00:00",
-      "summary": "Elgato's Virtual Prompter doesn't need special hardware, and follows your voice as you read, keeping scripts near your webcam during presentations, recordings, and video calls. Elgato launches free Virtual Prompter for Mac and Windows On Tuesday, Elgato announced Virtual Prompter, a new feature in…"
     },
     {
       "id": "f6bc2865193c",
@@ -4734,6 +4738,26 @@
       "summary": "A new hands-on video just revealed Motorola's wildly specs-heavy Signature 27."
     },
     {
+      "id": "8ff0836f667a",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "Which Roku Streaming Device Is Best For Frequent Travelers?",
+      "link": "https://www.bgr.com/2301974/which-roku-streaming-stick-best-for-travel/",
+      "published": "2026-11-05T02:17:00+00:00",
+      "summary": "If you're a frequent traveler and you enjoy watching shows or movies in your hotel room, here's the best Roku streaming device to carry with you."
+    },
+    {
+      "id": "bf0c129bb407",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "5 Garmin Alternatives To Consider If You Don't Want An Expensive Sports Watch",
+      "link": "https://www.bgr.com/2296398/garmin-smartwatch-alternatives-consider-expensive-sports-watch/",
+      "published": "2026-11-05T00:17:00+00:00",
+      "summary": "There's a massive market for alternative sports watches if you're willing to looking beyond the Garmin brand."
+    },
+    {
       "id": "e8ed807525ec",
       "source": "BGR",
       "source_id": "bgr",
@@ -4912,26 +4936,6 @@
       "link": "https://www.bgr.com/2300784/google-home-security-camera-features-check-before-buying/",
       "published": "2026-11-04T12:17:00+00:00",
       "summary": "Home security cameras can provide more peace of mind to home owners. Some security cameras can give you access to several useful Google Home features."
-    },
-    {
-      "id": "7524f610b83a",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "4 Mini PCs More Powerful Than A MacBook Neo",
-      "link": "https://www.bgr.com/2301124/mini-pcs-more-powerful-than-macbook-neo/",
-      "published": "2026-11-04T11:17:00+00:00",
-      "summary": "The MacBook New is a great entry-point for those looking for a computer within the Apple ecosystem, but there are other options if you don't care about the OS."
-    },
-    {
-      "id": "2e8e2aa978f8",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "How Secure Is iCloud Keychain Compared To The Alternatives?",
-      "link": "https://www.bgr.com/2300495/icloud-keychain-secure-compared-to-alternatives/",
-      "published": "2026-11-04T04:17:00+00:00",
-      "summary": "iCloud Keychain is a security app that comes pre-installed on Apple devices, but just how secure is it when compared to other popular alternatives?"
     },
     {
       "id": "318e206400ba",
@@ -5234,6 +5238,16 @@
       "summary": "Valve is introducing stricter pre-release checks for Steam games as a surge in submissions pushes approval times to nearly two weeks, with developers increasingly concerned about AI-generated games clogging the platform."
     },
     {
+      "id": "2c1f08fea069",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Bluesky Gets a Midterms Bump, Ships Pronouns-in-Bios Feature",
+      "link": "https://gizmodo.com/bluesky-gets-a-midterms-bump-ships-pronouns-in-bios-feature-2000835322",
+      "published": "2026-11-05T02:51:49+00:00",
+      "summary": "Bluesky is feeling itself right now, but it says the pronouns-in-bios thing is a coincidence."
+    },
+    {
       "id": "a3b11dd7c92d",
       "source": "Gizmodo",
       "source_id": "gizmodo",
@@ -5424,14 +5438,34 @@
       "summary": "Some tried to co-op the sci-fi franchise as its own but, ultimately, there's a new hope once again."
     },
     {
-      "id": "4ba43ccff554",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Welcome Earth’s New Mini-Moon. It’s Adorably Tiny and Has a Loopy Orbit",
-      "link": "https://gizmodo.com/welcome-earths-new-mini-moon-its-adorably-small-and-has-a-loopy-orbit-2000834862",
-      "published": "2026-11-04T17:15:05+00:00",
-      "summary": "First mistaken for space junk, 2026 QQ8 has turned out to be a temporary companion to Earth."
+      "id": "306f08003e61",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Springfield woman facing eviction receives community support to keep longtime home",
+      "link": "https://www.wwlp.com/news/local-news/hampden-county/springfield-woman-facing-eviction-receives-community-support-to-keep-longtime-home/",
+      "published": "2026-11-05T04:09:13+00:00",
+      "summary": "A Springfield woman who has lived in her home for more than two decades is fighting to remain there following her husband's death, with neighbors and housing advocates gathering Wednesday night to call for an end to eviction efforts."
+    },
+    {
+      "id": "fee37f3e6d70",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Springfield considers ordinance to ban Flock surveillance cameras",
+      "link": "https://www.wwlp.com/news/local-news/hampden-county/springfield-considers-ordinance-to-ban-flock-surveillance-cameras/",
+      "published": "2026-11-05T03:34:36+00:00",
+      "summary": "Springfield residents voiced concerns about privacy and surveillance during a City Council committee meeting Wednesday night as officials reviewed a proposed ordinance that would ban the use of Flock cameras throughout the city."
+    },
+    {
+      "id": "42f8f3ddced9",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Belchertown warns residents of tax scam callers",
+      "link": "https://www.wwlp.com/news/local-news/hampshire-county/belchertown-warns-residents-of-tax-scam-callers/",
+      "published": "2026-11-05T02:38:44+00:00",
+      "summary": "The Town of Belchertown is warning residents about a tax scam after a resident reported receiving a phone call from someone claiming to represent the town."
     },
     {
       "id": "eab39a2828a9",
@@ -5704,34 +5738,44 @@
       "summary": "lawn tractor caught fire Tuesday afternoon in Amherst, spreading flames to nearby leaves and grass before firefighters quickly extinguished the blaze."
     },
     {
-      "id": "242c5a8fc59d",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "f57047003b75",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "Democrats seize House control from Republicans",
-      "link": "https://www.wwlp.com/hill-politics/democrats-seize-house-control-from-republicans/",
-      "published": "2026-11-04T02:13:08+00:00",
-      "summary": "Democrats on Tuesday seized control of the U.S. House, flipping the chamber after four years in the minority wilderness to usher in a new era of divided government, Decision Desk HQ projects. The change will have immediate repercussions for the workings of Washington next year, slamming the brakes…"
+      "title": "Woman charged with hiding income to pocket $12K in illegal SNAP funds",
+      "link": "https://www.westernmassnews.com/2026/11/05/woman-charged-with-hiding-income-pocket-12k-illegal-snap-funds/",
+      "published": "2026-11-05T03:59:31+00:00",
+      "summary": "A woman was arrested Wednesday on four felony charges alleging she fraudulently obtained more than $12,000 in SNAP benefits, authorities said."
     },
     {
-      "id": "0e47cad179cb",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "df47f34dd5bf",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "Sip, Bid & Boogie returns to Northampton to support people with disabilities",
-      "link": "https://www.wwlp.com/news/local-news/hampshire-county/sip-bid-boogie-returns-to-northampton-to-support-people-with-disabilities/",
-      "published": "2026-11-04T01:57:48+00:00",
-      "summary": "An evening of local art, live music, food and dancing is returning to Northampton this November, raising money to support individuals with disabilities and their families across western Massachusetts."
+      "title": "Springfield Elks lodger honors their Veteran of the Year",
+      "link": "https://www.westernmassnews.com/2026/11/05/springfield-elks-lodger-honors-their-veteran-year/",
+      "published": "2026-11-05T03:45:11+00:00",
+      "summary": "It was Veterans’ Remembrance Night at the Springfield Elks Lodge"
     },
     {
-      "id": "ad8bbd884680",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "a4c59e07fb6a",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "MAP: Who will control Congress after 2026 midterms?",
-      "link": "https://www.wwlp.com/news/political-news/ap-politics/map-who-will-control-congress-after-2026-midterms/",
-      "published": "2026-11-04T01:07:43+00:00",
-      "summary": "Find the latest map of seat pickups, losses and more here."
+      "title": "Springfield officials discuss possibility of removing Flock cameras from city",
+      "link": "https://www.westernmassnews.com/2026/11/04/springfield-officials-discuss-possibility-removing-flock-cameras-city/",
+      "published": "2026-11-05T02:17:26+00:00",
+      "summary": "That meeting included city officials but also passionate advocates against surveillance technology."
+    },
+    {
+      "id": "3286c234397d",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "Dry Streak Comes to an End with Shower Chances Thursday",
+      "link": "https://www.westernmassnews.com/2026/11/04/bright-with-possibly-record-breaking-warmth-wednesday/",
+      "published": "2026-11-05T02:12:35+00:00",
+      "summary": "Unsettled Pattern Setting up into the Weekend"
     },
     {
       "id": "8bce99c5c00d",
@@ -5764,16 +5808,6 @@
       "summary": "A registered sex offender is facing 10 counts of first-degree voyeurism after a Huntsville police investigation."
     },
     {
-      "id": "3286c234397d",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Dry Streak Comes to an End with Shower Chances Thursday",
-      "link": "https://www.westernmassnews.com/2026/11/04/bright-with-possibly-record-breaking-warmth-wednesday/",
-      "published": "2026-11-04T23:48:30+00:00",
-      "summary": "Unsettled Pattern Setting up into the Weekend"
-    },
-    {
       "id": "4e2dc8992cd7",
       "source": "Western Mass News",
       "source_id": "westernmassnews",
@@ -5782,16 +5816,6 @@
       "link": "https://www.westernmassnews.com/2026/11/04/dnc-chairman-shares-party-goals-after-blue-wave/",
       "published": "2026-11-04T23:40:36+00:00",
       "summary": "DNC Chair Ken Martin says his fellow party members and the voters who support Democrats are sending a clear and pithy message to President Donald Trump."
-    },
-    {
-      "id": "a4c59e07fb6a",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Springfield officials discuss possibility of removing Flock cameras from city",
-      "link": "https://www.westernmassnews.com/2026/11/04/springfield-officials-discuss-possibility-removing-flock-cameras-city/",
-      "published": "2026-11-04T22:47:57+00:00",
-      "summary": "That meeting included city officials but also passionate advocates against surveillance technology."
     },
     {
       "id": "8bc70c6eea38",
@@ -5914,26 +5938,6 @@
       "summary": "A Michigan couple is accused of abusing their adopted and foster children under the “guise of discipline” for financial gain, according to authorities."
     },
     {
-      "id": "414d91bd4d77",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Poverty among older Americans has risen five years in a row, data shows",
-      "link": "https://www.westernmassnews.com/2026/11/04/poverty-among-older-americans-has-risen-five-years-row-data-shows/",
-      "published": "2026-11-04T18:48:12+00:00",
-      "summary": "Poverty among people over 65 has risen for a fifth year in a row, new Census data shows. An AARP Foundation president explains what older adults are facing."
-    },
-    {
-      "id": "b10634fc6984",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Former judge arrested for unloading gun at Halloween trick-or-treaters, police say",
-      "link": "https://www.westernmassnews.com/2026/11/04/former-judge-arrested-unloading-gun-halloween-trick-or-treaters-police-say/",
-      "published": "2026-11-04T17:24:19+00:00",
-      "summary": "A former judge has been arrested after allegedly unloading a gun in the direction of Halloween trick-or-treaters, according to authorities."
-    },
-    {
       "id": "e97d5b13b5e2",
       "source": "Greenfield Recorder",
       "source_id": "recorder",
@@ -6032,6 +6036,146 @@
       "link": "https://recorder.com/2026/11/04/arts-briefs-book-talks-an-introduction-to-the-art-of-zentangle-and-more/",
       "published": "2026-11-04T13:00:00+00:00",
       "summary": ""
+    },
+    {
+      "id": "2530413f0577",
+      "source": "Banker and Tradesman",
+      "source_id": "bandt",
+      "category": "tech",
+      "title": "TruNorth CEO Named Chair of Fintech COCC’s Board",
+      "link": "https://bankerandtradesman.com/trunorth-ceo-named-chair-of-fintech-coccs-board/",
+      "published": "2026-11-04T16:40:28+00:00",
+      "summary": "TruNorth Bank CEO Matthew Sosik has been named to lead the board of a major New England financial technology company."
+    },
+    {
+      "id": "6ff7a16c520a",
+      "source": "Banker and Tradesman",
+      "source_id": "bandt",
+      "category": "tech",
+      "title": "Berkshire County Banks Officially Become Trailmark Bank",
+      "link": "https://bankerandtradesman.com/berkshire-county-banks-officially-become-trailmark-bank/",
+      "published": "2026-11-03T15:54:21+00:00",
+      "summary": "The merger between Adams Community Bank and Pittsfield Cooperative Bank is officially completed. The new entity is now Trailmark Bank."
+    },
+    {
+      "id": "4a4f0571f5d6",
+      "source": "Banker and Tradesman",
+      "source_id": "bandt",
+      "category": "tech",
+      "title": "CT Lender Completes Merger with Boston’s The Cooperative Bank",
+      "link": "https://bankerandtradesman.com/ct-lender-completes-purchase-of-bostons-the-cooperative-bank/",
+      "published": "2026-11-02T16:49:26+00:00",
+      "summary": "Ion Bank has completed its merger with Massachusetts-based The Cooperative Bank. The Cooperative Bank will continue to operate as a division of the Connecticut bank."
+    },
+    {
+      "id": "310a668f0dab",
+      "source": "Banker and Tradesman",
+      "source_id": "bandt",
+      "category": "tech",
+      "title": "Personnel File – No. 462",
+      "link": "https://bankerandtradesman.com/personnel-file-no-462/",
+      "published": "2026-11-02T15:00:11+00:00",
+      "summary": "From new VPs to fresh project managers, see who’s been hired, promoted and honored, it’s our weekly Personnel File roundup."
+    },
+    {
+      "id": "3719b64c8298",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "The role of surveys in understanding member financial well-being",
+      "link": "https://www.cuinsight.com/the-role-of-surveys-in-understanding-member-financial-well-being/",
+      "published": "2026-11-04T16:19:23+00:00",
+      "summary": "The post The role of surveys in understanding member financial well-being appeared first on CUInsight ."
+    },
+    {
+      "id": "0a08b3e8c0f5",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Private sector added 86,000 jobs in October, above expectations, ADP says",
+      "link": "https://www.cuinsight.com/private-sector-added-86000-jobs-in-october-above-expectations-adp-says/",
+      "published": "2026-11-04T16:16:09+00:00",
+      "summary": "The post Private sector added 86,000 jobs in October, above expectations, ADP says appeared first on CUInsight ."
+    },
+    {
+      "id": "a87c763cf948",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Making a list, checking it twice: Is cyber coverage on yours?",
+      "link": "https://www.cuinsight.com/making-a-list-checking-it-twice-is-cyber-coverage-on-yours/",
+      "published": "2026-11-04T16:14:58+00:00",
+      "summary": "The post Making a list, checking it twice: Is cyber coverage on yours? appeared first on CUInsight ."
+    },
+    {
+      "id": "179ac80ed141",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Stocks shrugged off the blue wave overnight — history says don’t trust the bounce yet",
+      "link": "https://www.cuinsight.com/stocks-shrugged-off-the-blue-wave-overnight-history-says-dont-trust-the-bounce-yet/",
+      "published": "2026-11-04T16:13:42+00:00",
+      "summary": "The post Stocks shrugged off the blue wave overnight — history says don’t trust the bounce yet appeared first on CUInsight ."
+    },
+    {
+      "id": "08f6c0809977",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "First-time CEO: Accountability changes everything",
+      "link": "https://www.cuinsight.com/first-time-ceo-accountability-changes-everything/",
+      "published": "2026-11-04T16:11:43+00:00",
+      "summary": "The post First-time CEO: Accountability changes everything appeared first on CUInsight ."
+    },
+    {
+      "id": "c96e021bd396",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Dow rallies 1,300 points as political risk eases",
+      "link": "https://www.cuinsight.com/dow-rallies-1300-points-as-political-risk-eases/",
+      "published": "2026-11-04T16:08:53+00:00",
+      "summary": "The post Dow rallies 1,300 points as political risk eases appeared first on CUInsight ."
+    },
+    {
+      "id": "c1c515874894",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Data intelligence is the secret ingredient powering lending growth",
+      "link": "https://www.cuinsight.com/data-intelligence-is-the-secret-ingredient-powering-lending-growth/",
+      "published": "2026-11-04T15:38:39+00:00",
+      "summary": "The post Data intelligence is the secret ingredient powering lending growth appeared first on CUInsight ."
+    },
+    {
+      "id": "b0456b305e54",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Google will block search access for schools that ban AI use",
+      "link": "https://www.cuinsight.com/google-will-block-search-access-for-schools-that-ban-ai-use/",
+      "published": "2026-11-04T15:22:16+00:00",
+      "summary": "The post Google will block search access for schools that ban AI use appeared first on CUInsight ."
+    },
+    {
+      "id": "2ec26d15767a",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Credit union champions see electoral success",
+      "link": "https://www.cuinsight.com/credit-union-champions-see-electoral-success/",
+      "published": "2026-11-04T15:09:52+00:00",
+      "summary": "The post Credit union champions see electoral success appeared first on CUInsight ."
+    },
+    {
+      "id": "7046e46fab9e",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Win/Win and the cooperative difference: A reflection on purpose and people",
+      "link": "https://www.cuinsight.com/win-win-and-the-cooperative-difference-a-reflection-on-purpose-and-people/",
+      "published": "2026-11-04T08:30:00+00:00",
+      "summary": "I recently picked up a book from a store I had pinned to go by while in Madison for the DE program, one that had been on the list for… The post Win/Win and the cooperative difference: A reflection on purpose and people appeared first on CUInsight ."
     }
   ]
 }
