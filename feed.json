@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:09:33+00:00",
+  "generated_at": "2026-11-05T06:07:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -97,7 +97,7 @@
       "name": "Krebs on Security",
       "status": "ok",
       "feed_url": "https://krebsonsecurity.com/feed/",
-      "count": 1,
+      "count": 2,
       "errors": []
     },
     "malwarebytes": {
@@ -548,6 +548,16 @@
       "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?"
     },
     {
+      "id": "0728407c59cd",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time periods also extends to the development team. While…"
+    },
+    {
       "id": "182ee85c676e",
       "source": "The Verge",
       "source_id": "verge",
@@ -638,21 +648,31 @@
       "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature…"
     },
     {
-      "id": "05d27ac3ae50",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Apple will check shared iCloud links for ‘harmful content’",
-      "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
-      "published": "2026-11-04T18:23:37+00:00",
-      "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and…"
+      "id": "885685f9d8fb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pop Watson leads UMass football past Ball State in overtime",
+      "link": "https://www.masslive.com/umassfootball/2026/11/pop-watson-leads-umass-football-past-ball-state-in-overtime.html",
+      "published": "2026-11-05T05:00:29+00:00",
+      "summary": "The victory is UMass' first at home over a FBS opponent since 2021."
+    },
+    {
+      "id": "0cb52c421ef8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Celtics avoid disaster, Paul George: What we learned from win over Bucks",
+      "link": "https://www.masslive.com/celtics/2026/11/celtics-avoid-disaster-paul-george-what-we-learned-from-win-over-bucks.html",
+      "published": "2026-11-05T04:28:20+00:00",
+      "summary": "The Celtics saw their 22-point lead on the Bucks evaporate, but they still avoided disaster by picking up the victory."
     },
     {
       "id": "5e66ac25fc70",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Powerball: See the winning numbers in Wednesday’s $835 million drawing",
+      "title": "Powerball: See the winning numbers in Wednesday’s $835 million drawing; one ticket in N.J. won",
       "link": "https://www.masslive.com/lottery/2026/11/powerball-see-the-winning-numbers-in-wednesdays-835-million-drawing.html",
       "published": "2026-11-05T04:05:55+00:00",
       "summary": "Check your numbers to see if you hit it big in Wednesday's jackpot."
@@ -928,26 +948,6 @@
       "summary": "Prosecutors allege Alvarez was involved in a 2023 gunfight that sent a stray bullet through a city bus, striking a pregnant woman and fatally injuring her unborn son."
     },
     {
-      "id": "f6d72529f667",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Now in power, House Dems seek to balance what they can do vs. what they can do about Trump",
-      "link": "https://www.masslive.com/westernmass/2026/11/now-in-power-house-dems-seek-to-balance-what-they-can-do-vs-what-they-can-do-about-trump.html",
-      "published": "2026-11-04T21:36:47+00:00",
-      "summary": "While he wants hearings into Social Security, DOGE and the IRS regarding the early months of the Trump administration, Neal said oversight is a responsibility, not an obsession."
-    },
-    {
-      "id": "017c863cd62a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Canadian mom, daughter killed in suspected bear attack",
-      "link": "https://www.masslive.com/news/2026/11/mom-daughter-killed-in-suspected-bear-attack.html",
-      "published": "2026-11-04T21:29:47+00:00",
-      "summary": "A mother and daughter were found dead on a local trail, with authorities investigating a suspected grizzly bear attack."
-    },
-    {
       "id": "6b6d8b64e2bf",
       "source": "SecurityWeek",
       "source_id": "securityweek",
@@ -1108,6 +1108,16 @@
       "summary": "One of the feature gaps between classic Outlook and the new Outlook experience has been the lack of template-based automatic replies. Users who regularly handle repetitive emails often have to manually send the same responses over and over, which creates unnecessary administrative work and…"
     },
     {
+      "id": "25c3eda20cfe",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "published": "2026-11-05T04:31:16+00:00",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel…"
+    },
+    {
       "id": "3632eace057e",
       "source": "The Hacker News",
       "source_id": "thehackernews",
@@ -1145,7 +1155,7 @@
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
       "published": "2026-11-04T14:27:52+00:00",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected…"
+      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected…"
     },
     {
       "id": "d013e25bf406",
@@ -1396,16 +1406,6 @@
       "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
       "published": "2026-11-02T11:50:00+00:00",
       "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the…"
-    },
-    {
-      "id": "c477f1812588",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "published": "2026-11-02T11:30:00+00:00",
-      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next…"
     },
     {
       "id": "b21b8f4aa7ca",
@@ -1938,6 +1938,66 @@
       "summary": "If you’re sick of AI search and all the business of modern Google search, this week’s Google easter egg will take you back 28 years to a simpler time when Ocarina of Time was the pinnacle of gaming, and Google was still a new name. more…"
     },
     {
+      "id": "2242449f06d2",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Mary A. Riordon",
+      "link": "https://gazettenet.com/2026/11/05/obit-mary-a-riordon-212732142/",
+      "published": "2026-11-05T06:01:25+00:00",
+      "summary": ""
+    },
+    {
+      "id": "e1ea6f3c7e08",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Edith Ralph",
+      "link": "https://gazettenet.com/2026/11/05/obit-edith-ralph-212732995/",
+      "published": "2026-11-05T06:01:09+00:00",
+      "summary": ""
+    },
+    {
+      "id": "57f0469b7a70",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Raymond P. Fournier",
+      "link": "https://gazettenet.com/2026/11/05/obit-raymond-p-fournier-212727742/",
+      "published": "2026-11-05T06:00:53+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c49c17bb6c58",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Paul Ducharme",
+      "link": "https://gazettenet.com/2026/11/05/obit-paul-ducharme-212732996/",
+      "published": "2026-11-05T06:00:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c3bd1413557e",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Linda M. Barron",
+      "link": "https://gazettenet.com/2026/11/05/obit-linda-m-barron-212726925/",
+      "published": "2026-11-05T06:00:21+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b62e4583b850",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "A Look Back, Nov. 5",
+      "link": "https://gazettenet.com/2026/11/04/a-look-back-nov-5-2/",
+      "published": "2026-11-05T04:24:00+00:00",
+      "summary": ""
+    },
+    {
       "id": "c8a70daf5ec8",
       "source": "Daily Hampshire Gazette",
       "source_id": "gazette",
@@ -1975,66 +2035,6 @@
       "title": "Raising up untold stories: David Ruggles Center nears fundraising goal for exhibit overhaul",
       "link": "https://gazettenet.com/2026/11/04/david-ruggles-center-exhibit-overhaul/",
       "published": "2026-11-04T19:11:56+00:00",
-      "summary": ""
-    },
-    {
-      "id": "7e57ebcc5b1c",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Arts Briefs: ‘Fiddler on the Roof,’ a jazz ensemble, story slam, and more",
-      "link": "https://gazettenet.com/2026/11/04/arts-briefs-fiddler-on-the-roof-a-jazz-ensemble-story-slam-and-more/",
-      "published": "2026-11-04T19:10:04+00:00",
-      "summary": ""
-    },
-    {
-      "id": "98f8052de7d1",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "David Short: Time changes and real problems",
-      "link": "https://gazettenet.com/2026/11/04/david-short-time-changes-and-real-problems/",
-      "published": "2026-11-04T19:09:24+00:00",
-      "summary": ""
-    },
-    {
-      "id": "2d0c8c4cc136",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Nancy Obertz: Fort Hill decision about the ‘bottom line’",
-      "link": "https://gazettenet.com/2026/11/04/nancy-obertz-fort-hill-decision-about-the-bottom-line/",
-      "published": "2026-11-04T19:07:50+00:00",
-      "summary": ""
-    },
-    {
-      "id": "665d1ca12570",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Guest columnist Merriam Ansara: We must act and condemn the slow genocide of Cuba",
-      "link": "https://gazettenet.com/2026/11/04/guest-columnist-merriam-ansara-we-must-act-and-condemn-the-slow-genocide-of-cuba/",
-      "published": "2026-11-04T19:06:42+00:00",
-      "summary": ""
-    },
-    {
-      "id": "29a02bde6383",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Lora Wondolowski handily wins state rep. seat serving 1st Franklin District",
-      "link": "https://gazettenet.com/2026/11/04/wondolowski-beats-lavallee-election/",
-      "published": "2026-11-04T18:04:04+00:00",
-      "summary": ""
-    },
-    {
-      "id": "fe2137464643",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Civics in action: Hampshire Regional students take a trip on Election Day",
-      "link": "https://gazettenet.com/2026/11/04/civics-in-action-hampshire-regional-students-take-a-trip-on-election-day/",
-      "published": "2026-11-04T17:44:03+00:00",
       "summary": ""
     },
     {
@@ -2288,6 +2288,16 @@
       "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]"
     },
     {
+      "id": "49bf8b366c47",
+      "source": "Krebs on Security",
+      "source_id": "krebs",
+      "category": "tech",
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "published": "2026-11-05T04:36:17+00:00",
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was…"
+    },
+    {
       "id": "3b6a51103bfa",
       "source": "Krebs on Security",
       "source_id": "krebs",
@@ -2388,6 +2398,26 @@
       "summary": "A list of topics we covered in the week of October 26 to November 1 of 2026"
     },
     {
+      "id": "fc3bb545d92a",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "Companies are spending more on AI governance and getting less control",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/",
+      "published": "2026-11-05T05:30:14+00:00",
+      "summary": "Companies are increasing their cybersecurity budgets, with AI security and governance the top priority for additional spending, followed by cloud security, according to DNSFilter’s The Cost of Shadow AI report. Some 74.5% of respondents reported a larger cybersecurity budget than 12 months…"
+    },
+    {
+      "id": "4d0aa265ccf3",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "Most consumers aren’t ready to let AI agents shop unsupervised",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/",
+      "published": "2026-11-05T05:00:30+00:00",
+      "summary": "Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depends on what an agent can do, the…"
+    },
+    {
       "id": "d82a08e3d82c",
       "source": "Help Net Security",
       "source_id": "helpnet",
@@ -2466,26 +2496,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/04/impart-security-runtime-defense-harness/",
       "published": "2026-11-04T12:48:29+00:00",
       "summary": "Impart Security has launched the Runtime Defense Harness, a controlled environment where AI agents write and test virtual patches for new vulnerabilities without putting AI in the traffic path. The launch comes as exploits increasingly outpace fixes. In the harness, agents build each virtual patch…"
-    },
-    {
-      "id": "f1aed1003566",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Poisoned cPGuard update hits thousands of web hosting servers",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/cpguard-update-supply-chain-compromised/",
-      "published": "2026-11-04T11:18:23+00:00",
-      "summary": "An attacker has compromised the update infrastructure of cPGuard, a security suite for Linux web hosting servers, and pushed out a malicious update to nearly 3,000 customer servers. OPSShield, the company behind the security suite, also confirmed that the attacker made off with customer contact…"
-    },
-    {
-      "id": "5704c36d2a38",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Fake job interview opened the door to $6.34 billion Binance heist",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/binance-hack-north-korea-fake-job-interview/",
-      "published": "2026-11-04T10:29:48+00:00",
-      "summary": "A tampered software installer and a fake job interview gave attackers the access they needed to steal about $6.34 billion in digital assets from Binance. “It was not a single isolated breach or a simple phishing incident,” Binance wrote in its incident report. “The attackers combined a range of…"
     },
     {
       "id": "7dcd83260d7c",
@@ -2985,7 +2995,7 @@
       "title": "ABA Ag Conference: Policy experts begin to break down midterm’s effect on ag banking",
       "link": "https://bankingjournal.aba.com/2026/11/aba-ag-conference-policy-experts-begin-to-break-down-midterms-effect-on-ag-banking/",
       "published": "2026-11-05T02:40:54+00:00",
-      "summary": "Members of ABA’s policy team were on hand to help ag and rural lenders begin to sort out the election results that put Democrats in control of the House and Senate and what that the transfer of power in the next Congress might mean for for ag and rural banking programs and priorities. The post ABA…"
+      "summary": "Members of ABA’s policy team were on hand to help ag lenders begin to sort out the election results that put Democrats in control of Congress and what the transfer of power might mean for ag and rural banking programs and priorities. The post ABA Ag Conference: Policy experts begin to break down…"
     },
     {
       "id": "cf4426e30cf1",
@@ -3156,6 +3166,16 @@
       "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
       "published": "2026-11-12T15:00:00+00:00",
       "summary": "How can banks adapt their cross-border payment services to increase client satisfaction?"
+    },
+    {
+      "id": "e99ec66f6419",
+      "source": "Finextra",
+      "source_id": "finextra",
+      "category": "tech",
+      "title": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited",
+      "link": "https://www.finextra.com/newsarticle/48708/capgemini-multi-agent-ai-moves-into-banking-and-insurance-but-orchestration-remains-limited?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "Financial institutions are struggling to scale multi-agent AI beyond pilot projects, with just 10% of banks and insurers having achieved enterprise-wide orchestration despite 59% piloting or deploying the technology, according to Capgemini research."
     },
     {
       "id": "f4e1b5206f92",
@@ -3366,16 +3386,6 @@
       "link": "https://www.finextra.com/newsarticle/48699/starling-bank-ceo-raman-bhatia-to-step-down---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
       "published": "2026-11-04T12:17:00+00:00",
       "summary": "As reported in the Financial Times, Starling Bank CEO Raman Bhatia privately told the group's board that he no longer wants to lead the fintech firm and will leave after just two years in the role."
-    },
-    {
-      "id": "19c4b143bf68",
-      "source": "Finextra",
-      "source_id": "finextra",
-      "category": "tech",
-      "title": "Iceland prepares for domestic account-to-account payments infrastructure",
-      "link": "https://www.finextra.com/newsarticle/48698/iceland-prepares-for-domestic-account-to-account-payments-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "published": "2026-11-04T09:30:00+00:00",
-      "summary": "The Central Bank of Iceland is preparing for new payments infrastructure that would enable banks and payment service providers (PSPs) to offer account-to-account (A2A) payments for goods and services, as the Nordic country looks to diversify its retail payment channels and strengthen financial…"
     },
     {
       "id": "5efcc50c6e34",
@@ -4278,6 +4288,16 @@
       "summary": "After two years of waiting, the first iOS 27.3 developer beta has introduced Apple Intelligence to China, bringing some of its AI features to the country. Apple Intelligence will finally ship in China - Image Credit: Apple The long wait for Apple Intelligence in China started in 2024 after its…"
     },
     {
+      "id": "f4295e678142",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Hackers used Chrome and Snapdragon GPU flaws to hack Android phones",
+      "link": "https://www.androidauthority.com/hackers-chrome-snapdragon-gpu-flaws-android-zero-click-3731860/",
+      "published": "2026-11-05T05:36:04+00:00",
+      "summary": "A nasty Chrome bug let hackers break into Android phones without a tap."
+    },
+    {
       "id": "f6bc2865193c",
       "source": "Android Authority",
       "source_id": "androidauthority",
@@ -4568,16 +4588,6 @@
       "summary": "Finding RAW images in Google Photos could soon get a lot easier."
     },
     {
-      "id": "37cee7263e9a",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Google Photos could finally learn to do your photo chores",
-      "link": "https://www.androidauthority.com/google-photos-ask-photos-complex-tasks-apk-teardown-3731558/",
-      "published": "2026-11-04T11:13:17+00:00",
-      "summary": "Google Photos' Ask Photos feature could evolve from a conversational search tool into a task engine."
-    },
-    {
       "id": "5bdfddc80d23",
       "source": "Android Central",
       "source_id": "androidcentral",
@@ -4736,6 +4746,16 @@
       "link": "https://www.androidcentral.com/phones/motorola/the-motorola-signature-27s-screen-is-five-times-brighter-than-the-galaxy-s26-ultras",
       "published": "2026-11-02T15:08:37+00:00",
       "summary": "A new hands-on video just revealed Motorola's wildly specs-heavy Signature 27."
+    },
+    {
+      "id": "6c9167255cf5",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "5 Things You Should Never Do When Cleaning A Blu-Ray Disc",
+      "link": "https://www.bgr.com/2301387/things-should-never-do-cleaning-blu-ray-disc/",
+      "published": "2026-11-05T04:17:00+00:00",
+      "summary": "Taking proper care of your Blu-ray collection is vital if you want them to last, but here are five mistakes to avoid when cleaning the discs."
     },
     {
       "id": "8ff0836f667a",
@@ -4926,16 +4946,6 @@
       "link": "https://www.bgr.com/2301137/how-to-make-iphone-respond-hey-siri-only/",
       "published": "2026-11-04T13:17:00+00:00",
       "summary": "Apple gave Siri a big upgrade in 2026, but some people still struggle with it activating at inopportune times. Fortunately, it's easy to fix."
-    },
-    {
-      "id": "7bd76132d204",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "Before Buying A Security Camera, Check For These Google Home Features",
-      "link": "https://www.bgr.com/2300784/google-home-security-camera-features-check-before-buying/",
-      "published": "2026-11-04T12:17:00+00:00",
-      "summary": "Home security cameras can provide more peace of mind to home owners. Some security cameras can give you access to several useful Google Home features."
     },
     {
       "id": "318e206400ba",
@@ -5738,6 +5748,26 @@
       "summary": "lawn tractor caught fire Tuesday afternoon in Amherst, spreading flames to nearby leaves and grass before firefighters quickly extinguished the blaze."
     },
     {
+      "id": "3c27d3036d38",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "Single Powerball ticket matches all numbers for $847 million jackpot",
+      "link": "https://www.westernmassnews.com/2026/11/05/single-powerball-ticket-matches-all-numbers-847-million-jackpot/",
+      "published": "2026-11-05T06:00:00+00:00",
+      "summary": "Odds of winning the Powerball jackpot are one in 292,201,338."
+    },
+    {
+      "id": "95b091d2c1f6",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "Holyoke Police arrest drug dealer on arrest warrant",
+      "link": "https://www.westernmassnews.com/2026/11/05/holyoke-police-arrest-drug-dealer-arrest-warrant/",
+      "published": "2026-11-05T04:23:29+00:00",
+      "summary": "Officers with the department had arrested a suspect with an active warrant on drug trafficking charges."
+    },
+    {
       "id": "f57047003b75",
       "source": "Western Mass News",
       "source_id": "westernmassnews",
@@ -5918,24 +5948,14 @@
       "summary": "Some Western Massachusetts residents are buying tickets ahead of Wednesday night’s drawing."
     },
     {
-      "id": "5c0cf8114f3f",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
+      "id": "0f4ad76444c9",
+      "source": "Greenfield Recorder",
+      "source_id": "recorder",
       "category": "local",
-      "title": "Chemical plant explosion in Mississippi prompts shelter-in-place order",
-      "link": "https://www.westernmassnews.com/2026/11/04/chemical-plant-explosion-mississippi-prompts-shelter-in-place-order/",
-      "published": "2026-11-04T19:26:42+00:00",
-      "summary": "A chemical plant explosion in Mississippi prompted a massive emergency response Wednesday morning."
-    },
-    {
-      "id": "e98d5c1c8f48",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Couple who took in 16 foster kids convicted of abuse ‘under the guise of discipline’",
-      "link": "https://www.westernmassnews.com/2026/11/04/couple-who-took-16-foster-kids-convicted-abuse-under-guise-discipline/",
-      "published": "2026-11-04T18:58:26+00:00",
-      "summary": "A Michigan couple is accused of abusing their adopted and foster children under the “guise of discipline” for financial gain, according to authorities."
+      "title": "Patricia A. Dallas",
+      "link": "https://recorder.com/2026/11/05/obit-patricia-a-dallas-212731806/",
+      "published": "2026-11-05T06:02:20+00:00",
+      "summary": ""
     },
     {
       "id": "e97d5b13b5e2",
@@ -6025,16 +6045,6 @@
       "title": "A national rebuke to Trump, Republicans",
       "link": "https://recorder.com/2026/11/04/a-national-rebuke-to-trump-republicans/",
       "published": "2026-11-04T13:08:56+00:00",
-      "summary": ""
-    },
-    {
-      "id": "2256000a81ff",
-      "source": "Greenfield Recorder",
-      "source_id": "recorder",
-      "category": "local",
-      "title": "Arts Briefs: Book talks, an introduction to the art of Zentangle and more",
-      "link": "https://recorder.com/2026/11/04/arts-briefs-book-talks-an-introduction-to-the-art-of-zentangle-and-more/",
-      "published": "2026-11-04T13:00:00+00:00",
       "summary": ""
     },
     {
