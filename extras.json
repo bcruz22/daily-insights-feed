@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:07:58+00:00",
+ "generated_at": "2026-11-05T22:10:01+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 31,
-  "pollutant": "PM2.5",
+  "aqi": 30,
+  "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-05 14:00 EST"
+  "observed": "2026-11-05 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -370,22 +370,6 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107846"
    },
    {
-    "id": "CVE-2026-95860",
-    "score": 9.1,
-    "cvss": "3.1",
-    "published": "2026-11-03T21:17:45.907",
-    "summary": "node-opcua is an OPC UA implementation for TypeScript and Node.js. From 2.42.0 until 2.180.0, namespace-level access control configured through setDefaultRolePermissions is not honored by the runtime enforcement path for nodes without explicit per-node RolePermissions. SessionContext.getApplicableRolePermissions reads a missing or null DefaultRolePermissions metadata value instead of the configure",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95860"
-   },
-   {
-    "id": "CVE-2026-63395",
-    "score": 8.8,
-    "cvss": "3.1",
-    "published": "2026-11-03T20:18:14.917",
-    "summary": "isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.6, isomorphic-git's git.checkout writes new child paths through symlinked leading directory components without checking them. A malicious repository can first place a directory symlink and later replace the tree state with a child file beneath that path; the usual trigger is a clone followed by a late",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63395"
-   },
-   {
     "id": "CVE-2026-76892",
     "score": 8.7,
     "cvss": "4.0",
@@ -402,20 +386,12 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104269"
    },
    {
-    "id": "CVE-2026-111751",
-    "score": 8.2,
+    "id": "CVE-2026-114604",
+    "score": 8.4,
     "cvss": "4.0",
-    "published": "2026-11-03T21:16:57.800",
-    "summary": "Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. From 21.2.0 until 21.2.25 and 22.2.1, RouterLink directives rendered during Node.js server-side rendering retain computed UrlTree instances for the lifetime of each request. When queryParamsHandling is set to merge or preserve, either per link or through defaultQueryP",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111751"
-   },
-   {
-    "id": "CVE-2026-111752",
-    "score": 8.2,
-    "cvss": "4.0",
-    "published": "2026-11-03T21:16:57.993",
-    "summary": "Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. Prior to 20.3.33, 21.2.25, and 22.2.1, @angular/router in Node.js server-side rendering fails to require auxiliary outlet URL segments to match routes configured for their outlet names. Crafted requests containing multiple unconfigured empty-path outlet groups can rep",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111752"
+    "published": "2026-11-05T21:18:37.057",
+    "summary": "GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. From 10.10.1 until 12.0.2, the @graphql-tools/utils mergeIncrementalResult helper passes incrementalResult.path segments to setObjectKeyPath without runtime primitive-type validation. A non-primitive segment can bypass strict comparisons against __proto__, constructor, and prototype, then be coerced during prope",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114604"
    },
    {
     "id": "CVE-2026-123208",
