@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T22:09:25+00:00",
+ "generated_at": "2026-11-05T00:09:00+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 39,
+  "aqi": 37,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-04 16:00 EST"
+  "observed": "2026-11-04 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -263,6 +263,17 @@
   "window_days": 7,
   "cves": [
    {
+    "id": "CVE-2024-27834",
+    "score": 5.5,
+    "cvss": "3.1",
+    "published": "2024-05-14T15:13:06.953",
+    "summary": "The issue was addressed with improved checks. This issue is fixed in Safari 17.5, iOS 16.7.8 and iPadOS 16.7.8, iOS 17.5 and iPadOS 17.5, macOS Sonoma 14.5, tvOS 17.5, watchOS 10.5. An attacker with arbitrary read and write capability may be able to bypass Pointer Authentication.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834",
+    "kev_added": "2026-11-04",
+    "kev_due": "2026-11-18",
+    "kev_name": "Apple Multiple Products Improper Authentication Vulnerability"
+   },
+   {
     "id": "CVE-2026-119977",
     "score": 8.1,
     "cvss": "3.1",
@@ -356,6 +367,14 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63395"
    },
    {
+    "id": "CVE-2026-76892",
+    "score": 8.7,
+    "cvss": "4.0",
+    "published": "2026-11-04T23:17:58.557",
+    "summary": "tsParticles is a TypeScript library for creating highly customizable particle animations. Prior to 4.3.1, the HTTP mode of @tsparticles/mcp-server calls JSON.parse outside a request-local error boundary in the POST /mcp handler in integrations/mcp-server/src/index.ts. A single unauthenticated malformed JSON body raises a SyntaxError that terminates the Node.js process, leaving the MCP service unav",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76892"
+   },
+   {
     "id": "CVE-2026-119179",
     "score": 8.3,
     "cvss": "4.0",
@@ -386,6 +405,14 @@
     "published": "2026-11-04T20:19:13.137",
     "summary": "Moleculer is a progressive microservices framework for Node.js. Prior to 0.14.36 and 0.15.2, Parser._write in src/transporters/tcp/parser.js used Buffer.prototype.readInt32BE to read a signed packet length, so a remote unauthenticated peer could supply a negative value that caused packet.slice(length) to return the unchanged buffer while the while (packet.length > 0) loop continued indefinitely. T",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97705"
+   },
+   {
+    "id": "CVE-2026-63655",
+    "score": 7.5,
+    "cvss": "3.1",
+    "published": "2026-11-04T22:18:07.350",
+    "summary": "tsParticles is a TypeScript library for creating highly customizable particle animations. Prior to 4.3.1, the HTTP mode of @tsparticles/mcp-server accepts unauthenticated POST /mcp requests in integrations/mcp-server/src/index.ts and accumulates every request-body chunk in a Buffer[] without a cumulative size limit before Buffer.concat and JSON.parse. A remote attacker can stream an arbitrarily la",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63655"
    }
   ]
  }
