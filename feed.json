@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:08:33+00:00",
+  "generated_at": "2026-11-05T02:09:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -118,7 +118,7 @@
       "name": "SANS Internet Storm Center",
       "status": "ok",
       "feed_url": "https://isc.sans.edu/rssfeed.xml",
-      "count": 5,
+      "count": 4,
       "errors": []
     },
     "therecord": {
@@ -534,6 +534,16 @@
       "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?"
     },
     {
+      "id": "182ee85c676e",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "X says its updated web app is way faster",
+      "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "published": "2026-11-05T00:25:12+00:00",
+      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. […]"
+    },
+    {
       "id": "48d8c1552d58",
       "source": "The Verge",
       "source_id": "verge",
@@ -624,14 +634,84 @@
       "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and…"
     },
     {
-      "id": "3fdace98b464",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "published": "2026-11-04T18:00:00+00:00",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life…"
+      "id": "6428ac9d32c0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Boston English football misses state playoffs due to clerical error",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/boston-english-football-misses-state-playoffs-due-to-clerical-error.html",
+      "published": "2026-11-05T01:08:13+00:00",
+      "summary": "The team's regular-season finale against O'Bryant was not posted on Arbiter Live by the mid-September deadline because of a clerical error, leaving the program one game short of playoff eligibility."
+    },
+    {
+      "id": "4e358e151760",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Is the Salomon Aero Blaze 4 the perfect everyday running shoe? Here’s my honest take",
+      "link": "https://www.masslive.com/shopping-deals/2026/11/is-the-salomon-aero-blaze-4-the-perfect-everyday-running-shoe-heres-my-honest-take.html",
+      "published": "2026-11-05T01:07:17+00:00",
+      "summary": "The Salomon Aero Blaze 4 offers a rare blend of lightweight construction and ample cushioning, making it a strong choice for everyday road running and walking."
+    },
+    {
+      "id": "5041fae012ca",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Heisman candidate for national title contender to undergo surgery, miss significant time",
+      "link": "https://www.masslive.com/sports/2026/11/heisman-candidate-for-national-title-contender-to-undergo-surgery-miss-significant-time.html",
+      "published": "2026-11-05T01:06:14+00:00",
+      "summary": "He is the top playmaker for the No. 1 team in the country."
+    },
+    {
+      "id": "1c69812dca6e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "POST commission suspends certification of state trooper charged with breaking and entering",
+      "link": "https://www.masslive.com/boston/2026/11/post-commission-suspends-certification-of-state-trooper-charged-with-breaking-and-entering.html",
+      "published": "2026-11-05T01:03:45+00:00",
+      "summary": "Massachusetts’ police oversight commission has suspended the certification of a state trooper following his arrest on a breaking and entering charge in Boston last weekend."
+    },
+    {
+      "id": "35b99a7280b6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Red Sox bolster staff with hire of Yankees' Triple-A manager",
+      "link": "https://www.masslive.com/redsox/2026/11/red-sox-hire-longtime-yankee-staffer-to-chad-tracys-staff.html",
+      "published": "2026-11-05T00:43:22+00:00",
+      "summary": "Shelley Duncan, a former Yankees minor league manager and 2025 International League Manager of the Year, has been hired to join Chad Tracy's Red Sox coaching staff."
+    },
+    {
+      "id": "e2251741f347",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Defense expert tells jury Sandra Birchmore’s death points to suicide",
+      "link": "https://www.masslive.com/news/2026/11/defense-expert-says-sandra-birchmores-autopsy-points-to-suicide-not-killing.html",
+      "published": "2026-11-05T00:26:12+00:00",
+      "summary": "Dr. Thomas Andrew's testimony for Matthew Farwell's defense featured multiple jabs at the government's main expert."
+    },
+    {
+      "id": "78fed426e2f7",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Turning Point Action member backhanded while debating man at N.H. polling site",
+      "link": "https://www.masslive.com/news/2026/11/nh-man-arrested-after-debate-with-turning-point-action-member-at-polling-site-turns-physical.html",
+      "published": "2026-11-05T00:24:22+00:00",
+      "summary": "A 70-year-old man is facing charges after a Turning Point Action member was backhanded in the face during a heated argument at a New Hampshire polling site."
+    },
+    {
+      "id": "c745e5f02bc4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Melania Trump to attend a college football game Saturday",
+      "link": "https://www.masslive.com/politics/2026/11/heres-why-melania-trump-is-attending-a-college-football-game-saturday.html",
+      "published": "2026-11-05T00:15:15+00:00",
+      "summary": "Here's where she will be this weekend."
     },
     {
       "id": "be841bd09f1b",
@@ -852,86 +932,6 @@
       "link": "https://www.masslive.com/business/2026/11/need-extra-cash-this-holiday-season-macys-is-holding-open-hiring-events-this-november.html",
       "published": "2026-11-04T20:53:51+00:00",
       "summary": "The retailer is staffing up across all Macy's, Bloomingdale's and BlueMercury locations ahead of the holiday rush"
-    },
-    {
-      "id": "e2ac60630104",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Authorities identify woman killed in South Shore house fire",
-      "link": "https://www.masslive.com/news/2026/11/authorities-identify-woman-killed-in-braintree-house-fire.html",
-      "published": "2026-11-04T20:53:48+00:00",
-      "summary": "A 66-year-old woman died Saturday after a fire broke out at her Braintree home."
-    },
-    {
-      "id": "82235901bf56",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘Not a bad portfolio’: Ways & Means chairmanship puts Neal at center of Social Security, taxes, tariffs, retirement, IRS",
-      "link": "https://www.masslive.com/westernmass/2026/11/not-a-bad-portfolio-ways-means-chairmanship-puts-neal-at-center-of-social-security-taxes-tariffs-retirement-irs.html",
-      "published": "2026-11-04T20:51:30+00:00",
-      "summary": "The Springfield congressman was chair of Ways and Means for four years from 2019 to 2023."
-    },
-    {
-      "id": "cfc305d9c60d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "In Chicopee, teachers are saying that school violence is elementary",
-      "link": "https://www.masslive.com/westernmass/2026/11/in-chicopee-teachers-are-saying-that-school-violence-is-elementary.html",
-      "published": "2026-11-04T20:46:17+00:00",
-      "summary": "How many warnings have been ignored in tragedies across this country?” said Heather Santaniello, a mother of triplets at Fairview Elementary School at a School Committee meeting."
-    },
-    {
-      "id": "d001b28b5b7d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Officials share cause of fire involved in Boston firefighter Bobby Kilduff’s death",
-      "link": "https://www.masslive.com/boston/2026/11/officials-share-cause-of-fire-involved-in-boston-firefighter-bobby-kilduffs-death.html",
-      "published": "2026-11-04T20:37:02+00:00",
-      "summary": "Robert “BK” Kilduff Jr. died May 23 while responding to a home fire in Dorchester. The Rescue Company 2 firefighter fell from a third-story window and was critically injured."
-    },
-    {
-      "id": "cd0c8e63e318",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Sites like LuckyLand Slots with free Sweeps Coins worth a spin right now",
-      "link": "https://www.masslive.com/sweepstakes/2026/11/sites-like-luckyland-slots-with-free-sweeps-coins-worth-a-spin-right-now.html",
-      "published": "2026-11-04T20:36:00+00:00",
-      "summary": "If you're looking for free Sweeps Coins at sites like LuckyLand Slots, we've got five picks for first-time players. Sign up and claim your free coins today."
-    },
-    {
-      "id": "742645d251c8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Predicting all 8 MIAA high school football state championship games",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/predicting-all-8-miaa-high-school-football-state-championship-games.html",
-      "published": "2026-11-04T20:34:33+00:00",
-      "summary": "Before postseason play kicks off this week, here's who MassLive high school football reporter Gage Nutter thinks will be crowned champions in all eight divisions next month."
-    },
-    {
-      "id": "3cb19532d65b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "19 players who could make an impact in the MIAA Division 7 football tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/19-miaa-division-7-football-players-to-watch-in-the-state-tournament.html",
-      "published": "2026-11-04T20:28:16+00:00",
-      "summary": "The MIAA Division VII football tournament begins Thursday. Here are 19 players to watch, from standout quarterbacks and running backs to impact playmakers on both sides of the ball."
-    },
-    {
-      "id": "8e0d6cedf727",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Meet 26 Western Mass. standouts to watch in the MIAA girls volleyball tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/26-western-mass-volleyball-players-to-watch-in-the-miaa-state-tournament.html",
-      "published": "2026-11-04T20:24:42+00:00",
-      "summary": "From standout setters and powerful hitters to defensive leaders, here are 26 Western Massachusetts girls volleyball players to keep an eye on as the MIAA state tournament gets underway."
     },
     {
       "id": "6b6d8b64e2bf",
@@ -2024,6 +2024,16 @@
       "summary": ""
     },
     {
+      "id": "0ba0df11c6d2",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "CT credit union signs endorsement deal with UConn’s Braylon Mullins",
+      "link": "https://hartfordbusiness.com/article/ct-credit-union-signs-endorsement-deal-with-uconns-braylon-mullins/",
+      "published": "2026-11-05T00:12:02+00:00",
+      "summary": "The UConn basketball standout will appear in advertising and make personal appearances as Finex expands its marketing efforts."
+    },
+    {
       "id": "c7dd571a2335",
       "source": "Hartford Business Journal",
       "source_id": "hbj",
@@ -2112,16 +2122,6 @@
       "link": "https://hartfordbusiness.com/article/real-estate-investment-partnership-pays-19-5m-for-windsor-warehouse-complex/",
       "published": "2026-11-04T15:31:11+00:00",
       "summary": "The deal brings partnership's' Windsor and East Hartford holdings to 16 buildings totaling more than 612,000 square feet."
-    },
-    {
-      "id": "3d7d951f5f01",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "Hartford Hospital plans outpatient ‘Community Corner’ near main campus",
-      "link": "https://hartfordbusiness.com/article/hartford-hospital-plans-outpatient-community-corner-near-main-campus/",
-      "published": "2026-11-04T15:12:29+00:00",
-      "summary": "The project would transform properties near Hartford Hospital's campus through new construction and restoration of historic buildings."
     },
     {
       "id": "de7887560061",
@@ -2512,16 +2512,6 @@
       "link": "https://isc.sans.edu/diary/rss/33482",
       "published": "2026-11-02T14:52:05+00:00",
       "summary": "Last week, an often-ignored&#;x26;#;xc2;&#;x26;#;xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#;x26;#;39;s implementation (RFC&#;x26;#;xc2;&#;x26;#;xa0;8684, &#;x26;#;xc2;&#;x26;#;xa0;CVE-2026-98432)"
-    },
-    {
-      "id": "d0dae30d7bd0",
-      "source": "SANS Internet Storm Center",
-      "source_id": "sansisc",
-      "category": "tech",
-      "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-      "link": "https://isc.sans.edu/diary/rss/33480",
-      "published": "2026-11-02T02:00:03+00:00",
-      "summary": ""
     },
     {
       "id": "71b12d48491a",
@@ -3154,6 +3144,16 @@
       "summary": "How can banks adapt their cross-border payment services to increase client satisfaction?"
     },
     {
+      "id": "f4e1b5206f92",
+      "source": "Finextra",
+      "source_id": "finextra",
+      "category": "tech",
+      "title": "Most Brits not ready to let AI manage their money",
+      "link": "https://www.finextra.com/newsarticle/48705/most-brits-not-ready-to-let-ai-manage-their-money?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "published": "2026-11-05T00:01:00+00:00",
+      "summary": "Brits are already using artificial intelligence for help with their money, but most are not ready to hand over day-to-day control to an AI assistant, according to a FIS survey."
+    },
+    {
       "id": "4dae652ef284",
       "source": "Finextra",
       "source_id": "finextra",
@@ -3364,16 +3364,6 @@
       "summary": "The Central Bank of Iceland is preparing for new payments infrastructure that would enable banks and payment service providers (PSPs) to offer account-to-account (A2A) payments for goods and services, as the Nordic country looks to diversify its retail payment channels and strengthen financial…"
     },
     {
-      "id": "d76e1569708a",
-      "source": "Finextra",
-      "source_id": "finextra",
-      "category": "tech",
-      "title": "EPC publishes new Verification of Payee matching recommendations",
-      "link": "https://www.finextra.com/newsarticle/48697/epc-publishes-new-verification-of-payee-matching-recommendations?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "published": "2026-11-04T09:00:00+00:00",
-      "summary": "The European Payments Council (EPC) has published an updated set of recommendations for matching processes under its Verification Of Payee (VOP) scheme, providing additional guidance on character handling and the assessment of beneficiary names ahead of payment initiation."
-    },
-    {
       "id": "5efcc50c6e34",
       "source": "Home Assistant",
       "source_id": "homeassistant",
@@ -3484,14 +3474,34 @@
       "summary": "One of the topics that comes up in the home lab, especially with consumer-grade NVMe and SSD drives is wearing these out prematurely. Especially with the cost of storage rising… The post Simple Tweaks to Help Your Proxmox SSDs Last Longer appeared first on Virtualization Howto ."
     },
     {
+      "id": "92f97328ba3d",
+      "source": "MacRumors",
+      "source_id": "macrumors",
+      "category": "tech",
+      "title": "Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements",
+      "link": "https://www.macrumors.com/2026/11/04/apple-releases-safari-technology-preview-256/",
+      "published": "2026-11-05T00:21:48+00:00",
+      "summary": "Apple today released a new update for Safari Technology Preview , the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the Safari browser. ‌Safari Technology…"
+    },
+    {
       "id": "f5d0c20acacb",
       "source": "MacRumors",
       "source_id": "macrumors",
       "category": "tech",
       "title": "Apps Can Now Try to Stop You From Canceling Subscriptions",
       "link": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/",
-      "published": "2026-11-04T23:58:31+00:00",
+      "published": "2026-11-05T00:11:27+00:00",
       "summary": "Apple today added a new subscription retention feature for developers, allowing them to show retention messages when a subscriber goes to cancel. Apple says retention messages will appear in the subscription cancellation flow and can include text, images, or a special offer. Retention messages can…"
+    },
+    {
+      "id": "3b25579aadb4",
+      "source": "MacRumors",
+      "source_id": "macrumors",
+      "category": "tech",
+      "title": "HomePod Mini 2's Amount of RAM Confirmed",
+      "link": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
+      "published": "2026-11-05T00:08:52+00:00",
+      "summary": "MacRumors has confirmed that the HomePod mini 2 is equipped with 2GB of RAM supplied by SK Hynix. This is not very surprising given the S10 chip in the Apple Watch Series 10 also has 2GB of RAM, but Apple does not list this information in its tech specs for the HomePod mini 2, so it is worth…"
     },
     {
       "id": "32a4d378d408",
@@ -3512,16 +3522,6 @@
       "link": "https://www.macrumors.com/2026/11/04/zach-cregger-iphone-resident-evil/",
       "published": "2026-11-04T22:11:00+00:00",
       "summary": "Apple marketing chief Greg Joswiak today shared an Apple TV video that offers a look at how \"Resident Evil\" director Zach Cregger uses an iPhone during filmmaking. Cregger said he uses his iPhone and the Cadrage app to plan out filming sequences ahead of time. He decides what shots to take, what…"
-    },
-    {
-      "id": "3b25579aadb4",
-      "source": "MacRumors",
-      "source_id": "macrumors",
-      "category": "tech",
-      "title": "HomePod Mini 2's Amount of RAM Confirmed",
-      "link": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
-      "published": "2026-11-04T21:50:54+00:00",
-      "summary": "MacRumors has confirmed that the HomePod mini 2 is equipped with 2GB of RAM supplied by SK Hynix. This is not very surprising given the S10 chip in the Apple Watch Series 10 also has 2GB of RAM, but Apple does not list this information in its tech specs for the HomePod mini 2, so it is worth…"
     },
     {
       "id": "ee48330fc312",
@@ -3674,14 +3674,24 @@
       "summary": "Owen Wilson's popular golf comedy \"Stick\" returns to Apple TV today with two episodes of its second season, followed by weekly releases. Wilson returns as former professional golfer Pryce Cahill, who is attempting a comeback. Rhea Seehorn joins the cast as his coach alongside returning stars Peter…"
     },
     {
-      "id": "16748b0619de",
-      "source": "MacRumors",
-      "source_id": "macrumors",
+      "id": "930e88addf89",
+      "source": "9to5Mac",
+      "source_id": "9to5mac",
       "category": "tech",
-      "title": "iPhone 18e Rumored to Focus on Chip Upgrade With Few Major Changes",
-      "link": "https://www.macrumors.com/2026/11/04/iphone-18e-rumored-to-focus-on-chip-upgrade/",
-      "published": "2026-11-04T12:31:01+00:00",
-      "summary": "Apple's upcoming iPhone 18e will primarily focus on a chip upgrade, with few major new features expected, according to the leaker known as \" Fixed Focus Digital .\" In a new post on Weibo, the leaker said that a new chip is the only upgrade they can currently confirm for the device. They also…"
+      "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
+      "link": "https://9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro/",
+      "published": "2026-11-05T02:00:00+00:00",
+      "summary": "To promote the new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre store in Downtown Los Angeles. Watch the livestream below. more…"
+    },
+    {
+      "id": "8c5761b3e77f",
+      "source": "9to5Mac",
+      "source_id": "9to5mac",
+      "category": "tech",
+      "title": "Apple now lets developers offer discounts when users move to cancel subscriptions",
+      "link": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
+      "published": "2026-11-05T00:17:49+00:00",
+      "summary": "Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details. more…"
     },
     {
       "id": "7e78c871125a",
@@ -3964,24 +3974,14 @@
       "summary": "iOS 27.3 is available now in beta, and it’s a big release for Siri AI improvements. Joining new app actions, Siri Recaps, and developer features, iOS 27.3 also expands Siri AI to several additional languages. more…"
     },
     {
-      "id": "98f3f497e5ea",
-      "source": "9to5Mac",
-      "source_id": "9to5mac",
+      "id": "0d9e329e532a",
+      "source": "AppleInsider",
+      "source_id": "appleinsider",
       "category": "tech",
-      "title": "iOS 27.3 brings Apple Intelligence features to China",
-      "link": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/",
-      "published": "2026-11-03T19:31:26+00:00",
-      "summary": "iOS 27.3 beta 1 is here , and it includes the first Apple Intelligence features in China. Siri AI isn’t available yet, but a lot of other capabilities are. Here’s what to expect. more…"
-    },
-    {
-      "id": "393b8fa2c5e2",
-      "source": "9to5Mac",
-      "source_id": "9to5mac",
-      "category": "tech",
-      "title": "Developers can now create advanced ‘app skills’ for Siri AI",
-      "link": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
-      "published": "2026-11-03T19:25:48+00:00",
-      "summary": "Apple today announced a major new Siri AI initiative for third-party developers, allowing any app to create Siri AI integrations for the first time. The first versions of Siri AI were limited to a much smaller set of supported schemas. The new ‘app skills’ also let apps teach Siri how to…"
+      "title": "Hands on: Siri Recaps & Live Rewind are controversial & unnecessary technologies",
+      "link": "https://appleinsider.com/articles/26/11/05/hands-on-siri-recaps-live-rewind-are-controversial-unnecessary-technologies?utm_source=rss",
+      "published": "2026-11-05T00:23:01+00:00",
+      "summary": "After spending a day with Apple's Audio Intelligence features, they feel more like checked boxes than fully realized and useful features in spite of the clear privacy and boundaries present. Siri Recap and Live Rewind are odd features for Apple to offer When Apple first revealed Siri Recaps and…"
     },
     {
       "id": "5ea75cf108b1",
@@ -4272,16 +4272,6 @@
       "link": "https://appleinsider.com/articles/26/11/03/elgatos-new-teleprompter-app-follows-your-voice-doesnt-need-special-hardware?utm_source=rss",
       "published": "2026-11-03T19:59:34+00:00",
       "summary": "Elgato's Virtual Prompter doesn't need special hardware, and follows your voice as you read, keeping scripts near your webcam during presentations, recordings, and video calls. Elgato launches free Virtual Prompter for Mac and Windows On Tuesday, Elgato announced Virtual Prompter, a new feature in…"
-    },
-    {
-      "id": "0a79b58746f9",
-      "source": "AppleInsider",
-      "source_id": "appleinsider",
-      "category": "tech",
-      "title": "Never lose a good idea again with SpeakON, your AI communicator for iPhone",
-      "link": "https://appleinsider.com/articles/26/11/03/never-lose-a-good-idea-again-with-speakon-your-ai-communicator-for-iphone?utm_source=rss",
-      "published": "2026-11-03T19:59:07+00:00",
-      "summary": "The iPhone is already an excellent messaging and note taking tool, but going from idea to capture is a process that needs improvement. That's where SpeakON comes in, an AI hardware voice recorder. SpeakON is an AI communicator for your iPhone. Image source: SpeakON Your iPhone packs hundreds of…"
     },
     {
       "id": "f6bc2865193c",
@@ -4944,6 +4934,26 @@
       "summary": "iCloud Keychain is a security app that comes pre-installed on Apple devices, but just how secure is it when compared to other popular alternatives?"
     },
     {
+      "id": "318e206400ba",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "Labrinth is spending a night at an Apple Store making music on the new MacBook Pro",
+      "link": "https://www.digitaltrends.com/computing/labrinth-makes-new-song-apple-macbook-pro/",
+      "published": "2026-11-05T02:03:19+00:00",
+      "summary": "A lot goes into making music before it reaches our ears. There are the instruments, recording equipment, production software, and sometimes an awful lot of experimenting before a song actually takes shape. Apple is bringing that entire process out of the recording studio to promote its new MacBook…"
+    },
+    {
+      "id": "3f56de85e28a",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "The INIU Outdoor Rugged 20000 power bank is built to keep your adventures juiced up for longer",
+      "link": "https://www.digitaltrends.com/brc/the-iniu-outdoor-rugged-20000-power-bank-is-built-to-keep-your-adventures-juiced-up-for-longer/",
+      "published": "2026-11-05T01:55:56+00:00",
+      "summary": "Designed for life beyond the grid, the INIU Outdoor Rugged 20000 combines a 20,000mAh capacity, 65W fast charging and IP67 protection. Pair it with the Solar Panel 28W for a portable power setup built for camping, hiking and longer outdoor adventures. Copy excerpt"
+    },
+    {
       "id": "8342bb054ccc",
       "source": "Digital Trends",
       "source_id": "digitaltrends",
@@ -4992,6 +5002,16 @@
       "link": "https://www.digitaltrends.com/contributor-content/can-a-screen-free-smart-ring-help-you-fight-notification-fatigue-and-stay-grounded-in-faith/",
       "published": "2026-11-04T20:43:07+00:00",
       "summary": "Elah Ring S1 is a screen-free, faith-centered smart ring. This faith-based Smart Ring combines health tracking, devotional Anchors, and daily reflection, using its Cross-Light and gentle vibration to support prayer and devotional routines without requiring users to look at a screen. Image Credit:…"
+    },
+    {
+      "id": "203eaed3bc06",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "I tried the Velotric Discover 3, and its Black Friday deal makes it even better",
+      "link": "https://www.digitaltrends.com/ebikes/i-tried-the-velotric-discover-3-and-its-black-friday-deal-makes-it-even-better/",
+      "published": "2026-11-04T20:30:00+00:00",
+      "summary": "Black Friday is a good time to shop for an e-bike, particularly if you’ve been waiting for a discount on something with plenty of power, a comfortable riding position, and features that make everyday rides easier. The Velotric Discover 3 has all three, and after taking it for a ride, I found quite…"
     },
     {
       "id": "8e16d79b40e3",
@@ -5214,34 +5234,14 @@
       "summary": "Valve is introducing stricter pre-release checks for Steam games as a surge in submissions pushes approval times to nearly two weeks, with developers increasingly concerned about AI-generated games clogging the platform."
     },
     {
-      "id": "bfe2384dd57c",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
+      "id": "a3b11dd7c92d",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
       "category": "tech",
-      "title": "You can finally preview Markdown files in Quick Look on your Mac",
-      "link": "https://www.digitaltrends.com/computing/macos-27-3-adds-markdown-preview-support-to-quick-look/",
-      "published": "2026-11-04T08:19:16+00:00",
-      "summary": "macOS 27.3 beta 1 brings Markdown support to Quick Look, so you can preview .md files with proper formatting without opening a separate app."
-    },
-    {
-      "id": "c51d98e19f1b",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
-      "category": "tech",
-      "title": "WhatsApp’s new photo-sharing shortcut is convenient, but I’m not entirely convinced",
-      "link": "https://www.digitaltrends.com/social-media/whatsapps-new-photo-sharing-shortcut-is-convenient-but-im-not-entirely-convinced/",
-      "published": "2026-11-04T07:37:11+00:00",
-      "summary": "WhatsApp is introducing a new shortcut that automatically suggests recently saved photos, screenshots, and videos inside conversations, making sharing quicker while giving users control over what gets sent."
-    },
-    {
-      "id": "133e65eb8a90",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
-      "category": "tech",
-      "title": "YouTube might get its own social network since Shorts obviously wasn’t addictive enough",
-      "link": "https://www.digitaltrends.com/phones/youtube-might-get-its-own-social-network-since-shorts-wasnt-addictive-enough/",
-      "published": "2026-11-04T06:57:31+00:00",
-      "summary": "An APK teardown of the latest YouTube app has uncovered a mysterious project called Tamba, complete with custom branding, private messaging, followers, and group chats, hinting at a possible new social network from Google."
+      "title": "‘VisionQuest’ Unveils the Man Behind the Curtain",
+      "link": "https://gizmodo.com/visionquest-season-1-episode-1-immolation-recap-review-2000834937",
+      "published": "2026-11-05T00:15:58+00:00",
+      "summary": "In the series' penultimate episode, Vision finally addresses his identity crisis."
     },
     {
       "id": "9577d8578a93",
@@ -5251,7 +5251,7 @@
       "title": "The Iron Age King Who Lured Rome Into Britain Was Actually a Woman, Archaeologists Say",
       "link": "https://gizmodo.com/the-iron-age-king-who-lured-rome-into-britain-was-actually-a-woman-archaeologists-say-2000834978",
       "published": "2026-11-05T00:01:54+00:00",
-      "summary": "Verica of the Atrebates persuaded Claudius to invade Britain, which remained under Roman control for hundreds of years."
+      "summary": "Verica of the Atrebates persuaded Claudius to send his troops to Britain, which remained under Roman control for hundreds of years."
     },
     {
       "id": "9a1cf008f3f4",
@@ -5434,14 +5434,74 @@
       "summary": "First mistaken for space junk, 2026 QQ8 has turned out to be a temporary companion to Earth."
     },
     {
-      "id": "1ba736d261f0",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "The Grand Canyon Is Missing 1.2 Billion Years of Earth History. Scientists May Have Figured Out Why",
-      "link": "https://gizmodo.com/the-grand-canyon-is-missing-1-2-billion-years-of-earth-history-scientists-figured-out-why-2000834872",
-      "published": "2026-11-04T16:50:18+00:00",
-      "summary": "“Sometimes what is missing can tell us more about the story of Earth than what we can see.”"
+      "id": "eab39a2828a9",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Voters split down the middle as housing ballot question remains uncalled",
+      "link": "https://www.wwlp.com/news/massachusetts/voters-split-down-the-middle-as-housing-ballot-question-remains-uncalled/",
+      "published": "2026-11-05T01:42:49+00:00",
+      "summary": "A ballot question intended to ease the housing crisis and increase the availability of potentially smaller homes has divided voters, creating a nail-biting contest that extended into Wednesday afternoon."
+    },
+    {
+      "id": "e7b741c98568",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Education leaders discuss challenges, opportunities for students in western Mass.",
+      "link": "https://www.wwlp.com/news/local-news/hampden-county/education-leaders-discuss-challenges-opportunities-for-students-in-western-mass/",
+      "published": "2026-11-05T01:11:20+00:00",
+      "summary": "Education leaders gathered in Holyoke on Wednesday to discuss the challenges facing students in western Massachusetts and explore ways to expand educational opportunities beyond traditional four-year colleges."
+    },
+    {
+      "id": "ab68d069158e",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Roca Springfield celebrates grand reopening following $2.4 million renovation",
+      "link": "https://www.wwlp.com/news/local-news/hampden-county/roca-springfield-celebrates-grand-reopening-following-2-4-million-renovation/",
+      "published": "2026-11-05T01:10:14+00:00",
+      "summary": "A Springfield organization dedicated to helping at-risk young people turn their lives around celebrated its grand reopening Wednesday following approximately $2.4 million in renovations."
+    },
+    {
+      "id": "4b2d41942ae9",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Easthampton Fire Department awarded $11,400 for fire safety education programs",
+      "link": "https://www.wwlp.com/news/local-news/hampshire-county/easthampton-fire-department-awarded-11400-for-fire-safety-education-programs/",
+      "published": "2026-11-05T01:09:35+00:00",
+      "summary": "The Easthampton Fire Department has been awarded $11,400 in state funding to support fire safety education programs for students and older adults."
+    },
+    {
+      "id": "efe51413f93a",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Juvenile wanted in connection with double homicide in Boston arrested in Foxborough",
+      "link": "https://www.wwlp.com/news/crime/juvenile-wanted-in-connection-with-double-homicide-in-boston-arrested-in-foxborough/",
+      "published": "2026-11-05T00:58:55+00:00",
+      "summary": "A juvenile fugitive wanted in connection with a 2025 double homicide in Boston was arrested Wednesday in Foxborough, according to the U.S. Marshals Service."
+    },
+    {
+      "id": "4c4d7cb7590a",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Democrats flip Congress; Massachusetts backs incumbents",
+      "link": "https://www.wwlp.com/news/massachusetts/democrats-flip-congress-massachusetts-backs-incumbents/",
+      "published": "2026-11-05T00:55:11+00:00",
+      "summary": "For the final two years of President Donald Trump's term, Democrats will control both the U.S. House and Senate after flipping more than two dozen Republican-held seats in Tuesday's midterm elections."
+    },
+    {
+      "id": "cd459d5fda35",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "More than 200 acres of forest permanently protected in Shutesbury",
+      "link": "https://www.wwlp.com/news/local-news/franklin-county/more-than-200-acres-of-forest-permanently-protected-in-shutesbury/",
+      "published": "2026-11-05T00:48:53+00:00",
+      "summary": "More than 200 acres of forestland in Shutesbury will remain protected from logging and development following a conservation partnership between two regional land trusts."
     },
     {
       "id": "897e0974cec6",
@@ -5674,74 +5734,24 @@
       "summary": "Find the latest map of seat pickups, losses and more here."
     },
     {
-      "id": "c050e7cf82f7",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "8bce99c5c00d",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "Strong El Niño will bring milder winter weather in Massachusetts",
-      "link": "https://www.wwlp.com/weather/weather-news/strong-el-nino-will-bring-milder-winter-weather-in-massachusetts/",
-      "published": "2026-11-03T23:37:39+00:00",
-      "summary": "El Niño is shifting U.S. weather patterns, delivering rain to the South and setting the stage for a mild winter in the Northeast."
+      "title": "Reporter forced out of Republican candidate’s election party during profane-laced speech on live television",
+      "link": "https://www.westernmassnews.com/2026/11/05/reporter-forced-out-republican-candidates-election-party-during-profane-laced-speech-live-television/",
+      "published": "2026-11-05T01:03:23+00:00",
+      "summary": "Republican congressional candidate Anthony Constantino ordered a reporter and cameraman to leave his election-night party."
     },
     {
-      "id": "0dd4fab8c12b",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "7448102034e1",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "Election Results: Massachusetts ballot questions",
-      "link": "https://www.wwlp.com/news/massachusetts/election-results-massachusetts-ballot-questions/",
-      "published": "2026-11-03T23:22:59+00:00",
-      "summary": "Massachusetts voters decide on nine statewide ballot questions during the November election."
-    },
-    {
-      "id": "bbb173ff15d6",
-      "source": "WWLP",
-      "source_id": "wwlp",
-      "category": "local",
-      "title": "Holyoke Medical Center adds orthopedic surgeon, East Longmeadow office",
-      "link": "https://www.wwlp.com/news/local-news/hampden-county/holyoke-medical-center-adds-orthopedic-surgeon-east-longmeadow-office/",
-      "published": "2026-11-03T23:13:46+00:00",
-      "summary": "Holyoke Medical Center has expanded its orthopedic services by adding a new surgeon and opening a new office in East Longmeadow."
-    },
-    {
-      "id": "21544fb928d8",
-      "source": "WWLP",
-      "source_id": "wwlp",
-      "category": "local",
-      "title": "AIC voting rights exhibit highlights history of democracy on Election Day",
-      "link": "https://www.wwlp.com/news/local-news/hampden-county/aic-voting-rights-exhibit-highlights-history-of-democracy-on-election-day/",
-      "published": "2026-11-03T23:10:37+00:00",
-      "summary": "Students and voters at American International College (AIC) in Springfield had the opportunity to explore the history of voting rights while casting their ballots on Election Day."
-    },
-    {
-      "id": "4bd83013d318",
-      "source": "WWLP",
-      "source_id": "wwlp",
-      "category": "local",
-      "title": "Ed Markey wins reelection to U.S. Senate in Massachusetts",
-      "link": "https://www.wwlp.com/news/massachusetts/election-results-markey-vs-deaton-for-u-s-senate-massachusetts/",
-      "published": "2026-11-03T23:09:58+00:00",
-      "summary": "Democratic U.S. Sen. Edward Markey has won reelection to a third full term in the U.S. Senate, defeating Republican challenger John Deaton and two independent candidates in Tuesday's Massachusetts election."
-    },
-    {
-      "id": "f95338a2cbc5",
-      "source": "WWLP",
-      "source_id": "wwlp",
-      "category": "local",
-      "title": "Election Results: Maura Healey wins reelection as Massachusetts governor",
-      "link": "https://www.wwlp.com/news/massachusetts/election-results-healey-vs-minogue-for-massachusetts-governor/",
-      "published": "2026-11-03T23:08:48+00:00",
-      "summary": "Massachusetts Gov. Maura Healey has won reelection to a second four-year term, defeating Republican challenger Michael Minogue and independent candidate Andrea James in Tuesday's gubernatorial election."
-    },
-    {
-      "id": "2cefd1b9bf5c",
-      "source": "WWLP",
-      "source_id": "wwlp",
-      "category": "local",
-      "title": "Balance of Power: 2026 U.S. General Election Results",
-      "link": "https://www.wwlp.com/news/national/balance-of-power-2026-u-s-general-election-results/",
-      "published": "2026-11-03T22:30:00+00:00",
-      "summary": "22News is working for you, closely watching the election cycle featuring federal, statewide and local races. View the latest results as they come into the newsroom."
+      "title": "2028 White House talk begins after historic Midterm Election Day",
+      "link": "https://www.westernmassnews.com/2026/11/05/2028-white-house-talk-begins-after-historic-midterm-election-day/",
+      "published": "2026-11-05T00:51:24+00:00",
+      "summary": "Politicians are already looking ahead to the 2028 presidential race after Democrats swept key races across the nation on Nov. 3."
     },
     {
       "id": "f7263441594d",
@@ -5922,26 +5932,6 @@
       "link": "https://www.westernmassnews.com/2026/11/04/former-judge-arrested-unloading-gun-halloween-trick-or-treaters-police-say/",
       "published": "2026-11-04T17:24:19+00:00",
       "summary": "A former judge has been arrested after allegedly unloading a gun in the direction of Halloween trick-or-treaters, according to authorities."
-    },
-    {
-      "id": "24b89ebbc604",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Aging Untold: These are the skin cancer warning signs you may overlook as you age",
-      "link": "https://www.westernmassnews.com/2026/11/04/aging-untold-these-are-skin-cancer-warning-signs-you-may-overlook-you-age/",
-      "published": "2026-11-04T16:55:12+00:00",
-      "summary": "On this episode of Aging Untold, we highlight the easily overlooked warning signs of skin cancer and discuss what to ask during a dermatology exam. Then, we explore the emotional weight of caregiving promises, examining how commitments made in love can lead to guilt when care needs change."
-    },
-    {
-      "id": "54e94c0c875c",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Enfield voters approve $511 million school construction proposal, unofficial results show",
-      "link": "https://www.westernmassnews.com/2026/11/04/enfield-voters-approve-511-million-school-construction-proposal-unofficial-results-show/",
-      "published": "2026-11-04T16:25:46+00:00",
-      "summary": "Voters in Enfield chose to move forward with a school construction project, Patch reported."
     },
     {
       "id": "e97d5b13b5e2",
