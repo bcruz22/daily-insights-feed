@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T00:09:00+00:00",
+ "generated_at": "2026-11-05T02:10:01+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 37,
+  "aqi": 39,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-04 18:00 EST"
+  "observed": "2026-11-04 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,55 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Microsoft Teams: Multiple screen shares in Teams Rooms on Windows",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579184",
+    "published": "2026-11-04T23:59:50+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Desktop",
+     "Teams and Surface Devices"
+    ],
+    "summary": "You can now view up to two shared screens side by side during meetings, reducing interruptions from screen hand-offs. Participants can switch between side-by-side and expanded views, identify presenters for each screen, and benefit from layouts optimized for single or dual displays. Available with T"
+   },
+   {
+    "title": "Microsoft Purview: Information Protection-Auto-labeling for legacy Office files",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578872",
+    "published": "2026-11-04T23:59:50+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "GCC",
+     "GCC High",
+     "DoD",
+     "Microsoft Purview",
+     "Web"
+    ],
+    "summary": "Microsoft Purview server-side auto-labeling will support legacy Microsoft Office file formats, including Word (.doc), Excel (.xls), and PowerPoint (.ppt). Organizations can automatically evaluate and apply sensitivity labels to these files in SharePoint and OneDrive. GA date: December CY2026"
+   },
+   {
+    "title": "Microsoft 365: Expiration for access on sharing main links",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571399",
+    "published": "2026-11-04T23:59:50+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "GCC",
+     "GCC High",
+     "DoD",
+     "OneDrive",
+     "SharePoint",
+     "Microsoft 365",
+     "Android",
+     "Desktop",
+     "iOS"
+    ],
+    "summary": "People can set expiration dates for \u201cAnyone\u201d and \u201cPeople in your organization\u201d access on the main link to files and folders in OneDrive and SharePoint. New administrator policies can Administrators can set policies to require expiration and enforce a maximum access duration, with separate settings f"
+   },
    {
     "title": "Microsoft Viva: Engage - Improved shared messages end-user experience",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578870",
