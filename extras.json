@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:12:02+00:00",
+ "generated_at": "2026-11-05T20:07:58+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 30,
-  "pollutant": "OZONE",
+  "aqi": 31,
+  "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-05 12:00 EST"
+  "observed": "2026-11-05 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -362,14 +362,6 @@
   "window_hours": 48,
   "cves": [
    {
-    "id": "CVE-2026-44267",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-11-03T18:18:03.130",
-    "summary": "Elo is a purely functional expression language for no-code tools. Prior to 1.0.1, plain Elo strings supplied to defaultFormats.elo.parse(), bin/elo, or elo-lang.org/try can use .constructor.constructor to reach JavaScript Function because the member_access handler in src/transform.ts does not reject meta-properties, src/compilers/javascript.ts emits the surviving property directly, and src/parser.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-44267"
-   },
-   {
     "id": "CVE-2026-107846",
     "score": 9.3,
     "cvss": "4.0",
@@ -424,6 +416,14 @@
     "published": "2026-11-03T21:16:57.993",
     "summary": "Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. Prior to 20.3.33, 21.2.25, and 22.2.1, @angular/router in Node.js server-side rendering fails to require auxiliary outlet URL segments to match routes configured for their outlet names. Crafted requests containing multiple unconfigured empty-path outlet groups can rep",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111752"
+   },
+   {
+    "id": "CVE-2026-123208",
+    "score": 7.7,
+    "cvss": "4.0",
+    "published": "2026-11-05T19:17:20.380",
+    "summary": "noname Electron desktop build v1.11.2 through v1.11.6.1 contains an unauthenticated local file server with wildcard CORS that allows malicious websites to read, overwrite, or delete installation files. Attackers can send cross-origin requests to /writeFile on localhost port 8089 to overwrite renderer scripts, executing JavaScript with Node.js access as the local user.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123208"
    },
    {
     "id": "CVE-2026-97705",
