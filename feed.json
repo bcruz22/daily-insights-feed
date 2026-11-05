@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:10:33+00:00",
+  "generated_at": "2026-11-05T09:43:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -279,7 +279,7 @@
       "name": "Android Central",
       "status": "ok",
       "feed_url": "https://www.androidcentral.com/feed",
-      "count": 16,
+      "count": 17,
       "errors": []
     },
     "bgr": {
@@ -1108,6 +1108,36 @@
       "summary": "One of the feature gaps between classic Outlook and the new Outlook experience has been the lack of template-based automatic replies. Users who regularly handle repetitive emails often have to manually send the same responses over and over, which creates unnecessary administrative work and…"
     },
     {
+      "id": "96a1ace9f58c",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+      "published": "2026-11-05T09:13:28+00:00",
+      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by…"
+    },
+    {
+      "id": "4f9bb7c1ff8e",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "published": "2026-11-05T08:42:03+00:00",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and…"
+    },
+    {
+      "id": "a665869d02d2",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "published": "2026-11-05T07:06:33+00:00",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has…"
+    },
+    {
       "id": "2a5b7d5a686a",
       "source": "The Hacker News",
       "source_id": "thehackernews",
@@ -1378,34 +1408,14 @@
       "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the…"
     },
     {
-      "id": "65afadf0cbc2",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
+      "id": "913b3853f7cd",
+      "source": "Engadget",
+      "source_id": "engadget",
       "category": "tech",
-      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "published": "2026-11-02T16:57:56+00:00",
-      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks…"
-    },
-    {
-      "id": "948be6f589a7",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "published": "2026-11-02T15:50:26+00:00",
-      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used…"
-    },
-    {
-      "id": "39749d757eb1",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "published": "2026-11-02T14:46:05+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of…"
+      "title": "Sony is selling more PS5 games but still struggling to meet console demand",
+      "link": "https://www.engadget.com/2307531/sony-earnings-report-2026-selling-more-ps5-games-console-demand/",
+      "published": "2026-11-05T09:25:11+00:00",
+      "summary": "Despite market conditions making PS5 consoles expensive and hard to get, Sony's gaming division had a solid quarter."
     },
     {
       "id": "b21b8f4aa7ca",
@@ -1596,16 +1606,6 @@
       "link": "https://www.engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games/",
       "published": "2026-11-03T23:00:21+00:00",
       "summary": "The NVIDIA modding platform lets you remaster classic games with modern graphics, and now DLSS 5 is included."
-    },
-    {
-      "id": "ccaff1109614",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "Here's how to adjust Apple AirPods for small ears",
-      "link": "https://www.engadget.com/2300409/how-adjust-apple-airpods-for-small-ears/",
-      "published": "2026-11-03T23:00:00+00:00",
-      "summary": "Those with small ears may require some extra finessing when adjusting their Apple AirPods to get the perfect fit, and there are a few ways you can ensure that."
     },
     {
       "id": "c62c3211dde6",
@@ -2138,6 +2138,16 @@
       "summary": "The deal brings partnership's' Windsor and East Hartford holdings to 16 buildings totaling more than 612,000 square feet."
     },
     {
+      "id": "da77af0f435f",
+      "source": "BleepingComputer",
+      "source_id": "bleeping",
+      "category": "tech",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "published": "2026-11-05T09:18:29+00:00",
+      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]"
+    },
+    {
       "id": "de7887560061",
       "source": "BleepingComputer",
       "source_id": "bleeping",
@@ -2278,16 +2288,6 @@
       "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]"
     },
     {
-      "id": "77eef035ebfc",
-      "source": "BleepingComputer",
-      "source_id": "bleeping",
-      "category": "tech",
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "published": "2026-11-03T18:51:04+00:00",
-      "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]"
-    },
-    {
       "id": "49bf8b366c47",
       "source": "Krebs on Security",
       "source_id": "krebs",
@@ -2388,6 +2388,36 @@
       "summary": "A researcher found an embedded password in Applebee’s app that exposed customer data."
     },
     {
+      "id": "30645dc86b9c",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "OpenAI’s upcoming AI model built 948 working Linux root exploits in a single run",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/openai-linux-kernel-root-exploits/",
+      "published": "2026-11-05T09:05:06+00:00",
+      "summary": "An automated system running on an upcoming AI model turned hundreds of Linux kernel bugs into working exploits that give an ordinary user root access, and wrote a patch for each underlying flaw, OpenAI revealed in a new research post. Source:OpenAI The company’s Cyber team ran the pipeline in…"
+    },
+    {
+      "id": "a49bac037714",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "A banking malware sample led researchers to an Android bug that can loop-crash phones",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/ghostmap-android-bug-research/",
+      "published": "2026-11-05T09:00:02+00:00",
+      "summary": "Bitdefender Labs researchers built an Android app that contains no executable code and requests no permissions, and installing it leaves a Pixel 10 in a crash loop that can take a factory reset to clear. The flaw, which Bitdefender calls GhostMap, comes from how Android reads the ZIP structure…"
+    },
+    {
+      "id": "502a2689190e",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "Apple is bringing harmful content checks to iCloud link sharing with potential account penalties",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/apple-icloud-link-sharing-checks/",
+      "published": "2026-11-05T08:32:52+00:00",
+      "summary": "Apple will begin checking iCloud content shared using the “Anyone with the link” option for harmful material in iOS, iPadOS, macOS, and visionOS 27.3 or later. When sharing content stored in iCloud, users can choose “Share a Link” or “Send a Copy.” Those who choose “Share a Link” can restrict…"
+    },
+    {
       "id": "eeeae62d983b",
       "source": "Help Net Security",
       "source_id": "helpnet",
@@ -2456,36 +2486,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/04/descope-envoy/",
       "published": "2026-11-04T14:31:05+00:00",
       "summary": "Descope has announced Envoy, a set of capabilities that gives personal AI agents a delegated sign-in path alongside a consumer app’s existing authentication flows. Consumer companies can now accept agents as first-class users—with their own identities, permissions, and approval flows—without…"
-    },
-    {
-      "id": "160d641e4f4b",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "BlueFlag Security adds controls for AI agents working under developer identities",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/blueflag-ai-agent-governance/",
-      "published": "2026-11-04T14:22:51+00:00",
-      "summary": "BlueFlag Security has expanded AI Agent Governance that fully maps the access, behavior and oversight of both approved and shadow AI agents, including options for automated risk remediation. Activated within BlueFlag’s pioneering platform, customers can now govern all aspects of AI agents and…"
-    },
-    {
-      "id": "4a6a42c1bd5d",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Citrix expands oversight of autonomous browsing and AI agent activity",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/citrix-ai-governance-capabilities/",
-      "published": "2026-11-04T14:13:48+00:00",
-      "summary": "Citrix has announced new capabilities across Citrix SecurSpaces, Citrix SecurAccess and Citrix Platform Flex designed to help organizations securely deploy AI agents, govern AI-powered work and scale adoption across the enterprise. These updates include an expansion of Citrix SecurSpaces to a…"
-    },
-    {
-      "id": "3f709e0cf539",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Live Q&A: CISSP exam prep with ISC2 experts",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/isc2-cissp-exam-prep-webinar/",
-      "published": "2026-11-04T14:00:31+00:00",
-      "summary": "Join ISC2 on November 6, 2026 at 7:00pm CET for a live Q&A about the CISSP exam. A panel of experts will answer your questions, explain what it takes to earn the certification, and walk through the exam domains. You’ll also learn about self-study resources and training options to help you prepare…"
     },
     {
       "id": "7dcd83260d7c",
@@ -3158,6 +3158,16 @@
       "summary": "How can banks adapt their cross-border payment services to increase client satisfaction?"
     },
     {
+      "id": "6993142aec5a",
+      "source": "Finextra",
+      "source_id": "finextra",
+      "category": "tech",
+      "title": "AI accounting platform Kabilio raises €10m",
+      "link": "https://www.finextra.com/newsarticle/48704/ai-accounting-platform-kabilio-raises-10m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "published": "2026-11-05T09:00:00+00:00",
+      "summary": "Kabilio, a Barcelona-based AI platform for accounting firms and the small businesses they serve, has raised €10 million in a funding round led by Picus Capital and Visionaries."
+    },
+    {
       "id": "e99ec66f6419",
       "source": "Finextra",
       "source_id": "finextra",
@@ -3218,12 +3228,12 @@
       "summary": "Author: A finextra community member"
     },
     {
-      "id": "1148ce5ecc8c",
+      "id": "7c5098d5b86a",
       "source": "Finextra",
       "source_id": "finextra",
       "category": "tech",
-      "title": "A Fintech Founder's Guide to Delegating Without Losing Control",
-      "link": "https://www.finextra.com/blogposting/33396/a-fintech-founders-guide-to-delegating-without-losing-control?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "The Decentralisation of Digital Identity: Balancing Privacy and Compliance in Financial Services",
+      "link": "https://www.finextra.com/blogposting/33396/the-decentralisation-of-digital-identity-balancing-privacy-and-compliance-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
       "published": "2026-11-04T15:29:29+00:00",
       "summary": "Author: A finextra community member"
     },
@@ -3368,16 +3378,6 @@
       "summary": "Trading 212, UK's largest investment platform, has completed its automated deposits feature using Bank on File from TrueLayer. Customers can now invest automatically, straight from their bank account, without logging into their banking app each time."
     },
     {
-      "id": "b3bc4fd79bf8",
-      "source": "Finextra",
-      "source_id": "finextra",
-      "category": "tech",
-      "title": "Starling Bank CEO Raman Bhatia to step down - FT",
-      "link": "https://www.finextra.com/newsarticle/48699/starling-bank-ceo-raman-bhatia-to-step-down---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "published": "2026-11-04T12:17:00+00:00",
-      "summary": "As reported in the Financial Times, Starling Bank CEO Raman Bhatia privately told the group's board that he no longer wants to lead the fintech firm and will leave after just two years in the role."
-    },
-    {
       "id": "5efcc50c6e34",
       "source": "Home Assistant",
       "source_id": "homeassistant",
@@ -3476,6 +3476,16 @@
       "link": "https://www.virtualizationhowto.com/2026/11/simple-tweaks-to-help-your-proxmox-ssds-last-longer/",
       "published": "2026-11-02T13:02:25+00:00",
       "summary": "One of the topics that comes up in the home lab, especially with consumer-grade NVMe and SSD drives is wearing these out prematurely. Especially with the cost of storage rising… The post Simple Tweaks to Help Your Proxmox SSDs Last Longer appeared first on Virtualization Howto ."
+    },
+    {
+      "id": "db65d59afff3",
+      "source": "MacRumors",
+      "source_id": "macrumors",
+      "category": "tech",
+      "title": "Apple Launching Five New Products Tomorrow",
+      "link": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/",
+      "published": "2026-11-05T08:59:18+00:00",
+      "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week , including its first touchscreen MacBook Pro models. The following new products will be available from tomorrow: iPad mini with OLED display and A20 Pro chip iMac with M6 chip 14-inch MacBook…"
     },
     {
       "id": "92f97328ba3d",
@@ -3666,16 +3676,6 @@
       "link": "https://www.macrumors.com/2026/11/04/apple-bans-confidential-info-prediction-markets/",
       "published": "2026-11-04T12:45:42+00:00",
       "summary": "Apple has added an explicit ban on using confidential information to bet on prediction markets to its insider trading policy, according to a filing with the U.S. Securities and Exchange Commission. The policy was filed on Tuesday as an exhibit to Apple's annual report on Form 10-K , which is also…"
-    },
-    {
-      "id": "2cd56ac2d48e",
-      "source": "MacRumors",
-      "source_id": "macrumors",
-      "category": "tech",
-      "title": "'Stick' Season 2 Premieres Today on Apple TV",
-      "link": "https://www.macrumors.com/2026/11/04/stick-season-2-premieres-today/",
-      "published": "2026-11-04T12:41:35+00:00",
-      "summary": "Owen Wilson's popular golf comedy \"Stick\" returns to Apple TV today with two episodes of its second season, followed by weekly releases. Wilson returns as former professional golfer Pryce Cahill, who is attempting a comeback. Rhea Seehorn joins the cast as his coach alongside returning stars Peter…"
     },
     {
       "id": "930e88addf89",
@@ -4278,6 +4278,66 @@
       "summary": "After two years of waiting, the first iOS 27.3 developer beta has introduced Apple Intelligence to China, bringing some of its AI features to the country. Apple Intelligence will finally ship in China - Image Credit: Apple The long wait for Apple Intelligence in China started in 2024 after its…"
     },
     {
+      "id": "3aace6ef80aa",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Survey shows Nova Launcher still crushes every Android launcher that challenges it",
+      "link": "https://www.androidauthority.com/popular-android-launcher-nova-launcher-poll-results-3731901/",
+      "published": "2026-11-05T09:21:00+00:00",
+      "summary": "Despite years of turbulence, Nova is still the star of many home screens."
+    },
+    {
+      "id": "ebb87c7b540f",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Android Auto’s endless calling loop is driving Pixel and Galaxy owners crazy",
+      "link": "https://www.androidauthority.com/android-auto-calling-texting-contacts-bug-3731922/",
+      "published": "2026-11-05T09:15:36+00:00",
+      "summary": "Gemini knows the name to contact. Android Auto keeps asking."
+    },
+    {
+      "id": "e0444e3ebe35",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "New Android exploit only needs you to install an app to wreck your phone",
+      "link": "https://www.androidauthority.com/android-ghostmap-vulnerability-crash-loop-3731355/",
+      "published": "2026-11-05T09:00:00+00:00",
+      "summary": "Android sabotages itself next."
+    },
+    {
+      "id": "f948761f2851",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "You can now play Switch 2 games on Android via emulators and native ports",
+      "link": "https://www.androidauthority.com/nintendo-switch-2-emulators-ports-android-3731890/",
+      "published": "2026-11-05T08:57:38+00:00",
+      "summary": "It's early days, but Switch 2 emulation and native ports show a lot of promise."
+    },
+    {
+      "id": "fbd8f1f3b587",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "One UI 9 is breaking Wi-Fi, mobile data, and even SIM detection for some Galaxy users",
+      "link": "https://www.androidauthority.com/one-ui-9-wi-fi-mobile-data-sim-issues-galaxy-users-3731894/",
+      "published": "2026-11-05T08:56:34+00:00",
+      "summary": "Stable One UI 9 may not be that stable after all."
+    },
+    {
+      "id": "839b2a6028bb",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "WhatsApp for Android could soon let you read messages secretly without sending blue ticks",
+      "link": "https://www.androidauthority.com/whatsapp-peek-chat-previews-android-apk-teardown-3731903/",
+      "published": "2026-11-05T08:30:36+00:00",
+      "summary": "You'll soon be able to peek chat messages, just like on iOS, but with scrolling support."
+    },
+    {
       "id": "34045a04fcdc",
       "source": "Android Authority",
       "source_id": "androidauthority",
@@ -4518,64 +4578,14 @@
       "summary": "Need a wallpaper? Here are some great ones from the Android Authority team and some of our readers. Share yours, too!"
     },
     {
-      "id": "96e668b01edb",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
+      "id": "790bb701bc86",
+      "source": "Android Central",
+      "source_id": "androidcentral",
       "category": "tech",
-      "title": "Amazon drops JBL Tune Flex earbuds 50% off from RRP",
-      "link": "https://www.androidauthority.com/deal-jbl-tune-flex-3731687/",
-      "published": "2026-11-04T14:46:10+00:00",
-      "summary": "Save $50 on JBL Tune Flex earbuds at Amazon and get ANC, 10mm drivers, and switchable ear tips for comfort or isolation."
-    },
-    {
-      "id": "338de703ca35",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Snapped a photo of an event poster? Google Photos could soon add it to your calendar",
-      "link": "https://www.androidauthority.com/google-photos-ask-photos-calendar-apk-teardown-3731650/",
-      "published": "2026-11-04T14:02:26+00:00",
-      "summary": "Ask Photos could pull event details from photos, but watch out for classic AI mistakes."
-    },
-    {
-      "id": "e63de4d108b0",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Your next phone could cost even more, and this time it’s not just RAM",
-      "link": "https://www.androidauthority.com/samsung-oled-ram-price-increase-report-3731642/",
-      "published": "2026-11-04T14:02:16+00:00",
-      "summary": "Reports suggest Samsung’s OLED panels could cost $10-$20 more in 2027."
-    },
-    {
-      "id": "5c9c02197f5a",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Here’s your first look at Google Photos’ upcoming Overnight backups feature",
-      "link": "https://www.androidauthority.com/google-photos-overnight-backup-preview-apk-teardown-3731603/",
-      "published": "2026-11-04T13:10:40+00:00",
-      "summary": "These images show Google Photos' upcoming backup option that holds off on uploads until night."
-    },
-    {
-      "id": "4222d36267a7",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Cleaning up your Google Photos library might soon take just one prompt",
-      "link": "https://www.androidauthority.com/google-photos-ask-photos-bulk-actions-apk-teardown-3731483/",
-      "published": "2026-11-04T11:57:49+00:00",
-      "summary": "Ask Photos could soon get an upgrade that could let you bulk delete and even batch edit photos."
-    },
-    {
-      "id": "ab467b26004b",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Samsung’s mysterious Galaxy T1 fitness earbuds are getting ready for a US launch",
-      "link": "https://www.androidauthority.com/samsung-galaxy-t1-earbuds-fcc-certification-3731590/",
-      "published": "2026-11-04T11:50:13+00:00",
-      "summary": "New FCC certification documents offer a closer look at what's coming."
+      "title": "Samsung's new Galaxy S27 Pro could come with one disappointing compromise",
+      "link": "https://www.androidcentral.com/phones/samsung-galaxy/s27-pro-might-miss-out-on-the-snapdragon-8-elite-extreme-gen-6",
+      "published": "2026-11-05T09:29:52+00:00",
+      "summary": "Samsung's Galaxy S27 Pro could miss out on one of the Ultra's biggest upgrades"
     },
     {
       "id": "5bdfddc80d23",
@@ -4938,6 +4948,16 @@
       "summary": "Apple gave Siri a big upgrade in 2026, but some people still struggle with it activating at inopportune times. Fortunately, it's easy to fix."
     },
     {
+      "id": "53455c3a1088",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "ChatGPT can now turn your images into GIFs with its latest update",
+      "link": "https://www.digitaltrends.com/computing/openai-images-2-6-adds-gif-support-and-faster-image-generation/",
+      "published": "2026-11-05T09:01:13+00:00",
+      "summary": "ChatGPT’s Images 2.6 update brings GIF animation, 50% faster image generation, and better consistency, letting you turn sketches, mascots, and product shots into fun looping visuals."
+    },
+    {
       "id": "0939a575ab57",
       "source": "Digital Trends",
       "source_id": "digitaltrends",
@@ -5226,16 +5246,6 @@
       "link": "https://www.digitaltrends.com/phones/apple-music-gets-a-fun-new-karaoke-feature-that-lets-you-record-yourself-singing/",
       "published": "2026-11-04T12:40:39+00:00",
       "summary": "iOS 27.3 beta 1 brings a hidden Selfie Sing feature to Apple Music that lets you record yourself singing karaoke while the lyrics stay on screen."
-    },
-    {
-      "id": "ce1e578ee65c",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
-      "category": "tech",
-      "title": "Apple’s iPhone 18 might be worth waiting for, if you don’t mind the price hike",
-      "link": "https://www.digitaltrends.com/phones/apples-iphone-18-might-be-worth-waiting-for-if-you-dont-mind-the-price-hike/",
-      "published": "2026-11-04T12:36:07+00:00",
-      "summary": "Apple's standard iPhone 18 could arrive in early 2027 with a more powerful 2nm A20 chip and a larger battery, although a familiar design and another potential price increase might dampen the excitement."
     },
     {
       "id": "2c1f08fea069",
@@ -5738,6 +5748,16 @@
       "summary": "lawn tractor caught fire Tuesday afternoon in Amherst, spreading flames to nearby leaves and grass before firefighters quickly extinguished the blaze."
     },
     {
+      "id": "210afc6e9da9",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "Future voter arrives early: Woman goes into labor at polling place",
+      "link": "https://www.westernmassnews.com/2026/11/05/future-voter-arrives-early-woman-goes-into-labor-polling-place/",
+      "published": "2026-11-05T08:30:41+00:00",
+      "summary": "Tessa Von Fange is a longtime voter. She said she has missed very few elections."
+    },
+    {
       "id": "3c27d3036d38",
       "source": "Western Mass News",
       "source_id": "westernmassnews",
@@ -5928,16 +5948,6 @@
       "summary": "The sales tax you pay on hiking boots and kayaks is about to go somewhere new."
     },
     {
-      "id": "e0b16595d748",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Lottery players hope for share of $835 million Powerball jackpot",
-      "link": "https://www.westernmassnews.com/2026/11/04/lottery-players-hope-share-835-million-powerball-jackpot/",
-      "published": "2026-11-04T19:43:11+00:00",
-      "summary": "Some Western Massachusetts residents are buying tickets ahead of Wednesday night’s drawing."
-    },
-    {
       "id": "cf201b955f81",
       "source": "Greenfield Recorder",
       "source_id": "recorder",
@@ -6078,6 +6088,46 @@
       "summary": "From new VPs to fresh project managers, see who’s been hired, promoted and honored, it’s our weekly Personnel File roundup."
     },
     {
+      "id": "e8d1b85a65e8",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Stop spreading your marketing budget like peanut butter: Why FIs fail without prioritization",
+      "link": "https://www.cuinsight.com/stop-spreading-your-marketing-budget-like-peanut-butter-why-fis-fail-without-prioritization/",
+      "published": "2026-11-05T08:30:00+00:00",
+      "summary": "Planning season is here, and C-Suite leaders are closing in on budget submissions. If you sit in the executive suite of a mid-sized financial institution, you know the drill. The… The post Stop spreading your marketing budget like peanut butter: Why FIs fail without prioritization appeared first…"
+    },
+    {
+      "id": "bc6d595d47ce",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "More marketing, less money: Making AI work for your credit union",
+      "link": "https://www.cuinsight.com/more-marketing-less-money-making-ai-work-for-your-credit-union/",
+      "published": "2026-11-05T08:25:00+00:00",
+      "summary": "Artificial intelligence is everywhere. It's writing emails, creating graphics, analyzing data, and apparently convincing everyone they need another 15 software subscriptions to stay competitive. But for credit unions, especially those… The post More marketing, less money: Making AI work for your…"
+    },
+    {
+      "id": "e44279fd1457",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Banks turned families away. Credit unions took them in.",
+      "link": "https://www.cuinsight.com/banks-turned-families-away-credit-unions-took-them-in/",
+      "published": "2026-11-05T08:20:00+00:00",
+      "summary": "The origins of our movement date back to the 1840s. Leaders like Samuel Jurkovič and later Franz Hermann Schulze-Delitzsch led the way. They built cooperatives to fill voids that banks… The post Banks turned families away. Credit unions took them in. appeared first on CUInsight ."
+    },
+    {
+      "id": "d7187e50b5d7",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Fraudsters practice every day. Are we keeping up?",
+      "link": "https://www.cuinsight.com/fraudsters-practice-every-day-are-we-keeping-up/",
+      "published": "2026-11-05T08:15:00+00:00",
+      "summary": "Fraudsters practice every day. They study human behavior, test new tactics, refine their messaging, and look for opportunities to take advantage of trust, urgency, and distraction. Meanwhile, employees often receive… The post Fraudsters practice every day. Are we keeping up? appeared first on…"
+    },
+    {
       "id": "3719b64c8298",
       "source": "CUInsight",
       "source_id": "cuinsight",
@@ -6136,46 +6186,6 @@
       "link": "https://www.cuinsight.com/dow-rallies-1300-points-as-political-risk-eases/",
       "published": "2026-11-04T16:08:53+00:00",
       "summary": "The post Dow rallies 1,300 points as political risk eases appeared first on CUInsight ."
-    },
-    {
-      "id": "c1c515874894",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "Data intelligence is the secret ingredient powering lending growth",
-      "link": "https://www.cuinsight.com/data-intelligence-is-the-secret-ingredient-powering-lending-growth/",
-      "published": "2026-11-04T15:38:39+00:00",
-      "summary": "The post Data intelligence is the secret ingredient powering lending growth appeared first on CUInsight ."
-    },
-    {
-      "id": "b0456b305e54",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "Google will block search access for schools that ban AI use",
-      "link": "https://www.cuinsight.com/google-will-block-search-access-for-schools-that-ban-ai-use/",
-      "published": "2026-11-04T15:22:16+00:00",
-      "summary": "The post Google will block search access for schools that ban AI use appeared first on CUInsight ."
-    },
-    {
-      "id": "2ec26d15767a",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "Credit union champions see electoral success",
-      "link": "https://www.cuinsight.com/credit-union-champions-see-electoral-success/",
-      "published": "2026-11-04T15:09:52+00:00",
-      "summary": "The post Credit union champions see electoral success appeared first on CUInsight ."
-    },
-    {
-      "id": "7046e46fab9e",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "Win/Win and the cooperative difference: A reflection on purpose and people",
-      "link": "https://www.cuinsight.com/win-win-and-the-cooperative-difference-a-reflection-on-purpose-and-people/",
-      "published": "2026-11-04T08:30:00+00:00",
-      "summary": "I recently picked up a book from a store I had pinned to go by while in Madison for the DE program, one that had been on the list for… The post Win/Win and the cooperative difference: A reflection on purpose and people appeared first on CUInsight ."
     }
   ]
 }
