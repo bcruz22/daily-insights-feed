@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:43:58+00:00",
+  "generated_at": "2026-11-05T10:10:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -195,7 +195,7 @@
       "name": "Banking Dive",
       "status": "ok",
       "feed_url": "https://www.bankingdive.com/feeds/news/",
-      "count": 8,
+      "count": 7,
       "errors": []
     },
     "abajournal": {
@@ -648,6 +648,96 @@
       "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature…"
     },
     {
+      "id": "cd8be62b9fe8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Karen Guregian: Patriots trade deadline banter not adding up",
+      "link": "https://www.masslive.com/patriots/2026/11/patriots-trade-deadline-chatter-not-adding-up-karen-guregian.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "Trying to make sense of recent reports involving the Patriots and the trade deadline."
+    },
+    {
+      "id": "01c25e4d4f48",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Celtics facing Mitchell Robinson dilemma, injury update, gusty win (Notebook)",
+      "link": "https://www.masslive.com/celtics/2026/11/celtics-facing-mitchell-robinson-dilemma-injury-update-gusty-win-notebook.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "Mitchell Robinson had a season-high in rebounds in the win over the Bucks on Wednesday."
+    },
+    {
+      "id": "aa9a225c78c6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Patriots mailbag: Will they make a move at the trade deadline?",
+      "link": "https://www.masslive.com/patriots/2026/11/patriots-week-9-mailbag-will-mike-vrabels-team-make-a-move-before-the-trade-deadline.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "New England has $4.75 million in cap space with the NFL trade deadline days away. Here's what positions the Patriots could target."
+    },
+    {
+      "id": "38ec87fbab49",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rock music mourns the death of another beloved performer: ‘A world class musician’",
+      "link": "https://www.masslive.com/entertainment/2026/11/rock-music-mourns-the-death-of-another-beloved-performer-a-world-class-musician.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "He helped create a long list of No. 1 hits."
+    },
+    {
+      "id": "e2b07d27bd51",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The Starbucks holiday menu drops Nov. 5 — here's what's new and what's missing this year",
+      "link": "https://www.masslive.com/food/2026/11/starbucks-2026-holiday-menu-is-here-but-something-beloved-is-missing-and-fans-arent-staying-quiet-about-it.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "The seasonal lineup launches Nov. 5 with new drinks and returning favorites, but one beloved latte is conspicuously absent."
+    },
+    {
+      "id": "948f5cca377d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Asking Eric: My friend's medical paranoia is putting everyone at risk",
+      "link": "https://www.masslive.com/advice/2026/11/asking-eric-my-friends-medical-paranoia-is-putting-everyone-at-risk.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "If she's not careful, she could lose her license for the second time, most likely permanently."
+    },
+    {
+      "id": "63c212e81198",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rock icon hospitalized after life-saving surgery: ‘Thank you for amazing prayers’",
+      "link": "https://www.masslive.com/entertainment/2026/11/rock-icon-hospitalized-after-life-saving-surgery-thank-you-for-amazing-prayers.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "The singer said a nurse told her she was a 'dead man walking' when she drove herself to the hospital."
+    },
+    {
+      "id": "a4cec77bcab8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music world rocked by deaths of 2 more stars. Here’s the latest",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-music-world-rocked-by-deaths-of-2-more-stars-heres-the-latest.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "Country music has lost two more stars."
+    },
+    {
+      "id": "72fb1691e4b9",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music group waves ‘(Expletive) Trump’ fans onstage: ‘Welcome to our blue-nami’",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-music-group-waves-expletive-trump-fans-onstage-welcome-to-our-blue-nami.html",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "Trump and the group have exchanged insults in the past."
+    },
+    {
       "id": "a6c752ddb283",
       "source": "MassLive",
       "source_id": "masslive",
@@ -858,94 +948,14 @@
       "summary": "Owala's holiday drinkware collection features five new seasonal designs across multiple bottle styles, with prices starting at $34.99."
     },
     {
-      "id": "c960bc4d8931",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield Tech boys soccer wins small school vocational state championship",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/westfield-tech-boys-soccer-wins-small-school-vocational-state-championship.html",
-      "published": "2026-11-04T23:40:40+00:00",
-      "summary": "With one minute left in double overtime, Westfield Tech's Dennis Poznyur scored the game-winner to claim the title for the Tigers."
-    },
-    {
-      "id": "219bfa61a7af",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Taco Bell recovers after cyclospora outbreak: ‘Continuing to play offense’",
-      "link": "https://www.masslive.com/news/2026/11/taco-bell-recovers-after-cyclospora-outbreak-continuing-to-play-offense.html",
-      "published": "2026-11-04T23:00:00+00:00",
-      "summary": "Taco Bell is making a slow recovery following this summer's cyclosporiasis outbreak."
-    },
-    {
-      "id": "4bf36cfe3161",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2 dead at Florida office complex, including gunman",
-      "link": "https://www.masslive.com/news/2026/11/2-dead-at-florida-office-complex-including-gunman-shot-by-security-guard.html",
-      "published": "2026-11-04T22:44:36+00:00",
-      "summary": "The gunman fatally shot the woman before a security guard confronted him in a cafeteria."
-    },
-    {
-      "id": "6758b98134bc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Foxborough 16-year-old arrested on murder charges over a year after Boston double shooting",
-      "link": "https://www.masslive.com/boston/2026/11/foxborough-16-year-old-arrested-on-murder-charges-over-a-year-after-killing-of-2-men-in-boston.html",
-      "published": "2026-11-04T22:30:28+00:00",
-      "summary": "A 16-year-old from Foxborough was arrested on murder charges Wednesday, over a year after two men were fatally shot in Boston."
-    },
-    {
-      "id": "ce67d9836001",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Celebrity-backed bagel chain expanding in Mass. with new Hadley shop. Here's when it will open",
-      "link": "https://www.masslive.com/westernmass/2026/11/heres-when-popup-bagels-will-open-its-first-western-mass-location-in-hadley.html",
-      "published": "2026-11-04T22:18:03+00:00",
-      "summary": "The celebrity-backed chain has a special celebration planned for its newest Massachusetts shop."
-    },
-    {
-      "id": "717846033268",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Adidas is taking up to 50% off walking sneakers, running shoes, and more",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/adidas-is-taking-up-to-50-off-walking-sneakers-running-shoes-and-more.html",
-      "published": "2026-11-04T22:16:19+00:00",
-      "summary": "Adidas is currently offering up to 50% off a range of sneakers and running shoes, with no promo code required."
-    },
-    {
-      "id": "25b702c3d5be",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield’s Roca unveils upgraded facility to aid at-risk youth",
-      "link": "https://www.masslive.com/westernmass/2026/11/springfields-roca-unveils-upgraded-facility-to-aid-at-risk-youth.html",
-      "published": "2026-11-04T22:15:42+00:00",
-      "summary": "The money was raised through donations and foundation and government grants."
-    },
-    {
-      "id": "aa1563f6c773",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Meet 15 players to watch in the MIAA Division 8 football tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/15-miaa-division-8-football-players-to-watch-in-the-state-tournament.html",
-      "published": "2026-11-04T22:07:03+00:00",
-      "summary": "From explosive running backs and dynamic quarterbacks to dominant linemen, here are 15 players to watch as the MIAA Division 8 football state tournament gets underway."
-    },
-    {
-      "id": "027bca15307d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Final results for 4th Hampden race confirm incumbent win",
-      "link": "https://www.masslive.com/westernmass/2026/11/final-results-for-4th-hampden-race-confirm-incumbent-win.html",
-      "published": "2026-11-04T22:06:09+00:00",
-      "summary": "The 4th Hampden district includes most of Westfield and all of Southampton."
+      "id": "89af0224359d",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+      "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+      "published": "2026-11-05T10:02:00+00:00",
+      "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek ."
     },
     {
       "id": "6b6d8b64e2bf",
@@ -1036,16 +1046,6 @@
       "link": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
       "published": "2026-11-04T09:23:22+00:00",
       "summary": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on SecurityWeek ."
-    },
-    {
-      "id": "1f8acdc5d8c6",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
-      "link": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
-      "published": "2026-11-04T08:27:05+00:00",
-      "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek ."
     },
     {
       "id": "c5ab50d87112",
@@ -2038,6 +2038,16 @@
       "summary": ""
     },
     {
+      "id": "732f86d007cf",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "🔒 Hartford investor pays $3.6M for Branford apartment building, more than double 2018 price",
+      "link": "https://hartfordbusiness.com/article/hartford-investor-pays-3-6m-for-branford-apartment-building-more-than-double-2018-price/",
+      "published": "2026-11-05T10:00:37+00:00",
+      "summary": "The 18-unit property drew 15 offers in six weeks. Its new owner plans upgrades, including in-unit laundry and outdoor amenities."
+    },
+    {
       "id": "0ba0df11c6d2",
       "source": "Hartford Business Journal",
       "source_id": "hbj",
@@ -2126,16 +2136,6 @@
       "link": "https://hartfordbusiness.com/article/new-rehab-hospitals-reshape-ct-market-as-providers-compete-for-patients-workers/",
       "published": "2026-11-04T16:00:52+00:00",
       "summary": "PAM Health opens in Waterbury in November and a Branford project may follow. Nonprofit rivals question whether CT needs the beds."
-    },
-    {
-      "id": "5f8c50556de2",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "🔒 Real estate investment partnership pays $19.5M for Windsor warehouse complex",
-      "link": "https://hartfordbusiness.com/article/real-estate-investment-partnership-pays-19-5m-for-windsor-warehouse-complex/",
-      "published": "2026-11-04T15:31:11+00:00",
-      "summary": "The deal brings partnership's' Windsor and East Hartford holdings to 16 buildings totaling more than 612,000 square feet."
     },
     {
       "id": "da77af0f435f",
@@ -2528,6 +2528,16 @@
       "summary": "Last week, an often-ignored&#;x26;#;xc2;&#;x26;#;xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#;x26;#;39;s implementation (RFC&#;x26;#;xc2;&#;x26;#;xa0;8684, &#;x26;#;xc2;&#;x26;#;xa0;CVE-2026-98432)"
     },
     {
+      "id": "350327fdd7cd",
+      "source": "The Record",
+      "source_id": "therecord",
+      "category": "tech",
+      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+      "link": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+      "published": "2026-11-05T00:00:00+00:00",
+      "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a cyberattack."
+    },
+    {
       "id": "71b12d48491a",
       "source": "The Record",
       "source_id": "therecord",
@@ -2566,16 +2576,6 @@
       "link": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
       "published": "2026-11-04T16:15:00+00:00",
       "summary": "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine’s leading English-language news outlets."
-    },
-    {
-      "id": "4448a4360ec1",
-      "source": "The Record",
-      "source_id": "therecord",
-      "category": "tech",
-      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
-      "link": "https://therecord.media/russia-cyberattack-beget-cloud",
-      "published": "2026-11-04T14:00:00+00:00",
-      "summary": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites."
     },
     {
       "id": "1b4641ca3728",
@@ -2966,16 +2966,6 @@
       "link": "https://www.bankingdive.com/news/fdic-old-glory-amended-directive-adequately-capitalized-terminated-merger/873469/",
       "published": "2026-11-02T17:20:17+00:00",
       "summary": "The regulator deemed the bank “adequately capitalized” last week after applying a more severe label in August. A special-purpose acquisition of the bank had fallen apart earlier this summer."
-    },
-    {
-      "id": "0b943f44649a",
-      "source": "Banking Dive",
-      "source_id": "bankingdive",
-      "category": "tech",
-      "title": "Financial AI needs a reliable view of the customer",
-      "link": "https://www.bankingdive.com/spons/financial-ai-needs-a-reliable-view-of-the-customer/872986/",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "Continuous assurance of customer identity keeps AI decisions grounded in reality"
     },
     {
       "id": "4ce7bfa440a0",
@@ -4278,6 +4268,36 @@
       "summary": "After two years of waiting, the first iOS 27.3 developer beta has introduced Apple Intelligence to China, bringing some of its AI features to the country. Apple Intelligence will finally ship in China - Image Credit: Apple The long wait for Apple Intelligence in China started in 2024 after its…"
     },
     {
+      "id": "56630fad2192",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "YouTube is giving its Android navigation bar a Liquid Glass-y makeover",
+      "link": "https://www.androidauthority.com/youtube-android-floating-navigation-bar-liquid-glass-3731948/",
+      "published": "2026-11-05T10:01:19+00:00",
+      "summary": "Google isn't done tweaking the bottom navigation bar in YouTube on Android."
+    },
+    {
+      "id": "d2299e509df4",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Google Play could finally catch up to Apple and Steam with this long-missing store feature",
+      "link": "https://www.androidauthority.com/play-store-gifting-3731844/",
+      "published": "2026-11-05T10:00:51+00:00",
+      "summary": "Why send gift cards, when you can just gift games directly?"
+    },
+    {
+      "id": "3f4f10c50d65",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Nostalgia: This phone spoke to me like no other",
+      "link": "https://www.androidauthority.com/nostalgia-retro-phone-throwback-3729953/",
+      "published": "2026-11-05T10:00:42+00:00",
+      "summary": "Camera in a smartphone body."
+    },
+    {
       "id": "3aace6ef80aa",
       "source": "Android Authority",
       "source_id": "androidauthority",
@@ -4546,36 +4566,6 @@
       "link": "https://www.androidauthority.com/baseus-picogo-ar11-45w-10000mah-deal-3731716/",
       "published": "2026-11-04T15:34:00+00:00",
       "summary": "Baseus PicoGo AR11 hits a new record-low price of $29.99 on Amazon with 45W charging and a built-in USB-C cable."
-    },
-    {
-      "id": "53f20b1c9f5f",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Ring Battery Doorbell 2K falls back to its $39.99 all-time low",
-      "link": "https://www.androidauthority.com/ring-battery-doorbell-2k-amazon-deal-3731710/",
-      "published": "2026-11-04T15:18:54+00:00",
-      "summary": "This Ring Battery Doorbell 2K deal cuts 60% off the RRP, bringing sharp 2K video and two-way talk for much less."
-    },
-    {
-      "id": "faba179987bd",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Where’s my Subscriptions tab? Users are furious about YouTube’s latest redesign",
-      "link": "https://www.androidauthority.com/youtube-subscriptions-tab-redesign-3731679/",
-      "published": "2026-11-04T15:03:26+00:00",
-      "summary": "The bottom bar continues to house the Shorts and Upload button, which users say they don't use as much as Subscriptions."
-    },
-    {
-      "id": "d12c80f33107",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Wallpaper Wednesday: Amazing phone wallpapers for all to share (November 4)",
-      "link": "https://www.androidauthority.com/wallpaper-wednesday-november-04-2026-3730899/",
-      "published": "2026-11-04T15:00:43+00:00",
-      "summary": "Need a wallpaper? Here are some great ones from the Android Authority team and some of our readers. Share yours, too!"
     },
     {
       "id": "790bb701bc86",
@@ -5248,6 +5238,16 @@
       "summary": "iOS 27.3 beta 1 brings a hidden Selfie Sing feature to Apple Music that lets you record yourself singing karaoke while the lyrics stay on screen."
     },
     {
+      "id": "d9e624a03ad6",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "OpenAI Touts Cyber Workflow Worth $1.2 Million in Tokens for a Single Run",
+      "link": "https://gizmodo.com/openai-touts-cyber-workflow-worth-1-2-million-in-tokens-for-a-single-run-2000835405",
+      "published": "2026-11-05T10:00:39+00:00",
+      "summary": "The company claims it would actually save money on bug bounties."
+    },
+    {
       "id": "2c1f08fea069",
       "source": "Gizmodo",
       "source_id": "gizmodo",
@@ -5436,16 +5436,6 @@
       "link": "https://gizmodo.com/ai-and-cryptos-election-spending-spree-backfired-spectacularly-2000834750",
       "published": "2026-11-04T18:20:27+00:00",
       "summary": "The two industries poured hundreds of millions into the 2026 midterms, but some of their biggest political bets didn't pay off."
-    },
-    {
-      "id": "70f303faa9f9",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Maybe Life Is Like ‘Star Wars’ After All",
-      "link": "https://gizmodo.com/maybe-life-is-like-star-wars-after-all-2000834942",
-      "published": "2026-11-04T17:30:47+00:00",
-      "summary": "Some tried to co-op the sci-fi franchise as its own but, ultimately, there's a new hope once again."
     },
     {
       "id": "306f08003e61",
