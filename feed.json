@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:07:58+00:00",
+  "generated_at": "2026-11-05T08:10:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -104,7 +104,7 @@
       "name": "Malwarebytes",
       "status": "ok",
       "feed_url": "https://www.malwarebytes.com/blog/feed",
-      "count": 9,
+      "count": 8,
       "errors": []
     },
     "helpnet": {
@@ -648,6 +648,26 @@
       "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature…"
     },
     {
+      "id": "a6c752ddb283",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Religion Notes: Nov. 5, 2026",
+      "link": "https://www.masslive.com/living/2026/11/religion-notes-nov-5-2026.html",
+      "published": "2026-11-05T08:00:00+00:00",
+      "summary": "Religion Notes"
+    },
+    {
+      "id": "68e88edc01c6",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Powerball results for 11/04/26: 1 winner of $847 million jackpot",
+      "link": "https://www.masslive.com/news/2026/11/powerball-results-for-110426-1-winner-of-847-million-jackpot.html",
+      "published": "2026-11-05T06:45:58+00:00",
+      "summary": "The $847 million jackpot is the ninth largest Powerball prize ever won."
+    },
+    {
       "id": "885685f9d8fb",
       "source": "MassLive",
       "source_id": "masslive",
@@ -928,26 +948,6 @@
       "summary": "The 4th Hampden district includes most of Westfield and all of Southampton."
     },
     {
-      "id": "f5b7b1cbaa0d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Hakeem Jeffries downplays Trump impeachment talk after historic blue wave",
-      "link": "https://www.masslive.com/politics/2026/11/hakeem-jeffries-downplays-trump-impeachment-talk-after-historic-blue-wave.html",
-      "published": "2026-11-04T22:00:00+00:00",
-      "summary": "House Democratic Leader Hakeem Jeffries (D-N.Y.) said Democrats have not spoken to him about possibly impeaching President Donald Trump."
-    },
-    {
-      "id": "1a33ceff154b",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Jury selection begins for Kermith Alvarez in Holyoke infant-death case",
-      "link": "https://www.masslive.com/westernmass/2026/11/jury-selection-begins-for-kermith-alvarez-in-holyoke-infant-death-case.html",
-      "published": "2026-11-04T21:58:22+00:00",
-      "summary": "Prosecutors allege Alvarez was involved in a 2023 gunfight that sent a stray bullet through a city bus, striking a pregnant woman and fatally injuring her unborn son."
-    },
-    {
       "id": "6b6d8b64e2bf",
       "source": "SecurityWeek",
       "source_id": "securityweek",
@@ -1106,6 +1106,16 @@
       "link": "https://petri.com/microsoft-new-outlook-template-based-automatic-replies/",
       "published": "2026-11-02T14:04:58+00:00",
       "summary": "One of the feature gaps between classic Outlook and the new Outlook experience has been the lack of template-based automatic replies. Users who regularly handle repetitive emails often have to manually send the same responses over and over, which creates unnecessary administrative work and…"
+    },
+    {
+      "id": "2a5b7d5a686a",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "published": "2026-11-05T05:17:04+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is…"
     },
     {
       "id": "25c3eda20cfe",
@@ -1396,16 +1406,6 @@
       "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
       "published": "2026-11-02T14:46:05+00:00",
       "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of…"
-    },
-    {
-      "id": "ad2df65419af",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "published": "2026-11-02T11:50:00+00:00",
-      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the…"
     },
     {
       "id": "b21b8f4aa7ca",
@@ -1938,6 +1938,16 @@
       "summary": "If you’re sick of AI search and all the business of modern Google search, this week’s Google easter egg will take you back 28 years to a simpler time when Ocarina of Time was the pinnacle of gaming, and Google was still a new name. more…"
     },
     {
+      "id": "845cf7131cbd",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "UMass football: Pop Watson propels Minutemen past Ball State in 31-30 OT victory",
+      "link": "https://gazettenet.com/2026/11/05/umass-football-pop-watson-propels-minutemen-past-ball-state-in-31-30-ot-victory/",
+      "published": "2026-11-05T06:20:43+00:00",
+      "summary": ""
+    },
+    {
       "id": "2242449f06d2",
       "source": "Daily Hampshire Gazette",
       "source_id": "gazette",
@@ -2025,16 +2035,6 @@
       "title": "Mount Holyoke launches $650M ‘Forever Uncommon’ fundraising campaign",
       "link": "https://gazettenet.com/2026/11/04/mount-holyoke-launches-fundraising-campaign/",
       "published": "2026-11-04T20:42:54+00:00",
-      "summary": ""
-    },
-    {
-      "id": "b6533294a039",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Raising up untold stories: David Ruggles Center nears fundraising goal for exhibit overhaul",
-      "link": "https://gazettenet.com/2026/11/04/david-ruggles-center-exhibit-overhaul/",
-      "published": "2026-11-04T19:11:56+00:00",
       "summary": ""
     },
     {
@@ -2388,14 +2388,24 @@
       "summary": "A researcher found an embedded password in Applebee’s app that exposed customer data."
     },
     {
-      "id": "88486133af65",
-      "source": "Malwarebytes",
-      "source_id": "malwarebytes",
+      "id": "eeeae62d983b",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
       "category": "tech",
-      "title": "A week in security (October 26 – November 1)",
-      "link": "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-october-26-november-1-2",
-      "published": "2026-11-02T08:01:00+00:00",
-      "summary": "A list of topics we covered in the week of October 26 to November 1 of 2026"
+      "title": "AI agent detection signals that still work when agents look human",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/zohaib-ahmed-resemble-ai-detecting-ai-agent-traffic/",
+      "published": "2026-11-05T06:45:07+00:00",
+      "summary": "Bots follow a script. AI agents work toward a goal and choose their own steps, which makes them harder to catch. In this Help Net Security interview, Zohaib Ahmed, CEO of Resemble AI explains how agents arrive as declared, undeclared or disguised traffic, and why binary bot detection misses the…"
+    },
+    {
+      "id": "915c0b58aca6",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "Healthcare can’t govern the AI tools it hasn’t found yet",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/healthcare-ai-governance-patient-data/",
+      "published": "2026-11-05T06:11:25+00:00",
+      "summary": "Nearly nine in ten healthcare leaders say security or compliance staff always or usually review AI-written code that touches patient data before it goes live, and seven in ten have still found an AI-built tool handling that data without IT or security knowing, according to Paubox. Source: Paubox…"
     },
     {
       "id": "fc3bb545d92a",
@@ -2476,26 +2486,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/04/isc2-cissp-exam-prep-webinar/",
       "published": "2026-11-04T14:00:31+00:00",
       "summary": "Join ISC2 on November 6, 2026 at 7:00pm CET for a live Q&A about the CISSP exam. A panel of experts will answer your questions, explain what it takes to earn the certification, and walk through the exam domains. You’ll also learn about self-study resources and training options to help you prepare…"
-    },
-    {
-      "id": "c3fcaf6abe58",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Cyberattack hits French blood banks",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/cyberattack-hits-french-blood-banks/",
-      "published": "2026-11-04T13:36:50+00:00",
-      "summary": "Three blood banks have detected and reversed a potentially destructive temperature spike in their cold rooms, following a cyberattack that targeted a refrigeration equipment provider of the French Blood Establishment (EFS), the only civilian blood collection and transfusion organization in France.…"
-    },
-    {
-      "id": "460b0d6e0093",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Impart uses AI to build virtual patches without putting models in the traffic path",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/impart-security-runtime-defense-harness/",
-      "published": "2026-11-04T12:48:29+00:00",
-      "summary": "Impart Security has launched the Runtime Defense Harness, a controlled environment where AI agents write and test virtual patches for new vulnerabilities without putting AI in the traffic path. The launch comes as exploits increasingly outpace fixes. In the harness, agents build each virtual patch…"
     },
     {
       "id": "7dcd83260d7c",
@@ -2758,6 +2748,16 @@
       "summary": "Entra ID is retiring Microsoft-provided SMS and voice authentication for self-service password reset, with a 50-day transition period for organizations. Admins must identify affected users and configure alternative recovery methods for SSPR to avoid password reset disruptions. The post Microsoft…"
     },
     {
+      "id": "bca52d742708",
+      "source": "Office 365 for IT Pros",
+      "source_id": "o365itpros",
+      "category": "tech",
+      "title": "SharePoint Online Extends Auto-Labeling of Sensitivity Labels to Cover Older Files",
+      "link": "https://office365itpros.com/2026/11/05/auto-label-policy-default-label/?utm_source=rss&utm_medium=rss&utm_campaign=auto-label-policy-default-label",
+      "published": "2026-11-05T07:00:00+00:00",
+      "summary": "A new auto-label policy allows SharePoint Online to stamp unlabeled files in document libraries with default sensitivity labels with the default label. The idea is to find and protect Office and PDF files that aren’t labeled because they existed before the document library was configured with the…"
+    },
+    {
       "id": "ec80e79d96a5",
       "source": "Office 365 for IT Pros",
       "source_id": "o365itpros",
@@ -2778,16 +2778,6 @@
       "summary": "Now rolling out to Entra tenants is the ability to configure the change password method for user accounts through the My Sign Ins page without knowing the original password. Although many Entra users are going passwordless, that approach only works when applications support passkeys. The need to…"
     },
     {
-      "id": "940aee35450e",
-      "source": "Office 365 for IT Pros",
-      "source_id": "o365itpros",
-      "category": "tech",
-      "title": "Microsoft 365 for IT Pros November 2026 Update",
-      "link": "https://office365itpros.com/2026/11/02/microsoft-365-for-it-pros-137/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-365-for-it-pros-137",
-      "published": "2026-11-02T07:00:00+00:00",
-      "summary": "Updated EPUB and PDF files for all four books in the Microsoft 365 for IT Pros eBook bundle are now available for subscribers to download from Gumroad.com. October 2026 brought another flood of change across the Microsoft 365 ecosystem. We keep up by watching developments closely, figuring out…"
-    },
-    {
       "id": "36bb9f106b64",
       "source": "IGEL news",
       "source_id": "igelnews",
@@ -2796,6 +2786,16 @@
       "link": "https://www.igel.com/blog/freezer-cyberattacks-prevention/",
       "published": "2026-11-04T22:31:16+00:00",
       "summary": "Imagine discovering that a supermarket freezer has become an entry point into a much larger debate about critical infrastructure. The food is thawing, the alarm may be late, and the technology responsible for preserving inventory has been turned against the business. What appears to be a routine…"
+    },
+    {
+      "id": "0dcf03782422",
+      "source": "VMware blogs",
+      "source_id": "vmwareblogs",
+      "category": "tech",
+      "title": "VCF 9 で完遂するメインフレーム・モダナイゼーション#2",
+      "link": "https://blogs.vmware.com/vmware-japan/2026/11/vcf9_mainframe_2.html",
+      "published": "2026-11-05T05:49:52+00:00",
+      "summary": "第二回：メインフレームのアーキテクチャ特性と VCF 9 による実装アプローチ 第一回では、ハードウェアベンダー各社の撤退方針や保守技術者の減少を背景に、メインフレームからの脱却が喫緊の課題であることを整理しました。また、リスクを抑えて移行を進めるためには、パブリッククラウドのマルチテナント環境へ一括移行するのではなく、自社統制を保てる基盤上で段階的なリファクター（自動コード変換と次世代インフラの組み合わせ）を選択することが現実的な解であると述べました。…"
     },
     {
       "id": "912f1887cc09",
@@ -2886,16 +2886,6 @@
       "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-2-accelerating-hash-joins-with-early-join-filtering/",
       "published": "2026-11-03T05:29:30+00:00",
       "summary": "This post walks through Early Join Filtering (EJF) in Tanzu Greenplum 7.9. This extends the “read less, decide early” architecture to hash joins as EJF filters out non-matching rows before payload columns are ever materialized, delivering the query speed of an indexed table without the maintenance…"
-    },
-    {
-      "id": "daca55fab4fa",
-      "source": "VMware blogs",
-      "source_id": "vmwareblogs",
-      "category": "tech",
-      "title": "Optimizing Columnar Storage in Tanzu Greenplum, Part 1: Accelerating Filters with Implied Indexing",
-      "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-1-accelerating-filters-with-implied-indexing/",
-      "published": "2026-11-03T04:36:29+00:00",
-      "summary": "Tanzu Greenplum’s AO Columnar Store is already designed for efficient, high-speed analytics by eliminating the need for storage-intensive indexes and their ongoing maintenance. In part one of a two-part series, this post explores Implied Index (also known as the Ghost Index) in Tanzu Greenplum…"
     },
     {
       "id": "01f6ce6565fe",
@@ -4288,6 +4278,36 @@
       "summary": "After two years of waiting, the first iOS 27.3 developer beta has introduced Apple Intelligence to China, bringing some of its AI features to the country. Apple Intelligence will finally ship in China - Image Credit: Apple The long wait for Apple Intelligence in China started in 2024 after its…"
     },
     {
+      "id": "34045a04fcdc",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Xbox Cloud Gaming now lets your phone double as a controller on smart TVs",
+      "link": "https://www.androidauthority.com/xbox-cloud-gaming-phone-controller-smart-tv-3731877/",
+      "published": "2026-11-05T07:07:13+00:00",
+      "summary": "No controller? No problem."
+    },
+    {
+      "id": "7456ca0aa0f3",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "OnePlus reveals exact Android 17 rollout dates for more phones and tablets",
+      "link": "https://www.androidauthority.com/oneplus-android-17-rollout-dates-november-2026-3731865/",
+      "published": "2026-11-05T06:30:56+00:00",
+      "summary": "November's update calendar is filling up fast."
+    },
+    {
+      "id": "994f570ea5c3",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Starlink Mobile finally has an official rollout window",
+      "link": "https://www.androidauthority.com/starlink-mobile-5g-network-rollout-launch-window-3731862/",
+      "published": "2026-11-05T06:14:56+00:00",
+      "summary": "There's encouraging news if you'd like to switch from your existing carrier."
+    },
+    {
       "id": "f4295e678142",
       "source": "Android Authority",
       "source_id": "androidauthority",
@@ -4556,36 +4576,6 @@
       "link": "https://www.androidauthority.com/samsung-galaxy-t1-earbuds-fcc-certification-3731590/",
       "published": "2026-11-04T11:50:13+00:00",
       "summary": "New FCC certification documents offer a closer look at what's coming."
-    },
-    {
-      "id": "485ac6ebcefa",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "This upcoming Google Photos tool could let you lean into that grainy, film camera look",
-      "link": "https://www.androidauthority.com/google-photos-image-adjustment-tools-apk-teardown-3731544/",
-      "published": "2026-11-04T11:40:18+00:00",
-      "summary": "The Photos app is developing four new customizable effects in the image editing interface."
-    },
-    {
-      "id": "f02032e52b46",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "My first Snapdragon 8 Elite Extreme Gen 6 phone doesn’t live up to the hype",
-      "link": "https://www.androidauthority.com/snapdragon-elite-gen-6-phone-test-3730103/",
-      "published": "2026-11-04T11:30:25+00:00",
-      "summary": "More power than you need, but less than promised."
-    },
-    {
-      "id": "d8bbabbe250c",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Google Photos could soon show some more love to your RAW photos",
-      "link": "https://www.androidauthority.com/google-photos-raw-photos-section-apk-teardown-3731559/",
-      "published": "2026-11-04T11:21:40+00:00",
-      "summary": "Finding RAW images in Google Photos could soon get a lot easier."
     },
     {
       "id": "5bdfddc80d23",
@@ -4948,6 +4938,26 @@
       "summary": "Apple gave Siri a big upgrade in 2026, but some people still struggle with it activating at inopportune times. Fortunately, it's easy to fix."
     },
     {
+      "id": "0939a575ab57",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "Samsung’s Galaxy Buds are getting one of AirPods’ best health features",
+      "link": "https://www.digitaltrends.com/home-theater/samsungs-galaxy-buds-are-getting-one-of-the-airpods-best-health-features/",
+      "published": "2026-11-05T07:34:06+00:00",
+      "summary": "Samsung's Galaxy Buds 4 Pro and Buds 3 Pro are getting medical-grade hearing tests and personalized hearing assistance, following regulatory approval in South Korea, with software updates scheduled for early 2027."
+    },
+    {
+      "id": "954f03b285f7",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "Google brings Gemini to AT&T home security with smarter alerts and 24/7 recording",
+      "link": "https://www.digitaltrends.com/home/google-adds-gemini-to-att-connected-life-home-security/",
+      "published": "2026-11-05T06:33:25+00:00",
+      "summary": "Google is adding Gemini to AT&T Connected Life, bringing smarter alerts, automatic arming, 24/7 recording, and searchable video to your home security setup."
+    },
+    {
       "id": "318e206400ba",
       "source": "Digital Trends",
       "source_id": "digitaltrends",
@@ -5226,26 +5236,6 @@
       "link": "https://www.digitaltrends.com/phones/apples-iphone-18-might-be-worth-waiting-for-if-you-dont-mind-the-price-hike/",
       "published": "2026-11-04T12:36:07+00:00",
       "summary": "Apple's standard iPhone 18 could arrive in early 2027 with a more powerful 2nm A20 chip and a larger battery, although a familiar design and another potential price increase might dampen the excitement."
-    },
-    {
-      "id": "55dec78f104c",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
-      "category": "tech",
-      "title": "Microsoft stuffed an Xbox Series X inside an alligator, and you could actually win it",
-      "link": "https://www.digitaltrends.com/gaming/microsoft-stuffed-an-xbox-series-x-inside-an-alligator-and-you-could-actually-win-it/",
-      "published": "2026-11-04T11:00:18+00:00",
-      "summary": "Microsoft has unveiled a bizarre, five-foot-long alligator housing a fully functional Xbox Series X, complete with a bite-marked controller, and one lucky fan can win the one-of-a-kind creation."
-    },
-    {
-      "id": "0eb70459d2d8",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
-      "category": "tech",
-      "title": "Steam is drowning in new games, and Valve is dropping tougher restrictions",
-      "link": "https://www.digitaltrends.com/gaming/steam-is-drowning-in-new-games-and-valve-is-dropping-tougher-restrictions/",
-      "published": "2026-11-04T09:49:29+00:00",
-      "summary": "Valve is introducing stricter pre-release checks for Steam games as a surge in submissions pushes approval times to nearly two weeks, with developers increasingly concerned about AI-generated games clogging the platform."
     },
     {
       "id": "2c1f08fea069",
@@ -5948,6 +5938,16 @@
       "summary": "Some Western Massachusetts residents are buying tickets ahead of Wednesday night’s drawing."
     },
     {
+      "id": "cf201b955f81",
+      "source": "Greenfield Recorder",
+      "source_id": "recorder",
+      "category": "local",
+      "title": "UMass football: Pop Watson propels Minutemen past Ball State in 31-30 OT victory",
+      "link": "https://recorder.com/2026/11/05/umass-football-pop-watson-propels-minutemen-past-ball-state-in-31-30-ot-victory/",
+      "published": "2026-11-05T06:20:43+00:00",
+      "summary": ""
+    },
+    {
       "id": "0f4ad76444c9",
       "source": "Greenfield Recorder",
       "source_id": "recorder",
@@ -6035,16 +6035,6 @@
       "title": "Sounds Local: Luke Concannon returns to Permaculture Place",
       "link": "https://recorder.com/2026/11/04/luke-concannon-shelburne-falls-show/",
       "published": "2026-11-04T13:30:00+00:00",
-      "summary": ""
-    },
-    {
-      "id": "ccb6ed59cb7e",
-      "source": "Greenfield Recorder",
-      "source_id": "recorder",
-      "category": "local",
-      "title": "A national rebuke to Trump, Republicans",
-      "link": "https://recorder.com/2026/11/04/a-national-rebuke-to-trump-republicans/",
-      "published": "2026-11-04T13:08:56+00:00",
       "summary": ""
     },
     {
