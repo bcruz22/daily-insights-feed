@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T02:10:33+00:00",
+  "generated_at": "2026-11-06T04:10:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -97,7 +97,7 @@
       "name": "Krebs on Security",
       "status": "ok",
       "feed_url": "https://krebsonsecurity.com/feed/",
-      "count": 2,
+      "count": 1,
       "errors": []
     },
     "malwarebytes": {
@@ -697,6 +697,126 @@
       "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]"
     },
     {
+      "id": "a58b5182294f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Click to see results from across the state on Nov. 5",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/hs-scoreboard-click-to-see-results-from-across-the-state-on-nov-5.html",
+      "published": "2026-11-06T03:40:03+00:00",
+      "summary": "Check out the reported scores from across the state on Thursday."
+    },
+    {
+      "id": "1dcf7ca5bbd1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "These 13 high school football players will define the Division 6 state tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/13-high-school-football-players-to-watch-in-the-division-6-state-tournament.html",
+      "published": "2026-11-06T03:37:49+00:00",
+      "summary": "This baker's dozen of Division 6 football players to watch has authored upsets already and has their eyes set on a state title."
+    },
+    {
+      "id": "34f3b7e5edc0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Football Roundup: South Hadley's season ends in D-VII opener",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/football-roundup-xaverian-st-johns-prep-and-saint-johns-moving-on-in-state-tourney.html",
+      "published": "2026-11-06T03:32:34+00:00",
+      "summary": "Three local football teams are moving forward in the MIAA state tournament after Thursday."
+    },
+    {
+      "id": "70722b690b1f",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Girls Volleyball Roundup: Longmeadow, Wellesley among teams moving on in state tourney",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/girls-volleyball-roundup-longmeadow-wellesley-among-teams-moving-on-in-state-tourney.html",
+      "published": "2026-11-06T03:25:18+00:00",
+      "summary": "Check out which girls volleyball teams are moving forward in the MIAA state tournament after Thursday."
+    },
+    {
+      "id": "e93ce1a95cac",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "These 11 players will make a difference in the D5 football tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/11-football-players-to-watch-in-the-miaa-division-5-tournament.html",
+      "published": "2026-11-06T03:19:09+00:00",
+      "summary": "Long winning streaks are on the line in the MIAA Division 5 football tournament. These 11 players will keep them going or snap them."
+    },
+    {
+      "id": "203d3ff1ea6d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Field Hockey Roundup: Check out who opened the state tournament in style",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/field-hockey-roundup-check-out-who-opened-the-state-tournament-in-style.html",
+      "published": "2026-11-06T03:06:29+00:00",
+      "summary": "The MIAA field hockey state tournament was in full effect on Thursday."
+    },
+    {
+      "id": "cb3d61489dd8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Pavel Zacha’s two goals guide Bruins past struggling Penguins",
+      "link": "https://www.masslive.com/bruins/2026/11/pavel-zachas-two-goals-guide-bruins-past-struggling-penguins.html",
+      "published": "2026-11-06T02:49:32+00:00",
+      "summary": "The Boston Bruins snapped their three-game road losing streak on Thursday."
+    },
+    {
+      "id": "a8c1cda0ea5a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Rush 2027 Sphere residency: How to secure ‘Elevate From the Norm’ tickets",
+      "link": "https://www.masslive.com/live-entertainment/2026/11/rush-announce-new-2027-sphere-residency-how-you-csecure-tickets.html",
+      "published": "2026-11-06T02:40:40+00:00",
+      "summary": "Rush just announced the ‘Elevate From the Norm’ 2027 Sphere residency, and this is how fans can get tickets."
+    },
+    {
+      "id": "e8186069a056",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Xaverian football getting healthy at right time, embracing being underdog",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/xaverian-football-getting-healthy-at-right-time-embracing-being-underdog.html",
+      "published": "2026-11-06T02:36:34+00:00",
+      "summary": "With Boston College commit Michael Harden Jr. and defensive back Jonathan Etienne back on the field, the Hawks are starting to show why they are the reigning Division I champions..."
+    },
+    {
+      "id": "9ad679fefbdc",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Don't miss these 14 football players in the Division 4 state tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/14-high-school-football-players-to-watch-in-the-division-4-state-tournament.html",
+      "published": "2026-11-06T02:21:32+00:00",
+      "summary": "Some of the state's best players will battle it out to advance in the MIAA Division 4 state tournament. Here are 14 football players to watch."
+    },
+    {
+      "id": "4dc26ef33665",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Clinton Vo helps West Springfield football earn 1st win: ‘I’m proud of them’",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/clinton-vo-helps-west-springfield-football-earn-1st-win-im-proud-of-them.html",
+      "published": "2026-11-06T02:16:39+00:00",
+      "summary": "The West Springfield football team celebrated for good reason on Thursday night."
+    },
+    {
+      "id": "2c50c9993269",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "UGG dropped 8 cozy styles in the perfect earthy neutral — and they’re all 30% off",
+      "link": "https://www.masslive.com/shopping-deals/2026/11/ugg-dropped-8-cozy-styles-in-the-perfect-earthy-neutral-and-theyre-all-30-off.html",
+      "published": "2026-11-06T02:11:58+00:00",
+      "summary": "UGG has launched the Antilope/Redwood colorway across eight styles, available at 30% off for UGG members during its Early Cyber Sale."
+    },
+    {
       "id": "2d65ac5dc3e0",
       "source": "MassLive",
       "source_id": "masslive",
@@ -807,16 +927,6 @@
       "summary": "In their Middlesex Superior Court case, only O’Bannon’s claims survived to judgment, and a request for class-action status was also denied."
     },
     {
-      "id": "f90700f06cb2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Postal worker in Iowa accused of shooting 2 co-workers at USPS office",
-      "link": "https://www.masslive.com/news/2026/11/postal-worker-accused-of-shooting-2-co-workers-at-usps-office.html",
-      "published": "2026-11-05T23:00:00+00:00",
-      "summary": "A Des Moines postal worker was taken into custody after shooting two female co-workers on the second floor of a USPS office."
-    },
-    {
       "id": "921d009d933c",
       "source": "MassLive",
       "source_id": "masslive",
@@ -825,6 +935,16 @@
       "link": "https://www.masslive.com/advice/2026/11/dear-annie-one-friend-shops-thrift-stores-the-other-shops-bogo-sales-yay.html",
       "published": "2026-11-05T23:00:00+00:00",
       "summary": "I know that they say it is the thought that counts, but ..."
+    },
+    {
+      "id": "f90700f06cb2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Postal worker in Iowa accused of shooting 2 co-workers at USPS office",
+      "link": "https://www.masslive.com/news/2026/11/postal-worker-accused-of-shooting-2-co-workers-at-usps-office.html",
+      "published": "2026-11-05T23:00:00+00:00",
+      "summary": "A Des Moines postal worker was taken into custody after shooting two female co-workers on the second floor of a USPS office."
     },
     {
       "id": "f7e6ab351448",
@@ -877,124 +997,14 @@
       "summary": "Both sides will get one final chance Friday to tell jurors what the evidence shows about Sandra Birchmore’s death before deliberations begin."
     },
     {
-      "id": "e97b8773b86f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Springfield man gets life without parole for 2023 murder",
-      "link": "https://www.masslive.com/westernmass/2026/11/springfield-man-gets-life-without-parole-for-2023-murder.html",
-      "published": "2026-11-05T22:20:37+00:00",
-      "summary": "Hiram Martinez was convicted of first-degree murder in the fatal shooting of James Brown. The attack also wounded a second man."
-    },
-    {
-      "id": "21600fc54ee1",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Cristiano Ronaldo just announced his retirement and fans are racing to buy his Portugal jersey before it's gone",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/cristiano-ronaldo-retirement-sparks-jersey-rush-heres-where-you-can-still-buy-his-portugal-kit-online.html",
-      "published": "2026-11-05T22:17:00+00:00",
-      "summary": "Ronaldo fans are already rushing to grab Portugal jerseys and other collectibles while they’re still available, but these items are selling out fast."
-    },
-    {
-      "id": "9a6c02ec963e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘Party of Five’ actor says he’s at risk of losing his job and home: ‘I’m not OK’",
-      "link": "https://www.masslive.com/entertainment/2026/11/party-of-five-actor-says-hes-at-risk-of-losing-his-job-and-home-im-not-ok.html",
-      "published": "2026-11-05T22:14:10+00:00",
-      "summary": "An actor known for several hit shows is speaking out about a personal crisis"
-    },
-    {
-      "id": "2fdbbc9655b2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Home Town star Erin Napier shares emotional family news",
-      "link": "https://www.masslive.com/entertainment/2026/11/hgtv-star-erin-napier-shares-heartbreaking-family-news-with-fans.html",
-      "published": "2026-11-05T22:11:10+00:00",
-      "summary": "Home Town star Erin Napier is mourning her beloved Aunt Mae Mae, who helped shape her childhood and inspired the name of her younger daughter."
-    },
-    {
-      "id": "a35d98ae7677",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2027 income tax brackets are out: What to expect for taxes next year",
-      "link": "https://www.masslive.com/news/2026/11/2027-income-tax-brackets-are-out-what-to-expect-for-taxes-next-year.html",
-      "published": "2026-11-05T21:56:01+00:00",
-      "summary": "The new brackets, however, means people can earn more before they are bumped up to a higher tax level."
-    },
-    {
-      "id": "aebeb1a97bae",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "‘Hell’s Kitchen’ returns tonight with New England chef expected to appear",
-      "link": "https://www.masslive.com/entertainment/2026/11/hells-kitchen-returns-tonight-with-new-england-chef-expected-to-appear.html",
-      "published": "2026-11-05T21:40:05+00:00",
-      "summary": "'Hell's Kitchen\" Season 23 winner hints that a familiar face may appear as the milestone season's all-under-25 cast faces another dinner service."
-    },
-    {
-      "id": "f10446b94992",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Celtics injury report: Payton Pritchard listed for Hornets game Friday",
-      "link": "https://www.masslive.com/celtics/2026/11/celtics-injury-report-payton-pritchard-listed-for-hornets-game-friday.html",
-      "published": "2026-11-05T21:26:10+00:00",
-      "summary": "Payton Pritchard suffered a right eye abrasion in the win over the Bucks on Wednesday."
-    },
-    {
-      "id": "f051fd1b32b9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Gavin Newsom just made one of his biggest moves yet on California’s death penalty",
-      "link": "https://www.masslive.com/politics/2026/11/gavin-newsom-makes-sweeping-move-involving-all-548-california-death-sentences.html",
-      "published": "2026-11-05T21:24:33+00:00",
-      "summary": "California Gov. Gavin Newsom plans to commute 548 death sentences to life without parole, a sweeping move that could reshape death row nationwide."
-    },
-    {
-      "id": "7652a7643b7c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rob Gronkowski to Patriots fans: 'New England will always be a part of my forever'",
-      "link": "https://www.masslive.com/patriots/2026/11/rob-gronkowski-ahead-of-hall-induction-new-england-will-always-be-a-part-of-my-forever.html",
-      "published": "2026-11-05T21:00:44+00:00",
-      "summary": "Rob Gronkowski speaks ahead of Saturday's Hall of Fame induction ceremony."
-    },
-    {
-      "id": "697c7691e599",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Discovery in Smith College lab reveals a microscopic partnership | The Republican Editorials",
-      "link": "https://www.masslive.com/opinion/2026/11/discovery-in-smith-college-lab-reveals-a-microscopic-partnership-the-republican-editorials.html",
-      "published": "2026-11-05T21:00:33+00:00",
-      "summary": "Science does not operate only on results. It’s driven by curiosity, a fact that those in control of research money would keep in mind."
-    },
-    {
-      "id": "451feda15504",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Click to see first round playoff football results from across the state",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/live-scoreboard-click-to-see-first-round-playoff-football-results-from-across-the-state.html",
-      "published": "2026-11-05T21:00:00+00:00",
-      "summary": "Stay up to date on all the first round state playoff scores as they come in this week."
-    },
-    {
-      "id": "03ed11717f10",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Live Coverage: First round of Massachusetts high school football postseason",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/live-coverage-first-round-of-massachusetts-high-school-football-postseason.html",
-      "published": "2026-11-05T21:00:00+00:00",
-      "summary": "MassLive will be at 12 first round playoff games across the state this week. Here's how to get updates."
+      "id": "5d7c1511e0dd",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+      "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+      "published": "2026-11-06T03:03:29+00:00",
+      "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek ."
     },
     {
       "id": "3347a00667c5",
@@ -1085,16 +1095,6 @@
       "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
       "published": "2026-11-05T10:02:00+00:00",
       "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek ."
-    },
-    {
-      "id": "6b6d8b64e2bf",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-      "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-      "published": "2026-11-04T14:34:44+00:00",
-      "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek ."
     },
     {
       "id": "5f03ebc775ef",
@@ -1997,6 +1997,26 @@
       "summary": "The Redmagic 12 Pro is the first Snapdragon-based Android phone to support the Linux Terminal introduced in Android 16 for Pixel phones. more…"
     },
     {
+      "id": "d9abfdc950eb",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "A Look Back, Nov. 6",
+      "link": "https://gazettenet.com/2026/11/05/a2lookback-hg-110626/",
+      "published": "2026-11-06T04:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "31d0b59d8db7",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "MIAA girls volleyball: South Shore Tech shocks South Hadley in Div. 4 Round of 32",
+      "link": "https://gazettenet.com/2026/11/05/miaa-girls-volleyball-south-shore-tech-shocks-south-hadley-in-div-4-round-of-32/",
+      "published": "2026-11-06T03:25:28+00:00",
+      "summary": ""
+    },
+    {
       "id": "e2ec002ea01c",
       "source": "Daily Hampshire Gazette",
       "source_id": "gazette",
@@ -2074,26 +2094,6 @@
       "title": "Area Property Deed Transfers, Nov. 6",
       "link": "https://gazettenet.com/2026/11/05/area-property-deed-transfers-nov-6/",
       "published": "2026-11-05T16:36:44+00:00",
-      "summary": ""
-    },
-    {
-      "id": "4d29b0a1537c",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Making News in Business, Nov. 6",
-      "link": "https://gazettenet.com/2026/11/05/making-news-in-business-nov-6/",
-      "published": "2026-11-05T16:36:02+00:00",
-      "summary": ""
-    },
-    {
-      "id": "800897c69136",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "The gentle art of grooming: A stress-free approach at Furry Cheeks in Hatfield",
-      "link": "https://gazettenet.com/2026/11/05/the-gentle-art-of-grooming-a-stress-free-approach-at-furry-cheeks-in-hatfield/",
-      "published": "2026-11-05T16:31:55+00:00",
       "summary": ""
     },
     {
@@ -2355,16 +2355,6 @@
       "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
       "published": "2026-11-05T04:36:17+00:00",
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was…"
-    },
-    {
-      "id": "3b6a51103bfa",
-      "source": "Krebs on Security",
-      "source_id": "krebs",
-      "category": "tech",
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "published": "2026-11-03T02:24:31+00:00",
-      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown…"
     },
     {
       "id": "e72e56e8b979",
@@ -2887,6 +2877,16 @@
       "summary": "Imagine discovering that a supermarket freezer has become an entry point into a much larger debate about critical infrastructure. The food is thawing, the alarm may be late, and the technology responsible for preserving inventory has been turned against the business. What appears to be a routine…"
     },
     {
+      "id": "924d452d69c0",
+      "source": "VMware blogs",
+      "source_id": "vmwareblogs",
+      "category": "tech",
+      "title": "導入事例：マツダ株式会社様",
+      "link": "https://blogs.vmware.com/vmware-japan/2026/11/customer-case-studies-mazda.html",
+      "published": "2026-11-06T02:01:21+00:00",
+      "summary": "「『走る歓び』で移動体験の感動を量産するクルマ好きの会社になる。」を2030 VISIONに掲げ、グローバルに事業を展開するマツダ株式会社様。本日は、VMware Cloud Foundation の導入と弊社の１プロフェッショナルサービスによる伴走支援を活用した事例をご紹介いたします。…"
+    },
+    {
       "id": "0dcf03782422",
       "source": "VMware blogs",
       "source_id": "vmwareblogs",
@@ -2975,16 +2975,6 @@
       "link": "https://blogs.vmware.com/explore/apply-to-speak-at-vmware-explore/",
       "published": "2026-11-03T12:00:00+00:00",
       "summary": "In case you haven’t heard, Explore is moving to May 10 – 13 in 2027. Because of this, we are seeking your submissions sooner. The Call for Proposals for Explore 2027 in Las Vegas Is Officially Open SUBMIT NOW We’re going live much earlier in the calendar year than our traditional spring timeframe,…"
-    },
-    {
-      "id": "68507da7ac92",
-      "source": "VMware blogs",
-      "source_id": "vmwareblogs",
-      "category": "tech",
-      "title": "Optimizing Columnar Storage in Tanzu Greenplum, Part 2: Accelerating Hash Joins with Early Join Filtering",
-      "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-2-accelerating-hash-joins-with-early-join-filtering/",
-      "published": "2026-11-03T05:29:30+00:00",
-      "summary": "This post walks through Early Join Filtering (EJF) in Tanzu Greenplum 7.9. This extends the “read less, decide early” architecture to hash joins as EJF filters out non-matching rows before payload columns are ever materialized, delivering the query speed of an indexed table without the maintenance…"
     },
     {
       "id": "76ff56b608ed",
@@ -4857,6 +4847,26 @@
       "summary": "Your Android TV box could be part of a massive botnet without you knowing."
     },
     {
+      "id": "b1a7d74abeba",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "5 iPhone 18 Pro Max Features That Can Make Traveling Easier",
+      "link": "https://www.bgr.com/2302528/iphone-18-pro-max-features-make-traveling-easier/",
+      "published": "2026-11-06T02:17:00+00:00",
+      "summary": "Traveling with an iPhone 18 Pro Max? Some of Apple's latest upgrades could make a real difference when navigating airports, new cities, and long journeys."
+    },
+    {
+      "id": "2454a1943d39",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "The Reason Why Old Nokia Phones Felt Indestructible (And Modern Phones Don't)",
+      "link": "https://www.bgr.com/2297392/why-old-nokia-phones-felt-indestructible/",
+      "published": "2026-11-06T01:17:00+00:00",
+      "summary": "An old Nokia could hit the floor, lose its cover and battery, and still work once you put it back together. That messy landing wasn't necessarily a bad thing."
+    },
+    {
       "id": "068025f378e9",
       "source": "BGR",
       "source_id": "bgr",
@@ -5037,24 +5047,14 @@
       "summary": "Taking proper care of your Blu-ray collection is vital if you want them to last, but here are five mistakes to avoid when cleaning the discs."
     },
     {
-      "id": "8ff0836f667a",
-      "source": "BGR",
-      "source_id": "bgr",
+      "id": "7de91afb49d6",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
       "category": "tech",
-      "title": "Which Roku Streaming Device Is Best For Frequent Travelers?",
-      "link": "https://www.bgr.com/2301974/which-roku-streaming-stick-best-for-travel/",
-      "published": "2026-11-05T02:17:00+00:00",
-      "summary": "If you're a frequent traveler and you enjoy watching shows or movies in your hotel room, here's the best Roku streaming device to carry with you."
-    },
-    {
-      "id": "bf0c129bb407",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "5 Garmin Alternatives To Consider If You Don't Want An Expensive Sports Watch",
-      "link": "https://www.bgr.com/2296398/garmin-smartwatch-alternatives-consider-expensive-sports-watch/",
-      "published": "2026-11-05T00:17:00+00:00",
-      "summary": "There's a massive market for alternative sports watches if you're willing to looking beyond the Garmin brand."
+      "title": "Nocturne review: Apple TV’s thriller has a psychopath behind bars and a mystery that’ll leave you shaken",
+      "link": "https://www.digitaltrends.com/movies/nocturne-review-a-killer-behind-bars-and-a-mystery-that-refuses-to-stay-there/",
+      "published": "2026-11-06T03:23:47+00:00",
+      "summary": "A serial killer behind bars, a missing child who suddenly returns and an investigation that keeps uncovering new questions. Nocturne has a familiar setup, but Stephen Graham gives this psychological thriller a compelling centre."
     },
     {
       "id": "5e23ed0e8987",
@@ -5347,14 +5347,14 @@
       "summary": "Not everyone wants a giant smartphone with a dozen features they'll never use. The Enough Phone takes a different approach, and there's quite a bit to like about it."
     },
     {
-      "id": "e06a346d82a8",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
+      "id": "4cf56fa3a9a8",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
       "category": "tech",
-      "title": "God of War Laufey runs into a delay, but thankfully, it’s not that bad",
-      "link": "https://www.digitaltrends.com/gaming/god-of-war-laufey-runs-into-a-delay-but-thankfully-its-not-that-bad/",
-      "published": "2026-11-04T17:54:52+00:00",
-      "summary": "Santa Monica Studio announced that it’s delaying the game, which is now expected to land on May 20 next year."
+      "title": "Make Room, Wordle: The New York Times Is Reportedly Close to Purchasing Letterboxd for $330 Million",
+      "link": "https://gizmodo.com/make-room-wordle-the-new-york-times-is-reportedly-close-to-purchasing-letterboxd-for-330-million-2000836048",
+      "published": "2026-11-06T02:46:10+00:00",
+      "summary": "Sony and A24's bids apparently didn't make the cut."
     },
     {
       "id": "1d33cd20e067",
@@ -5547,14 +5547,44 @@
       "summary": "Shaft and Sunrise's anime adaptation of Kasumi Yasuda's dystopian sci-fi thriller manga series comes into bloom on Netflix later this month."
     },
     {
-      "id": "1a6c50635b34",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Smart Glasses Could See Major Bans in the UK",
-      "link": "https://gizmodo.com/smart-glasses-ban-uk-2000835682",
-      "published": "2026-11-05T17:15:36+00:00",
-      "summary": "Lawmakers in the U.K. say smart glasses raise serious questions about consent and privacy."
+      "id": "0e1368aa30d3",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Josh Kraft visits West Springfield Boys & Girls Club to launch fundraising campaign",
+      "link": "https://www.wwlp.com/news/local-news/hampden-county/josh-kraft-visits-west-springfield-boys-girls-club-to-launch-fundraising-campaign/",
+      "published": "2026-11-06T03:18:35+00:00",
+      "summary": "The West Springfield Boys & Girls Club welcomed longtime nonprofit executive Josh Kraft on Thursday for an evening celebrating local youth, showcasing educational opportunities and launching a fundraising campaign to support children and teens."
+    },
+    {
+      "id": "3a0b51121631",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Springfield hosts free clinic to raise awareness about lead poisoning",
+      "link": "https://www.wwlp.com/news/local-news/hampden-county/springfield-hosts-free-clinic-to-raise-awareness-about-lead-poisoning/",
+      "published": "2026-11-06T03:17:53+00:00",
+      "summary": "Springfield residents had an opportunity Thursday evening to learn about the dangers of lead poisoning and available resources to make their homes safer during a free community health clinic."
+    },
+    {
+      "id": "e1102fdab2f7",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "U.S. Army Field Band to perform free concert at Springfield Symphony Hall",
+      "link": "https://www.wwlp.com/news/local-news/hampden-county/u-s-army-field-band-to-perform-free-concert-at-springfield-symphony-hall/",
+      "published": "2026-11-06T02:49:58+00:00",
+      "summary": "Springfield Symphony Hall will host a free patriotic concert this weekend featuring the U.S. Army Field Concert Band and Soldiers' Chorus in celebration of Veterans Day."
+    },
+    {
+      "id": "514918a6b4da",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Local schools awarded more than $300K to expand access to locally grown food",
+      "link": "https://www.wwlp.com/news/massachusetts/local-schools-awarded-more-than-300k-to-expand-access-to-locally-grown-food/",
+      "published": "2026-11-06T02:43:26+00:00",
+      "summary": "Schools and educational organizations across western Massachusetts are receiving more than $300,000 in state funding to bring locally grown food into classrooms and cafeterias while providing students with hands-on agricultural learning opportunities."
     },
     {
       "id": "fdc4e30ce8b5",
@@ -5817,44 +5847,34 @@
       "summary": "Russell Brand was convicted Thursday of rape and sexual assault charges on allegations dating back more than 20 years."
     },
     {
-      "id": "0837fefc5eb8",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "16a0c6c48c07",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "Massachusetts firefighter died in fire sparked by lithium-ion batteries",
-      "link": "https://www.wwlp.com/news/massachusetts/massachusetts-firefighter-died-in-fire-sparked-by-lithium-ion-batteries/",
-      "published": "2026-11-05T14:21:37+00:00",
-      "summary": "Investigators determined that lithium-ion batteries caused a deadly fire in Dorchester that killed Boston firefighter Robert Kilduff Jr."
+      "title": "11-year-old and 15-year-old arrested after delivery driver robbed at gunpoint",
+      "link": "https://www.westernmassnews.com/2026/11/06/11-year-old-15-year-old-arrested-after-delivery-driver-robbed-gunpoint/",
+      "published": "2026-11-06T04:04:57+00:00",
+      "summary": "Police said that two suspects, ages 11 and 15, were arrested at the scene."
     },
     {
-      "id": "6a3a5160bb0a",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "8ec127ab437e",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "22News Hiring: Multi-Platform Sales Account Executive - Digital Focus",
-      "link": "https://www.wwlp.com/work-for-us/22news-hiring-multi-platform-sales-account-executive-digital-focus/",
-      "published": "2026-11-05T14:18:17+00:00",
-      "summary": "WWLP-22News is seeking a Multi-Platform Sales Account Executive to drive digital revenue growth and business development across Worcester County and Greater Boston."
+      "title": "Chicopee officials float school redistricting to cut costs",
+      "link": "https://www.westernmassnews.com/2026/11/06/chicopee-officials-float-school-redistricting-cut-costs/",
+      "published": "2026-11-06T02:57:54+00:00",
+      "summary": "Chicopee City Councilors are opening a new debate over school boundaries and busing, as transportation costs for the district have doubled"
     },
     {
-      "id": "39e5c519784d",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "9d0d4092f756",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "Cristiano Ronaldo retires from Portugal national team",
-      "link": "https://www.wwlp.com/news/national/cristiano-ronaldo-retires-from-portugal-national-team/",
-      "published": "2026-11-05T13:38:53+00:00",
-      "summary": "The 41-year-old released a video letter on Thursday morning announcing his international retirement."
-    },
-    {
-      "id": "7423ccb2dd2b",
-      "source": "WWLP",
-      "source_id": "wwlp",
-      "category": "local",
-      "title": "VIDEO: Woman safely rescued from paddle boat on Concord River",
-      "link": "https://www.wwlp.com/news/massachusetts/video-woman-safely-rescued-from-paddle-boat-on-concord-river/",
-      "published": "2026-11-05T13:30:40+00:00",
-      "summary": "An 82-year-old woman was safely rescued from the Concord River in Billerica after her paddle boat became stuck in a muddy cove."
+      "title": "Dry Streak Thursday with Off & On Showers",
+      "link": "https://www.westernmassnews.com/2026/11/05/dry-streak-thursday-with-off-showers/",
+      "published": "2026-11-06T02:34:34+00:00",
+      "summary": "Unsettled Pattern Lasting through Saturday"
     },
     {
       "id": "b74d957db48e",
@@ -5865,16 +5885,6 @@
       "link": "https://www.westernmassnews.com/2026/11/06/first-measles-death-30-years-reported-this-state/",
       "published": "2026-11-06T01:55:30+00:00",
       "summary": "It is the first measles death in the state since 1990, according to a DHS news release."
-    },
-    {
-      "id": "9d0d4092f756",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Dry Streak Thursday with Off & On Showers",
-      "link": "https://www.westernmassnews.com/2026/11/05/dry-streak-thursday-with-off-showers/",
-      "published": "2026-11-05T23:44:24+00:00",
-      "summary": "Unsettled Pattern Lasting through Saturday"
     },
     {
       "id": "d05531924458",
@@ -6037,24 +6047,14 @@
       "summary": "A 17-year-old is accused of killing a pregnant mother and injuring six others inside a Spirit Halloween store in California, prosecutors announced."
     },
     {
-      "id": "01b14632f8cc",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
+      "id": "061e868169df",
+      "source": "Greenfield Recorder",
+      "source_id": "recorder",
       "category": "local",
-      "title": "Aging Untold: How to choose a medical power of attorney",
-      "link": "https://www.westernmassnews.com/2026/11/05/aging-untold-how-choose-medical-power-attorney/",
-      "published": "2026-11-05T18:56:22+00:00",
-      "summary": "On this episode of Aging Untold, we break down medical power of attorney, helping you choose a trusted healthcare proxy and ensure your wishes are honored. We examine the causes of chronic dry mouth and share simple ways to protect your oral health."
-    },
-    {
-      "id": "e412a59cfe90",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "9 arrested after shooting investigations uncover alleged drug operation",
-      "link": "https://www.westernmassnews.com/2026/11/05/9-arrested-after-shooting-investigations-uncover-alleged-drug-operation/",
-      "published": "2026-11-05T18:22:29+00:00",
-      "summary": "Investigations into four shootings over the summer in Pittsfield led authorities to uncover a suspected drug trafficking operation"
+      "title": "H.S. Roundup: Franklin Tech girls volleyball scurries past Greenfield in MIAA Div. 5 Round of 32",
+      "link": "https://recorder.com/2026/11/05/h-s-roundup-franklin-tech-girls-volleyball-scurries-past-greenfield-in-miaa-div-5-round-of-32/",
+      "published": "2026-11-06T02:13:54+00:00",
+      "summary": ""
     },
     {
       "id": "66773e3b9c46",
@@ -6144,16 +6144,6 @@
       "title": "23rd annual Crafts of Colrain tour highlights range of town talents",
       "link": "https://recorder.com/2026/11/05/crafts-colrain-open-studio-tour/",
       "published": "2026-11-05T19:02:06+00:00",
-      "summary": ""
-    },
-    {
-      "id": "f8a46901b19d",
-      "source": "Greenfield Recorder",
-      "source_id": "recorder",
-      "category": "local",
-      "title": "Turners Falls man gets prison time for robbery, injuring officer",
-      "link": "https://recorder.com/2026/11/05/turners-falls-man-prison-sentence/",
-      "published": "2026-11-05T17:57:33+00:00",
       "summary": ""
     },
     {
