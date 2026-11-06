@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T20:08:08+00:00",
+ "generated_at": "2026-11-06T22:11:08+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 27,
+  "aqi": 28,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-06 14:00 EST"
+  "observed": "2026-11-06 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -354,6 +354,14 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123487"
    },
    {
+    "id": "CVE-2026-124078",
+    "score": 8.7,
+    "cvss": "4.0",
+    "published": "2026-11-06T21:17:08.567",
+    "summary": "plist.js (npm package 'plist') before 5.0.1 contains an uncontrolled resource consumption vulnerability in the binary property-list parser (parseBinary) that allows unauthenticated attackers to crash a Node.js process by exploiting unmemoized recursive resolution of shared object references for arrays and dictionaries. Attackers can craft a small binary plist (under 200 bytes) containing chained s",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124078"
+   },
+   {
     "id": "CVE-2026-104269",
     "score": 8.6,
     "cvss": "3.1",
@@ -376,14 +384,6 @@
     "published": "2026-11-05T19:17:20.380",
     "summary": "noname Electron desktop build v1.11.2 through v1.11.6.1 contains an unauthenticated local file server with wildcard CORS that allows malicious websites to read, overwrite, or delete installation files. Attackers can send cross-origin requests to /writeFile on localhost port 8089 to overwrite renderer scripts, executing JavaScript with Node.js access as the local user.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123208"
-   },
-   {
-    "id": "CVE-2026-97705",
-    "score": 7.5,
-    "cvss": "3.1",
-    "published": "2026-11-04T20:19:13.137",
-    "summary": "Moleculer is a progressive microservices framework for Node.js. Prior to 0.14.36 and 0.15.2, Parser._write in src/transporters/tcp/parser.js used Buffer.prototype.readInt32BE to read a signed packet length, so a remote unauthenticated peer could supply a negative value that caused packet.slice(length) to return the unchanged buffer while the while (packet.length > 0) loop continued indefinitely. T",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97705"
    },
    {
     "id": "CVE-2026-63655",
