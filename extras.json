@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:11:00+00:00",
+ "generated_at": "2026-11-06T04:11:03+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 29,
+  "aqi": 28,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-05 20:00 EST"
+  "observed": "2026-11-05 22:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -330,28 +330,6 @@
     "kev_added": "2026-11-03",
     "kev_due": "2026-11-06",
     "kev_name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability"
-   },
-   {
-    "id": "CVE-2026-111357",
-    "score": 7.0,
-    "cvss": "3.1",
-    "published": "2026-10-15T21:17:13.190",
-    "summary": "Ivanti Connect Secure 22.8R2.4 mishandles the manner in which the dsinvoked broker trusts DSCache configuration data, leading to privilege escalation to root, as exploited in the wild in October 2026.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357",
-    "kev_added": "2026-10-30",
-    "kev_due": "2026-11-02",
-    "kev_name": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability"
-   },
-   {
-    "id": "CVE-2026-118527",
-    "score": 4.3,
-    "cvss": "3.1",
-    "published": "2026-11-03T15:17:24.920",
-    "summary": "Use of predictable filenames in Ivanti Connect Secure before versions 25.1.1.3 and 22.8R2.6 allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527",
-    "kev_added": "2026-10-30",
-    "kev_due": "2026-11-13",
-    "kev_name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability"
    }
   ]
  },
