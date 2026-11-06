@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:40:33+00:00",
+  "generated_at": "2026-11-06T10:10:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -298,10 +298,14 @@
     },
     "gizmodo": {
       "name": "Gizmodo",
-      "status": "ok",
-      "feed_url": "https://gizmodo.com/feed",
-      "count": 20,
-      "errors": []
+      "status": "error",
+      "errors": [
+        "https://gizmodo.com/feed: 403 Client Error: Forbidden for url: https://gizmodo.com/feed",
+        "discovery: Invalid URL 'gizmodo.com': No scheme supplied. Perhaps you meant https://gizmodo.com?"
+      ],
+      "tried": [
+        "https://gizmodo.com/feed"
+      ]
     },
     "wwlp": {
       "name": "WWLP",
@@ -697,6 +701,96 @@
       "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]"
     },
     {
+      "id": "dca6f8f76ffa",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "It's time of MIAA to stop punishing blameless kids for adult mistakes | Matt Vautour",
+      "link": "https://www.masslive.com/sports/2026/11/the-miaa-needs-to-stop-punishing-blameless-kids-for-adult-mistakes.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "Boston English's playoff disqualification over a clerical slip is the latest example of the MIAA's flawed enforcement. A smarter penalty system could finally set things right."
+    },
+    {
+      "id": "dc057782299e",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How a reluctant teen became an NFL offensive lineman with Patriots",
+      "link": "https://www.masslive.com/patriots/2026/11/he-wore-chuck-taylors-to-a-football-tryout-now-hes-starting-for-the-patriots.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "This Patriots starting offensive lineman went undrafted out of high school and nearly skipped football entirely before his mother pushed him onto the field."
+    },
+    {
+      "id": "ab397d94ee25",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "How to get Neemias Queta to stop fouling so much? (Celtics Mailbag)",
+      "link": "https://www.masslive.com/celtics/2026/11/how-to-get-neemias-queta-to-stop-fouling-so-much-celtics-mailbag.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "This week's Celtics mailbag features talk of the centers and how they can improve."
+    },
+    {
+      "id": "45195654de95",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "State of the Sox: Red Sox' Breslow heads to GM meetings amid CBA uncertainty",
+      "link": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-upcoming-gm-meetings-full-of-uncertainty.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "Red Sox GM Craig Breslow heads into the GM Meetings navigating roster decisions amid significant uncertainty surrounding upcoming CBA negotiations and a looming lockout."
+    },
+    {
+      "id": "0cbbddb3e41c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Best Buy will match prices from 19 competitors — including Amazon and Walmart",
+      "link": "https://www.masslive.com/business/2026/11/why-savvy-holiday-shoppers-are-taking-a-second-look-at-best-buy-this-season.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "The retailer covers 19 qualifying competitors and gives members up to 60 days to request a refund."
+    },
+    {
+      "id": "dbc22a2616df",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Ex-ESPN personality rants about women, Blacks voting: ‘Destroyed America’",
+      "link": "https://www.masslive.com/sports/2026/11/ex-espn-personality-rants-about-women-blacks-voting-destroyed-america.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "The response has not been kind."
+    },
+    {
+      "id": "31105b440336",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music star lashes out at ‘extremely hurtful’ CMA Awards move: ‘WTF?’",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-music-star-lashes-out-at-extremely-hurtful-cma-awards-move-wtf.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "He issued a lengthy statement on social media."
+    },
+    {
+      "id": "401408184395",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country and bluegrass legend dies in his sleep at 95: ‘The music world lost a pioneer’",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-and-bluegrass-legend-dies-in-his-sleep-at-95-the-music-world-lost-a-pioneer.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "He helped spread bluegrass music across the globe."
+    },
+    {
+      "id": "dc68d8feb729",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Asking Eric: I changed careers and gave up motherhood for my stepsons. Was it all for nothing?",
+      "link": "https://www.masslive.com/advice/2026/11/asking-eric-i-changed-careers-and-gave-up-motherhood-for-my-stepsons-was-it-all-for-nothing.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "How do I come to terms with giving up so much of the life I imagined and still feeling as though I failed?"
+    },
+    {
       "id": "a58b5182294f",
       "source": "MassLive",
       "source_id": "masslive",
@@ -905,96 +999,6 @@
       "link": "https://www.masslive.com/sports/2026/11/stephen-a-smith-says-espn-analyst-could-improve-cowboys-defense-id-bet-my-check-on-it.html",
       "published": "2026-11-05T23:20:35+00:00",
       "summary": "The ESPN personality made the comments after the Cowboys blew a fourth-quarter lead against the Arizona Cardinals."
-    },
-    {
-      "id": "691dcbf991bf",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2 dogs seized from state Sen. Adam Gomez’s home during MSPCA raid",
-      "link": "https://www.masslive.com/westernmass/2026/11/2-dogs-seized-from-state-sen-adam-gomezs-home-during-mspca-raid.html",
-      "published": "2026-11-05T23:20:30+00:00",
-      "summary": "“We are unsure what, if anything, is wrong with the other two (dogs), because we have not been given that information.”"
-    },
-    {
-      "id": "33a3a3cc4829",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Appeals Court to hear breach of contract case involving former NYC Mayor Bloomberg",
-      "link": "https://www.masslive.com/westernmass/2026/11/appeals-court-to-hear-breach-of-contract-case-involving-former-nyc-mayor-bloomberg.html",
-      "published": "2026-11-05T23:06:51+00:00",
-      "summary": "In their Middlesex Superior Court case, only O’Bannon’s claims survived to judgment, and a request for class-action status was also denied."
-    },
-    {
-      "id": "921d009d933c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Annie: One friend shops thrift stores, the other shops BOGO sales. Yay?",
-      "link": "https://www.masslive.com/advice/2026/11/dear-annie-one-friend-shops-thrift-stores-the-other-shops-bogo-sales-yay.html",
-      "published": "2026-11-05T23:00:00+00:00",
-      "summary": "I know that they say it is the thought that counts, but ..."
-    },
-    {
-      "id": "f90700f06cb2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Postal worker in Iowa accused of shooting 2 co-workers at USPS office",
-      "link": "https://www.masslive.com/news/2026/11/postal-worker-accused-of-shooting-2-co-workers-at-usps-office.html",
-      "published": "2026-11-05T23:00:00+00:00",
-      "summary": "A Des Moines postal worker was taken into custody after shooting two female co-workers on the second floor of a USPS office."
-    },
-    {
-      "id": "f7e6ab351448",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Check out these 17 football players to watch in the MIAA Division 3 state tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/17-high-school-football-players-to-watch-in-the-division-3-state-tournament.html",
-      "published": "2026-11-05T22:52:07+00:00",
-      "summary": "The MIAA Division 3 football playoff field is as deep as they come. These 17 players to watch are why."
-    },
-    {
-      "id": "3c5b7abe1448",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How to watch Jaguars vs. Ravens Thursday Night Football game today for FREE (11/5)",
-      "link": "https://www.masslive.com/tv/2026/11/how-to-watch-jaguars-vs-ravens-thursday-night-football-game-today-for-free-115.html",
-      "published": "2026-11-05T22:45:00+00:00",
-      "summary": "The Jacksonville Jaguars and quarterback Trevor Lawrence square off against the Baltimore Ravens today, Nov. 5, in a Week 9, Thursday Night Football showdown."
-    },
-    {
-      "id": "bb374eabf044",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "18-year-old threatened Trump on Instagram, had gun at home, feds say",
-      "link": "https://www.masslive.com/news/2026/11/18-year-old-from-mass-charged-with-threatening-president-trump.html",
-      "published": "2026-11-05T22:36:42+00:00",
-      "summary": "Federal prosecutors have charged an 18-year-old Massachusetts man with making a threat against the President of the United States. Prosecutors say the threats were made on Instagram and included a photo of a gun."
-    },
-    {
-      "id": "1a43431fa4e5",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Polling guru reports massive shift across all 50 states in midterms: ‘A huge mandate’",
-      "link": "https://www.masslive.com/politics/2026/11/polling-guru-reports-massive-shift-across-all-50-states-in-midterms-a-huge-mandate.html",
-      "published": "2026-11-05T22:30:00+00:00",
-      "summary": "Harry Enten said in a video shared on Thursday that all fifty states shifted toward the Democratic Party in the elections."
-    },
-    {
-      "id": "a28b787789a2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Could Sandra Birchmore’s death have been suicide? The defense made its case",
-      "link": "https://www.masslive.com/news/2026/11/how-matthew-farwells-defense-tried-to-create-doubt-about-sandra-birchmores-death.html",
-      "published": "2026-11-05T22:24:51+00:00",
-      "summary": "Both sides will get one final chance Friday to tell jurors what the evidence shows about Sandra Birchmore’s death before deliberations begin."
     },
     {
       "id": "3a73b8fccf35",
@@ -3217,6 +3221,16 @@
       "summary": "How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?"
     },
     {
+      "id": "53f0d8f446a8",
+      "source": "Finextra",
+      "source_id": "finextra",
+      "category": "tech",
+      "title": "How SMEs can simplify cross-border money movement while reducing costs and complexity",
+      "link": "https://www.finextra.com/event-info/641/how-smes-can-simplify-cross-border-money-movement-while-reducing-costs-and-complexity?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "published": "2027-01-20T15:00:00+00:00",
+      "summary": "How can financial institutions build trust through payment certainty, transparent pricing, and consistent execution?"
+    },
+    {
       "id": "edb226dcc873",
       "source": "Finextra",
       "source_id": "finextra",
@@ -3495,16 +3509,6 @@
       "link": "https://www.finextra.com/pressarticle/111589/creditinfo-and-tarandm-join-forces-to-expand-credit-decisioning-capabilities-for-banks-and-telcos?utm_medium=rssfinextra&utm_source=finextrafeed",
       "published": "2026-11-05T13:26:00+00:00",
       "summary": "Creditinfo, a global provider of credit information and risk management solutions, today announced a partnership with TaranDM, an enterprise-grade credit risk decision engine, to bring flexible, customisable credit decisioning capabilities to banks, fintechs, telcos and other lenders across…"
-    },
-    {
-      "id": "a4d4b3ebbaeb",
-      "source": "Finextra",
-      "source_id": "finextra",
-      "category": "tech",
-      "title": "TBC Georgia rolls out palm payments",
-      "link": "https://www.finextra.com/pressarticle/111588/tbc-georgia-rolls-out-palm-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "published": "2026-11-05T13:22:00+00:00",
-      "summary": "TBC Georgia, one of the country’s leading financial institutions and part of London-listed TBC Bank Group, announces the launch of palm payment, becoming the first bank in Georgia to introduce the innovative biometric payment technology."
     },
     {
       "id": "5efcc50c6e34",
@@ -4377,6 +4381,16 @@
       "summary": "Okay, it's in essence just an iMac G4 sort-of mirroring a MacBook screen, but it's still cool. YouTuber Jesse Richards uses custom software (that he has made available ) on a MacBook to stream what a HomeView shows to the user while it's running. Yet another reason to reuse classic Apple hardware,…"
     },
     {
+      "id": "07975d8765d9",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "4 reasons why I’d recommend a foldable (and 4 reasons why I wouldn’t)",
+      "link": "https://www.androidauthority.com/reasons-buy-not-buy-foldable-phones-2026-3730248/",
+      "published": "2026-11-06T10:00:09+00:00",
+      "summary": "I love foldables, but the high price and hardware compromises make them difficult to recommend to everyone."
+    },
+    {
       "id": "36cdc11839ad",
       "source": "Android Authority",
       "source_id": "androidauthority",
@@ -4665,16 +4679,6 @@
       "link": "https://www.androidauthority.com/tcl-75-inch-qm6k-smart-tv-deal-3732067/",
       "published": "2026-11-05T14:52:23+00:00",
       "summary": "The 75-inch TV drops to $697.99 on Amazon, returning to its all-time low with 144Hz gaming and Mini LED picture quality."
-    },
-    {
-      "id": "1648ce28cff8",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Amazon cuts ASUS ROG Tessen to $64.99, its lowest price ever",
-      "link": "https://www.androidauthority.com/asus-rog-tessen-deal-3732054/",
-      "published": "2026-11-05T14:36:15+00:00",
-      "summary": "ASUS ROG Tessen falls to $64.99 on Amazon, giving Android gamers a premium wired USB-C controller for half price."
     },
     {
       "id": "00479a69fdac",
@@ -5365,206 +5369,6 @@
       "link": "https://www.digitaltrends.com/contributor-content/big-screens-bigger-possibilities-as-the-tv-shield-scales-tv-protection-to-110-inches/",
       "published": "2026-11-04T20:24:16+00:00",
       "summary": "Televisions of 80 inches and up are moving into the mainstream. Research firm Omdia expects global shipments in that size class to climb from about 9 million units in 2025 to more than 13 million by 2029, and its analysts credit much lower prices for the growth. TrendForce put sets of 60 inches…"
-    },
-    {
-      "id": "e4471bd8987c",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Trump’s Crypto Vehicle World Liberty Financial to Buy Back Tokens After Post-Election Nose Dive",
-      "link": "https://gizmodo.com/trumps-crypto-vehicle-world-liberty-financial-to-buy-back-tokens-after-post-election-nose-dive-2000836068",
-      "published": "2026-11-06T04:59:13+00:00",
-      "summary": "World Liberty Financial's WLFI governance token is down 10% since Democrats took Congress, and more than 60% this year."
-    },
-    {
-      "id": "4cf56fa3a9a8",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Make Room, Wordle: The New York Times Is Reportedly Close to Purchasing Letterboxd for $330 Million",
-      "link": "https://gizmodo.com/make-room-wordle-the-new-york-times-is-reportedly-close-to-purchasing-letterboxd-for-330-million-2000836048",
-      "published": "2026-11-06T02:46:10+00:00",
-      "summary": "Sony and A24's bids apparently didn't make the cut."
-    },
-    {
-      "id": "1d33cd20e067",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This",
-      "link": "https://gizmodo.com/doj-launches-super-intelligence-task-force-because-apparently-were-still-doing-this-2000835957",
-      "published": "2026-11-06T00:06:03+00:00",
-      "summary": "Will the tech oligarchs keep up the whole \"super intelligence\" thing?"
-    },
-    {
-      "id": "fb4ea3648b56",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Lawsuit Claims Student’s Google AI Use Turned Into ‘Life-Threatening Obsession’",
-      "link": "https://gizmodo.com/lawsuit-claims-students-google-ai-use-turned-into-life-threatening-obsession-2000835894",
-      "published": "2026-11-05T23:59:11+00:00",
-      "summary": "The student's only access to Gemini was through a school-issued Chromebook, the parents claims."
-    },
-    {
-      "id": "756ad721090f",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems",
-      "link": "https://gizmodo.com/tech-rout-wipes-out-2-5-trillion-with-ai-investors-anticipating-heavier-scrutiny-2000835986",
-      "published": "2026-11-05T23:44:09+00:00",
-      "summary": "Tech stocks plummeted amid fears inbound Democrats will end Donald Trump's era of laissez-faire regulation and backdoor deals."
-    },
-    {
-      "id": "cfa6f269f40a",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "A Wacky English Dub Saved ‘Overgeared’ From Being Just Another ‘Solo Leveling’ Anime",
-      "link": "https://gizmodo.com/overgeared-crunchyroll-anime-english-dub-isekai-solo-leveling-2000835889",
-      "published": "2026-11-05T23:15:52+00:00",
-      "summary": "The saving grace for Crunchyroll's newest isekai anime is that it channels the same YouTube abridged series parody energy as 'Golden Boy,' 'Ghost Stories,' and 'Konosuba.'"
-    },
-    {
-      "id": "8a0bdd30be41",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Keanu Reeves Officially Returning for ‘John Wick’ Animated Film",
-      "link": "https://gizmodo.com/keanu-reeves-officially-returning-for-john-wick-animated-film-2000835985",
-      "published": "2026-11-05T22:35:41+00:00",
-      "summary": "The prequel story will be directed by Shannon Tindle ('Ultraman: Rising')."
-    },
-    {
-      "id": "8e1e25431a2a",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Grimes Shows Off Her Acting Chops in New AI Movie. Or Does She?",
-      "link": "https://gizmodo.com/grimes-shows-off-her-acting-chops-in-new-ai-movie-or-does-she-2000835869",
-      "published": "2026-11-05T21:50:08+00:00",
-      "summary": "Who knows what's real, but a popular YouTuber is trying to make the whole AI movie thing happen."
-    },
-    {
-      "id": "e4eb0e8154e9",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "FAA Plans to Retire Floppy Disks by 2028",
-      "link": "https://gizmodo.com/faa-plans-to-retire-floppy-disks-by-2028-2000835905",
-      "published": "2026-11-05T21:30:13+00:00",
-      "summary": "The agency announced plans to replace decades-old technology at more than 400 air traffic control facilities in the country."
-    },
-    {
-      "id": "8b43749ebbb5",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "A YouTuber Figured Out How to Find Almost Anyone Using Airplane Sounds",
-      "link": "https://gizmodo.com/a-youtuber-figured-out-how-to-find-almost-anyone-using-airplane-sounds-2000835861",
-      "published": "2026-11-05T21:05:43+00:00",
-      "summary": "You can hide your location, but you can't hide the planes overhead."
-    },
-    {
-      "id": "ed377ec1d76f",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Samsung’s Next Fitness Tracker Might Have a Big Advantage Over the Fitbit Edge",
-      "link": "https://gizmodo.com/samsung-galaxy-fit-4-nfc-2000835908",
-      "published": "2026-11-05T21:00:19+00:00",
-      "summary": "The Galaxy Fit 4 looks like it will come with NFC support, among a collection of other minor improvements."
-    },
-    {
-      "id": "76aaf49a4197",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Republicans Race to Give Trump More Power Over the FCC Before Losing the Senate",
-      "link": "https://gizmodo.com/republicans-race-to-give-trump-more-power-over-the-fcc-before-losing-the-senate-2000835692",
-      "published": "2026-11-05T20:20:54+00:00",
-      "summary": "Ted Cruz is pushing to confirm another Republican commissioner, potentially clearing the way for an all-Republican FCC that critics say would violate federal law."
-    },
-    {
-      "id": "7f34a4d3bb0d",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Bose Recalls 600,000 Batteries After Reports of Melting and Catching Fire",
-      "link": "https://gizmodo.com/bose-recalls-600000-batteries-after-reports-of-melting-and-catching-fire-2000835829",
-      "published": "2026-11-05T19:45:17+00:00",
-      "summary": "The batteries power the Bose S1 Pro System."
-    },
-    {
-      "id": "0df1c0eda8cc",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Archaeologists Excavated a 2,800-Year-Old Siberian Burial Mound. It Was Packed With Cannabis",
-      "link": "https://gizmodo.com/horseback-riding-siberian-nomads-got-high-on-cannabis-2800-years-ago-the-oldest-evidence-yet-2000835823",
-      "published": "2026-11-05T19:35:45+00:00",
-      "summary": "Archaeologists found trace evidence of cannabis use in braided hair samples recovered from an 8th century BCE burial mound in Siberia’s “Valley of the Kings.” They also found a lot of seeds."
-    },
-    {
-      "id": "4150e6b4aec1",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "The Final ‘Godzilla Minus Zero’ Trailer Reveals One of Its Not-So-Secret Secrets",
-      "link": "https://gizmodo.com/final-godzilla-minus-zero-trailer-king-ghidorah-2000835819",
-      "published": "2026-11-05T19:00:17+00:00",
-      "summary": "The sequel to the Oscar-winning hit is now in theaters."
-    },
-    {
-      "id": "f66bad592d8a",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Anyone Can Rent a White House IP Address for a Few Dollars",
-      "link": "https://gizmodo.com/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars-2000835738",
-      "published": "2026-11-05T18:45:55+00:00",
-      "summary": "It appears someone in the White House can't resist free apps."
-    },
-    {
-      "id": "b3e7ac174698",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Musk’s Companies Tank as Tech Stocks Get a Post-Election Correction",
-      "link": "https://gizmodo.com/musks-companies-tank-as-tech-stocks-get-a-post-election-correction-2000835782",
-      "published": "2026-11-05T18:30:05+00:00",
-      "summary": "The beatings will continue until morale improves."
-    },
-    {
-      "id": "9d61edd3713e",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "Can the Xbox App Ever Beat Steam?",
-      "link": "https://gizmodo.com/xbox-app-updates-steam-2000835807",
-      "published": "2026-11-05T18:20:56+00:00",
-      "summary": "Probably not, but there are ways it can finally gain a foothold with PC gamers."
-    },
-    {
-      "id": "ef8e53409279",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "It’s All Finally Happening in the ‘Yellowjackets’ Season 4 Trailer",
-      "link": "https://gizmodo.com/yellowjackets-season-4-trailer-2000835779",
-      "published": "2026-11-05T18:15:15+00:00",
-      "summary": "The hit thriller is back for its fourth and final season on November 20 on Paramount+."
-    },
-    {
-      "id": "165d550364b5",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "A Simple Kitchen Swap May Prevent Up to 3 Million Deaths a Year",
-      "link": "https://gizmodo.com/a-simple-kitchen-swap-may-prevent-up-to-3-million-deaths-a-year-2000835691",
-      "published": "2026-11-05T18:05:13+00:00",
-      "summary": "Replacing table salt with potassium-enriched salt can drastically blunt cardiovascular disease on a global scale, new research has found."
     },
     {
       "id": "0e1368aa30d3",
