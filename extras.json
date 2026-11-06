@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T14:08:30+00:00",
+ "generated_at": "2026-11-06T16:12:11+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 29,
+  "aqi": 32,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-06 08:00 EST"
+  "observed": "2026-11-06 10:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -352,6 +352,14 @@
     "published": "2026-11-04T23:17:58.557",
     "summary": "tsParticles is a TypeScript library for creating highly customizable particle animations. Prior to 4.3.1, the HTTP mode of @tsparticles/mcp-server calls JSON.parse outside a request-local error boundary in the POST /mcp handler in integrations/mcp-server/src/index.ts. A single unauthenticated malformed JSON body raises a SyntaxError that terminates the Node.js process, leaving the MCP service unav",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76892"
+   },
+   {
+    "id": "CVE-2026-123487",
+    "score": 8.7,
+    "cvss": "4.0",
+    "published": "2026-11-06T15:17:17.947",
+    "summary": "Parse Server before 8.6.115 and 9.0.0 before 9.10.7-alpha.1 validates user email address format with a regular expression whose run time grows quadratically with input length and that is applied without a length limit. An unauthenticated attacker who knows the application ID can send a sign-up request, or a logged-in user can update their own email, with a long crafted email address to block the N",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123487"
    },
    {
     "id": "CVE-2026-104269",
