@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T09:41:02+00:00",
+ "generated_at": "2026-11-06T12:08:05+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 22,
+  "aqi": 27,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-06 04:00 EST"
+  "observed": "2026-11-06 06:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -392,6 +392,14 @@
     "published": "2026-11-04T22:18:07.350",
     "summary": "tsParticles is a TypeScript library for creating highly customizable particle animations. Prior to 4.3.1, the HTTP mode of @tsparticles/mcp-server accepts unauthenticated POST /mcp requests in integrations/mcp-server/src/index.ts and accumulates every request-body chunk in a Buffer[] without a cumulative size limit before Buffer.concat and JSON.parse. A remote attacker can stream an arbitrarily la",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63655"
+   },
+   {
+    "id": "CVE-2026-116592",
+    "score": 7.4,
+    "cvss": "3.1",
+    "published": "2026-11-06T10:16:36.313",
+    "summary": "undici is an HTTP client for Node.js. In versions 7.30.1 and 8.12.2 through 8.12.3, when an originless Agent composes the redirect and shared cache interceptors, undici decides whether to store the final response under the original request key by inspecting only the final redirect hop, which bypasses the earlier fix for CVE-2026-109829 that compared only the initial and final origins. A redirect t",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116592"
    }
   ]
  }
