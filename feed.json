@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:10:33+00:00",
+  "generated_at": "2026-11-06T12:07:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -34,7 +34,7 @@
       "name": "Petri",
       "status": "ok",
       "feed_url": "https://petri.com/feed/",
-      "count": 7,
+      "count": 8,
       "errors": []
     },
     "omnissa": {
@@ -104,7 +104,7 @@
       "name": "Malwarebytes",
       "status": "ok",
       "feed_url": "https://www.malwarebytes.com/blog/feed",
-      "count": 10,
+      "count": 8,
       "errors": []
     },
     "helpnet": {
@@ -181,7 +181,7 @@
       "name": "VMware blogs",
       "status": "ok",
       "feed_url": "https://blogs.vmware.com/feed",
-      "count": 10,
+      "count": 9,
       "errors": []
     },
     "virtreview": {
@@ -298,14 +298,10 @@
     },
     "gizmodo": {
       "name": "Gizmodo",
-      "status": "error",
-      "errors": [
-        "https://gizmodo.com/feed: 403 Client Error: Forbidden for url: https://gizmodo.com/feed",
-        "discovery: Invalid URL 'gizmodo.com': No scheme supplied. Perhaps you meant https://gizmodo.com?"
-      ],
-      "tried": [
-        "https://gizmodo.com/feed"
-      ]
+      "status": "ok",
+      "feed_url": "https://gizmodo.com/feed",
+      "count": 20,
+      "errors": []
     },
     "wwlp": {
       "name": "WWLP",
@@ -325,7 +321,7 @@
       "name": "The Shoestring",
       "status": "ok",
       "feed_url": "https://theshoestring.org/feed/",
-      "count": 0,
+      "count": 1,
       "errors": []
     },
     "recorder": {
@@ -601,6 +597,46 @@
       "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says."
     },
     {
+      "id": "86acf5ffd975",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
+      "link": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+      "published": "2026-11-06T12:00:00+00:00",
+      "summary": "I've been wanting to try 3D printing, people tell me. Which printer should I get? I finally have a fairly easy answer: the Bambu Lab P2S Combo. The auto-loading, fully enclosed touchscreen printer is one of the very few I can recommend. It's the only one I'd buy for myself. It's on sale for $649 […]"
+    },
+    {
+      "id": "e4e3ec8fd0f8",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "The Enough Phone is made by and for people fed up with big screens",
+      "link": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
+      "published": "2026-11-06T12:00:00+00:00",
+      "summary": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist OdysseyOS. They're currently seeking funding on Kickstarter, and just…"
+    },
+    {
+      "id": "44766e97c429",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "published": "2026-11-06T11:55:19+00:00",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100…"
+    },
+    {
+      "id": "bea32410953e",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
+      "link": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
+      "published": "2026-11-06T10:42:52+00:00",
+      "summary": "Tesla is getting the Cybertruck ready for retirement in an effort to ramp up its robotaxi output. In an X post on Friday, Tesla CEO Elon Musk said that the company will be \"winding down\" Cybertruck production at its Texas Gigafactory sometime around the middle of next year, \"to make room for…"
+    },
+    {
       "id": "85f398082dad",
       "source": "The Verge",
       "source_id": "verge",
@@ -661,44 +697,244 @@
       "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly over the years,\" and it decided that…"
     },
     {
-      "id": "bff786783671",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "The midterms proved once and for all that X is not real life",
-      "link": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
-      "published": "2026-11-05T21:55:00+00:00",
-      "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college student earnestly…"
+      "id": "c9b57c4a3392",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Reddit’s ad revenue rises amidst user growth worries",
+      "link": "https://www.masslive.com/news/2026/11/reddits-ad-revenue-rises-amidst-user-growth-worries.html",
+      "published": "2026-11-06T12:00:00+00:00",
+      "summary": "Reddit shares fell by 23 percent recently."
     },
     {
-      "id": "3bca1d9e7322",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
-      "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
-      "published": "2026-11-05T20:47:14+00:00",
-      "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would…"
+      "id": "ed3536602280",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Doctor: Why your doctor might be wrong about your iron levels",
+      "link": "https://www.masslive.com/advice/2026/11/dear-doctor-my-doctor-says-my-low-iron-isnt-a-problem-but-im-not-convinced.html",
+      "published": "2026-11-06T12:00:00+00:00",
+      "summary": "A medical columnist disputes a doctor's dismissal of low ferritin levels in a postmenopausal woman, warning that iron deficiency without anemia can signal serious conditions like colon cancer and cause symptoms such as dizziness."
     },
     {
-      "id": "d2eb167f9593",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-      "published": "2026-11-05T19:12:58+00:00",
-      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only launched a few months ago, you’re…"
+      "id": "507b263e5cf0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Heavy rain, flooding threat ahead for southeastern Mass.",
+      "link": "https://www.masslive.com/weather/2026/11/mass-weather-warm-temps-heavy-rain-and-thunderstorms-to-begin-weekend.html",
+      "published": "2026-11-06T11:29:02+00:00",
+      "summary": "Some parts of the state could receive 4 to 5 inches of rain, raising the threat of flooded streets."
     },
     {
-      "id": "c6134d61030c",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Muse has a voice mode now",
-      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "published": "2026-11-05T19:03:04+00:00",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]"
+      "id": "9cb6be45c434",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Westfield State is one win away from a third straight MASCAC field hockey championship",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-state-is-one-win-away-from-a-third-straight-mascac-field-hockey-championship.html",
+      "published": "2026-11-06T11:25:40+00:00",
+      "summary": "Westfield State's defense held off Framingham State 2-1, advancing to host the MASCAC championship Saturday against Bridgewater State, where a win would secure a third consecutive title."
+    },
+    {
+      "id": "a6daa8afe20a",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Legendary punk rock band to reunite for 50th anniversary, first tour in 11 years",
+      "link": "https://www.masslive.com/entertainment/2026/11/legendary-punk-rock-band-to-reunite-for-50th-anniversary-first-tour-in-11-years.html",
+      "published": "2026-11-06T11:16:29+00:00",
+      "summary": "The group originally broke up in the 1980s."
+    },
+    {
+      "id": "0c883d36a944",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Top Democrats face rebellion — even after midterm thumping",
+      "link": "https://www.masslive.com/politics/2026/11/top-democrats-face-internal-rebellion-even-after-midterm-thumping.html",
+      "published": "2026-11-06T11:15:00+00:00",
+      "summary": "One Democratic leader has an online petition against him."
+    },
+    {
+      "id": "f638666cd813",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Blessed Buys Thrift Shoppe is thriving in new location",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/blessed-buys-thrift-shoppe-is-thriving-in-new-location.html",
+      "published": "2026-11-06T11:00:01+00:00",
+      "summary": "A volunteer-run thrift shop at First Congregational Church in Westfield has seen increased traffic and donations after relocating, while giving $1,200 quarterly to local nonprofits."
+    },
+    {
+      "id": "c6502e88fa70",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "We picked out 105 football players to watch in the MIAA state tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/high-school-football-players-to-watch-in-every-miaa-tournament.html",
+      "published": "2026-11-06T11:00:01+00:00",
+      "summary": "We compiled all of our football players to watch lists here. Check them all out."
+    },
+    {
+      "id": "6fa3ec0178c0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "These 21 WMass boys soccer players are ready to make some noise in the 2026 state tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/21-wmass-boys-soccer-players-to-watch-out-for-in-2026-state-tournament.html",
+      "published": "2026-11-06T11:00:01+00:00",
+      "summary": "With the five division state tournaments set to kick off on Friday, here are 21 Western Mass. boys soccer players to watch out for in the postseason."
+    },
+    {
+      "id": "a13d405a83f4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Diamond prices drop 40% as consumer trends shift",
+      "link": "https://www.masslive.com/news/2026/11/diamond-prices-drop-40-as-consumer-trends-shift.html",
+      "published": "2026-11-06T11:00:01+00:00",
+      "summary": "Many people have condemned the diamond mining industry as unethical over the years."
+    },
+    {
+      "id": "7b86d822db22",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Conservation Commission seeks agricultural preservation restrictions on three properties",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/conservation-commission-seeks-agricultural-preservation-restrictions-on-three-properties.html",
+      "published": "2026-11-06T11:00:01+00:00",
+      "summary": "In its continuing quest to preserve farmland in Southwick, the Conservation Commission approved applying for Community Preservation Act funding to purchase agricultural preservation restrictions on three pieces of property, including a parcel inside the Sofinowski Preserve."
+    },
+    {
+      "id": "1ad66b3a8d73",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country singer from identical triplet trio dies at 35",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-music-star-dies-at-35.html",
+      "published": "2026-11-06T11:00:01+00:00",
+      "summary": "Nicole Taylor, a member of the viral country music trio Taylor Red, died at 35 after battling breast cancer. Her identical triplet sisters announced her death."
+    },
+    {
+      "id": "0d2eaac34a66",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Eighth grade inventors sprint into action at RIDE Center",
+      "link": "https://www.masslive.com/westfieldnews/2026/11/eighth-grade-inventors-sprint-into-action-at-ride-center.html",
+      "published": "2026-11-06T11:00:01+00:00",
+      "summary": "WESFIELD — On Oct. 22, Westfield State University’s Research, Innovation, Design, and Entrepreneurial Center kicked off this year’s STEM Week by inviting 60 eighth grade students from Kylie Prep Middle School in Springfield for the Invention Sprint, putting their creativity and innovation to the…"
+    },
+    {
+      "id": "f7d06018a2df",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Hollywood actor revealed to secretly be a father-of-four",
+      "link": "https://www.masslive.com/entertainment/2026/11/hollywood-actor-revealed-to-secretly-be-a-father-of-four.html",
+      "published": "2026-11-06T11:00:01+00:00",
+      "summary": "He and his wife have been together since 2016."
+    },
+    {
+      "id": "6aa4777d669d",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Today’s horoscope: Virgo - You’re better off doing your own thing (Nov. 6, 2026)",
+      "link": "https://www.masslive.com/advice/2026/11/todays-horoscope-virgo-youre-better-off-doing-your-own-thing-nov-6-2026.html",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "Celebrities born on this day: Emma Stone, 38; Kelly Rutherford, 58; Maria Shriver, 71; Sally Field, 80."
+    },
+    {
+      "id": "7f8b64ab2f87",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Closing arguments set for Friday in Matthew Farwell trial over Sandra Birchmore's death",
+      "link": "https://www.masslive.com/news/2026/11/closing-arguments-expected-friday-at-matthew-farwell-trial-in-death-of-sandra-birchmore.html",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "Jurors are set to begin deliberations on Friday afternoon after hearing from 50 witnesses at the trial of former Stoughton police officer Matthew Farwell."
+    },
+    {
+      "id": "c3c7bab0ca50",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Once a childhood dream, his Latino Book Fair is growing bigger each year",
+      "link": "https://www.masslive.com/westernmass/2026/11/once-a-childhood-dream-his-latino-book-fair-is-growing-bigger-each-year.html",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "The Latino Book Fair, free and open to the public, will be held at the Hope Center for the Arts in Springfield on Nov. 14."
+    },
+    {
+      "id": "7130aeeac2a8",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "America’s most obese states are these, report finds",
+      "link": "https://www.masslive.com/news/2026/11/americas-most-obese-states-are-these-report-finds.html",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "California, on the other hand, is the least overweight and obese state."
+    },
+    {
+      "id": "c9a75f5c5cdb",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. casino player wins jackpot prize with 75-cent bet",
+      "link": "https://www.masslive.com/casinos/2026/11/mass-casino-player-wins-jackpot-prize-with-75-cent-bet.html",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "The casino paid out more than $12.9 million in jackpots during July last year."
+    },
+    {
+      "id": "5450b0b087e4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Abby: My grown children never say thank you - but they're happy to let us pay",
+      "link": "https://www.masslive.com/advice/2026/11/dear-abby-my-grown-children-never-say-thank-you-but-theyre-happy-to-let-us-pay.html",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "\"No one even offers to pay for anything if they’re with us.\""
+    },
+    {
+      "id": "b3e39d36afa4",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "The Mass. GOP has a MAGA problem. Can it find a way back?",
+      "link": "https://www.masslive.com/politics/2026/11/after-another-wipeout-mass-republicans-face-a-reckoning-what-comes-next.html",
+      "published": "2026-11-06T10:50:00+00:00",
+      "summary": "Another statewide wipeout has Massachusetts Republicans asking some uncomfortable questions about candidates, MAGA and whether the old GOP formula can still work."
+    },
+    {
+      "id": "ee564bb0bf63",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bay Path teachers haven't met face to face with district leaders since spring — and they want that to change",
+      "link": "https://www.masslive.com/centralmass/2026/11/central-mass-teachers-call-for-return-to-bargaining-table-after-no-confidence-vote.html",
+      "published": "2026-11-06T10:44:00+00:00",
+      "summary": "The school district union leader says teachers haven't met face to face since last spring, with teachers having been without a contract since June."
+    },
+    {
+      "id": "7bbcd4f88309",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Country music star rips industry: ‘People singing songs about (expletive) they didn’t do’",
+      "link": "https://www.masslive.com/entertainment/2026/11/country-music-star-rips-industry-people-singing-songs-about-expletive-they-didnt-do.html",
+      "published": "2026-11-06T10:30:00+00:00",
+      "summary": "'Where's George Jones?' the singer asked."
+    },
+    {
+      "id": "5094602cf010",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Mass. mayors are breathing easier after the 'blue wave' — but some say not to expect miracles yet",
+      "link": "https://www.masslive.com/politics/2026/11/mass-mayors-hope-new-democratic-congress-will-curb-ice-raids-funding-cuts.html",
+      "published": "2026-11-06T10:25:00+00:00",
+      "summary": "“We can’t forget what 2025 felt like. We can’t forget what 2025 looked like,” Chelsea City Manager Fidel Maltez said. “We have to remember that this is a fight that we must continue.\""
     },
     {
       "id": "dca6f8f76ffa",
@@ -709,16 +945,6 @@
       "link": "https://www.masslive.com/sports/2026/11/the-miaa-needs-to-stop-punishing-blameless-kids-for-adult-mistakes.html",
       "published": "2026-11-06T10:00:00+00:00",
       "summary": "Boston English's playoff disqualification over a clerical slip is the latest example of the MIAA's flawed enforcement. A smarter penalty system could finally set things right."
-    },
-    {
-      "id": "dc057782299e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How a reluctant teen became an NFL offensive lineman with Patriots",
-      "link": "https://www.masslive.com/patriots/2026/11/he-wore-chuck-taylors-to-a-football-tryout-now-hes-starting-for-the-patriots.html",
-      "published": "2026-11-06T10:00:00+00:00",
-      "summary": "This Patriots starting offensive lineman went undrafted out of high school and nearly skipped football entirely before his mother pushed him onto the field."
     },
     {
       "id": "ab397d94ee25",
@@ -741,46 +967,6 @@
       "summary": "Red Sox GM Craig Breslow heads into the GM Meetings navigating roster decisions amid significant uncertainty surrounding upcoming CBA negotiations and a looming lockout."
     },
     {
-      "id": "0cbbddb3e41c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Best Buy will match prices from 19 competitors — including Amazon and Walmart",
-      "link": "https://www.masslive.com/business/2026/11/why-savvy-holiday-shoppers-are-taking-a-second-look-at-best-buy-this-season.html",
-      "published": "2026-11-06T10:00:00+00:00",
-      "summary": "The retailer covers 19 qualifying competitors and gives members up to 60 days to request a refund."
-    },
-    {
-      "id": "dbc22a2616df",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ex-ESPN personality rants about women, Blacks voting: ‘Destroyed America’",
-      "link": "https://www.masslive.com/sports/2026/11/ex-espn-personality-rants-about-women-blacks-voting-destroyed-america.html",
-      "published": "2026-11-06T10:00:00+00:00",
-      "summary": "The response has not been kind."
-    },
-    {
-      "id": "31105b440336",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country music star lashes out at ‘extremely hurtful’ CMA Awards move: ‘WTF?’",
-      "link": "https://www.masslive.com/entertainment/2026/11/country-music-star-lashes-out-at-extremely-hurtful-cma-awards-move-wtf.html",
-      "published": "2026-11-06T10:00:00+00:00",
-      "summary": "He issued a lengthy statement on social media."
-    },
-    {
-      "id": "401408184395",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Country and bluegrass legend dies in his sleep at 95: ‘The music world lost a pioneer’",
-      "link": "https://www.masslive.com/entertainment/2026/11/country-and-bluegrass-legend-dies-in-his-sleep-at-95-the-music-world-lost-a-pioneer.html",
-      "published": "2026-11-06T10:00:00+00:00",
-      "summary": "He helped spread bluegrass music across the globe."
-    },
-    {
       "id": "dc68d8feb729",
       "source": "MassLive",
       "source_id": "masslive",
@@ -791,214 +977,24 @@
       "summary": "How do I come to terms with giving up so much of the life I imagined and still feeling as though I failed?"
     },
     {
-      "id": "a58b5182294f",
+      "id": "0cbbddb3e41c",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Click to see results from across the state on Nov. 5",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/hs-scoreboard-click-to-see-results-from-across-the-state-on-nov-5.html",
-      "published": "2026-11-06T03:40:03+00:00",
-      "summary": "Check out the reported scores from across the state on Thursday."
+      "title": "Best Buy will match prices from 19 competitors — including Amazon and Walmart",
+      "link": "https://www.masslive.com/business/2026/11/why-savvy-holiday-shoppers-are-taking-a-second-look-at-best-buy-this-season.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "The retailer covers 19 qualifying competitors and gives members up to 60 days to request a refund."
     },
     {
-      "id": "1dcf7ca5bbd1",
+      "id": "dc057782299e",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "These 13 high school football players will define the Division 6 state tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/13-high-school-football-players-to-watch-in-the-division-6-state-tournament.html",
-      "published": "2026-11-06T03:37:49+00:00",
-      "summary": "This baker's dozen of Division 6 football players to watch has authored upsets already and has their eyes set on a state title."
-    },
-    {
-      "id": "34f3b7e5edc0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Football Roundup: South Hadley's season ends in D-VII opener",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/football-roundup-xaverian-st-johns-prep-and-saint-johns-moving-on-in-state-tourney.html",
-      "published": "2026-11-06T03:32:34+00:00",
-      "summary": "Three local football teams are moving forward in the MIAA state tournament after Thursday."
-    },
-    {
-      "id": "70722b690b1f",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Girls Volleyball Roundup: Longmeadow, Wellesley among teams moving on in state tourney",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/girls-volleyball-roundup-longmeadow-wellesley-among-teams-moving-on-in-state-tourney.html",
-      "published": "2026-11-06T03:25:18+00:00",
-      "summary": "Check out which girls volleyball teams are moving forward in the MIAA state tournament after Thursday."
-    },
-    {
-      "id": "e93ce1a95cac",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "These 11 players will make a difference in the D5 football tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/11-football-players-to-watch-in-the-miaa-division-5-tournament.html",
-      "published": "2026-11-06T03:19:09+00:00",
-      "summary": "Long winning streaks are on the line in the MIAA Division 5 football tournament. These 11 players will keep them going or snap them."
-    },
-    {
-      "id": "203d3ff1ea6d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Field Hockey Roundup: Check out who opened the state tournament in style",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/field-hockey-roundup-check-out-who-opened-the-state-tournament-in-style.html",
-      "published": "2026-11-06T03:06:29+00:00",
-      "summary": "The MIAA field hockey state tournament was in full effect on Thursday."
-    },
-    {
-      "id": "cb3d61489dd8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Pavel Zacha’s two goals guide Bruins past struggling Penguins",
-      "link": "https://www.masslive.com/bruins/2026/11/pavel-zachas-two-goals-guide-bruins-past-struggling-penguins.html",
-      "published": "2026-11-06T02:49:32+00:00",
-      "summary": "The Boston Bruins snapped their three-game road losing streak on Thursday."
-    },
-    {
-      "id": "a8c1cda0ea5a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Rush 2027 Sphere residency: How to secure ‘Elevate From the Norm’ tickets",
-      "link": "https://www.masslive.com/live-entertainment/2026/11/rush-announce-new-2027-sphere-residency-how-you-csecure-tickets.html",
-      "published": "2026-11-06T02:40:40+00:00",
-      "summary": "Rush just announced the ‘Elevate From the Norm’ 2027 Sphere residency, and this is how fans can get tickets."
-    },
-    {
-      "id": "e8186069a056",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Xaverian football getting healthy at right time, embracing being underdog",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/xaverian-football-getting-healthy-at-right-time-embracing-being-underdog.html",
-      "published": "2026-11-06T02:36:34+00:00",
-      "summary": "With Boston College commit Michael Harden Jr. and defensive back Jonathan Etienne back on the field, the Hawks are starting to show why they are the reigning Division I champions..."
-    },
-    {
-      "id": "9ad679fefbdc",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Don't miss these 14 football players in the Division 4 state tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/14-high-school-football-players-to-watch-in-the-division-4-state-tournament.html",
-      "published": "2026-11-06T02:21:32+00:00",
-      "summary": "Some of the state's best players will battle it out to advance in the MIAA Division 4 state tournament. Here are 14 football players to watch."
-    },
-    {
-      "id": "4dc26ef33665",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Clinton Vo helps West Springfield football earn 1st win: ‘I’m proud of them’",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/clinton-vo-helps-west-springfield-football-earn-1st-win-im-proud-of-them.html",
-      "published": "2026-11-06T02:16:39+00:00",
-      "summary": "The West Springfield football team celebrated for good reason on Thursday night."
-    },
-    {
-      "id": "2c50c9993269",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "UGG dropped 8 cozy styles in the perfect earthy neutral — and they’re all 30% off",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/ugg-dropped-8-cozy-styles-in-the-perfect-earthy-neutral-and-theyre-all-30-off.html",
-      "published": "2026-11-06T02:11:58+00:00",
-      "summary": "UGG has launched the Antilope/Redwood colorway across eight styles, available at 30% off for UGG members during its Early Cyber Sale."
-    },
-    {
-      "id": "2d65ac5dc3e0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "St. John’s Prep football defeats Weymouth to begin D-I tournament",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/st-johns-prep-football-defeats-weymouth-to-begin-d-i-tournament.html",
-      "published": "2026-11-06T02:01:34+00:00",
-      "summary": "St. John's Prep football is now perfect through nine games."
-    },
-    {
-      "id": "c515c3714d94",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Question 5 fails: Massachusetts voters halt tax rebate changes",
-      "link": "https://www.masslive.com/politics/2026/11/massachusetts-ballot-question-5-fails-halting-change-to-tax-rebates.html",
-      "published": "2026-11-06T01:14:16+00:00",
-      "summary": "Massachusetts voters rejected Ballot Question 5 with 52% voting no, preserving the state's existing tax rebate law and its current revenue cap triggers."
-    },
-    {
-      "id": "7e4d5b0f0790",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "When does HOKA’s Black Friday sale begin in 2026?",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/when-does-hokas-black-friday-begin-in-2026.html",
-      "published": "2026-11-06T01:10:07+00:00",
-      "summary": "HOKA's Black Friday 2026 sale is expected to start around Thanksgiving, Nov. 26, with discounts of up to 50% on select shoes, apparel, and accessories, potentially extending through Cyber Monday on Nov. 30."
-    },
-    {
-      "id": "7a4c776ff448",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Agawam field hockey explodes in fourth quarter to defeat West Springfield in D-II opener",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/agawam-field-hockey-explodes-in-fourth-quarter-to-defeat-west-springfield-in-d-ii-opener.html",
-      "published": "2026-11-06T00:47:30+00:00",
-      "summary": "Agawam field hockey punched its ticket to the next round of the MIAA Division II state tournament on Thursday."
-    },
-    {
-      "id": "72ad169f8126",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "MassLive breaks down all 5 MIAA girls soccer brackets with guests from around the state",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/watch-the-masslive-miaa-girls-soccer-bracket-breakdown-show-here.html",
-      "published": "2026-11-06T00:40:49+00:00",
-      "summary": "Guests from around the state joined MassLive's Kyle Grabowski to break down the 2026 MIAA girls soccer state tournament brackets."
-    },
-    {
-      "id": "e21026a72920",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Chicopee PD contributed to fiery crash that killed 13-year-old, lawsuit claims",
-      "link": "https://www.masslive.com/westernmass/2026/11/chicopee-pd-contributed-to-fiery-crash-that-killed-13-year-old-lawsuit-claims.html",
-      "published": "2026-11-06T00:10:02+00:00",
-      "summary": "The lawsuit is the second piece of litigation the city faces in connection with the collision along Montgomery Street."
-    },
-    {
-      "id": "d3a9cb7ac21a",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Target kicks off early Black Friday sale with 40% off toys, just in time for holiday shopping",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/target-kicks-off-early-black-friday-sale-with-40-off-toys-just-in-time-for-holiday-shopping.html",
-      "published": "2026-11-05T23:49:01+00:00",
-      "summary": "Target's three-day Early Black Friday sale offers up to 40% off select toys, including Pokémon, Nerf, VTech, and more, running through Nov. 7."
-    },
-    {
-      "id": "3a5600553f7c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "2026 Bay State Conference girls soccer All-Stars announced",
-      "link": "https://www.masslive.com/highschoolsports/2026/11/2026-bay-state-conference-girls-soccer-all-stars-coach-of-the-year-announced.html",
-      "published": "2026-11-05T23:29:48+00:00",
-      "summary": "Two midfielders won the Bay State Conference Most Valuable Player Awards for girls soccer."
-    },
-    {
-      "id": "21fbb964f8ab",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Stephen A. Smith says ESPN analyst could improve Cowboys defense: ‘I’d bet my check on it’",
-      "link": "https://www.masslive.com/sports/2026/11/stephen-a-smith-says-espn-analyst-could-improve-cowboys-defense-id-bet-my-check-on-it.html",
-      "published": "2026-11-05T23:20:35+00:00",
-      "summary": "The ESPN personality made the comments after the Cowboys blew a fourth-quarter lead against the Arizona Cardinals."
+      "title": "How a reluctant teen became an NFL offensive lineman with Patriots",
+      "link": "https://www.masslive.com/patriots/2026/11/he-wore-chuck-taylors-to-a-football-tryout-now-hes-starting-for-the-patriots.html",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "This Patriots starting offensive lineman went undrafted out of high school and nearly skipped football entirely before his mother pushed him onto the field."
     },
     {
       "id": "3a73b8fccf35",
@@ -1101,6 +1097,16 @@
       "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek ."
     },
     {
+      "id": "26ad96e00eba",
+      "source": "Petri",
+      "source_id": "petri",
+      "category": "tech",
+      "title": "Most Organizations Cannot Quickly Exit Their Cloud Provider",
+      "link": "https://petri.com/organizations-cannot-quickly-exit-cloud-provider/",
+      "published": "2026-11-06T12:00:08+00:00",
+      "summary": "Organizations increasingly believe they have control over their cloud environments, but many are far more dependent on major cloud providers than they realize. A recent Leaseweb survey found that 89% of businesses could not move critical workloads away from their primary cloud or infrastructure…"
+    },
+    {
       "id": "5f03ebc775ef",
       "source": "Petri",
       "source_id": "petri",
@@ -1169,6 +1175,16 @@
       "link": "https://petri.com/microsoft-intune-controls-cloud-pcs-apple-devices/",
       "published": "2026-11-03T15:04:35+00:00",
       "summary": "As organizations manage growing fleets of Windows, Apple, and cloud-based devices, IT teams often face a difficult balancing issue. Security teams need stricter controls and faster compliance enforcement, while end users expect flexibility and minimal disruption. Traditional approaches frequently…"
+    },
+    {
+      "id": "6625b8a777d1",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "published": "2026-11-06T11:30:00+00:00",
+      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and…"
     },
     {
       "id": "6facdf5f94df",
@@ -1461,14 +1477,34 @@
       "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API…"
     },
     {
-      "id": "63d055e30b47",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
+      "id": "5fba130d4ec8",
+      "source": "Engadget",
+      "source_id": "engadget",
       "category": "tech",
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "published": "2026-11-03T15:16:32+00:00",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in…"
+      "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+      "link": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
+      "published": "2026-11-06T11:40:53+00:00",
+      "summary": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi."
+    },
+    {
+      "id": "0e0f913ed04d",
+      "source": "Engadget",
+      "source_id": "engadget",
+      "category": "tech",
+      "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
+      "link": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+      "published": "2026-11-06T11:18:59+00:00",
+      "summary": "Perplexity launches personal AI agents that can act as your 'teammates.'"
+    },
+    {
+      "id": "b69f7c740980",
+      "source": "Engadget",
+      "source_id": "engadget",
+      "category": "tech",
+      "title": "The New York Times Company is reportedly trying to buy Letterboxd for $330 million",
+      "link": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+      "published": "2026-11-06T10:17:23+00:00",
+      "summary": "The New York Times Company declined to comment on The New York Times' story."
     },
     {
       "id": "1eac9df98bea",
@@ -1639,36 +1675,6 @@
       "link": "https://www.engadget.com/2304128/2027-chevrolet-silverado-1500-first-drive/",
       "published": "2026-11-05T14:00:00+00:00",
       "summary": "Chevy's new Silverado needs a few updates before it's ready for prime time."
-    },
-    {
-      "id": "608b6833582f",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "Apple iMac M6 review: Faster, more expensive and deeply in need of a refresh",
-      "link": "https://www.engadget.com/2307246/apple-imac-m6-review/",
-      "published": "2026-11-05T14:00:00+00:00",
-      "summary": "Most buyers would be better off with a Mac mini and a bigger external display."
-    },
-    {
-      "id": "dca72253525b",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "MacBook Pro with PROLED XDR Display review: Lighter, brighter, but the touchscreen doesn't add much",
-      "link": "https://www.engadget.com/2307215/apple-macbook-pro-with-proled-xdr-display-review/",
-      "published": "2026-11-05T14:00:00+00:00",
-      "summary": "Apple's touchscreen laptop is a notable evolution of the MacBook Pro at a much higher price."
-    },
-    {
-      "id": "465ee7a752cc",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "MacBook Pro M6 review: A slight upgrade, but still the most accessible MacBook Pro",
-      "link": "https://www.engadget.com/2307614/apple-macbook-pro-m6-review/",
-      "published": "2026-11-05T14:00:00+00:00",
-      "summary": "The M6 MacBook Pro is more of the same, but that's still pretty great."
     },
     {
       "id": "f64889a7b3b6",
@@ -2101,6 +2107,36 @@
       "summary": ""
     },
     {
+      "id": "bba43591eb49",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "CT Democrats back Ritter, Duff for top legislative posts",
+      "link": "https://hartfordbusiness.com/article/ct-democrats-back-ritter-duff-for-top-legislative-posts/",
+      "published": "2026-11-06T12:01:19+00:00",
+      "summary": "Democrats’ expanded majorities bring 37 new legislators to the Capitol, while uncertainty over Matt Ritter’s future at UConn leaves the House speaker’s role in question."
+    },
+    {
+      "id": "e3953545c132",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "Revolution Wind reaches full commercial operation, supplying power to CT and R.I.",
+      "link": "https://hartfordbusiness.com/article/revolution-wind-reaches-full-commercial-operation-supplying-power-to-ct-and-r-i/",
+      "published": "2026-11-06T11:57:25+00:00",
+      "summary": "The $6 billion offshore wind project can power 350,000 homes and is expected to help cut electricity costs for Connecticut and Rhode Island customers."
+    },
+    {
+      "id": "ec1d2314baad",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "🔒 Sen. Murphy recovering from stroke; timetable for return unclear",
+      "link": "https://hartfordbusiness.com/article/sen-murphy-recovering-from-stroke-timetable-for-return-unclear/",
+      "published": "2026-11-06T11:50:49+00:00",
+      "summary": "The Connecticut senator remains hospitalized as his recovery continues, following a stroke that sidelined him during a pivotal midterm election campaign."
+    },
+    {
       "id": "44cd18879139",
       "source": "Hartford Business Journal",
       "source_id": "hbj",
@@ -2169,36 +2205,6 @@
       "link": "https://hartfordbusiness.com/article/notable-women-in-accounting-spotlight-allie-blair-dorman/",
       "published": "2026-11-05T14:19:41+00:00",
       "summary": "Allie Blair Dorman, founder of Allie Blair Bookkeeping & Business Consulting, shares how accounting professionals are becoming strategic business advisors. She also discusses the importance of curiosity, adaptability and empathy in leadership and helping small business owners make more confident…"
-    },
-    {
-      "id": "4b11a55ad430",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "🔒 Luxury Home Sales: Brick Colonial on 6 acres in Glastonbury sells for $1.45M",
-      "link": "https://hartfordbusiness.com/article/luxury-home-sales-brick-colonial-on-6-acres-in-glastonbury-sells-for-1-45m/",
-      "published": "2026-11-05T14:00:56+00:00",
-      "summary": "A brick Colonial at the end of a tree-lined drive in Glastonbury, on more than 6 acres next to a town-owned preserve, sold for $1.45 million."
-    },
-    {
-      "id": "8a79d853aa36",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "Pfizer plans $650M manufacturing center at Groton campus to expand clinical research",
-      "link": "https://hartfordbusiness.com/article/pfizer-plans-650m-manufacturing-center-at-groton-campus-to-expand-clinical-research/",
-      "published": "2026-11-05T13:00:46+00:00",
-      "summary": "The 220,000-square-foot facility will add drug manufacturing capabilities to Pfizer's Groton campus, which employs more than 4,000 researchers."
-    },
-    {
-      "id": "3823758b9845",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "Lamont, CT Democrats weigh mandate after sweeping election wins",
-      "link": "https://hartfordbusiness.com/article/lamont-ct-democrats-weigh-mandate-after-sweeping-election-wins/",
-      "published": "2026-11-05T11:59:20+00:00",
-      "summary": "Connecticut Democrats are poised to wield new power in Washington, with plans for Trump oversight, affordability measures and major committee leadership roles."
     },
     {
       "id": "3a8f9a3bb5fd",
@@ -2441,24 +2447,34 @@
       "summary": "Videostrong planted a backdoor in more than 1.3 million Android set-top boxes and sold criminals access to the resulting botnet."
     },
     {
-      "id": "05f8a42fcfed",
-      "source": "Malwarebytes",
-      "source_id": "malwarebytes",
+      "id": "7dec2b66b380",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
       "category": "tech",
-      "title": "Hackers put porn on public billboards and claim it was “far too easy”",
-      "link": "https://www.malwarebytes.com/blog/bugs/2026/11/hackers-put-porn-on-public-billboards-and-claim-it-was-far-too-easy",
-      "published": "2026-11-03T12:01:55+00:00",
-      "summary": "A hacking group called Leakers$ gained access to remote management software for billboards and used it to show porn."
+      "title": "Residential proxy traffic caught leaving the White House network",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/",
+      "published": "2026-11-06T10:29:58+00:00",
+      "summary": "The White House network has been working as an exit point for residential proxy services, a setup that may open a path into one of the most closely guarded networks in the world, Layer3 Intel found. In a blog post, the threat intelligence firm reported that its proxy enumeration pipeline exited…"
     },
     {
-      "id": "077ace75f36a",
-      "source": "Malwarebytes",
-      "source_id": "malwarebytes",
+      "id": "c9b593946ad1",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
       "category": "tech",
-      "title": "Revolve card breach: 1.5 million people may be affected",
-      "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/revolve-card-breach-1-5-million-people-may-be-affected",
-      "published": "2026-11-03T11:26:44+00:00",
-      "summary": "Revolve says shoppers’ saved card details were stolen. A Texas filing suggests as many as 1.5 million people may be affected."
+      "title": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/",
+      "published": "2026-11-06T10:19:49+00:00",
+      "summary": "OpenAI has introduced GPT-6 Cyber, a version of GPT-6 Astra trained to find software vulnerabilities, test how attackers could exploit them, and help develop fixes. The model is designed for authorized security testing of websites and applications. Vulnerability research and security testing…"
+    },
+    {
+      "id": "affb73a9e26e",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "Sarajevo Cyber Security Summit 2026 puts the Western Balkans’ cyber resilience in focus",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
+      "published": "2026-11-06T10:18:30+00:00",
+      "summary": "Cyber Security Summit 2026 in Sarajevo will examine the practical security questions organizations face when a supplier, network device or critical digital service fails: what breaks, who decides, and how quickly can operations recover? A serious cyber incident does not need to begin on an…"
     },
     {
       "id": "9e0aea37a06b",
@@ -2531,36 +2547,6 @@
       "summary": "Cyberhaven has introduced Agentic Data Security (ADS), to help CISOs, data security teams, insider risk teams, and AI governance leaders say yes to AI agents without losing control of their data. Agentic Data Security shows security teams what every AI agent does with company data, who it is…"
     },
     {
-      "id": "3f09ef17b6ca",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Rubrik hosts NAS backups in isolated, immutable vaults",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/rubrik-unstructured-data-protection/",
-      "published": "2026-11-05T14:48:20+00:00",
-      "summary": "Rubrik has announced Rubrik-Hosted Protection for On-Premise Unstructured Data. The offering is built on Rubrik’s Network Attached Storage (NAS) Cloud Direct service. Customers now have clean recovery for enterprise-scale NAS data without having to buy, build or manage backup storage. “Backups…"
-    },
-    {
-      "id": "a2de14054cb4",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Vercel ties login sessions to devices, rolls out AI security reviews in public beta",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/vercel-security-review-session-hijacking/",
-      "published": "2026-11-05T14:37:00+00:00",
-      "summary": "Vercel, the popular cloud platform for building and hosting websites and web applications, has announced the rollout of Device Bound Session Credentials (DBSC) and the launch of Vercel Security Review in public beta. Making stolen session cookies worthless Device Bound Session Credentials is a…"
-    },
-    {
-      "id": "b422fe9089ae",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Arkose Labs expands Agent Trust Manager to govern agent sessions",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/arkose-agent-trust-manager/",
-      "published": "2026-11-05T14:33:02+00:00",
-      "summary": "Arkose Labs has expanded Arkose Agent Trust Manager to help businesses control agentic traffic. Companies can classify agent sessions, apply allow, monitor or block policies at each step of the customer journey, and track the same agent across multiple networks. The need is urgent given Arkose…"
-    },
-    {
       "id": "6ed44c5da57e",
       "source": "SANS Internet Storm Center",
       "source_id": "sansisc",
@@ -2611,6 +2597,16 @@
       "summary": ""
     },
     {
+      "id": "0da6cf00fb54",
+      "source": "The Record",
+      "source_id": "therecord",
+      "category": "tech",
+      "title": "EU accuses TikTok of trapping users in harmful ‘rabbit holes’",
+      "link": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image."
+    },
+    {
       "id": "3189ce2b4e22",
       "source": "The Record",
       "source_id": "therecord",
@@ -2649,16 +2645,6 @@
       "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
       "published": "2026-11-05T19:15:00+00:00",
       "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks."
-    },
-    {
-      "id": "44c256844f1e",
-      "source": "The Record",
-      "source_id": "therecord",
-      "category": "tech",
-      "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
-      "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
-      "published": "2026-11-05T17:00:00+00:00",
-      "summary": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found."
     },
     {
       "id": "67dcad135390",
@@ -2981,16 +2967,6 @@
       "summary": "A vulnerability alert starts the response. Salt helps carry it through discovery, approved repair, and verification—at scale, across your entire fleet. A critical PHP advisory lands. Security wants to know which systems could be affected. Operations need the right packages, the right…"
     },
     {
-      "id": "2a0e44ea63f6",
-      "source": "VMware blogs",
-      "source_id": "vmwareblogs",
-      "category": "tech",
-      "title": "Step Into the Spotlight: Submit to Speak at VMware Explore 2027",
-      "link": "https://blogs.vmware.com/explore/apply-to-speak-at-vmware-explore/",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "In case you haven’t heard, Explore is moving to May 10 – 13 in 2027. Because of this, we are seeking your submissions sooner. The Call for Proposals for Explore 2027 in Las Vegas Is Officially Open SUBMIT NOW We’re going live much earlier in the calendar year than our traditional spring timeframe,…"
-    },
-    {
       "id": "76ff56b608ed",
       "source": "Virtualization Review",
       "source_id": "virtreview",
@@ -3311,6 +3287,16 @@
       "summary": "How can banks adapt their cross-border payment services to increase client satisfaction?"
     },
     {
+      "id": "32da2dc13e0a",
+      "source": "Finextra",
+      "source_id": "finextra",
+      "category": "tech",
+      "title": "How to Prioritise Data to Smooth Buyer and Supplier Relationships",
+      "link": "https://www.finextra.com/videoarticle/3642/how-to-prioritise-data-to-smooth-buyer-and-supplier-relationships?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "At Sibos 2026, Mastercard’s Marc Pettican talks about how advanced data analytics and AI can unlock working capital and early payment discounts."
+    },
+    {
       "id": "d1f628d2331d",
       "source": "Finextra",
       "source_id": "finextra",
@@ -3501,16 +3487,6 @@
       "summary": "Broadridge (NYSE: BR), a global Fintech leader, and Dinari Inc., a financial infrastructure company enabling the issuance, distribution and trading of tokenized equities, today announced an integration enabling eligible holders of Dinari's dShares™ to exercise shareholder voting rights through…"
     },
     {
-      "id": "845887c810a6",
-      "source": "Finextra",
-      "source_id": "finextra",
-      "category": "tech",
-      "title": "Creditinfo and TaranDM join forces to expand credit decisioning capabilities for banks and telcos",
-      "link": "https://www.finextra.com/pressarticle/111589/creditinfo-and-tarandm-join-forces-to-expand-credit-decisioning-capabilities-for-banks-and-telcos?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "published": "2026-11-05T13:26:00+00:00",
-      "summary": "Creditinfo, a global provider of credit information and risk management solutions, today announced a partnership with TaranDM, an enterprise-grade credit risk decision engine, to bring flexible, customisable credit decisioning capabilities to banks, fintechs, telcos and other lenders across…"
-    },
-    {
       "id": "5efcc50c6e34",
       "source": "Home Assistant",
       "source_id": "homeassistant",
@@ -3579,6 +3555,16 @@
       "link": "https://www.virtualizationhowto.com/2026/11/this-free-kubernetes-tool-could-replace-lens-in-your-home-lab/",
       "published": "2026-11-03T13:12:19+00:00",
       "summary": "I am always on the lookout for new and really cool tools that allow us to have things at our fingertips in the home lab. If you are running some… The post This Free Kubernetes Tool Could Replace Lens in Your Home Lab appeared first on Virtualization Howto ."
+    },
+    {
+      "id": "557054d237fe",
+      "source": "MacRumors",
+      "source_id": "macrumors",
+      "category": "tech",
+      "title": "OLED iPad Mini, M6 iMac, and New MacBook Pros Available From Today",
+      "link": "https://www.macrumors.com/2026/11/06/ipad-mini-oled-and-m6-imac-available-today/",
+      "published": "2026-11-06T10:51:29+00:00",
+      "summary": "From today, Apple's new iPad mini with an OLED display, M6 iMac, and its latest MacBook Pro models are available to buy from Apple's online store and in the Apple Store app, with the first pre-orders also arriving to customers today and both devices reaching Apple Store locations and Apple…"
     },
     {
       "id": "93bddd374bf6",
@@ -3769,16 +3755,6 @@
       "link": "https://www.macrumors.com/2026/11/05/homeview-code-suggests-support-ai-chatbot-apps/",
       "published": "2026-11-05T11:43:52+00:00",
       "summary": "Code discovered in the iOS 27.3 beta suggests Apple is laying the groundwork for chatbot apps on its upcoming HomeView smart home hub, according to the code investigator known as pdfu . The software HomeView uses to display apps from a connected iPhone or iPad is said to have gained a \"…"
-    },
-    {
-      "id": "c71ace3816b4",
-      "source": "MacRumors",
-      "source_id": "macrumors",
-      "category": "tech",
-      "title": "Got an iPhone Duo on Launch Day? Today Could Be Your Last Chance to Return It",
-      "link": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/",
-      "published": "2026-11-05T10:32:51+00:00",
-      "summary": "If you purchased an iPhone Duo on launch day and are having second thoughts about keeping Apple's first foldable iPhone, today could be your last chance to return it for a full refund. Apple officially launched the iPhone Duo on Friday, October 23, so the standard 14-day return window for…"
     },
     {
       "id": "846eda5a9599",
@@ -4081,6 +4057,36 @@
       "summary": "To promote the new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre store in Downtown Los Angeles. Watch the livestream below. more…"
     },
     {
+      "id": "751a9c5e0707",
+      "source": "AppleInsider",
+      "source_id": "appleinsider",
+      "category": "tech",
+      "title": "Siri AI waitlist is (mostly) a thing of the past",
+      "link": "https://appleinsider.com/articles/26/11/06/siri-ai-waitlist-is-mostly-a-thing-of-the-past?utm_source=rss",
+      "published": "2026-11-06T11:58:26+00:00",
+      "summary": "Since the Siri AI launch in beta, Apple has gated it behind a waitlist. In an update to a support document , Apple now says that that waitlist will only be in place in periods of high demand, and wait times may vary. We tested it on Friday morning, and true enough, instant access. Continue Reading…"
+    },
+    {
+      "id": "48f9eeaa8267",
+      "source": "AppleInsider",
+      "source_id": "appleinsider",
+      "category": "tech",
+      "title": "From Mac Portable to PROLED MacBook Pro: 35 years of mobile Macs",
+      "link": "https://appleinsider.com/articles/26/11/06/from-mac-portable-to-proled-macbook-pro-35-years-of-mobile-macs?utm_source=rss",
+      "published": "2026-11-06T11:51:31+00:00",
+      "summary": "Apple's road to its iconic MacBook was bumpy, and saw oversized portables, colorful clamshells, keyboard issues, and spanned three entirely different chip architectures. Here's a snapshot of 35 years of true Apple portables. MacBook History Apple's no slouch when it comes to giving its customers…"
+    },
+    {
+      "id": "36438589146f",
+      "source": "AppleInsider",
+      "source_id": "appleinsider",
+      "category": "tech",
+      "title": "Apple's first deliveries offer a closer look at new iPad mini, MacBook Pros, and iMac",
+      "link": "https://appleinsider.com/articles/26/11/06/apples-first-deliveries-offer-a-closer-look-at-new-ipad-mini-macbook-pros-and-imac?utm_source=rss",
+      "published": "2026-11-06T11:43:21+00:00",
+      "summary": "Apple announced several new products in late October, and now they're finally showing up at customers' doorsteps worldwide. The MacBook Pro is arriving with users - Image Credit: Apple On October 26, Apple announced the all-new iPad mini . Now, it comes equipped with the A20 Pro and an OLED…"
+    },
+    {
       "id": "6cea6a34942a",
       "source": "AppleInsider",
       "source_id": "appleinsider",
@@ -4351,34 +4357,84 @@
       "summary": "Apple will begin checking publicly shared iCloud links for harmful content with its 27.3 updates, with violations risking account bans or law enforcement referrals. Apple to scan public iCloud content in iOS 27.3 Apple will scan publicly linked iCloud content for harmful material starting with iOS…"
     },
     {
-      "id": "248ebe128ab6",
-      "source": "AppleInsider",
-      "source_id": "appleinsider",
+      "id": "2462b2cbdbd4",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
       "category": "tech",
-      "title": "New Bluetooth standard supports great lossless audio, but you'll need new headphones",
-      "link": "https://appleinsider.com/articles/26/11/04/new-bluetooth-standard-supports-great-lossless-audio-but-youll-need-new-headphones?utm_source=rss",
-      "published": "2026-11-04T16:09:15+00:00",
-      "summary": "Bluetooth High Data Throughput will bring faster data transfers and higher quality audio than ever before, but it's more than a software update, it needs manufacturers to adopt it in hardware. Bluetooth HDT could improve the audio quality of future Apple AirPods For something we all rely on for…"
+      "title": "Motorola Razr Fold gets a much-needed software update, but still no Android 17",
+      "link": "https://www.androidauthority.com/motorola-razr-fold-android-17-update-delay-3732427/",
+      "published": "2026-11-06T11:32:24+00:00",
+      "summary": "Cheaper and older Motorola phones have already beaten it to Android 17."
     },
     {
-      "id": "194bd5825ca3",
-      "source": "AppleInsider",
-      "source_id": "appleinsider",
+      "id": "57997b33ff10",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
       "category": "tech",
-      "title": "macOS Golden Gate touch features work with external displays, Sidecar",
-      "link": "https://appleinsider.com/articles/26/11/04/macos-golden-gate-touch-features-work-with-external-displays-sidecar?utm_source=rss",
-      "published": "2026-11-04T14:52:01+00:00",
-      "summary": "The new PROLED MacBook Pro isn't the only hardware that benefits from macOS Golden Gate 's touch-centric changes. Third-party displays and Sidecar benefit from them too. Touching the traffic light buttons in macOS Golden Gate, using an iPad with Sidecar Apple's decision to bring touchscreen…"
+      "title": "How I freed up 4GB of storage to avoid paying for Google One",
+      "link": "https://www.androidauthority.com/free-up-storage-avoid-paying-google-one-how-3731150/",
+      "published": "2026-11-06T11:30:50+00:00",
+      "summary": "I cleared enough clutter to avoid paying for another monthly subscription."
     },
     {
-      "id": "da41e17093d0",
-      "source": "AppleInsider",
-      "source_id": "appleinsider",
+      "id": "6e522b0eef0e",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
       "category": "tech",
-      "title": "We love this iMac G4 to HomeView dupe project",
-      "link": "https://appleinsider.com/articles/26/11/04/we-love-this-imac-g4-to-homeview-dupe-project?utm_source=rss",
-      "published": "2026-11-04T14:23:34+00:00",
-      "summary": "Okay, it's in essence just an iMac G4 sort-of mirroring a MacBook screen, but it's still cool. YouTuber Jesse Richards uses custom software (that he has made available ) on a MacBook to stream what a HomeView shows to the user while it's running. Yet another reason to reuse classic Apple hardware,…"
+      "title": "I still can’t believe how bad the Google Wallet redesign is",
+      "link": "https://www.androidauthority.com/google-wallet-card-redesign-still-bad-3730822/",
+      "published": "2026-11-06T11:00:06+00:00",
+      "summary": "There's still time to change this, Google."
+    },
+    {
+      "id": "bf9bee11e20a",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "The $400 Aina smart ring comes with a tiny display to manage your AI agents",
+      "link": "https://www.androidauthority.com/aina-smart-ring-with-display-3732394/",
+      "published": "2026-11-06T10:50:39+00:00",
+      "summary": "It works with your iPhone or Mac but Android support is currently missing."
+    },
+    {
+      "id": "cbdc33111330",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Google Earth gets a new logo with Google’s gradient makeover",
+      "link": "https://www.androidauthority.com/google-earth-gradient-icon-redesign-3732345/",
+      "published": "2026-11-06T10:47:25+00:00",
+      "summary": "Another Google icon, another gradient."
+    },
+    {
+      "id": "ed03f6189a5f",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "The Apple Watch Series 12 is still superb, but Google has caught up",
+      "link": "https://www.androidauthority.com/apple-watch-series-12-review-3729599/",
+      "published": "2026-11-06T10:45:41+00:00",
+      "summary": "Has Apple done enough to make the Apple Watch Series 12 a great smartwatch that's worth buying?"
+    },
+    {
+      "id": "9864439a85d5",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "This Googlebook omission is a deal-breaker for me",
+      "link": "https://www.androidauthority.com/googlebook-omission-find-hub-app-3730390/",
+      "published": "2026-11-06T10:30:45+00:00",
+      "summary": "I'm not buying a Googlebook until this feature makes a comeback."
+    },
+    {
+      "id": "096c8a99803c",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Boxshelf is a new Android front-end that turns your ROMs into a virtual collection",
+      "link": "https://www.androidauthority.com/boxshelf-android-handheld-front-end-launcher-3732398/",
+      "published": "2026-11-06T10:28:16+00:00",
+      "summary": "This new front-end turns your ROMs into gorgeous virtual game boxes, just in case you miss your physical collection."
     },
     {
       "id": "07975d8765d9",
@@ -4601,86 +4657,6 @@
       "summary": "Some smart homes keep forgetting who's in charge."
     },
     {
-      "id": "8100e729f8d7",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "YouTube bug makes the app appear in half dark mode, half light (Update)",
-      "link": "https://www.androidauthority.com/youtube-half-dark-and-light-mode-3732135/",
-      "published": "2026-11-05T17:14:15+00:00",
-      "summary": "A bug is causing issues with dark and light mode on YouTube."
-    },
-    {
-      "id": "c1c8b71e8502",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Tapo MagCam 4K kit with solar panels is $140 off on Amazon",
-      "link": "https://www.androidauthority.com/tapo-magcam-4k-security-camera-c460-kit-deal-3732149/",
-      "published": "2026-11-05T16:25:50+00:00",
-      "summary": "Tapo’s 3-pack 4K outdoor security camera kit drops to $259.99 on Amazon with solar panels, night vision, and Alexa support."
-    },
-    {
-      "id": "3410050c5959",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Amazon cuts Nothing Ear by 37%, back to all-time low",
-      "link": "https://www.androidauthority.com/deal-nothing-ear-3732103/",
-      "published": "2026-11-05T16:15:18+00:00",
-      "summary": "Save $40 on the Nothing Ear earbuds and grab them for $69, with 45dB ANC, an 11 mm ceramic driver, and a transparent design."
-    },
-    {
-      "id": "11de20e42e73",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Oura Ring 5 gets its first real Amazon discount",
-      "link": "https://www.androidauthority.com/oura-ring-5-deal-3732141/",
-      "published": "2026-11-05T16:12:20+00:00",
-      "summary": "The new Oura Ring 5 is 13% off on Amazon, cutting the price of Oura’s 2026 smart ring for 24/7 health tracking."
-    },
-    {
-      "id": "6493bdac4e87",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Resy is suffering a partial outage right now (Update: Back online)",
-      "link": "https://www.androidauthority.com/resy-partial-outage-nov-2026-3732111/",
-      "published": "2026-11-05T15:51:15+00:00",
-      "summary": "Resy is currently investigating."
-    },
-    {
-      "id": "a67e057e7083",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Gboard beta hints at a smarter Rambler that learns your words and contact names",
-      "link": "https://www.androidauthority.com/gboard-rambler-corrected-words-contacts-apk-teardown-3732028/",
-      "published": "2026-11-05T15:00:06+00:00",
-      "summary": "Rambler could also let users import their preferred words."
-    },
-    {
-      "id": "e8c199f51f58",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "The Nimbus Project ports 5 popular Dragon Ball Z games to Android",
-      "link": "https://www.androidauthority.com/the-nimbus-project-dragon-ball-z-android-ports-3732032/",
-      "published": "2026-11-05T14:59:58+00:00",
-      "summary": "Alpha 1.5 runs DBZ GameCube and GBA titles natively at 60fps with cross-platform multiplayer and custom touch controls."
-    },
-    {
-      "id": "f86ce4efeb39",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Rare deal slashes $302 off TCL’s 75-inch QM6K gaming TV",
-      "link": "https://www.androidauthority.com/tcl-75-inch-qm6k-smart-tv-deal-3732067/",
-      "published": "2026-11-05T14:52:23+00:00",
-      "summary": "The 75-inch TV drops to $697.99 on Amazon, returning to its all-time low with 144Hz gaming and Mini LED picture quality."
-    },
-    {
       "id": "00479a69fdac",
       "source": "Android Central",
       "source_id": "androidcentral",
@@ -4871,6 +4847,36 @@
       "summary": "Your Android TV box could be part of a massive botnet without you knowing."
     },
     {
+      "id": "83ff999d9495",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "4 Charging Gadgets For Your PlayStation 5 You May Not Know Exist",
+      "link": "https://www.bgr.com/2303270/obscure-charging-playstation-5-gadgets/",
+      "published": "2026-11-06T11:17:00+00:00",
+      "summary": "If you find charging your DualSense controller or PlayStation Portal to be a chore, these underrated charging devices will take that burden off of you."
+    },
+    {
+      "id": "57ee426f18ed",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "Are Lithium-Ion Battery Fires Really A Big Problem?",
+      "link": "https://www.bgr.com/2303030/are-lithium-ion-battery-fires-big-problem/",
+      "published": "2026-11-06T10:17:00+00:00",
+      "summary": "We hear about every disaster online, and battery fires are no exception. But are lithium-ion fires becoming more common, or are they just getting more coverage?"
+    },
+    {
+      "id": "1ef21f1cd84d",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "Here's How Much It Would Cost To Launch Your Own Satellite",
+      "link": "https://www.bgr.com/2297061/how-much-would-it-cost-to-launch-satellite/",
+      "published": "2026-11-06T04:17:00+00:00",
+      "summary": "Have you followed the saga of Starlink launches and wondered if you could do the same thing? Here's how much it would cost to launch your own satellite."
+    },
+    {
       "id": "b1a7d74abeba",
       "source": "BGR",
       "source_id": "bgr",
@@ -5039,36 +5045,6 @@
       "link": "https://www.bgr.com/2302064/can-evs-battery-pack-power-home/",
       "published": "2026-11-05T13:17:00+00:00",
       "summary": "Being able to temporarily power your home with your car during an emergency may seem like a futuristic thing, but do any of today's EVs offer the capability?"
-    },
-    {
-      "id": "c6fdfd3d48e3",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "Your Philips Hue Smart Lighting Just Got An Upgrade, If You Meet The Requirements",
-      "link": "https://www.bgr.com/2307568/philips-hue-smart-lighting-app-upgrade-bridge-pro/",
-      "published": "2026-11-05T12:17:00+00:00",
-      "summary": "For users who enjoy all the color options that Philips Hue bulbs offer, the company's new AI feature makes setting them up far more approachable and fun."
-    },
-    {
-      "id": "a00f7dfea863",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "4 Disadvantages Of Using Password Managers",
-      "link": "https://www.bgr.com/2301652/disadvantages-using-password-managers/",
-      "published": "2026-11-05T11:17:00+00:00",
-      "summary": "Password managers have been increasingly popular, and while they're touted as being convenient, here are some reasons why you might want to avoid them."
-    },
-    {
-      "id": "6c9167255cf5",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "5 Things You Should Never Do When Cleaning A Blu-Ray Disc",
-      "link": "https://www.bgr.com/2301387/things-should-never-do-cleaning-blu-ray-disc/",
-      "published": "2026-11-05T04:17:00+00:00",
-      "summary": "Taking proper care of your Blu-ray collection is vital if you want them to last, but here are five mistakes to avoid when cleaning the discs."
     },
     {
       "id": "bea5d616d20c",
@@ -5371,6 +5347,226 @@
       "summary": "Televisions of 80 inches and up are moving into the mainstream. Research firm Omdia expects global shipments in that size class to climb from about 9 million units in 2025 to more than 13 million by 2029, and its analysts credit much lower prices for the growth. TrendForce put sets of 60 inches…"
     },
     {
+      "id": "19f349096b38",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "New ‘Constantine’ Movie in Development From Director of ‘Evil Dead Wrath’",
+      "link": "https://gizmodo.com/new-constantine-movie-in-development-from-director-of-evil-dead-wrath-2000835987",
+      "published": "2026-11-06T12:00:57+00:00",
+      "summary": "Plus, 'He-Man' star Nicholas Galitzine has been cast as Ichabod Crane in 'Hollow.'"
+    },
+    {
+      "id": "11f50e07702b",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "INIU’s Rugged 10000 Power Bank Is Built for the Places You Can’t Plug In",
+      "link": "https://gizmodo.com/inius-rugged-10000-power-bank-is-built-for-the-places-you-cant-plug-in-2000833533",
+      "published": "2026-11-06T11:25:29+00:00",
+      "summary": "This compact charger is tough enough to endure the outdoors and advanced enough to charge two devices with serious speed."
+    },
+    {
+      "id": "e4471bd8987c",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Trump’s Crypto Vehicle World Liberty Financial to Buy Back Tokens After Post-Election Nose Dive",
+      "link": "https://gizmodo.com/trumps-crypto-vehicle-world-liberty-financial-to-buy-back-tokens-after-post-election-nose-dive-2000836068",
+      "published": "2026-11-06T04:59:13+00:00",
+      "summary": "World Liberty Financial's WLFI governance token is down 10% since Democrats took Congress, and more than 60% this year."
+    },
+    {
+      "id": "4cf56fa3a9a8",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Make Room, Wordle: The New York Times Is Reportedly Close to Purchasing Letterboxd for $330 Million",
+      "link": "https://gizmodo.com/make-room-wordle-the-new-york-times-is-reportedly-close-to-purchasing-letterboxd-for-330-million-2000836048",
+      "published": "2026-11-06T02:46:10+00:00",
+      "summary": "Sony and A24's bids apparently didn't make the cut."
+    },
+    {
+      "id": "1d33cd20e067",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This",
+      "link": "https://gizmodo.com/doj-launches-super-intelligence-task-force-because-apparently-were-still-doing-this-2000835957",
+      "published": "2026-11-06T00:06:03+00:00",
+      "summary": "Will the tech oligarchs keep up the whole \"super intelligence\" thing?"
+    },
+    {
+      "id": "fb4ea3648b56",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Lawsuit Claims Student’s Google AI Use Turned Into ‘Life-Threatening Obsession’",
+      "link": "https://gizmodo.com/lawsuit-claims-students-google-ai-use-turned-into-life-threatening-obsession-2000835894",
+      "published": "2026-11-05T23:59:11+00:00",
+      "summary": "The student's only access to Gemini was through a school-issued Chromebook, the parents claims."
+    },
+    {
+      "id": "756ad721090f",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems",
+      "link": "https://gizmodo.com/tech-rout-wipes-out-2-5-trillion-with-ai-investors-anticipating-heavier-scrutiny-2000835986",
+      "published": "2026-11-05T23:44:09+00:00",
+      "summary": "Tech stocks plummeted amid fears inbound Democrats will end Donald Trump's era of laissez-faire regulation and backdoor deals."
+    },
+    {
+      "id": "cfa6f269f40a",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "A Wacky English Dub Saved ‘Overgeared’ From Being Just Another ‘Solo Leveling’ Anime",
+      "link": "https://gizmodo.com/overgeared-crunchyroll-anime-english-dub-isekai-solo-leveling-2000835889",
+      "published": "2026-11-05T23:15:52+00:00",
+      "summary": "The saving grace for Crunchyroll's newest isekai anime is that it channels the same YouTube abridged series parody energy as 'Golden Boy,' 'Ghost Stories,' and 'Konosuba.'"
+    },
+    {
+      "id": "8a0bdd30be41",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Keanu Reeves Officially Returning for ‘John Wick’ Animated Film",
+      "link": "https://gizmodo.com/keanu-reeves-officially-returning-for-john-wick-animated-film-2000835985",
+      "published": "2026-11-05T22:35:41+00:00",
+      "summary": "The prequel story will be directed by Shannon Tindle ('Ultraman: Rising')."
+    },
+    {
+      "id": "8e1e25431a2a",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Grimes Shows Off Her Acting Chops in New AI Movie. Or Does She?",
+      "link": "https://gizmodo.com/grimes-shows-off-her-acting-chops-in-new-ai-movie-or-does-she-2000835869",
+      "published": "2026-11-05T21:50:08+00:00",
+      "summary": "Who knows what's real, but a popular YouTuber is trying to make the whole AI movie thing happen."
+    },
+    {
+      "id": "e4eb0e8154e9",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "FAA Plans to Retire Floppy Disks by 2028",
+      "link": "https://gizmodo.com/faa-plans-to-retire-floppy-disks-by-2028-2000835905",
+      "published": "2026-11-05T21:30:13+00:00",
+      "summary": "The agency announced plans to replace decades-old technology at more than 400 air traffic control facilities in the country."
+    },
+    {
+      "id": "8b43749ebbb5",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "A YouTuber Figured Out How to Find Almost Anyone Using Airplane Sounds",
+      "link": "https://gizmodo.com/a-youtuber-figured-out-how-to-find-almost-anyone-using-airplane-sounds-2000835861",
+      "published": "2026-11-05T21:05:43+00:00",
+      "summary": "You can hide your location, but you can't hide the planes overhead."
+    },
+    {
+      "id": "ed377ec1d76f",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Samsung’s Next Fitness Tracker Might Have a Big Advantage Over the Fitbit Edge",
+      "link": "https://gizmodo.com/samsung-galaxy-fit-4-nfc-2000835908",
+      "published": "2026-11-05T21:00:19+00:00",
+      "summary": "The Galaxy Fit 4 looks like it will come with NFC support, among a collection of other minor improvements."
+    },
+    {
+      "id": "76aaf49a4197",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Republicans Race to Give Trump More Power Over the FCC Before Losing the Senate",
+      "link": "https://gizmodo.com/republicans-race-to-give-trump-more-power-over-the-fcc-before-losing-the-senate-2000835692",
+      "published": "2026-11-05T20:20:54+00:00",
+      "summary": "Ted Cruz is pushing to confirm another Republican commissioner, potentially clearing the way for an all-Republican FCC that critics say would violate federal law."
+    },
+    {
+      "id": "7f34a4d3bb0d",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Bose Recalls 600,000 Batteries After Reports of Melting and Catching Fire",
+      "link": "https://gizmodo.com/bose-recalls-600000-batteries-after-reports-of-melting-and-catching-fire-2000835829",
+      "published": "2026-11-05T19:45:17+00:00",
+      "summary": "The batteries power the Bose S1 Pro System."
+    },
+    {
+      "id": "0df1c0eda8cc",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Archaeologists Excavated a 2,800-Year-Old Siberian Burial Mound. It Was Packed With Cannabis",
+      "link": "https://gizmodo.com/horseback-riding-siberian-nomads-got-high-on-cannabis-2800-years-ago-the-oldest-evidence-yet-2000835823",
+      "published": "2026-11-05T19:35:45+00:00",
+      "summary": "Archaeologists found trace evidence of cannabis use in braided hair samples recovered from an 8th century BCE burial mound in Siberia’s “Valley of the Kings.” They also found a lot of seeds."
+    },
+    {
+      "id": "4150e6b4aec1",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "The Final ‘Godzilla Minus Zero’ Trailer Reveals One of Its Not-So-Secret Secrets",
+      "link": "https://gizmodo.com/final-godzilla-minus-zero-trailer-king-ghidorah-2000835819",
+      "published": "2026-11-05T19:00:17+00:00",
+      "summary": "The sequel to the Oscar-winning hit is now in theaters."
+    },
+    {
+      "id": "f66bad592d8a",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Anyone Can Rent a White House IP Address for a Few Dollars",
+      "link": "https://gizmodo.com/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars-2000835738",
+      "published": "2026-11-05T18:45:55+00:00",
+      "summary": "It appears someone in the White House can't resist free apps."
+    },
+    {
+      "id": "b3e7ac174698",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Musk’s Companies Tank as Tech Stocks Get a Post-Election Correction",
+      "link": "https://gizmodo.com/musks-companies-tank-as-tech-stocks-get-a-post-election-correction-2000835782",
+      "published": "2026-11-05T18:30:05+00:00",
+      "summary": "The beatings will continue until morale improves."
+    },
+    {
+      "id": "9d61edd3713e",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Can the Xbox App Ever Beat Steam?",
+      "link": "https://gizmodo.com/xbox-app-updates-steam-2000835807",
+      "published": "2026-11-05T18:20:56+00:00",
+      "summary": "Probably not, but there are ways it can finally gain a foothold with PC gamers."
+    },
+    {
+      "id": "5ba088498b4a",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Portion of Island Road in Holland closed for tree removal",
+      "link": "https://www.wwlp.com/news/local-news/hampden-county/portion-of-island-road-in-holland-closed-for-tree-removal/",
+      "published": "2026-11-06T11:45:55+00:00",
+      "summary": "A portion of Island Road in Holland will be closed on Friday for tree removal."
+    },
+    {
+      "id": "efcca6535a50",
+      "source": "WWLP",
+      "source_id": "wwlp",
+      "category": "local",
+      "title": "Amherst staffing gaps persist one year after Olympia Place fire",
+      "link": "https://www.wwlp.com/news/local-news/hampshire-county/amherst-staffing-gaps-persist-one-year-after-olympia-place-fire/",
+      "published": "2026-11-06T10:59:30+00:00",
+      "summary": "Saturday will mark one year since a massive fire at Olympia Place in Amherst displaced 230 people."
+    },
+    {
       "id": "0e1368aa30d3",
       "source": "WWLP",
       "source_id": "wwlp",
@@ -5401,12 +5597,12 @@
       "summary": "Springfield Symphony Hall will host a free patriotic concert this weekend featuring the U.S. Army Field Concert Band and Soldiers' Chorus in celebration of Veterans Day."
     },
     {
-      "id": "514918a6b4da",
+      "id": "69f7f8b2c2ae",
       "source": "WWLP",
       "source_id": "wwlp",
       "category": "local",
       "title": "Local schools awarded more than $300K to expand access to locally grown food",
-      "link": "https://www.wwlp.com/news/massachusetts/local-schools-awarded-more-than-300k-to-expand-access-to-locally-grown-food/",
+      "link": "https://www.wwlp.com/news/local-news/local-schools-awarded-more-than-300k-to-expand-access-to-locally-grown-food/",
       "published": "2026-11-06T02:43:26+00:00",
       "summary": "Schools and educational organizations across western Massachusetts are receiving more than $300,000 in state funding to bring locally grown food into classrooms and cafeterias while providing students with hands-on agricultural learning opportunities."
     },
@@ -5425,7 +5621,7 @@
       "source": "WWLP",
       "source_id": "wwlp",
       "category": "local",
-      "title": "MA voters reject ballot question 8, preserving legal cannabis sales and 30,000 jobs",
+      "title": "Rejection of Ballot Question 8 preserves legal cannabis sales and 30,000 jobs",
       "link": "https://www.wwlp.com/news/massachusetts/ma-voters-reject-ballot-question-8-preserving-legal-cannabis-sales-and-30000-jobs/",
       "published": "2026-11-05T23:56:22+00:00",
       "summary": "Massachusetts voters overwhelmingly rejected Question eight on the midterm election ballot, with more than 75% voting against the measure."
@@ -5445,18 +5641,18 @@
       "source": "WWLP",
       "source_id": "wwlp",
       "category": "local",
-      "title": "Springfield wellness event connects residents with mental health, housing and recovery resources",
+      "title": "Springfield wellness event connects residents with mental health and recovery resources",
       "link": "https://www.wwlp.com/news/local-news/hampden-county/springfield-wellness-event-connects-residents-with-mental-health-housing-and-recovery-resources/",
       "published": "2026-11-05T23:49:41+00:00",
       "summary": "Springfield residents had the opportunity to explore mental health services, housing assistance and recovery programs Thursday during a community wellness event hosted by Behavioral Health Network (BHN) and Commonwealth Care Alliance."
     },
     {
-      "id": "0cd8f66ed201",
+      "id": "e7ecd60c49fb",
       "source": "WWLP",
       "source_id": "wwlp",
       "category": "local",
-      "title": "Thanksgiving: Shoppers may want to start early",
-      "link": "https://www.wwlp.com/news/local-news/hampden-county/thanksgiving-shoppers-may-want-to-start-early/",
+      "title": "Western Massachusetts residents may want to start early Thanksgiving shopping",
+      "link": "https://www.wwlp.com/news/local-news/thanksgiving-shoppers-may-want-to-start-early/",
       "published": "2026-11-05T23:47:43+00:00",
       "summary": "Thanksgiving is just three weeks away, and supermarkets across western Massachusetts are beginning to prepare for the holiday rush as shoppers look for ways to save money and avoid last-minute crowds."
     },
@@ -5481,12 +5677,12 @@
       "summary": "The Massachusetts Water Resources Authority (MWRA) has withdrawn its application to draw an additional 20 million gallons of water per day from the Quabbin and Wachusett reservoir systems following opposition from local and state leaders."
     },
     {
-      "id": "6fcbc4f4a249",
+      "id": "a3e35ae7d824",
       "source": "WWLP",
       "source_id": "wwlp",
       "category": "local",
       "title": "Springfield Thunderbirds, M&T Bank to host food drives across western Massachusetts",
-      "link": "https://www.wwlp.com/news/local-news/hampden-county/springfield-thunderbirds-mt-bank-to-host-food-drives-across-western-massachusetts/",
+      "link": "https://www.wwlp.com/sports/springfield-thunderbirds/springfield-thunderbirds-mt-bank-to-host-food-drives-across-western-massachusetts/",
       "published": "2026-11-05T23:27:51+00:00",
       "summary": "The Springfield Thunderbirds are teaming up with M&T Bank to host a series of food drives throughout November, collecting donations to help families facing food insecurity across western Massachusetts."
     },
@@ -5651,24 +5847,34 @@
       "summary": "The Senate stirs back to action Thursday afternoon to conduct its first significant business since the end of July, a post-election session during which senators are expected to pass a roughly $2.61 billion spending bill."
     },
     {
-      "id": "d4d833d788a6",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "24fb0e7e5376",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "Berkshire DA announces results of drug trafficking, gun violence investigations",
-      "link": "https://www.wwlp.com/news/crime/watch-berkshire-da-announces-results-of-drug-trafficking-gun-violence-investigations/",
-      "published": "2026-11-05T15:15:28+00:00",
-      "summary": "The Berkshire District Attorney has announced the results of multiple ongoing investigations in Pittsfield. According to the DA, the investigations include updates on a drug trafficking operation and four incidents of gun violence."
+      "title": "Off & On Showers to End the Week",
+      "link": "https://www.westernmassnews.com/2026/11/06/off-showers-end-week/",
+      "published": "2026-11-06T11:56:02+00:00",
+      "summary": "Light showers late Saturday. Sunday looks like the better weekend day"
     },
     {
-      "id": "64585676fa59",
-      "source": "WWLP",
-      "source_id": "wwlp",
+      "id": "c8ba64be64c3",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
       "category": "local",
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "link": "https://www.wwlp.com/news/national/russell-brand-found-guilty-of-rape-and-sexual-assault/",
-      "published": "2026-11-05T14:39:43+00:00",
-      "summary": "Russell Brand was convicted Thursday of rape and sexual assault charges on allegations dating back more than 20 years."
+      "title": "Former Southampton EMS Coordinator Rob Moore dies at 73",
+      "link": "https://www.westernmassnews.com/2026/11/06/former-southampton-ems-coordinator-rob-moore-dies-73/",
+      "published": "2026-11-06T11:35:29+00:00",
+      "summary": "Western Massachusetts emergency medical services veteran served department until 2022"
+    },
+    {
+      "id": "79ce57611db8",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "Middle school principal arrested for suspected child sex crimes",
+      "link": "https://www.westernmassnews.com/2026/11/06/middle-school-principal-arrested-suspected-child-sex-crimes/",
+      "published": "2026-11-06T10:37:09+00:00",
+      "summary": "A middle school principal was arrested for suspected child sex crimes on Thursday."
     },
     {
       "id": "0cfcf24628b0",
@@ -5709,16 +5915,6 @@
       "link": "https://www.westernmassnews.com/2026/11/06/chicopee-officials-float-school-redistricting-cut-costs/",
       "published": "2026-11-06T02:57:54+00:00",
       "summary": "Chicopee City Councilors are opening a new debate over school boundaries and busing, as transportation costs for the district have doubled"
-    },
-    {
-      "id": "9d0d4092f756",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Dry Streak Thursday with Off & On Showers",
-      "link": "https://www.westernmassnews.com/2026/11/05/dry-streak-thursday-with-off-showers/",
-      "published": "2026-11-06T02:34:34+00:00",
-      "summary": "Unsettled Pattern Lasting through Saturday"
     },
     {
       "id": "b74d957db48e",
@@ -5851,24 +6047,14 @@
       "summary": "For people living nearby, this resource is a treasure they have protected for generations."
     },
     {
-      "id": "68c735eb7c1f",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
+      "id": "5aaf2c31851e",
+      "source": "The Shoestring",
+      "source_id": "shoestring",
       "category": "local",
-      "title": "East Longmeadow to plan redesign of notorious rotary",
-      "link": "https://www.westernmassnews.com/2026/11/05/east-longmeadow-plan-redesign-notorious-rotary/",
-      "published": "2026-11-05T20:33:21+00:00",
-      "summary": "For years, a seven-way rotary in East Longmeadow has caused headaches and confused drivers"
-    },
-    {
-      "id": "54c12b849148",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Is a 90-day blackout coming? What the U.S. military’s new readiness initiative actually means",
-      "link": "https://www.westernmassnews.com/2026/11/05/is-90-day-blackout-coming-what-us-militarys-new-readiness-initiative-actually-means/",
-      "published": "2026-11-05T19:35:42+00:00",
-      "summary": "A viral 90-day blackout rumor is spreading online. The FORTRESS America initiative is a military preparedness plan, not an announcement of an impending blackout."
+      "title": "New transparency for Mass. governor, lawmakers? Here’s how we plan to test it.",
+      "link": "https://theshoestring.org/2026/11/06/testing-transparency-for-massachusetts-governor-lawmakers-public-records/",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "Following the passage of Massachusetts' new public records ballot question, The Shoestring decided to brainstorm what we hope to obtain from the governor and state Legislature. That is, if lawmakers don’t undermine the will of the voters."
     },
     {
       "id": "b3e4c6e1a5ed",
@@ -6101,6 +6287,16 @@
       "summary": "The post Payment hubs gain ground as 35% of financial institutions plan adoption appeared first on CUInsight ."
     },
     {
+      "id": "66fe31912ba0",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "Ad-free streaming is unaffordable on purpose and its about to get worse",
+      "link": "https://www.pocket-lint.com/disney-plus-ad-free-price-gap/",
+      "published": "2026-11-06T11:00:17+00:00",
+      "summary": "Ad-free Disney+ now costs $21.49, while the ad-supported Disney+ and Hulu bundle stays at $12.99, and that gap seems designed to nudge us toward ads."
+    },
+    {
       "id": "3b69f89a19fa",
       "source": "Pocket-lint",
       "source_id": "pocketlint",
@@ -6189,16 +6385,6 @@
       "link": "https://www.pocket-lint.com/macbook-pro-proled-xdr-display-first-impressions/",
       "published": "2026-11-05T15:08:09+00:00",
       "summary": "Here are my initial impressions of Apple's first-ever touchscreen OLED MacBook Pro."
-    },
-    {
-      "id": "cee5ad800752",
-      "source": "Pocket-lint",
-      "source_id": "pocketlint",
-      "category": "tech",
-      "title": "Scarlett Johansson's most unsettling sci-fi movie is finally free to stream",
-      "link": "https://www.pocket-lint.com/scarlett-johansson-led-under-the-skin-is-free-to-stream-on-justwatchtv/",
-      "published": "2026-11-05T13:00:18+00:00",
-      "summary": "This 2013 sci-fi film is unlike anything else in Johansson's filmography."
     },
     {
       "id": "c87d79e5280b",
