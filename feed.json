@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:09:58+00:00",
+  "generated_at": "2026-11-06T08:08:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -279,7 +279,7 @@
       "name": "Android Central",
       "status": "ok",
       "feed_url": "https://www.androidcentral.com/feed",
-      "count": 18,
+      "count": 19,
       "errors": []
     },
     "bgr": {
@@ -927,16 +927,6 @@
       "summary": "In their Middlesex Superior Court case, only O’Bannon’s claims survived to judgment, and a request for class-action status was also denied."
     },
     {
-      "id": "f90700f06cb2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Postal worker in Iowa accused of shooting 2 co-workers at USPS office",
-      "link": "https://www.masslive.com/news/2026/11/postal-worker-accused-of-shooting-2-co-workers-at-usps-office.html",
-      "published": "2026-11-05T23:00:00+00:00",
-      "summary": "A Des Moines postal worker was taken into custody after shooting two female co-workers on the second floor of a USPS office."
-    },
-    {
       "id": "921d009d933c",
       "source": "MassLive",
       "source_id": "masslive",
@@ -945,6 +935,16 @@
       "link": "https://www.masslive.com/advice/2026/11/dear-annie-one-friend-shops-thrift-stores-the-other-shops-bogo-sales-yay.html",
       "published": "2026-11-05T23:00:00+00:00",
       "summary": "I know that they say it is the thought that counts, but ..."
+    },
+    {
+      "id": "f90700f06cb2",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Postal worker in Iowa accused of shooting 2 co-workers at USPS office",
+      "link": "https://www.masslive.com/news/2026/11/postal-worker-accused-of-shooting-2-co-workers-at-usps-office.html",
+      "published": "2026-11-05T23:00:00+00:00",
+      "summary": "A Des Moines postal worker was taken into custody after shooting two female co-workers on the second floor of a USPS office."
     },
     {
       "id": "f7e6ab351448",
@@ -1165,6 +1165,26 @@
       "link": "https://petri.com/microsoft-intune-controls-cloud-pcs-apple-devices/",
       "published": "2026-11-03T15:04:35+00:00",
       "summary": "As organizations manage growing fleets of Windows, Apple, and cloud-based devices, IT teams often face a difficult balancing issue. Security teams need stricter controls and faster compliance enforcement, while end users expect flexibility and minimal disruption. Traditional approaches frequently…"
+    },
+    {
+      "id": "ed60ea7fa412",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "published": "2026-11-06T05:58:54+00:00",
+      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in…"
+    },
+    {
+      "id": "a382c3d13c65",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "published": "2026-11-06T05:39:10+00:00",
+      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw,…"
     },
     {
       "id": "3fe484f436f5",
@@ -1447,24 +1467,14 @@
       "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw,…"
     },
     {
-      "id": "20c9c9965d29",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
+      "id": "1eac9df98bea",
+      "source": "Engadget",
+      "source_id": "engadget",
       "category": "tech",
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "published": "2026-11-03T11:18:20+00:00",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer…"
-    },
-    {
-      "id": "3ce297811edf",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "published": "2026-11-03T11:00:45+00:00",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and…"
+      "title": "Airbnb is threatening to launch an AI travel agent next year",
+      "link": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+      "published": "2026-11-06T07:51:42+00:00",
+      "summary": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip."
     },
     {
       "id": "ff449e3a56e2",
@@ -1655,16 +1665,6 @@
       "link": "https://www.engadget.com/2307614/apple-macbook-pro-m6-review/",
       "published": "2026-11-05T14:00:00+00:00",
       "summary": "The M6 MacBook Pro is more of the same, but that's still pretty great."
-    },
-    {
-      "id": "7a679b51dea2",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "Spotify is coming to United's seatback screens",
-      "link": "https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/",
-      "published": "2026-11-05T13:00:00+00:00",
-      "summary": "The streaming service's entire library of content will be available in the air."
     },
     {
       "id": "f64889a7b3b6",
@@ -2411,7 +2411,7 @@
       "source": "Malwarebytes",
       "source_id": "malwarebytes",
       "category": "tech",
-      "title": "mSecure tells users to change passwords but won’t say why",
+      "title": "mSecure tells users to change passwords but won’t say why [updated]",
       "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/msecure-tells-users-to-change-passwords-but-wont-say-why",
       "published": "2026-11-04T17:02:25+00:00",
       "summary": "mSecure has urged users to protect information stored in its app, but hasn’t explained what happened or whether anyone’s data was exposed."
@@ -2455,6 +2455,26 @@
       "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/revolve-card-breach-1-5-million-people-may-be-affected",
       "published": "2026-11-03T11:26:44+00:00",
       "summary": "Revolve says shoppers’ saved card details were stolen. A Texas filing suggests as many as 1.5 million people may be affected."
+    },
+    {
+      "id": "66bb14a34959",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "November 2026 Patch Tuesday forecast: Old software continues to bite",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/",
+      "published": "2026-11-06T07:00:48+00:00",
+      "summary": "How did you enjoy October 2026 Patch Tuesday? Were there enough CVEs reported to keep you busy for the rest of the year or are you finished and ready for another round next week? They released the regularly scheduled update nearly two and a half hours late, but Microsoft did resolve another…"
+    },
+    {
+      "id": "89631936e293",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "Security certification is a snapshot, and buyers read too much into it",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/",
+      "published": "2026-11-06T06:30:16+00:00",
+      "summary": "In this Help Net Security video, Mariia Bakhtina, a research specialist at Masaryk University, explains what a Common Criteria or FIPS-140 certificate does and does not promise. In her team’s analysis, about 6 in 10 vulnerabilities matched to certified products, smartcards aside, were disclosed…"
     },
     {
       "id": "a64f92172f81",
@@ -2535,26 +2555,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/05/box-architect/",
       "published": "2026-11-05T14:25:34+00:00",
       "summary": "Box has announced new capabilities to transform how organizations put agents to work across their most critical business processes. Box unveiled Box Architect for autonomously building, managing, and optimizing agentic workflows, redefining how organizations deploy AI on their most critical…"
-    },
-    {
-      "id": "907479fa3fc7",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Cyberattack on Norway’s aid agency may have swept up all user data",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/norad-grants-portal-breach/",
-      "published": "2026-11-05T13:56:49+00:00",
-      "summary": "The names and email addresses of 20,614 people registered on Norad’s Grants Portal may have ended up in the hands of attackers, Norway’s development aid agency has disclosed. Norad, short for the Norwegian Agency for Development Cooperation, works with partners around the world on development aid.…"
-    },
-    {
-      "id": "76cbbd24b030",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "PortSwigger’s Burp AT lets enterprises delegate pentests with defined limits",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/portswigger-burp-at-enterprises/",
-      "published": "2026-11-05T13:48:16+00:00",
-      "summary": "PortSwigger has announced the availability of Burp AT for enterprises, an agentic pentesting solution that helps security teams investigate important applications more deeply and more often. Burp AT combines specialist Burp tools, purpose-built pentesting skills developed with PortSwigger…"
     },
     {
       "id": "6ed44c5da57e",
@@ -2837,6 +2837,16 @@
       "summary": "Entra ID is retiring Microsoft-provided SMS and voice authentication for self-service password reset, with a 50-day transition period for organizations. Admins must identify affected users and configure alternative recovery methods for SSPR to avoid password reset disruptions. The post Microsoft…"
     },
     {
+      "id": "0e5adfa19e3d",
+      "source": "Office 365 for IT Pros",
+      "source_id": "o365itpros",
+      "category": "tech",
+      "title": "DLP for Copilot Customizes Data Access Messages",
+      "link": "https://office365itpros.com/2026/11/06/dlp-for-copilot-links/?utm_source=rss&utm_medium=rss&utm_campaign=dlp-for-copilot-links",
+      "published": "2026-11-06T07:00:00+00:00",
+      "summary": "A small but important change gives DLP for Copilot the ability to include custom compliance links in error messages when DLP blocks Copilot from accessing content. It sounds like something administrators could ignore. They can, and DLP for Copilot will continue to work perfectly well. However,…"
+    },
+    {
       "id": "bca52d742708",
       "source": "Office 365 for IT Pros",
       "source_id": "o365itpros",
@@ -2855,16 +2865,6 @@
       "link": "https://office365itpros.com/2026/11/04/prioritize-my-inbox-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=prioritize-my-inbox-retirement",
       "published": "2026-11-04T07:00:00+00:00",
       "summary": "Microsoft has announced the retirement of the Copilot-powered Prioritize My Inbox feature. The process to remove the feature from Outlook clients is under way and should finish by the end of March 2027. Although the feature is relatively new, it’s not altogether surprising that its time is up…"
-    },
-    {
-      "id": "4a739b13b82d",
-      "source": "Office 365 for IT Pros",
-      "source_id": "o365itpros",
-      "category": "tech",
-      "title": "Entra ID Allows Users to Change Passwords Without Knowing Their Old Password",
-      "link": "https://office365itpros.com/2026/11/03/change-password-no-original/?utm_source=rss&utm_medium=rss&utm_campaign=change-password-no-original",
-      "published": "2026-11-03T07:00:00+00:00",
-      "summary": "Now rolling out to Entra tenants is the ability to configure the change password method for user accounts through the My Sign Ins page without knowing the original password. Although many Entra users are going passwordless, that approach only works when applications support passkeys. The need to…"
     },
     {
       "id": "36bb9f106b64",
@@ -4367,6 +4367,36 @@
       "summary": "Okay, it's in essence just an iMac G4 sort-of mirroring a MacBook screen, but it's still cool. YouTuber Jesse Richards uses custom software (that he has made available ) on a MacBook to stream what a HomeView shows to the user while it's running. Yet another reason to reuse classic Apple hardware,…"
     },
     {
+      "id": "7fe7dabc0ca0",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "T-Mobile taps Breaking Bad star Bryan Cranston to sell you its new T-Mix plans",
+      "link": "https://www.androidauthority.com/t-mobile-bryan-cranston-t-mix-commercial-3732326/",
+      "published": "2026-11-06T07:43:54+00:00",
+      "summary": "Bryan Cranston and a rooster have a wake-up call for America."
+    },
+    {
+      "id": "46c161e175c1",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Googlebook’s giant November update frees up to 6GB of RAM",
+      "link": "https://www.androidauthority.com/googlebook-november-update-3732317/",
+      "published": "2026-11-06T07:36:01+00:00",
+      "summary": "From more available RAM to reduced tab crashes, this Googlebook update should've been available at launch."
+    },
+    {
+      "id": "a44b1e6dcbbc",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Meta’s Muse AI agent gets a voice chat mode with hundreds of voices",
+      "link": "https://www.androidauthority.com/meta-muse-real-time-voice-chat-mode-3732321/",
+      "published": "2026-11-06T07:20:07+00:00",
+      "summary": "You can talk to your Muse agent and have it do the work while you sit back and relax."
+    },
+    {
       "id": "002e3dd6a1af",
       "source": "Android Authority",
       "source_id": "androidauthority",
@@ -4637,34 +4667,14 @@
       "summary": "MaliSX2 is the closest thing to Turnip drivers for non-Snapdragon chips, and it's coming to two major emulators."
     },
     {
-      "id": "4e0bf1b829ae",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
+      "id": "00479a69fdac",
+      "source": "Android Central",
+      "source_id": "androidcentral",
       "category": "tech",
-      "title": "I love big Si-C batteries, but slow charging is a steep price to pay",
-      "link": "https://www.androidauthority.com/si-c-battery-trade-offs-3730668/",
-      "published": "2026-11-05T11:30:46+00:00",
-      "summary": "Bigger batteries sound great, but are slower charging speeds worth the extra capacity?"
-    },
-    {
-      "id": "ddc03a860a54",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "I downloaded the first third-party app store from Google Play, and I’m hopeful for what’s next",
-      "link": "https://www.androidauthority.com/google-play-third-party-store-hands-on-3728227/",
-      "published": "2026-11-05T11:00:11+00:00",
-      "summary": "Aptoide Games is a decent first start, but it leaves me waiting for more."
-    },
-    {
-      "id": "62df7e53fb28",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Reading on your phone is a trap, but this $200 BOOX is my escape hatch",
-      "link": "https://www.androidauthority.com/boox-go-6-gen-ii-reading-experience-3730145/",
-      "published": "2026-11-05T10:30:08+00:00",
-      "summary": "Read more articles again."
+      "title": "Google's Find Hub just got a feature that could save you from losing your wallet",
+      "link": "https://www.androidcentral.com/apps-software/android-os/android-notify-find-hub-items-left-behind",
+      "published": "2026-11-06T07:44:57+00:00",
+      "summary": "If you're constantly forgetting your keys or wallet, Google's latest Find Hub upgrade could be a lifesaver."
     },
     {
       "id": "82d91de20ce9",
@@ -5047,6 +5057,16 @@
       "summary": "Taking proper care of your Blu-ray collection is vital if you want them to last, but here are five mistakes to avoid when cleaning the discs."
     },
     {
+      "id": "bea5d616d20c",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "GPT-6 Cyber is finding security flaws before hackers can exploit them",
+      "link": "https://www.digitaltrends.com/computing/gpt-6-cyber-is-finding-security-flaws-before-hackers-can-exploit-them/",
+      "published": "2026-11-06T07:23:24+00:00",
+      "summary": "From Firefox to the Linux kernel, OpenAI's new cybersecurity model is uncovering serious flaws that earlier AI systems missed and helping developers fix them before attackers can exploit them."
+    },
+    {
       "id": "c3e55af1e5ca",
       "source": "Digital Trends",
       "source_id": "digitaltrends",
@@ -5335,16 +5355,6 @@
       "link": "https://www.digitaltrends.com/contributor-content/big-screens-bigger-possibilities-as-the-tv-shield-scales-tv-protection-to-110-inches/",
       "published": "2026-11-04T20:24:16+00:00",
       "summary": "Televisions of 80 inches and up are moving into the mainstream. Research firm Omdia expects global shipments in that size class to climb from about 9 million units in 2025 to more than 13 million by 2029, and its analysts credit much lower prices for the growth. TrendForce put sets of 60 inches…"
-    },
-    {
-      "id": "90c63c93f9e9",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
-      "category": "tech",
-      "title": "Nothing’s first AI gadget arrives in December, and I don’t want it to be another Humane AI Pin",
-      "link": "https://www.digitaltrends.com/phones/nothings-first-ai-gadget-arrives-in-december-and-i-dont-want-it-to-be-another-humane-ai-pin/",
-      "published": "2026-11-04T19:34:25+00:00",
-      "summary": "Nothing’s mystery December device sounds more like an office tool than a flashy AI pin, and that may be smart."
     },
     {
       "id": "e4471bd8987c",
@@ -5847,6 +5857,16 @@
       "summary": "Russell Brand was convicted Thursday of rape and sexual assault charges on allegations dating back more than 20 years."
     },
     {
+      "id": "0cfcf24628b0",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "Death row inmate asks for a stay of execution until after holidays",
+      "link": "https://www.westernmassnews.com/2026/11/06/death-row-inmate-asks-stay-execution-until-after-holidays/",
+      "published": "2026-11-06T07:55:02+00:00",
+      "summary": "A South Carolina death row inmate is petitioning to have his execution pushed back to after the holidays."
+    },
+    {
       "id": "e6b9332152b4",
       "source": "Western Mass News",
       "source_id": "westernmassnews",
@@ -6035,16 +6055,6 @@
       "link": "https://www.westernmassnews.com/2026/11/05/is-90-day-blackout-coming-what-us-militarys-new-readiness-initiative-actually-means/",
       "published": "2026-11-05T19:35:42+00:00",
       "summary": "A viral 90-day blackout rumor is spreading online. The FORTRESS America initiative is a military preparedness plan, not an announcement of an impending blackout."
-    },
-    {
-      "id": "818f75f1f98e",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Authorities investigate six outdoor fires in Holyoke",
-      "link": "https://www.westernmassnews.com/2026/11/05/authorities-investigate-six-outdoor-fires-holyoke/",
-      "published": "2026-11-05T19:11:20+00:00",
-      "summary": "Authorities are looking for the public’s help as they investigate"
     },
     {
       "id": "b3e4c6e1a5ed",
