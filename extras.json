@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T00:11:29+00:00",
+ "generated_at": "2026-11-06T02:11:00+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 28,
+  "aqi": 29,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-05 18:00 EST"
+  "observed": "2026-11-05 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,79 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "OneDrive: Command-line tool for the OneDrive sync app",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578910",
+    "published": "2026-11-05T23:59:28+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "OneDrive",
+     "Desktop",
+     "Mac"
+    ],
+    "summary": "A new command-line tool, odcli, lets OneDrive users, IT admins and support engineers check and manage the OneDrive sync app from the command line. Commands cover sync status, accounts, configuration, policies, and managing the sync app. JSON output lets scripts, management tools and AI agents automa"
+   },
+   {
+    "title": "Microsoft Viva: Insights and Copilot Analytics in GCC and GCC High",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578868",
+    "published": "2026-11-05T23:59:28+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "GCC",
+     "GCC High",
+     "Microsoft Viva",
+     "Web"
+    ],
+    "summary": "We are expanding the availability of Viva Insights and Copilot Analytics capabilities in Microsoft 365 Government Community Cloud (GCC, or GCC-M) and GCC High (GCC-H). Availability differs for a small number of capabilities by cloud, as noted below. \u2022 Eligible users will see updated Insights app fea"
+   },
+   {
+    "title": "Microsoft 365 Copilot (Microsoft 365): Accounting skills",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578864",
+    "published": "2026-11-05T23:59:28+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Excel",
+     "Microsoft Copilot (Microsoft 365)",
+     "Desktop",
+     "Mac",
+     "Web"
+    ],
+    "summary": "Streamline corporate accounting work New accounting capabilities in Excel and Cowork help accountants spend less time on repetitive, manual tasks in the places they already work, including: \u2022 Reconcile accounts with confidence: Compare balances and transactions, identify discrepancies, and prepare r"
+   },
+   {
+    "title": "Microsoft 365: [Education] Microsoft Learning Zone - Improve Lesson Insights",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577544",
+    "published": "2026-11-05T23:59:28+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft 365",
+     "Desktop",
+     "Web"
+    ],
+    "summary": "See where your class is struggling and which students need support, with lesson-level results for every student. Aggregated responses show the mistakes many students made in a lesson. You can then open each student's answers to plan targeted follow-up. #education GA date: December CY2026"
+   },
+   {
+    "title": "Microsoft Purview: Data Lifecycle Management-Enable version trimming for data covered by retention policies in OneDrive and SharePoint",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575284",
+    "published": "2026-11-05T23:59:28+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Purview",
+     "Web"
+    ],
+    "summary": "Let tenants trim file-version bloat created by retention, without breaking compliance promises. SharePoint/compliance admins at large, regulated enterprises must cap and reclaim storage consumed by retained file versions, while keeping legal-hold and records promises intact. Admins with appropriate "
+   },
    {
     "title": "Microsoft Teams: Multiple screen shares in Teams Rooms on Windows",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579184",
@@ -229,81 +302,6 @@
      "Mac"
     ],
     "summary": "When it's time to present what your team decided, you can ask Facilitator to create a PowerPoint presentation from what was said, chats, and shared files in the meeting. It turns the conversation into the slides, whether that's a project update, a proposal, or a readout for leadership. Facilitator c"
-   },
-   {
-    "title": "Microsoft Teams: Intelligent call recap for call queue calls on Mobile",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578871",
-    "published": "2026-11-03T00:14:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android",
-     "iOS"
-    ],
-    "summary": "Calling reps and supervisor leads can access intelligent call recap for call queue calls directly from the Queues app on Mobile. After a call, users can quickly catch up on the conversation with AI-generated notes, key discussion points, and recommended follow-up tasks, helping reduce the time spent"
-   },
-   {
-    "title": "Microsoft Teams: Automatic recording indicator for call queue calls on Mobile",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578867",
-    "published": "2026-11-03T00:14:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android",
-     "iOS"
-    ],
-    "summary": "For call queue calls that are automatically recorded by the organization, Teams on Mobile will clearly indicate that recording and transcription have started automatically and cannot be stopped. This gives users clearer and more accurate information about the recording state of their call and provid"
-   },
-   {
-    "title": "Microsoft Teams: Manage call groups on Mobile",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578860",
-    "published": "2026-11-03T00:14:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android",
-     "iOS"
-    ],
-    "summary": "Users can create and manage their call group directly from Teams on Mobile. They can add or remove members, configure how the group should ring, and choose to forward or simultaneously ring incoming calls to their call group. This makes it easier for users to manage how their calls are handled witho"
-   },
-   {
-    "title": "OneDrive: Respond to access requests directly in the Share dialog",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578856",
-    "published": "2026-11-03T00:14:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "GCC",
-     "GCC High",
-     "DoD",
-     "OneDrive",
-     "SharePoint",
-     "Web"
-    ],
-    "summary": "Review and respond to access requests inside the Share dialog. When people request access to a file, folder, or library, anyone who can share it will see pending requests right in the Share dialog for that item. From there, they can choose the level of access to grant, approve or decline requests in"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): New Microsoft 365 Copilot usage reports for Copilot Search, Connectors, and Agents for US Government customers",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573170",
-    "published": "2026-11-03T00:14:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "GCC",
-     "GCC High",
-     "DoD",
-     "Microsoft Copilot (Microsoft 365)",
-     "Microsoft 365 admin center",
-     "Web"
-    ],
-    "summary": "We are introducing new Microsoft 365 Copilot usage reports for Copilot Search, Copilot Connectors, and Copilot Agents for US Government customers across GCC Moderate, GCC High, and DoD environments. These reports will provide administrators with organization-level and user-level insights to help the"
    }
   ]
  },
