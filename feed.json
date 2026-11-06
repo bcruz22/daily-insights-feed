@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:11:20+00:00",
+  "generated_at": "2026-11-06T16:49:46+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -186,14 +186,10 @@
     },
     "virtreview": {
       "name": "Virtualization Review",
-      "status": "error",
-      "errors": [
-        "https://virtualizationreview.com/rss-feeds/news.aspx: HTTPSConnectionPool(host='virtualizationreview.com', port=443): Read timed out. (read timeout=20)",
-        "discovery: Invalid URL 'virtualizationreview.com': No scheme supplied. Perhaps you meant https://virtualizationreview.com?"
-      ],
-      "tried": [
-        "https://virtualizationreview.com/rss-feeds/news.aspx"
-      ]
+      "status": "ok",
+      "feed_url": "https://virtualizationreview.com/rss-feeds/news.aspx",
+      "count": 2,
+      "errors": []
     },
     "bankingdive": {
       "name": "Banking Dive",
@@ -360,7 +356,7 @@
       "name": "Tech Community: Entra blog",
       "status": "ok",
       "feed_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-entra-blog",
-      "count": 3,
+      "count": 2,
       "errors": []
     },
     "tcintune": {
@@ -396,6 +392,13 @@
       "status": "ok",
       "feed_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-copilot-blog",
       "count": 1,
+      "errors": []
+    },
+    "mssecblog": {
+      "name": "Microsoft Security Blog",
+      "status": "ok",
+      "feed_url": "https://www.microsoft.com/en-us/security/blog/feed/",
+      "count": 6,
       "errors": []
     }
   },
@@ -601,6 +604,36 @@
       "summary": "And what that could mean for physical Switch game costs."
     },
     {
+      "id": "90c07672cb60",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
+      "link": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
+      "published": "2026-11-06T16:39:15+00:00",
+      "summary": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For comparison, the…"
+    },
+    {
+      "id": "22815b4f725e",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "Big Tech lost big in the 2026 election",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "published": "2026-11-06T16:38:02+00:00",
+      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast,…"
+    },
+    {
+      "id": "c821c11af1c2",
+      "source": "The Verge",
+      "source_id": "verge",
+      "category": "tech",
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "published": "2026-11-06T16:34:39+00:00",
+      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or…"
+    },
+    {
       "id": "4f1cbf89d79c",
       "source": "The Verge",
       "source_id": "verge",
@@ -671,44 +704,84 @@
       "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algorithm can harm users with \"endless and repeated exposure\" to content related…"
     },
     {
-      "id": "35ab47bbc76c",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "published": "2026-11-06T14:00:00+00:00",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon…"
-    },
-    {
-      "id": "8bf67a390824",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
-      "link": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel",
-      "published": "2026-11-06T13:00:00+00:00",
-      "summary": "Note: Some spoilers for Control Resonant's \"Recursions and Iterations\" mission follow. One of Control Resonant's most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting, or maybe overlapping, or maybe running in parallel. As protagonist Dylan…"
-    },
-    {
-      "id": "3280af2f2958",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
-      "link": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
-      "published": "2026-11-06T12:30:00+00:00",
-      "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Duo, […]"
-    },
-    {
-      "id": "0b966168c586",
+      "id": "a96f2d028060",
       "source": "MassLive",
       "source_id": "masslive",
       "category": "local",
-      "title": "Dear Annie: My marriage ended after 30 years - what's the best way to find love after 60?",
-      "link": "https://www.masslive.com/advice/2026/11/dear-annie-my-marriage-ended-after-30-years-whats-the-best-way-to-find-love-after-60.html",
-      "published": "2026-11-06T16:00:00+00:00",
-      "summary": "I’ve been out of the dating game so long I don’t know how to get back in."
+      "title": "Two Knicks players question Swift’s courtside fandom",
+      "link": "https://www.masslive.com/sports/2026/11/knicks-players-call-out-taylor-swift-over-what-they-noticed-at-games.html",
+      "published": "2026-11-06T16:43:53+00:00",
+      "summary": "Two New York Knicks players questioned Swift’s fandom and called her courtside appearances “performative” after her memorable NBA Finals visit."
+    },
+    {
+      "id": "23d77e7929b1",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Owner of Mass. record store announces closure: 'I just don’t love it anymore'",
+      "link": "https://www.masslive.com/news/2026/11/north-shore-record-store-to-close-due-to-a-thousand-reasons-owner-says.html",
+      "published": "2026-11-06T16:39:45+00:00",
+      "summary": "“I had to make a decision about my future and I chose to wind down the store,” the shop owner said."
+    },
+    {
+      "id": "0dafac3ff483",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Western Mass. hardware chain raises over $32K for animal shelters: ‘We’re grateful’",
+      "link": "https://www.masslive.com/westernmass/2026/11/western-mass-hardware-chain-raises-over-32k-for-animal-shelters-were-grateful.html",
+      "published": "2026-11-06T16:39:34+00:00",
+      "summary": "The donations will help shelters provide food, medical care and other essentials."
+    },
+    {
+      "id": "e798a595999b",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Your phone won’t autocomplete ‘sleepy Joe,’ ‘dictator Trump’: report",
+      "link": "https://www.masslive.com/news/2026/11/your-phone-wont-autocomplete-sleepy-joe-dictator-trump-report.html",
+      "published": "2026-11-06T16:34:03+00:00",
+      "summary": "The researcher who stumbled upon this discovery called it \"a light-touch form of censorship.\""
+    },
+    {
+      "id": "4a2af04ba5b3",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Al Michaels told a 4-minute ‘bedtime story’ during TNF, and fans noticed",
+      "link": "https://www.masslive.com/sports/2026/11/al-michaels-4-minute-bedtime-story-on-thursday-night-football-gets-fans-talking.html",
+      "published": "2026-11-06T16:27:09+00:00",
+      "summary": "Al Michaels told a four-minute ‘bedtime story’ during Jaguars-Ravens on Thursday Night Football, sparking mixed reaction from NFL viewers."
+    },
+    {
+      "id": "b324628c0c08",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Bradley International Airport adds 2 new dining options, another coming soon",
+      "link": "https://www.masslive.com/business/2026/11/2-new-restaurants-open-at-bradley-international-airport.html",
+      "published": "2026-11-06T16:19:54+00:00",
+      "summary": "Travelers at Bradley International Airport have more choices for breakfast, lunch and dinner as the airport continues expanding its dining lineup."
+    },
+    {
+      "id": "46c289daf600",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "WATCH: MassLive hosts MIAA boys soccer bracket analysis show",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/watch-masslive-hosts-miaa-boys-soccer-bracket-analysis-show.html",
+      "published": "2026-11-06T16:19:01+00:00",
+      "summary": "MassLive welcomed student-athletes from Northampton, Norwell and Cohasset on its boys soccer state tournament bracket analysis show this week."
+    },
+    {
+      "id": "0ee03d1ddcad",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "James Hagens suffers injury in Bruins' win over Penguins",
+      "link": "https://www.masslive.com/bruins/2026/11/bruins-standout-rookie-james-hagens-suffers-injury-in-win-vs-penguins.html",
+      "published": "2026-11-06T16:14:01+00:00",
+      "summary": "The Bruins were dealt a blow to their standout rookie during the 6-2 win over the Penguins on Thursday."
     },
     {
       "id": "889dd9856a16",
@@ -719,6 +792,16 @@
       "link": "https://www.masslive.com/politics/2026/11/trump-unveils-new-merch-after-democrats-crush-republicans-in-midterm-elections.html",
       "published": "2026-11-06T16:00:00+00:00",
       "summary": "Democrats flipped both the Senate and the House in Tuesday’s midterm elections as voters delivered a decisive rebuke of Trump and the Republican Party."
+    },
+    {
+      "id": "0b966168c586",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Annie: My marriage ended after 30 years - what's the best way to find love after 60?",
+      "link": "https://www.masslive.com/advice/2026/11/dear-annie-my-marriage-ended-after-30-years-whats-the-best-way-to-find-love-after-60.html",
+      "published": "2026-11-06T16:00:00+00:00",
+      "summary": "I’ve been out of the dating game so long I don’t know how to get back in."
     },
     {
       "id": "4e577c341584",
@@ -919,86 +1002,6 @@
       "link": "https://www.masslive.com/news/2026/11/how-irs-change-could-make-it-easier-for-your-to-keep-more-of-your-money.html",
       "published": "2026-11-06T13:00:00+00:00",
       "summary": "Federal income taxes are progressive. This means you don’t pay one tax rate on all your income and, instead, different portions are taxed at different rates, or brackets."
-    },
-    {
-      "id": "5251ac02e148",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Bringing in the dough: Bakery market to generate over $840B by 2033",
-      "link": "https://www.masslive.com/news/2026/11/bringing-in-the-dough-bakery-market-to-generate-over-840b-by-2033.html",
-      "published": "2026-11-06T13:00:00+00:00",
-      "summary": "Baked goods' popularity is driven in part by customers' desire for convenience."
-    },
-    {
-      "id": "dac70b0798a8",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "How to watch F1 Brazil practice and qualifying sessions live for free today",
-      "link": "https://www.masslive.com/tv/2026/11/how-to-watch-f1-brazil-grand-prix-practice-and-qualifying-sessions-live-for-free-live-stream-viewing-guide.html",
-      "published": "2026-11-06T12:45:00+00:00",
-      "summary": "Formula 1 brings its exciting brand of racing to Brazil this weekend for the 2026 Brazil Grand Prix. Here's how race fans can watch practice, qualifying, and the race for free."
-    },
-    {
-      "id": "45bd9ae904f2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Former city official admits to faking PPP loan application",
-      "link": "https://www.masslive.com/boston/2026/11/boston-city-official-pleads-guilty-to-pandemic-loan-fraud.html",
-      "published": "2026-11-06T12:43:32+00:00",
-      "summary": "To support the loan application, he submitted a fabricated tax forms that stated he received no wages."
-    },
-    {
-      "id": "8fcaaccfbc61",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Big Ten schools collecting urine at rivalry game in ‘Piss Off’",
-      "link": "https://www.masslive.com/sports/2026/11/big-ten-schools-collecting-urine-at-saturdays-rivalry-game-in-piss-off.html",
-      "published": "2026-11-06T12:41:27+00:00",
-      "summary": "It's for a good cause."
-    },
-    {
-      "id": "c9b57c4a3392",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Reddit’s ad revenue rises amidst user growth worries",
-      "link": "https://www.masslive.com/news/2026/11/reddits-ad-revenue-rises-amidst-user-growth-worries.html",
-      "published": "2026-11-06T12:00:00+00:00",
-      "summary": "Reddit shares fell by 23 percent recently."
-    },
-    {
-      "id": "ed3536602280",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Doctor: Why your doctor might be wrong about your iron levels",
-      "link": "https://www.masslive.com/advice/2026/11/dear-doctor-my-doctor-says-my-low-iron-isnt-a-problem-but-im-not-convinced.html",
-      "published": "2026-11-06T12:00:00+00:00",
-      "summary": "A medical columnist disputes a doctor's dismissal of low ferritin levels in a postmenopausal woman, warning that iron deficiency without anemia can signal serious conditions like colon cancer and cause symptoms such as dizziness."
-    },
-    {
-      "id": "507b263e5cf0",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Heavy rain, flooding threat ahead for southeastern Mass.",
-      "link": "https://www.masslive.com/weather/2026/11/mass-weather-warm-temps-heavy-rain-and-thunderstorms-to-begin-weekend.html",
-      "published": "2026-11-06T11:29:02+00:00",
-      "summary": "Some parts of the state could receive 4 to 5 inches of rain, raising the threat of flooded streets."
-    },
-    {
-      "id": "9cb6be45c434",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Westfield State is one win away from a third straight MASCAC field hockey championship",
-      "link": "https://www.masslive.com/westfieldnews/2026/11/westfield-state-is-one-win-away-from-a-third-straight-mascac-field-hockey-championship.html",
-      "published": "2026-11-06T11:25:40+00:00",
-      "summary": "Westfield State's defense held off Framingham State 2-1, advancing to host the MASCAC championship Saturday against Bridgewater State, where a win would secure a third consecutive title."
     },
     {
       "id": "3819f6707361",
@@ -1471,6 +1474,16 @@
       "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack…"
     },
     {
+      "id": "df59bb9da9f8",
+      "source": "Engadget",
+      "source_id": "engadget",
+      "category": "tech",
+      "title": "Eufy's clever outdoor security camera that lives inside is now available to buy",
+      "link": "https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/",
+      "published": "2026-11-06T16:16:20+00:00",
+      "summary": "The $80 Window Camera E10 sticks to your window, pointed outwards."
+    },
+    {
       "id": "f592bd5c2f9c",
       "source": "Engadget",
       "source_id": "engadget",
@@ -1661,16 +1674,6 @@
       "summary": "Reachability helps make it easier to use the foldable with one hand."
     },
     {
-      "id": "464b04e01666",
-      "source": "Engadget",
-      "source_id": "engadget",
-      "category": "tech",
-      "title": "Lyft's new subscription bundles in DoorDash's DashPass for $10 per month",
-      "link": "https://www.engadget.com/2307946/lyfts-new-subscription-bundles-in-doordashs-dashpass-for-dollar10-per-month/",
-      "published": "2026-11-05T16:29:38+00:00",
-      "summary": "DashPass members can get Lyft Go at no extra cost."
-    },
-    {
       "id": "5668b3c66977",
       "source": "Cloudflare Blog",
       "source_id": "cloudflare",
@@ -1699,6 +1702,16 @@
       "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
       "published": "2026-11-04T14:00:00+00:00",
       "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
+    },
+    {
+      "id": "a1c40059a0b0",
+      "source": "9to5Google",
+      "source_id": "9to5google",
+      "category": "tech",
+      "title": "Deals: Best Buy early Black Friday now live, Galaxy S26 Ultra $450 off, Galaxy SmartTag 3 arrives, more",
+      "link": "https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/",
+      "published": "2026-11-06T16:48:13+00:00",
+      "summary": "The giant Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , Samsung users will find a giant $450 off 2026 Galaxy S26 Ultra in brand new condition joined by today’s launch of the new Samsung Galaxy SmartTag 3 (one for $30 or four for $100 ) and the new Galaxy Buds On open-earbuds . just be…"
     },
     {
       "id": "222c4e974cda",
@@ -1991,14 +2004,14 @@
       "summary": "A cozy habit tracker, a smarter snippet library, and a rooster that wants you out of bed: this year’s Shipaton winners offer plenty of new apps to explore. RevenueCat’s annual app-building competition drew 3,985 project submissions in 2026, according to its winner announcement. Across the 20…"
     },
     {
-      "id": "a153b2471860",
-      "source": "9to5Google",
-      "source_id": "9to5google",
-      "category": "tech",
-      "title": "Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]",
-      "link": "https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/",
-      "published": "2026-11-04T18:45:02+00:00",
-      "summary": "As teased before the launch, Henry Cavill has built a video game on Googlebook, and it’s called Mustache Protocol . more…"
+      "id": "90c1b4329322",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "South Hadley TM: Food trucks, school bus stop-arm cameras, farm zoning on Monday’s warrant",
+      "link": "https://gazettenet.com/2026/11/06/south-hadley-tm-food-trucks-school-bus-stop-arm-cameras-farm-zoning-on-mondays-warrant/",
+      "published": "2026-11-06T16:26:32+00:00",
+      "summary": ""
     },
     {
       "id": "a26eae6d4900",
@@ -2088,16 +2101,6 @@
       "title": "Jane Barbara Waisman",
       "link": "https://gazettenet.com/2026/11/06/obit-jane-barbara-waisman-212734820/",
       "published": "2026-11-06T06:01:31+00:00",
-      "summary": ""
-    },
-    {
-      "id": "fa5be4b44b0b",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Arlene Marie Urff",
-      "link": "https://gazettenet.com/2026/11/06/obit-arlene-marie-urff-212734821/",
-      "published": "2026-11-06T06:01:15+00:00",
       "summary": ""
     },
     {
@@ -2911,6 +2914,26 @@
       "summary": "To help organizations address the challenges of safe enterprise data access posed by autonomous AI agents, we are thrilled to announce general availability of AI-ready data foundations in VMware Tanzu Platform, first introduced at VMware Explore earlier this year. This release delivers the…"
     },
     {
+      "id": "76ff56b608ed",
+      "source": "Virtualization Review",
+      "source_id": "virtreview",
+      "category": "tech",
+      "title": "Rubrik Takes NAS Backup Storage Off Customers' Hands",
+      "link": "https://virtualizationreview.com/articles/2026/11/05/rubrik-takes-nas-backup-storage-off-customers-hands.aspx",
+      "published": "2026-11-05T16:25:00+00:00",
+      "summary": "Rubrik has introduced a hosted backup offering for on-premises network-attached storage, combining immutable backups, ransomware detection and cross-platform recovery without requiring customers to maintain dedicated backup storage hardware."
+    },
+    {
+      "id": "01f6ce6565fe",
+      "source": "Virtualization Review",
+      "source_id": "virtreview",
+      "category": "tech",
+      "title": "Security Testing for Everyone",
+      "link": "https://virtualizationreview.com/articles/2026/11/03/security-testing-for-everyone.aspx",
+      "published": "2026-11-03T20:18:00+00:00",
+      "summary": "Maester 3.0 adds a built-in engine for 747 security tests, while Maester Cloud helps organizations run and compare assessments across multiple Microsoft 365 tenants."
+    },
+    {
       "id": "c46e670129df",
       "source": "Banking Dive",
       "source_id": "bankingdive",
@@ -2989,6 +3012,16 @@
       "link": "https://www.bankingdive.com/news/banking-ai-agents-threaten-customer-relationships-human-personetics/873706/",
       "published": "2026-11-04T14:37:15+00:00",
       "summary": "The human channel “is the biggest moat or the biggest differentiator the banks have” versus large language models and AI agents, said the chief executive of Personetics."
+    },
+    {
+      "id": "be9403e34688",
+      "source": "ABA Banking Journal",
+      "source_id": "abajournal",
+      "category": "tech",
+      "title": "ABA DataBank: Professional, business services jobs lead strong October report",
+      "link": "https://bankingjournal.aba.com/2026/11/aba-databank-professional-business-services-jobs-lead-strong-october-report/",
+      "published": "2026-11-06T16:29:15+00:00",
+      "summary": "Continued job growth, low unemployment and steady labor demand should support household income growth and consumer spending, providing a positive backdrop for both business and consumer loan demand. The post ABA DataBank: Professional, business services jobs lead strong October report appeared…"
     },
     {
       "id": "327b64bd8c97",
@@ -3079,16 +3112,6 @@
       "link": "https://bankingjournal.aba.com/2026/11/survey-guiding-account-holders-through-life-events-boosts-bank-loyalty/",
       "published": "2026-11-04T20:06:16+00:00",
       "summary": "More than half of bank and credit union account holders say they remain with their institutions only because switching banks would be too hard, and many would consider switching if their institutions failed to provide adequate support during major life events, according to a new survey. The post…"
-    },
-    {
-      "id": "64f93f816a60",
-      "source": "ABA Banking Journal",
-      "source_id": "abajournal",
-      "category": "tech",
-      "title": "OCC releases framework for supervising artificial intelligence",
-      "link": "https://bankingjournal.aba.com/2026/11/occ-releases-framework-for-supervising-artificial-intelligence/",
-      "published": "2026-11-04T15:58:36+00:00",
-      "summary": "The OCC released guidance for its examiners when evaluating the use of artificial intelligence – or “super intelligence\" – in banks’ business activities. The post OCC releases framework for supervising artificial intelligence appeared first on ABA Banking Journal ."
     },
     {
       "id": "67aa65122c49",
@@ -3461,6 +3484,26 @@
       "summary": "The 2026 year for Proxmox has definitely been one for a lot of advancements across the board. However, it seems like it has been the year of storage for Proxmox… The post Proxmox Has a New Shared Storage Option. What Does It Mean for Home Labs in 2026? appeared first on Virtualization Howto ."
     },
     {
+      "id": "2a44e9b7a9f4",
+      "source": "MacRumors",
+      "source_id": "macrumors",
+      "category": "tech",
+      "title": "Early Black Friday Deals Kickoff With Steep Discounts on Apple Watch Ultras and More",
+      "link": "https://www.macrumors.com/2026/11/06/best-apple-deals-of-the-week-11-6-26/",
+      "published": "2026-11-06T16:46:04+00:00",
+      "summary": "Black Friday deals officially kicked off this week, with early savings on everything from Apple Watch Ultra models to Mac mini, Mac Studio, HomeView pre-orders, and more. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a…"
+    },
+    {
+      "id": "c5045b10b8c6",
+      "source": "MacRumors",
+      "source_id": "macrumors",
+      "category": "tech",
+      "title": "The MacRumors Show: iOS 27.3 Looks Like a Huge Update",
+      "link": "https://www.macrumors.com/2026/11/06/the-macrumors-show-ios-27-3/",
+      "published": "2026-11-06T16:38:42+00:00",
+      "summary": "Apple's first 27.3 betas bring expanded Siri AI actions, a redesigned Health app, and new Fitness+ features, alongside conversation summaries on the Apple Watch. This week's episode of The MacRumors Show takes a closer look at the updates. Subscribe to The MacRumors Show YouTube channel for more…"
+    },
+    {
       "id": "e53ee6aea8dd",
       "source": "MacRumors",
       "source_id": "macrumors",
@@ -3641,24 +3684,14 @@
       "summary": "In iOS 27.2, Apple has a new settings menu that lets you choose which apps Siri, Search, and suggestions can access, all from one list. Here's what's changed and how to use the new menu. With iOS 27.2, Apple has replaced the old App Access controls with a redesigned Excluded Apps feature that…"
     },
     {
-      "id": "9e8c0f19c91a",
-      "source": "MacRumors",
-      "source_id": "macrumors",
+      "id": "540c2d2b4ef7",
+      "source": "9to5Mac",
+      "source_id": "9to5mac",
       "category": "tech",
-      "title": "MacBook Pro PROLED XDR Reviews Are In: Is the Touchscreen Worth It?",
-      "link": "https://www.macrumors.com/2026/11/05/macbook-pro-proled-xdr-reviews/",
-      "published": "2026-11-05T16:20:40+00:00",
-      "summary": "The first reviews of the new 14-inch and 16-inch MacBook Pro models with PROLED XDR displays have been published ahead of the laptops launching on Friday. One of the key new features is a touchscreen. Is it worth it, though? Here's what reviews say. The Verge 's David Pierce said that, in his…"
-    },
-    {
-      "id": "69413c7d5e80",
-      "source": "MacRumors",
-      "source_id": "macrumors",
-      "category": "tech",
-      "title": "Early Black Friday Accessory Deals at Amazon Include TVs, Headphones, and Charging Devices",
-      "link": "https://www.macrumors.com/2026/11/05/early-black-friday-accessory-deals/",
-      "published": "2026-11-05T16:14:06+00:00",
-      "summary": "Earlier this week we highlighted some of the best early Black Friday Apple deals , and today we're focusing on third-party accessory markdowns available to purchase right now on Amazon. In this article you'll find all the best accessories for charging, smart homes, smartphones, and more. Note:…"
+      "title": "Deals: M5 MacBook Air $250 off, Apple Watch Ultra $250 off, HomePod mini 2, HomeView, AirPods $100 off, more",
+      "link": "https://9to5mac.com/2026/11/06/deals-macbook-air-apple-watch-ultra-homeview-airpods/",
+      "published": "2026-11-06T16:28:30+00:00",
+      "summary": "Firstly, go secure yourself a couple 2026 Apple Polishing Cloths at $9 a pop before they sell out, a well as the Apple HomeView pre-order discount , then scope out the AirPods Pro 3 at $50 off and all five colors of Apple’s AirPods Max 2 at $100 off . We also still have various Apple Watch Ultra 4…"
     },
     {
       "id": "70f7ae3ef68d",
@@ -3951,24 +3984,14 @@
       "summary": "CNET built a ‘Fold-a-Phone’ machine that’s been constantly folding and unfolding iPhone Duo for over a week to test durability, while livestreaming daily. Here’s how it’s going. more…"
     },
     {
-      "id": "1d8c141337fe",
-      "source": "9to5Mac",
-      "source_id": "9to5mac",
-      "category": "tech",
-      "title": "Apple Creator Studio gets powerful new AI features using OpenAI models [U: Now available]",
-      "link": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
-      "published": "2026-11-05T15:03:24+00:00",
-      "summary": "Apple Creator Studio updates were announced late last month, with what the company describes as “powerful new AI features” using a combination of Apple Intelligence and OpenAI models. At the time, Apple didn’t give a specific availability date beyond sometime in November, but the updates are…"
-    },
-    {
       "id": "1be7b42add52",
       "source": "AppleInsider",
       "source_id": "appleinsider",
       "category": "tech",
       "title": "Developers have optimized over 100,000 apps for the iPhone Duo",
       "link": "https://appleinsider.com/articles/26/11/06/developers-have-optimized-over-100000-apps-for-the-iphone-duo?utm_source=rss",
-      "published": "2026-11-06T16:06:19+00:00",
-      "summary": "Apple says that developers have been rapidly adapting their apps for the iPhone Duo 's twin screens, with thousands of new ones being added daily. Apple is championing how yet more apps that have been updated for the iPhone Duo The lack of apps that hadn't been updated for the iPhone Duo was…"
+      "published": "2026-11-06T16:17:59+00:00",
+      "summary": "Apple says that developers have been rapidly adapting their apps for the iPhone Duo 's twin screens, with thousands of new ones being added daily. Apple Music was updated for iPhone Duo at launch, as were all of Apple's own apps. The lack of apps that hadn't been updated for the iPhone Duo was…"
     },
     {
       "id": "fccd48f1c8cb",
@@ -4261,6 +4284,16 @@
       "summary": "The latest \"Snoopy Presents\" arrives on November 13 and involves Snoopy trying to prove he belongs on Santa's nice list. He's joined by the usual Peanuts gang alongside music scored by Emmy Award-nominated Jeff Morrow and the song \"Get Ready\" from John Legend. Continue Reading on AppleInsider |…"
     },
     {
+      "id": "45ebd4de1f3b",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Google is quietly reworking Gemini’s sidebar and testing a new overlay animation",
+      "link": "https://www.androidauthority.com/google-gemini-ui-update-animation-you-tab-apk-teardown-3732589/",
+      "published": "2026-11-06T16:18:13+00:00",
+      "summary": "Meanwhile, the Google app’s You tab could get a Shortcuts section to view or erase your search history."
+    },
+    {
       "id": "ab8b7669ec9b",
       "source": "Android Authority",
       "source_id": "androidauthority",
@@ -4551,16 +4584,6 @@
       "summary": "Calendar could lose its grid, Health could gain a journal."
     },
     {
-      "id": "d7845f1d7ea8",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Barnes & Noble and TCL team up for a new Tab A1 NXTPAPER",
-      "link": "https://www.androidauthority.com/barnes-and-noble-tab-a1-nxtpaper-3732263/",
-      "published": "2026-11-05T21:28:43+00:00",
-      "summary": "A new variant of the TCL Tab A1 NXTPAPER is up for pre-order."
-    },
-    {
       "id": "00479a69fdac",
       "source": "Android Central",
       "source_id": "androidcentral",
@@ -4719,6 +4742,16 @@
       "link": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-upgraded-its-sleep-apnea-detection-galaxy-ring-watch-9-are-receiving-it-now",
       "published": "2026-11-03T19:00:43+00:00",
       "summary": "Get your Galaxy Ring and Galaxy Watch 9. Samsung's upgraded Sleep Apnea is offering deeper insights into breathing disruptions, and it's rolling out now."
+    },
+    {
+      "id": "bd2460ebccb0",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "Worried About Losing Your Dog Or Cat? Here Are 5 Consumer Reports Approved GPS Trackers",
+      "link": "https://www.bgr.com/2303551/consumer-reports-picks-best-gps-pet-trackers/",
+      "published": "2026-11-06T16:17:00+00:00",
+      "summary": "Pet owners can rest a little easier knowing a lost dog or cat can be found with one of these GPS trackers."
     },
     {
       "id": "d3195ebcdfbd",
@@ -4909,16 +4942,6 @@
       "link": "https://www.bgr.com/2308277/most-powerful-foldable-phones/",
       "published": "2026-11-05T20:17:00+00:00",
       "summary": "The most powerful foldables aren't always the ones with the fastest chips. Cameras, battery life, and proper multitasking matter a lot in real-world use."
-    },
-    {
-      "id": "a0748163d7b3",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "Tom Hiddleston's New Adventure Film On Apple TV Delivers A Heartwarming True Story",
-      "link": "https://www.bgr.com/2305532/tom-hiddleston-new-adventure-film-tenzing-apple-tv-true-story/",
-      "published": "2026-11-05T19:17:00+00:00",
-      "summary": "Tom Hiddleston will be seen next on the big screen in December for the MCU's next Avengers flick, but the beloved actor can also be seen on the small screen."
     },
     {
       "id": "e55049672fcd",
@@ -5221,6 +5244,16 @@
       "summary": "iCloud public link check explained: iOS 27.3, macOS 27.3, harmful content, Advanced Data Protection exception, and December release."
     },
     {
+      "id": "17984307bc21",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
+      "category": "tech",
+      "title": "Meet the X-70 Fractal, the Latest Jet to Join NASA’s Historic X-Plane Lineup",
+      "link": "https://gizmodo.com/meet-the-x-70-fractal-the-latest-jet-to-join-nasas-historic-x-plane-lineup-2000836223",
+      "published": "2026-11-06T16:35:50+00:00",
+      "summary": "The experimental vehicle is expected to make its debut within the next two years."
+    },
+    {
       "id": "6ba88a9465bc",
       "source": "Gizmodo",
       "source_id": "gizmodo",
@@ -5409,16 +5442,6 @@
       "link": "https://gizmodo.com/tech-rout-wipes-out-2-5-trillion-with-ai-investors-anticipating-heavier-scrutiny-2000835986",
       "published": "2026-11-05T23:44:09+00:00",
       "summary": "Tech stocks plummeted amid fears inbound Democrats will end Donald Trump's era of laissez-faire regulation and backdoor deals."
-    },
-    {
-      "id": "cfa6f269f40a",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "A Wacky English Dub Saved ‘Overgeared’ From Being Just Another ‘Solo Leveling’ Anime",
-      "link": "https://gizmodo.com/overgeared-crunchyroll-anime-english-dub-isekai-solo-leveling-2000835889",
-      "published": "2026-11-05T23:15:52+00:00",
-      "summary": "The saving grace for Crunchyroll's newest isekai anime is that it channels the same YouTube abridged series parody energy as 'Golden Boy,' 'Ghost Stories,' and 'Konosuba.'"
     },
     {
       "id": "0ecf14d6571f",
@@ -5721,6 +5744,16 @@
       "summary": "Enter the WWLP.com Home for the Holidays sweepstakes by Dec. 8 to win a $15,000 grand prize and local gift card packages."
     },
     {
+      "id": "e60c6a2b8549",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "These researchers can trace a World War II veteran’s service for families",
+      "link": "https://www.westernmassnews.com/2026/11/06/these-researchers-can-trace-world-war-ii-veterans-service-families/",
+      "published": "2026-11-06T16:28:59+00:00",
+      "summary": "Researchers at the National WWII Museum used records to trace the service of Tisha Powell’s grandfather"
+    },
+    {
       "id": "5d1e98e0649b",
       "source": "Western Mass News",
       "source_id": "westernmassnews",
@@ -5911,16 +5944,6 @@
       "summary": "Officers with the Beaufort Police Department responded to a foot chase involving two runaway piglets dubbed “Bacon Bits.”"
     },
     {
-      "id": "9a57b47f6d0d",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Students reflect one year after inferno in Amherst",
-      "link": "https://www.westernmassnews.com/2026/11/05/students-reflect-after-one-year-after-inferno-amherst/",
-      "published": "2026-11-05T22:57:37+00:00",
-      "summary": "Saturday will mark one year since the devastating fire at Olympia Place in Amherst that left hundreds of students displaced"
-    },
-    {
       "id": "5aaf2c31851e",
       "source": "The Shoestring",
       "source_id": "shoestring",
@@ -6051,6 +6074,36 @@
       "summary": "TruNorth Bank CEO Matthew Sosik has been named to lead the board of a major New England financial technology company."
     },
     {
+      "id": "fa16b21140aa",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "How to discover mortgage leads you’re already paying for",
+      "link": "https://www.cuinsight.com/how-to-discover-mortgage-leads-youre-already-paying-for/",
+      "published": "2026-11-06T16:48:27+00:00",
+      "summary": "The post How to discover mortgage leads you’re already paying for appeared first on CUInsight ."
+    },
+    {
+      "id": "8199e5f3d868",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "What Wall Street’s tech stock sell-off means for your 401(k)",
+      "link": "https://www.cuinsight.com/what-wall-streets-tech-stock-sell-off-means-for-your-401k/",
+      "published": "2026-11-06T16:38:11+00:00",
+      "summary": "The post What Wall Street’s tech stock sell-off means for your 401(k) appeared first on CUInsight ."
+    },
+    {
+      "id": "59e2116d5e75",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Synthetic identity fraud: Prevention & detection tips for financial institutions",
+      "link": "https://www.cuinsight.com/synthetic-identity-fraud-prevention-detection-tips-for-financial-institutions/",
+      "published": "2026-11-06T16:37:09+00:00",
+      "summary": "The post Synthetic identity fraud: Prevention & detection tips for financial institutions appeared first on CUInsight ."
+    },
+    {
       "id": "bc7e316c7eef",
       "source": "CUInsight",
       "source_id": "cuinsight",
@@ -6121,34 +6174,14 @@
       "summary": "The post Flexibility is the new name of the payments game appeared first on CUInsight ."
     },
     {
-      "id": "7d2e52f13779",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
+      "id": "eb0f04a1ae19",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
       "category": "tech",
-      "title": "Americans wary of AI in healthcare for diagnoses and insurance claims, survey finds",
-      "link": "https://www.cuinsight.com/americans-wary-of-ai-in-healthcare-for-diagnoses-and-insurance-claims-survey-finds/",
-      "published": "2026-11-05T17:05:55+00:00",
-      "summary": "The post Americans wary of AI in healthcare for diagnoses and insurance claims, survey finds appeared first on CUInsight ."
-    },
-    {
-      "id": "5ae1a4687e05",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "When branding for financial services goes wrong",
-      "link": "https://www.cuinsight.com/when-branding-for-financial-services-goes-wrong/",
-      "published": "2026-11-05T17:04:21+00:00",
-      "summary": "The post When branding for financial services goes wrong appeared first on CUInsight ."
-    },
-    {
-      "id": "ee5415bce36c",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "Record share of first-time homebuyers paying in cash as Great Wealth Transfer picks up steam",
-      "link": "https://www.cuinsight.com/record-share-of-first-time-homebuyers-paying-in-cash-as-great-wealth-transfer-picks-up-steam/",
-      "published": "2026-11-05T16:59:00+00:00",
-      "summary": "The post Record share of first-time homebuyers paying in cash as Great Wealth Transfer picks up steam appeared first on CUInsight ."
+      "title": "4 things I wish everybody knew about Dolby Vision",
+      "link": "https://www.pocket-lint.com/things-to-know-about-dolby-vision/",
+      "published": "2026-11-06T16:30:54+00:00",
+      "summary": "Dolby Vision is a great HDR format, but there are things you need to know."
     },
     {
       "id": "6719f5cad4e9",
@@ -6241,16 +6274,6 @@
       "summary": "These movies shine in 4K."
     },
     {
-      "id": "b4b086682991",
-      "source": "Pocket-lint",
-      "source_id": "pocketlint",
-      "category": "tech",
-      "title": "3 quirky Apple innovations that shouldn't have been abandoned",
-      "link": "https://www.pocket-lint.com/spectacular-innovations-apple-gave-up-on-way-too-soon/",
-      "published": "2026-11-05T15:37:01+00:00",
-      "summary": "In my estimation, Apple killed these three innovative technologies prematurely."
-    },
-    {
       "id": "c87d79e5280b",
       "source": "Tech Community: Entra blog",
       "source_id": "tcentra",
@@ -6269,16 +6292,6 @@
       "link": "https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-deep-dives-join-our-december-15-17-webinar/ba-p/4448760",
       "published": "2026-11-04T16:19:58+00:00",
       "summary": "At Microsoft Ignite, November 17–20, the Microsoft Entra team will explore innovative ways to secure access for people and AI agents. But Microsoft Ignite is just the beginning. Post Ignite from December 15–17, keep the momentum going with three days dedicated to what’s next for identity and…"
-    },
-    {
-      "id": "e5a74875614f",
-      "source": "Tech Community: Entra blog",
-      "source_id": "tcentra",
-      "category": "tech",
-      "title": "Global Secure Access: Private Access and Internet Access in one offering",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-entra-blog/global-secure-access-private-access-and-internet-access-in-one/ba-p/4569098",
-      "published": "2026-11-03T16:38:50+00:00",
-      "summary": "Employees, and now AI agents, need secure access to resources wherever they live: the internet, Microsoft 365 and SaaS, cloud and datacenter workloads, on-premises apps, and AI services. Zero Trust means evaluating every one of those connections against full context, including identity, risk,…"
     },
     {
       "id": "39e91b73319e",
@@ -6309,6 +6322,66 @@
       "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528",
       "published": "2026-11-03T21:32:55+00:00",
       "summary": "Welcome to the October 2026 edition of What's New in Microsoft Copilot! Every month, we highlight new features and enhancements to keep Microsoft 365 customers up to date with Copilot features that help your users be more productive and efficient in the apps they use every day. Let’s take a closer…"
+    },
+    {
+      "id": "e2845eccbac1",
+      "source": "Microsoft Security Blog",
+      "source_id": "mssecblog",
+      "category": "tech",
+      "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+      "published": "2026-11-05T23:46:50+00:00",
+      "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s tenant. Agents…"
+    },
+    {
+      "id": "ccc66eb25631",
+      "source": "Microsoft Security Blog",
+      "source_id": "mssecblog",
+      "category": "tech",
+      "title": "New investments to reduce on-premises security risk",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
+      "published": "2026-11-05T17:10:14+00:00",
+      "summary": "We’re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments. The post New investments to reduce on-premises security risk appeared first on Microsoft Security Blog ."
+    },
+    {
+      "id": "1a39a444dba6",
+      "source": "Microsoft Security Blog",
+      "source_id": "mssecblog",
+      "category": "tech",
+      "title": "​​​​What’s new in Microsoft Security: November 2026",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
+      "published": "2026-11-05T17:00:00+00:00",
+      "summary": "Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post ​​​​What’s new in Microsoft Security: November 2026 appeared first on Microsoft Security Blog ."
+    },
+    {
+      "id": "302fe04b9508",
+      "source": "Microsoft Security Blog",
+      "source_id": "mssecblog",
+      "category": "tech",
+      "title": "Email threat landscape: Q3 2026 trends and insights",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
+      "published": "2026-11-05T16:00:00+00:00",
+      "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with…"
+    },
+    {
+      "id": "86c38c1e82c9",
+      "source": "Microsoft Security Blog",
+      "source_id": "mssecblog",
+      "category": "tech",
+      "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
+      "published": "2026-11-03T17:32:47+00:00",
+      "summary": "Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session. The post Fake-download campaign uses trojanized installers to deliver…"
+    },
+    {
+      "id": "263a6ac2e13a",
+      "source": "Microsoft Security Blog",
+      "source_id": "mssecblog",
+      "category": "tech",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
+      "published": "2026-11-03T17:00:00+00:00",
+      "summary": "Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms appeared first on Microsoft Security Blog ."
     }
   ]
 }
