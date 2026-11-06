@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:10:58+00:00",
+  "generated_at": "2026-11-06T02:10:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -344,9 +344,68 @@
       "feed_url": "https://www.cuinsight.com/feed",
       "count": 10,
       "errors": []
+    },
+    "pocketlint": {
+      "name": "Pocket-lint",
+      "status": "ok",
+      "feed_url": "https://www.pocket-lint.com/feed/",
+      "count": 10,
+      "errors": []
+    },
+    "tcentra": {
+      "name": "Tech Community: Entra blog",
+      "status": "ok",
+      "feed_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-entra-blog",
+      "count": 3,
+      "errors": []
+    },
+    "tcintune": {
+      "name": "Tech Community: Intune blog",
+      "status": "ok",
+      "feed_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoftintuneblog",
+      "count": 0,
+      "errors": []
+    },
+    "tcm365": {
+      "name": "Tech Community: Microsoft 365 blog",
+      "status": "ok",
+      "feed_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft_365blog",
+      "count": 0,
+      "errors": []
+    },
+    "tcitops": {
+      "name": "Tech Community: ITOps Talk",
+      "status": "ok",
+      "feed_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=ITOpsTalkBlog",
+      "count": 0,
+      "errors": []
+    },
+    "tcsecurity": {
+      "name": "Tech Community: Microsoft Security blog",
+      "status": "ok",
+      "feed_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-security-blog",
+      "count": 1,
+      "errors": []
+    },
+    "tccopilot": {
+      "name": "Tech Community: Copilot blog",
+      "status": "ok",
+      "feed_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-copilot-blog",
+      "count": 1,
+      "errors": []
     }
   },
   "items": [
+    {
+      "id": "e024b4cae3ca",
+      "source": "Ars Technica",
+      "source_id": "ars",
+      "category": "tech",
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "published": "2026-11-06T00:17:06+00:00",
+      "summary": "\"This is going to be a game-changer.\""
+    },
     {
       "id": "9ed3b44bda29",
       "source": "Ars Technica",
@@ -538,14 +597,14 @@
       "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says."
     },
     {
-      "id": "b58632e425d5",
-      "source": "Ars Technica",
-      "source_id": "ars",
+      "id": "85f398082dad",
+      "source": "The Verge",
+      "source_id": "verge",
       "category": "tech",
-      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-      "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-      "published": "2026-11-04T21:29:46+00:00",
-      "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter."
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "published": "2026-11-06T00:37:56+00:00",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many…"
     },
     {
       "id": "cc48f8093c5b",
@@ -638,14 +697,64 @@
       "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]"
     },
     {
-      "id": "742472373ce5",
-      "source": "The Verge",
-      "source_id": "verge",
-      "category": "tech",
-      "title": "EA is bringing 25 classic PC games to Steam",
-      "link": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
-      "published": "2026-11-05T18:30:00+00:00",
-      "summary": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life updates to support…"
+      "id": "2d65ac5dc3e0",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "St. John’s Prep football defeats Weymouth to begin D-I tournament",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/st-johns-prep-football-defeats-weymouth-to-begin-d-i-tournament.html",
+      "published": "2026-11-06T02:01:34+00:00",
+      "summary": "St. John's Prep football is now perfect through nine games."
+    },
+    {
+      "id": "c515c3714d94",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Question 5 fails: Massachusetts voters halt tax rebate changes",
+      "link": "https://www.masslive.com/politics/2026/11/massachusetts-ballot-question-5-fails-halting-change-to-tax-rebates.html",
+      "published": "2026-11-06T01:14:16+00:00",
+      "summary": "Massachusetts voters rejected Ballot Question 5 with 52% voting no, preserving the state's existing tax rebate law and its current revenue cap triggers."
+    },
+    {
+      "id": "7e4d5b0f0790",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "When does HOKA’s Black Friday sale begin in 2026?",
+      "link": "https://www.masslive.com/shopping-deals/2026/11/when-does-hokas-black-friday-begin-in-2026.html",
+      "published": "2026-11-06T01:10:07+00:00",
+      "summary": "HOKA's Black Friday 2026 sale is expected to start around Thanksgiving, Nov. 26, with discounts of up to 50% on select shoes, apparel, and accessories, potentially extending through Cyber Monday on Nov. 30."
+    },
+    {
+      "id": "7a4c776ff448",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Agawam field hockey explodes in fourth quarter to defeat West Springfield in D-II opener",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/agawam-field-hockey-explodes-in-fourth-quarter-to-defeat-west-springfield-in-d-ii-opener.html",
+      "published": "2026-11-06T00:47:30+00:00",
+      "summary": "Agawam field hockey punched its ticket to the next round of the MIAA Division II state tournament on Thursday."
+    },
+    {
+      "id": "72ad169f8126",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "MassLive breaks down all 5 MIAA girls soccer brackets with guests from around the state",
+      "link": "https://www.masslive.com/highschoolsports/2026/11/watch-the-masslive-miaa-girls-soccer-bracket-breakdown-show-here.html",
+      "published": "2026-11-06T00:40:49+00:00",
+      "summary": "Guests from around the state joined MassLive's Kyle Grabowski to break down the 2026 MIAA girls soccer state tournament brackets."
+    },
+    {
+      "id": "e21026a72920",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Chicopee PD contributed to fiery crash that killed 13-year-old, lawsuit claims",
+      "link": "https://www.masslive.com/westernmass/2026/11/chicopee-pd-contributed-to-fiery-crash-that-killed-13-year-old-lawsuit-claims.html",
+      "published": "2026-11-06T00:10:02+00:00",
+      "summary": "The lawsuit is the second piece of litigation the city faces in connection with the collision along Montgomery Street."
     },
     {
       "id": "d3a9cb7ac21a",
@@ -886,66 +995,6 @@
       "link": "https://www.masslive.com/highschoolsports/2026/11/live-coverage-first-round-of-massachusetts-high-school-football-postseason.html",
       "published": "2026-11-05T21:00:00+00:00",
       "summary": "MassLive will be at 12 first round playoff games across the state this week. Here's how to get updates."
-    },
-    {
-      "id": "ddd7798aa5a2",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "One Democrat emerges in 2028 talk — as 29 meet Obama’s ex-campaign manager",
-      "link": "https://www.masslive.com/politics/2026/11/one-democrat-emerges-in-2028-move-as-29-meet-obamas-ex-campaign-manager.html",
-      "published": "2026-11-05T20:53:00+00:00",
-      "summary": "Progressive allies of a congressman have formed a group to urge a presidential bid."
-    },
-    {
-      "id": "b83520b3aaf9",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Ex-NFL running back, Seahawks legend dies at 70",
-      "link": "https://www.masslive.com/sports/2026/11/ex-nfl-running-back-seahawks-legend-dies-at-70.html",
-      "published": "2026-11-05T20:51:35+00:00",
-      "summary": "He spent seven seasons with the Seahawks after being drafted by the New York Giants."
-    },
-    {
-      "id": "2ae94682f892",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Brooks’ new Adrenaline GTS 26 shoes are out — and runners are already loving them",
-      "link": "https://www.masslive.com/shopping-deals/2026/11/brooks-new-adrenaline-gts-26-shoes-are-out-and-runners-are-already-loving-them.html",
-      "published": "2026-11-05T20:42:32+00:00",
-      "summary": "The Brooks Adrenaline GTS 26, priced at $155, offers GuideRails support and DNA LOFT v3 cushioning for runners and walkers seeking stability and comfort."
-    },
-    {
-      "id": "1c66fa7b70ea",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Man escapes tent fire; authorities probe 6 outdoor blazes in Holyoke",
-      "link": "https://www.masslive.com/westernmass/2026/11/man-escapes-tent-fire-authorities-probe-6-outdoor-blazes-in-holyoke.html",
-      "published": "2026-11-05T20:40:15+00:00",
-      "summary": "Investigators believe six fires reported near Race and Maple streets might be connected."
-    },
-    {
-      "id": "5e2b1360ad0e",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Why you should’t panic about governments urging emergency kits (but what should be in yours)",
-      "link": "https://www.masslive.com/news/2026/11/why-you-shouldt-panic-about-governments-recommending-emergency-kits-but-what-should-be-in-yours.html",
-      "published": "2026-11-05T20:38:54+00:00",
-      "summary": "The guidance while in most cases was nothing new, prompted concerns of an impending natural disaster, terrorist attack or war."
-    },
-    {
-      "id": "de0c47e6284d",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Preserving democracy is an ongoing struggle |Letters to The Republican",
-      "link": "https://www.masslive.com/opinion/2026/11/preserving-democracy-is-an-ongoing-struggle-letters-to-the-republican.html",
-      "published": "2026-11-05T20:35:14+00:00",
-      "summary": "Writers reflect on Tuesday's elections."
     },
     {
       "id": "3347a00667c5",
@@ -2048,6 +2097,16 @@
       "summary": ""
     },
     {
+      "id": "44cd18879139",
+      "source": "Hartford Business Journal",
+      "source_id": "hbj",
+      "category": "local",
+      "title": "UConn’s Maric named finalist for Univ. of Wisconsin-Madison job amid uncertainty over her future",
+      "link": "https://hartfordbusiness.com/article/uconns-maric-named-finalist-for-univ-of-wisconsin-madison-job-amid-uncertainty-over-her-future/",
+      "published": "2026-11-06T01:07:49+00:00",
+      "summary": "With her UConn contract set to expire in 2027, Maric is pursuing a top university post in Wisconsin."
+    },
+    {
       "id": "8171c6ac4e89",
       "source": "Hartford Business Journal",
       "source_id": "hbj",
@@ -2138,14 +2197,14 @@
       "summary": "Connecticut Democrats are poised to wield new power in Washington, with plans for Trump oversight, affordability measures and major committee leadership roles."
     },
     {
-      "id": "de6289a60ac1",
-      "source": "Hartford Business Journal",
-      "source_id": "hbj",
-      "category": "local",
-      "title": "At 80, Blumenthal signals another Senate run in 2028",
-      "link": "https://hartfordbusiness.com/article/at-80-blumenthal-signals-another-senate-run-in-2028/",
-      "published": "2026-11-05T11:58:44+00:00",
-      "summary": "The Connecticut senator says he expects to be on the ballot in 2028, while preparing to lead two Senate committees as Democrats regain control."
+      "id": "97d7db0e7e4a",
+      "source": "BleepingComputer",
+      "source_id": "bleeping",
+      "category": "tech",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "published": "2026-11-06T00:56:44+00:00",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]"
     },
     {
       "id": "886e9406677f",
@@ -2286,16 +2345,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
       "published": "2026-11-04T16:00:18+00:00",
       "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]"
-    },
-    {
-      "id": "d6dd46466a93",
-      "source": "BleepingComputer",
-      "source_id": "bleeping",
-      "category": "tech",
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "published": "2026-11-04T15:00:10+00:00",
-      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used…"
     },
     {
       "id": "49bf8b366c47",
@@ -2518,6 +2567,16 @@
       "summary": "Scammers are offering supposed leaked builds, early copies and phone versions of Grand Theft Auto VI (GTA 6) weeks before the game’s November 19 launch, Netcraft warned in a new blog post. The company looked at GTA VI-themed domains that appeared between July 1 and October 27, 2026. Most of the…"
     },
     {
+      "id": "6ed44c5da57e",
+      "source": "SANS Internet Storm Center",
+      "source_id": "sansisc",
+      "category": "tech",
+      "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+      "link": "https://isc.sans.edu/diary/rss/33494",
+      "published": "2026-11-06T02:00:02+00:00",
+      "summary": ""
+    },
+    {
       "id": "63a4e5fb9a82",
       "source": "SANS Internet Storm Center",
       "source_id": "sansisc",
@@ -2555,16 +2614,6 @@
       "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
       "link": "https://isc.sans.edu/diary/rss/33486",
       "published": "2026-11-04T02:10:02+00:00",
-      "summary": ""
-    },
-    {
-      "id": "d67f6a348091",
-      "source": "SANS Internet Storm Center",
-      "source_id": "sansisc",
-      "category": "tech",
-      "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
-      "link": "https://isc.sans.edu/diary/rss/33484",
-      "published": "2026-11-03T02:00:02+00:00",
       "summary": ""
     },
     {
@@ -3528,6 +3577,16 @@
       "summary": "I am always on the lookout for new and really cool tools that allow us to have things at our fingertips in the home lab. If you are running some… The post This Free Kubernetes Tool Could Replace Lens in Your Home Lab appeared first on Virtualization Howto ."
     },
     {
+      "id": "93bddd374bf6",
+      "source": "MacRumors",
+      "source_id": "macrumors",
+      "category": "tech",
+      "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera",
+      "link": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/",
+      "published": "2026-11-06T00:22:52+00:00",
+      "summary": "Apple is sending email surveys to some iPhone Duo buyers to get feedback on display size, crease, under-display camera, and other features. The first question asks why the buyer chose the ‌iPhone Duo‌ now, with answers like \"I wanted to try Apple's first foldable,\" \"It was an impulse purchase,\"…"
+    },
+    {
       "id": "9e64fa96550f",
       "source": "MacRumors",
       "source_id": "macrumors",
@@ -3718,14 +3777,54 @@
       "summary": "If you bought an iPhone Duo on launch day and are having second thoughts about keeping Apple's first foldable iPhone, tomorrow could be your last chance to return it for a refund. Apple officially launched the iPhone Duo on Friday, October 23, so the standard 14-day return window for customers who…"
     },
     {
-      "id": "db65d59afff3",
-      "source": "MacRumors",
-      "source_id": "macrumors",
+      "id": "846eda5a9599",
+      "source": "9to5Mac",
+      "source_id": "9to5mac",
       "category": "tech",
-      "title": "Apple Launching Five New Products Tomorrow",
-      "link": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/",
-      "published": "2026-11-05T08:59:09+00:00",
-      "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week , including its first touchscreen MacBook Pro models. The following new products will be available from tomorrow: iPad mini with OLED display and A20 Pro chip iMac with M6 chip 14-inch MacBook…"
+      "title": "‘Awkwafina: The Unlikely Cook’ premieres on Apple TV",
+      "link": "https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv/",
+      "published": "2026-11-06T02:10:07+00:00",
+      "summary": "Apple TV subscribers can now stream the first two episodes of the platform’s new unscripted food series, ‘ Awkwafina: The Unlikely Cook .’ Watch the trailer below. more…"
+    },
+    {
+      "id": "c32351ac6bf1",
+      "source": "9to5Mac",
+      "source_id": "9to5mac",
+      "category": "tech",
+      "title": "Apple explains how to turn off the new MacBook Pro’s glowing logo",
+      "link": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/",
+      "published": "2026-11-06T01:48:42+00:00",
+      "summary": "While the illuminated Apple logo on the new MacBook Pro drew one of the biggest cheers during last week’s announcement, Apple knows that not everyone will want to keep it on. Here’s the company’s official guide to turning it off. more…"
+    },
+    {
+      "id": "69ad2a868c03",
+      "source": "9to5Mac",
+      "source_id": "9to5mac",
+      "category": "tech",
+      "title": "WhatsApp’s AI-powered photo expansion tool starts rolling out on iOS",
+      "link": "https://9to5mac.com/2026/11/05/whatsapps-ai-powered-photo-expansion-tool-starts-rolling-out-on-ios/",
+      "published": "2026-11-06T01:24:45+00:00",
+      "summary": "Select WhatsApp users on TestFlight and in the main app are now seeing the option to expand an image in the app’s photo editor. Here are the details. more…"
+    },
+    {
+      "id": "96942475f838",
+      "source": "9to5Mac",
+      "source_id": "9to5mac",
+      "category": "tech",
+      "title": "Report: iPad shipments drop 27.5% as global tablet market plunges in Q3",
+      "link": "https://9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3/",
+      "published": "2026-11-06T00:56:11+00:00",
+      "summary": "Despite global iPad shipments dropping 27.5% year-over-year in the third calendar quarter, Apple maintained its lead in the tablet market, according to a new report released today. Here are the details. more…"
+    },
+    {
+      "id": "9016dcec52b3",
+      "source": "9to5Mac",
+      "source_id": "9to5mac",
+      "category": "tech",
+      "title": "Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO",
+      "link": "https://9to5mac.com/2026/11/05/apple-f1-streaming-international-countries/",
+      "published": "2026-11-06T00:36:46+00:00",
+      "summary": "Starting this year, Apple has exclusive streaming rights for Formula 1 racing in the United States, which sees every race stream on Apple TV . Both Apple and the league have proudly reported a very positive response in terms of viewership and subscriber acquisition, although they do not publish…"
     },
     {
       "id": "31b0c9ff49e1",
@@ -3976,56 +4075,6 @@
       "link": "https://9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro/",
       "published": "2026-11-05T02:00:00+00:00",
       "summary": "To promote the new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre store in Downtown Los Angeles. Watch the livestream below. more…"
-    },
-    {
-      "id": "8c5761b3e77f",
-      "source": "9to5Mac",
-      "source_id": "9to5mac",
-      "category": "tech",
-      "title": "Apple now lets developers offer discounts when users move to cancel subscriptions",
-      "link": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
-      "published": "2026-11-05T00:17:49+00:00",
-      "summary": "Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details. more…"
-    },
-    {
-      "id": "7e78c871125a",
-      "source": "9to5Mac",
-      "source_id": "9to5mac",
-      "category": "tech",
-      "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
-      "link": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
-      "published": "2026-11-04T23:59:10+00:00",
-      "summary": "According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details. more…"
-    },
-    {
-      "id": "8220d68dd373",
-      "source": "9to5Mac",
-      "source_id": "9to5mac",
-      "category": "tech",
-      "title": "9to5Mac Daily: November 4, 2026 – iOS 27.3 beta 1 now available",
-      "link": "https://9to5mac.com/2026/11/04/daily-november-4-2026/",
-      "published": "2026-11-04T23:25:26+00:00",
-      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with…"
-    },
-    {
-      "id": "911049b26ad5",
-      "source": "9to5Mac",
-      "source_id": "9to5mac",
-      "category": "tech",
-      "title": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show",
-      "link": "https://9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show/",
-      "published": "2026-11-04T22:40:45+00:00",
-      "summary": "With one official announcement and one report, two new Apple TV projects have been revealed this week. Here are the details. more…"
-    },
-    {
-      "id": "ae36614f9bbf",
-      "source": "9to5Mac",
-      "source_id": "9to5mac",
-      "category": "tech",
-      "title": "Apple Photos keeps getting better, here’s what’s new in iOS 27",
-      "link": "https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27/",
-      "published": "2026-11-04T20:47:18+00:00",
-      "summary": "iOS 27’s biggest highlight is Siri AI, but the update also packs new features for apps like Messages , Notes , Wallet , and more . Here’s everything new for Apple’s Photos app in iOS 27. more…"
     },
     {
       "id": "6cea6a34942a",
@@ -4808,6 +4857,16 @@
       "summary": "Your Android TV box could be part of a massive botnet without you knowing."
     },
     {
+      "id": "068025f378e9",
+      "source": "BGR",
+      "source_id": "bgr",
+      "category": "tech",
+      "title": "4 Perks Of Switching To A USB-C Dock",
+      "link": "https://www.bgr.com/2302748/perks-switching-usb-c-dock/",
+      "published": "2026-11-06T00:17:00+00:00",
+      "summary": "A USB-C dock can do a lot more than clear the clutter from your desk. These four benefits make it useful for more than just keeping your cables organized."
+    },
+    {
       "id": "7e2e0c333ba2",
       "source": "BGR",
       "source_id": "bgr",
@@ -4996,16 +5055,6 @@
       "link": "https://www.bgr.com/2296398/garmin-smartwatch-alternatives-consider-expensive-sports-watch/",
       "published": "2026-11-05T00:17:00+00:00",
       "summary": "There's a massive market for alternative sports watches if you're willing to looking beyond the Garmin brand."
-    },
-    {
-      "id": "e8ed807525ec",
-      "source": "BGR",
-      "source_id": "bgr",
-      "category": "tech",
-      "title": "Google Bans Partner After 1.3 Million Android TV Boxes Found Infected With Malware",
-      "link": "https://www.bgr.com/2307279/android-tv-box-botnet-infection/",
-      "published": "2026-11-04T23:17:00+00:00",
-      "summary": "Google's crackdown on infected Android TV boxes highlights a troubling problem: The malware was built into the devices and ordinary security checks missed it."
     },
     {
       "id": "5e23ed0e8987",
@@ -5808,6 +5857,16 @@
       "summary": "An 82-year-old woman was safely rescued from the Concord River in Billerica after her paddle boat became stuck in a muddy cove."
     },
     {
+      "id": "b74d957db48e",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "First measles death in 30+ years reported in this state",
+      "link": "https://www.westernmassnews.com/2026/11/06/first-measles-death-30-years-reported-this-state/",
+      "published": "2026-11-06T01:55:30+00:00",
+      "summary": "It is the first measles death in the state since 1990, according to a DHS news release."
+    },
+    {
       "id": "9d0d4092f756",
       "source": "Western Mass News",
       "source_id": "westernmassnews",
@@ -5996,16 +6055,6 @@
       "link": "https://www.westernmassnews.com/2026/11/05/9-arrested-after-shooting-investigations-uncover-alleged-drug-operation/",
       "published": "2026-11-05T18:22:29+00:00",
       "summary": "Investigations into four shootings over the summer in Pittsfield led authorities to uncover a suspected drug trafficking operation"
-    },
-    {
-      "id": "e8e720a144f8",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
-      "category": "local",
-      "title": "Flooding prompts state of emergency in Georgia as crews conduct more than 40 rescues",
-      "link": "https://www.westernmassnews.com/2026/11/05/flooding-prompts-state-emergency-georgia-crews-conduct-more-than-30-rescues/",
-      "published": "2026-11-05T17:43:39+00:00",
-      "summary": "Flooding across north Georgia prompted a state of emergency, more than 40 water rescues and evacuation efforts in affected communities."
     },
     {
       "id": "66773e3b9c46",
@@ -6236,6 +6285,156 @@
       "link": "https://www.cuinsight.com/stop-spreading-your-marketing-budget-like-peanut-butter-why-fis-fail-without-prioritization/",
       "published": "2026-11-05T08:30:00+00:00",
       "summary": "Planning season is here, and C-Suite leaders are closing in on budget submissions. If you sit in the executive suite of a mid-sized financial institution, you know the drill. The… The post Stop spreading your marketing budget like peanut butter: Why FIs fail without prioritization appeared first…"
+    },
+    {
+      "id": "3b69f89a19fa",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "Your Roku has an expiration date",
+      "link": "https://www.pocket-lint.com/your-roku-has-an-expiration-date/",
+      "published": "2026-11-06T01:00:17+00:00",
+      "summary": "Roku devices can last for years, but their software support doesn't last forever."
+    },
+    {
+      "id": "9116562e87d7",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "The new Amazon Kindle makes a compelling case for a smaller e-reader",
+      "link": "https://www.pocket-lint.com/amazon-kindle-six-inch-2026-review/",
+      "published": "2026-11-06T00:00:17+00:00",
+      "summary": "The big change sees the Kindle come with a 6-inch display, offering more convenience and portability in a small size."
+    },
+    {
+      "id": "e298de1f8283",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "Your LG TV is getting a free (and unexpected) new feature",
+      "link": "https://www.pocket-lint.com/your-lg-tv-is-getting-an-unexpected-new-feature/",
+      "published": "2026-11-05T21:31:59+00:00",
+      "summary": "The new feature is free, but the food isn't."
+    },
+    {
+      "id": "fdbd1adbebce",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "My Dolby Atmos system gets a workout from these 4K Blu-rays",
+      "link": "https://www.pocket-lint.com/dolby-atmos-system-workout-4k-blu-ray/",
+      "published": "2026-11-05T20:30:13+00:00",
+      "summary": "These discs make my Dolby Atmos sound system soar."
+    },
+    {
+      "id": "99b0c5eca2f7",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "After 6 years my Surface Go 2 is still the best tablet I've ever owned",
+      "link": "https://www.pocket-lint.com/why-i-still-swear-by-my-surface-go-2/",
+      "published": "2026-11-05T20:00:41+00:00",
+      "summary": "Despite having launched all the way back in 2020, I still use my trusty Surface Go 2 on a daily basis - here's why."
+    },
+    {
+      "id": "c53194ae2199",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "Your keyboard has an expiration date",
+      "link": "https://www.pocket-lint.com/your-keyboard-has-an-expiration-date/",
+      "published": "2026-11-05T18:04:45+00:00",
+      "summary": "Take care of your PC's keyboard and it'll take care of you."
+    },
+    {
+      "id": "7aeda1bffbc3",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "4 post-apocalyptic DVDs to upgrade to 4K UHD sooner rather than later",
+      "link": "https://www.pocket-lint.com/post-apocalyptic-dvds-to-upgrade-4k-uhd/",
+      "published": "2026-11-05T16:43:18+00:00",
+      "summary": "These movies shine in 4K."
+    },
+    {
+      "id": "b4b086682991",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "3 quirky Apple innovations that shouldn't have been abandoned",
+      "link": "https://www.pocket-lint.com/spectacular-innovations-apple-gave-up-on-way-too-soon/",
+      "published": "2026-11-05T15:37:01+00:00",
+      "summary": "In my estimation, Apple killed these three innovative technologies prematurely."
+    },
+    {
+      "id": "5a40c4f1b034",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "Apple's OLED MacBook Pro exceeded my expectations",
+      "link": "https://www.pocket-lint.com/macbook-pro-proled-xdr-display-first-impressions/",
+      "published": "2026-11-05T15:08:09+00:00",
+      "summary": "Here are my initial impressions of Apple's first-ever touchscreen OLED MacBook Pro."
+    },
+    {
+      "id": "cee5ad800752",
+      "source": "Pocket-lint",
+      "source_id": "pocketlint",
+      "category": "tech",
+      "title": "Scarlett Johansson's most unsettling sci-fi movie is finally free to stream",
+      "link": "https://www.pocket-lint.com/scarlett-johansson-led-under-the-skin-is-free-to-stream-on-justwatchtv/",
+      "published": "2026-11-05T13:00:18+00:00",
+      "summary": "This 2013 sci-fi film is unlike anything else in Johansson's filmography."
+    },
+    {
+      "id": "c87d79e5280b",
+      "source": "Tech Community: Entra blog",
+      "source_id": "tcentra",
+      "category": "tech",
+      "title": "Scale access controls with Microsoft Entra Conditional Access policy plans",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-entra-blog/scale-access-controls-with-microsoft-entra-conditional-access/ba-p/4569647",
+      "published": "2026-11-04T17:00:00+00:00",
+      "summary": "Today we’re announcing the public preview of Microsoft Entra Conditional Access policy plans —a new framework for enterprise-scale access control. Instead of managing dozens of individual policies, policy plans let you define your access intent once and enforce it consistently across every…"
+    },
+    {
+      "id": "113df2a12ad6",
+      "source": "Tech Community: Entra blog",
+      "source_id": "tcentra",
+      "category": "tech",
+      "title": "Microsoft Entra deep dives: Join our December 15–17 webinar series",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-deep-dives-join-our-december-15-17-webinar/ba-p/4448760",
+      "published": "2026-11-04T16:19:58+00:00",
+      "summary": "At Microsoft Ignite, November 17–20, the Microsoft Entra team will explore innovative ways to secure access for people and AI agents. But Microsoft Ignite is just the beginning. Post Ignite from December 15–17, keep the momentum going with three days dedicated to what’s next for identity and…"
+    },
+    {
+      "id": "e5a74875614f",
+      "source": "Tech Community: Entra blog",
+      "source_id": "tcentra",
+      "category": "tech",
+      "title": "Global Secure Access: Private Access and Internet Access in one offering",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-entra-blog/global-secure-access-private-access-and-internet-access-in-one/ba-p/4569098",
+      "published": "2026-11-03T16:38:50+00:00",
+      "summary": "Employees, and now AI agents, need secure access to resources wherever they live: the internet, Microsoft 365 and SaaS, cloud and datacenter workloads, on-premises apps, and AI services. Zero Trust means evaluating every one of those connections against full context, including identity, risk,…"
+    },
+    {
+      "id": "4b7abc686c93",
+      "source": "Tech Community: Microsoft Security blog",
+      "source_id": "tcsecurity",
+      "category": "tech",
+      "title": "The CISO Cheat Sheet to Microsoft Digital Defense Report 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-security-community/the-ciso-cheat-sheet-to-microsoft-digital-defense-report-2026/ba-p/4566642",
+      "published": "2026-11-03T22:55:05+00:00",
+      "summary": "I know we’re all busy, so I’ve pulled the most important data from this year’s Microsoft Digital Defense Report into one short read. The full report is well worth exploring, but this article focuses on the numbers and trends most relevant to security leaders. This year’s edition shows that AI is…"
+    },
+    {
+      "id": "669f0c4b5932",
+      "source": "Tech Community: Copilot blog",
+      "source_id": "tccopilot",
+      "category": "tech",
+      "title": "What’s New in Microsoft Copilot | October 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528",
+      "published": "2026-11-03T21:32:55+00:00",
+      "summary": "Welcome to the October 2026 edition of What's New in Microsoft Copilot! Every month, we highlight new features and enhancements to keep Microsoft 365 customers up to date with Copilot features that help your users be more productive and efficient in the apps they use every day. Let’s take a closer…"
     }
   ]
 }
