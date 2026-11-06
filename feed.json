@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:10:33+00:00",
+  "generated_at": "2026-11-06T06:09:58+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -927,16 +927,6 @@
       "summary": "In their Middlesex Superior Court case, only O’Bannon’s claims survived to judgment, and a request for class-action status was also denied."
     },
     {
-      "id": "921d009d933c",
-      "source": "MassLive",
-      "source_id": "masslive",
-      "category": "local",
-      "title": "Dear Annie: One friend shops thrift stores, the other shops BOGO sales. Yay?",
-      "link": "https://www.masslive.com/advice/2026/11/dear-annie-one-friend-shops-thrift-stores-the-other-shops-bogo-sales-yay.html",
-      "published": "2026-11-05T23:00:00+00:00",
-      "summary": "I know that they say it is the thought that counts, but ..."
-    },
-    {
       "id": "f90700f06cb2",
       "source": "MassLive",
       "source_id": "masslive",
@@ -945,6 +935,16 @@
       "link": "https://www.masslive.com/news/2026/11/postal-worker-accused-of-shooting-2-co-workers-at-usps-office.html",
       "published": "2026-11-05T23:00:00+00:00",
       "summary": "A Des Moines postal worker was taken into custody after shooting two female co-workers on the second floor of a USPS office."
+    },
+    {
+      "id": "921d009d933c",
+      "source": "MassLive",
+      "source_id": "masslive",
+      "category": "local",
+      "title": "Dear Annie: One friend shops thrift stores, the other shops BOGO sales. Yay?",
+      "link": "https://www.masslive.com/advice/2026/11/dear-annie-one-friend-shops-thrift-stores-the-other-shops-bogo-sales-yay.html",
+      "published": "2026-11-05T23:00:00+00:00",
+      "summary": "I know that they say it is the thought that counts, but ..."
     },
     {
       "id": "f7e6ab351448",
@@ -1997,6 +1997,46 @@
       "summary": "The Redmagic 12 Pro is the first Snapdragon-based Android phone to support the Linux Terminal introduced in Android 16 for Pixel phones. more…"
     },
     {
+      "id": "cbb747cbf531",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Jane Barbara Waisman",
+      "link": "https://gazettenet.com/2026/11/06/obit-jane-barbara-waisman-212734820/",
+      "published": "2026-11-06T06:01:31+00:00",
+      "summary": ""
+    },
+    {
+      "id": "fa5be4b44b0b",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Arlene Marie Urff",
+      "link": "https://gazettenet.com/2026/11/06/obit-arlene-marie-urff-212734821/",
+      "published": "2026-11-06T06:01:15+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b71bde9f25c0",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Francis E. Collins Jr.",
+      "link": "https://gazettenet.com/2026/11/06/obit-francis-e-collins-jr-212734824/",
+      "published": "2026-11-06T06:00:59+00:00",
+      "summary": ""
+    },
+    {
+      "id": "70ab26b2b975",
+      "source": "Daily Hampshire Gazette",
+      "source_id": "gazette",
+      "category": "local",
+      "title": "Edward A. Berube",
+      "link": "https://gazettenet.com/2026/11/06/obit-edward-a-berube-212739458/",
+      "published": "2026-11-06T06:00:43+00:00",
+      "summary": ""
+    },
+    {
       "id": "d9abfdc950eb",
       "source": "Daily Hampshire Gazette",
       "source_id": "gazette",
@@ -2054,46 +2094,6 @@
       "title": "Seasonal tour guides at Emily Dickinson Museum pause planned strike",
       "link": "https://gazettenet.com/2026/11/05/seasonal-tour-guides-at-emily-dickinson-museum-plan-saturday-strike/",
       "published": "2026-11-05T20:28:39+00:00",
-      "summary": ""
-    },
-    {
-      "id": "bda1806479f2",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Chaos makes a comeback: Easthampton’s Cultural Chaos festival to return in 2027",
-      "link": "https://gazettenet.com/2026/11/05/chaos-makes-a-comeback-easthamptons-cultural-chaos-festival-to-return-in-2027/",
-      "published": "2026-11-05T20:04:04+00:00",
-      "summary": ""
-    },
-    {
-      "id": "70dc7609c8b3",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Policymaking or investigations? For McGovern, the answer is both",
-      "link": "https://gazettenet.com/2026/11/05/policymaking-or-investigations-for-mcgovern-the-answer-is-both/",
-      "published": "2026-11-05T19:43:24+00:00",
-      "summary": ""
-    },
-    {
-      "id": "45846ca3a887",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Amherst council advances Hampshire rezoning pause petition despite opposition",
-      "link": "https://gazettenet.com/2026/11/05/amherst-council-advances-hampshire-rezoning-pause-petition-despite-opposition/",
-      "published": "2026-11-05T18:32:53+00:00",
-      "summary": ""
-    },
-    {
-      "id": "00bbf8daa8ca",
-      "source": "Daily Hampshire Gazette",
-      "source_id": "gazette",
-      "category": "local",
-      "title": "Area Property Deed Transfers, Nov. 6",
-      "link": "https://gazettenet.com/2026/11/05/area-property-deed-transfers-nov-6/",
-      "published": "2026-11-05T16:36:44+00:00",
       "summary": ""
     },
     {
@@ -2457,6 +2457,36 @@
       "summary": "Revolve says shoppers’ saved card details were stolen. A Texas filing suggests as many as 1.5 million people may be affected."
     },
     {
+      "id": "a64f92172f81",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "87% say their AI controls need to work better",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/",
+      "published": "2026-11-06T06:00:03+00:00",
+      "summary": "The AI running inside large companies has stopped waiting for permission. Across five categories of AI, from chatbots to process automation, more than half of 3,600 business decision-makers say the systems their teams use can act within defined rules without routine review, or finish whole…"
+    },
+    {
+      "id": "57a5b9afce46",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "99% of repository access tokens never expire",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/",
+      "published": "2026-11-06T05:30:23+00:00",
+      "summary": "Developers, automated tools and AI coding agents hold permissions that can outlast the work they were granted for. Without access reviews, organizations can leave accounts able to copy or change company code after the work ends, according to BlueFlag Security’s The State of Developer Risk 2026…"
+    },
+    {
+      "id": "33ab60e6dabf",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "Rental phishing sites use live chat to win over hesitant travelers",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/",
+      "published": "2026-11-06T05:00:41+00:00",
+      "summary": "Holiday travelers looking for a place to stay are landing on copies of popular rental platforms, complete with host names, ratings and reviews, that ask for their passwords, personal details and credit card numbers. The sites, spotted and taken down by Fortra’s Intelligence and Research Experts…"
+    },
+    {
       "id": "0e52048a4256",
       "source": "Help Net Security",
       "source_id": "helpnet",
@@ -2525,36 +2555,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/05/portswigger-burp-at-enterprises/",
       "published": "2026-11-05T13:48:16+00:00",
       "summary": "PortSwigger has announced the availability of Burp AT for enterprises, an agentic pentesting solution that helps security teams investigate important applications more deeply and more often. Burp AT combines specialist Burp tools, purpose-built pentesting skills developed with PortSwigger…"
-    },
-    {
-      "id": "57050d5cfd2a",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Sysdig AI Defense puts runtime guardrails on AI agents",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/sysdig-ai-defense/",
-      "published": "2026-11-05T13:29:28+00:00",
-      "summary": "Sysdig has announced the general availability of Sysdig AI Defense, giving organizations tools to monitor and control AI agent activity across endpoints and cloud environments. The platform checks agent actions against company policies to allow them, hold them for user approval or block them…"
-    },
-    {
-      "id": "cc34a33e2ccb",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Patched Zyxel GS1900 switches remained open to in-the-wild exploit (CVE-2026-107441)",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/zyxel-cve-2026-107441-exploit/",
-      "published": "2026-11-05T12:06:32+00:00",
-      "summary": "Zyxel GS1900 series network switches that received a fix for a flaw that was later reported to have been exploited in the wild are still open to an exploit attackers used, Binarly found. That’s because the patch fixed a different bug (CVE-2026-7273) from the one (CVE-2026-107441) the exploit…"
-    },
-    {
-      "id": "95338b4eedb1",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Scammers capitalize on GTA 6 hype to push malware and crypto cons",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/gta-6-scams-fake-leaks-early-access/",
-      "published": "2026-11-05T11:41:50+00:00",
-      "summary": "Scammers are offering supposed leaked builds, early copies and phone versions of Grand Theft Auto VI (GTA 6) weeks before the game’s November 19 launch, Netcraft warned in a new blog post. The company looked at GTA VI-themed domains that appeared between July 1 and October 27, 2026. Most of the…"
     },
     {
       "id": "6ed44c5da57e",
@@ -5047,6 +5047,36 @@
       "summary": "Taking proper care of your Blu-ray collection is vital if you want them to last, but here are five mistakes to avoid when cleaning the discs."
     },
     {
+      "id": "c3e55af1e5ca",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "WhatsApp could soon let you expand photos with Meta AI on your iPhone",
+      "link": "https://www.digitaltrends.com/phones/whatsapp-tests-meta-ai-photo-expand-feature-on-ios/",
+      "published": "2026-11-06T05:58:38+00:00",
+      "summary": "After launching on Android, WhatsApp’s Meta AI photo expansion is now coming to iPhone, letting you widen the frame of any picture before you send it to friends or share it on your status."
+    },
+    {
+      "id": "b32e10087e04",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "Apple explains how the glowing Apple logo works and how you can turn it off",
+      "link": "https://www.digitaltrends.com/computing/apple-explains-how-the-glowing-apple-logo-works-and-how-you-can-turn-it-off/",
+      "published": "2026-11-06T05:07:59+00:00",
+      "summary": "The new MacBook Pro brings back the glowing Apple logo. Here’s how it works and how you can turn it off if you’d rather keep things low-key."
+    },
+    {
+      "id": "009a8ad22dc7",
+      "source": "Digital Trends",
+      "source_id": "digitaltrends",
+      "category": "tech",
+      "title": "[EXCLUSIVE]: In an era of foldables, makers of the enough phone want you to trust a smaller, quieter device",
+      "link": "https://www.digitaltrends.com/phones/exclusive-in-an-era-of-foldables-makers-of-the-enough-phone-want-you-to-trust-a-smaller-quieter-device/",
+      "published": "2026-11-06T04:44:30+00:00",
+      "summary": "The latest addition to digital detox trend is the Enough Phone, a small-ish phone that wants to serve the purpose of a phone, without overwhelming you."
+    },
+    {
       "id": "7de91afb49d6",
       "source": "Digital Trends",
       "source_id": "digitaltrends",
@@ -5317,34 +5347,14 @@
       "summary": "Nothing’s mystery December device sounds more like an office tool than a flashy AI pin, and that may be smart."
     },
     {
-      "id": "b9840a39f76a",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
+      "id": "e4471bd8987c",
+      "source": "Gizmodo",
+      "source_id": "gizmodo",
       "category": "tech",
-      "title": "EcoFlow’s new power stations can keep devices running even when the battery hits 0%",
-      "link": "https://www.digitaltrends.com/outdoors/ecoflows-new-power-stations-can-keep-devices-running-even-when-the-battery-hits-0/",
-      "published": "2026-11-04T19:08:53+00:00",
-      "summary": "EcoFlow has launched four new portable power stations under its DELTA Gen4 and RIVER Gen4 series. And there is a rather interesting trick they can pull off when the battery runs out. All four models come with Emergency Power Mode, which keeps a small amount of electricity in reserve even when the…"
-    },
-    {
-      "id": "7b4280bb796e",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
-      "category": "tech",
-      "title": "Anker’s eufy Window Camera E10 sticks to the window from inside and surveils the outdoors through the glass",
-      "link": "https://www.digitaltrends.com/home/ankers-eufy-window-camera-e10-sticks-to-the-window-from-inside-and-surveils-the-outdoors-through-the-glass/",
-      "published": "2026-11-04T18:50:38+00:00",
-      "summary": "Eufy’s new $79.99 camera skips the drill and the monthly fee. It stays inside your window, features a downward-tilting lens and anti-glare stickers."
-    },
-    {
-      "id": "eb7322b6c646",
-      "source": "Digital Trends",
-      "source_id": "digitaltrends",
-      "category": "tech",
-      "title": "This tiny Android phone brings back two features we thought were gone for good",
-      "link": "https://www.digitaltrends.com/phones/this-tiny-android-phone-brings-back-two-features-we-thought-were-gone-for-good/",
-      "published": "2026-11-04T18:00:00+00:00",
-      "summary": "Not everyone wants a giant smartphone with a dozen features they'll never use. The Enough Phone takes a different approach, and there's quite a bit to like about it."
+      "title": "Trump’s Crypto Vehicle World Liberty Financial to Buy Back Tokens After Post-Election Nose Dive",
+      "link": "https://gizmodo.com/trumps-crypto-vehicle-world-liberty-financial-to-buy-back-tokens-after-post-election-nose-dive-2000836068",
+      "published": "2026-11-06T04:59:13+00:00",
+      "summary": "World Liberty Financial's WLFI governance token is down 10% since Democrats took Congress, and more than 60% this year."
     },
     {
       "id": "4cf56fa3a9a8",
@@ -5535,16 +5545,6 @@
       "link": "https://gizmodo.com/a-simple-kitchen-swap-may-prevent-up-to-3-million-deaths-a-year-2000835691",
       "published": "2026-11-05T18:05:13+00:00",
       "summary": "Replacing table salt with potassium-enriched salt can drastically blunt cardiovascular disease on a global scale, new research has found."
-    },
-    {
-      "id": "2ccad01baa3e",
-      "source": "Gizmodo",
-      "source_id": "gizmodo",
-      "category": "tech",
-      "title": "New ‘Fool Night’ Trailer Asks What Price You’d Pay to Transform Into a Plant for the Greater Good",
-      "link": "https://gizmodo.com/fool-night-anime-trailer-netflix-shaft-sunrise-2000835733",
-      "published": "2026-11-05T17:52:14+00:00",
-      "summary": "Shaft and Sunrise's anime adaptation of Kasumi Yasuda's dystopian sci-fi thriller manga series comes into bloom on Netflix later this month."
     },
     {
       "id": "0e1368aa30d3",
@@ -5847,6 +5847,16 @@
       "summary": "Russell Brand was convicted Thursday of rape and sexual assault charges on allegations dating back more than 20 years."
     },
     {
+      "id": "e6b9332152b4",
+      "source": "Western Mass News",
+      "source_id": "westernmassnews",
+      "category": "local",
+      "title": "Former police officer pleads guilty to child porn possession, gets 100 days in jail",
+      "link": "https://www.westernmassnews.com/2026/11/06/former-police-officer-pleads-guilty-child-porn-possession-gets-100-days-jail/",
+      "published": "2026-11-06T04:47:00+00:00",
+      "summary": "A former Greenville police officer pleads guilty to child pornography possession"
+    },
+    {
       "id": "16a0c6c48c07",
       "source": "Western Mass News",
       "source_id": "westernmassnews",
@@ -6037,14 +6047,24 @@
       "summary": "Authorities are looking for the public’s help as they investigate"
     },
     {
-      "id": "d30ca0ace954",
-      "source": "Western Mass News",
-      "source_id": "westernmassnews",
+      "id": "b3e4c6e1a5ed",
+      "source": "Greenfield Recorder",
+      "source_id": "recorder",
       "category": "local",
-      "title": "17-year-old accused of killing pregnant mother, unborn baby in Spirit Halloween shooting",
-      "link": "https://www.westernmassnews.com/2026/11/05/17-year-old-accused-killing-pregnant-mother-unborn-baby-spirit-halloween-shooting/",
-      "published": "2026-11-05T19:01:57+00:00",
-      "summary": "A 17-year-old is accused of killing a pregnant mother and injuring six others inside a Spirit Halloween store in California, prosecutors announced."
+      "title": "Céline J. MacDougall",
+      "link": "https://recorder.com/2026/11/06/obit-cline-j-macdougall-212735506/",
+      "published": "2026-11-06T06:02:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "8284ea62097b",
+      "source": "Greenfield Recorder",
+      "source_id": "recorder",
+      "category": "local",
+      "title": "Fay E. Bennett",
+      "link": "https://recorder.com/2026/11/06/obit-fay-e-bennett-212738675/",
+      "published": "2026-11-06T06:01:57+00:00",
+      "summary": ""
     },
     {
       "id": "061e868169df",
@@ -6124,26 +6144,6 @@
       "title": "Tom Travis: Celebrate Veterans Day",
       "link": "https://recorder.com/2026/11/05/tom-travis-celebrate-veterans-day/",
       "published": "2026-11-05T19:44:50+00:00",
-      "summary": ""
-    },
-    {
-      "id": "dec3fbd79f37",
-      "source": "Greenfield Recorder",
-      "source_id": "recorder",
-      "category": "local",
-      "title": "School bus sustaining significant damage involved in Leverett crash",
-      "link": "https://recorder.com/2026/11/05/school-bus-car-collision-leverett/",
-      "published": "2026-11-05T19:37:36+00:00",
-      "summary": ""
-    },
-    {
-      "id": "32e25c2cc65b",
-      "source": "Greenfield Recorder",
-      "source_id": "recorder",
-      "category": "local",
-      "title": "23rd annual Crafts of Colrain tour highlights range of town talents",
-      "link": "https://recorder.com/2026/11/05/crafts-colrain-open-studio-tour/",
-      "published": "2026-11-05T19:02:06+00:00",
       "summary": ""
     },
     {
