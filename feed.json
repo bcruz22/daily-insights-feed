@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T08:08:33+00:00",
+  "generated_at": "2026-11-06T09:40:33+00:00",
   "window_hours": 72,
   "sources": {
     "ars": {
@@ -132,7 +132,7 @@
       "name": "Dark Reading",
       "status": "ok",
       "feed_url": "https://www.darkreading.com/rss.xml",
-      "count": 14,
+      "count": 15,
       "errors": []
     },
     "proxmoxsec": {
@@ -997,6 +997,16 @@
       "summary": "Both sides will get one final chance Friday to tell jurors what the evidence shows about Sandra Birchmore’s death before deliberations begin."
     },
     {
+      "id": "3a73b8fccf35",
+      "source": "SecurityWeek",
+      "source_id": "securityweek",
+      "category": "tech",
+      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+      "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+      "published": "2026-11-06T09:33:51+00:00",
+      "summary": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek ."
+    },
+    {
       "id": "5d7c1511e0dd",
       "source": "SecurityWeek",
       "source_id": "securityweek",
@@ -1087,16 +1097,6 @@
       "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek ."
     },
     {
-      "id": "89af0224359d",
-      "source": "SecurityWeek",
-      "source_id": "securityweek",
-      "category": "tech",
-      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-      "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-      "published": "2026-11-05T10:02:00+00:00",
-      "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek ."
-    },
-    {
       "id": "5f03ebc775ef",
       "source": "Petri",
       "source_id": "petri",
@@ -1165,6 +1165,16 @@
       "link": "https://petri.com/microsoft-intune-controls-cloud-pcs-apple-devices/",
       "published": "2026-11-03T15:04:35+00:00",
       "summary": "As organizations manage growing fleets of Windows, Apple, and cloud-based devices, IT teams often face a difficult balancing issue. Security teams need stricter controls and faster compliance enforcement, while end users expect flexibility and minimal disruption. Traditional approaches frequently…"
+    },
+    {
+      "id": "6facdf5f94df",
+      "source": "The Hacker News",
+      "source_id": "thehackernews",
+      "category": "tech",
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "published": "2026-11-06T08:04:49+00:00",
+      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company…"
     },
     {
       "id": "ed60ea7fa412",
@@ -1455,16 +1465,6 @@
       "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
       "published": "2026-11-03T15:16:32+00:00",
       "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in…"
-    },
-    {
-      "id": "77f64f32faf5",
-      "source": "The Hacker News",
-      "source_id": "thehackernews",
-      "category": "tech",
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "published": "2026-11-03T11:23:53+00:00",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw,…"
     },
     {
       "id": "1eac9df98bea",
@@ -2197,6 +2197,16 @@
       "summary": "Connecticut Democrats are poised to wield new power in Washington, with plans for Trump oversight, affordability measures and major committee leadership roles."
     },
     {
+      "id": "3a8f9a3bb5fd",
+      "source": "BleepingComputer",
+      "source_id": "bleeping",
+      "category": "tech",
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "published": "2026-11-06T09:22:28+00:00",
+      "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]"
+    },
+    {
       "id": "97d7db0e7e4a",
       "source": "BleepingComputer",
       "source_id": "bleeping",
@@ -2337,16 +2347,6 @@
       "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]"
     },
     {
-      "id": "4ba7cadb265a",
-      "source": "BleepingComputer",
-      "source_id": "bleeping",
-      "category": "tech",
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "published": "2026-11-04T16:00:18+00:00",
-      "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]"
-    },
-    {
       "id": "49bf8b366c47",
       "source": "Krebs on Security",
       "source_id": "krebs",
@@ -2457,6 +2457,16 @@
       "summary": "Revolve says shoppers’ saved card details were stolen. A Texas filing suggests as many as 1.5 million people may be affected."
     },
     {
+      "id": "9e0aea37a06b",
+      "source": "Help Net Security",
+      "source_id": "helpnet",
+      "category": "tech",
+      "title": "US agencies warn attackers are targeting refrigeration systems that protect food and medicine",
+      "link": "https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
+      "published": "2026-11-06T09:04:36+00:00",
+      "summary": "Threat actors are going after the controllers that keep grocery store freezers and cold storage rooms at safe temperatures, and they may push those units into continuous heating and defrost cycles, five US federal agencies warned in a joint advisory published on Thursday. CISA, the FBI, the…"
+    },
+    {
       "id": "66bb14a34959",
       "source": "Help Net Security",
       "source_id": "helpnet",
@@ -2545,16 +2555,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/05/arkose-agent-trust-manager/",
       "published": "2026-11-05T14:33:02+00:00",
       "summary": "Arkose Labs has expanded Arkose Agent Trust Manager to help businesses control agentic traffic. Companies can classify agent sessions, apply allow, monitor or block policies at each step of the customer journey, and track the same agent across multiple networks. The need is urgent given Arkose…"
-    },
-    {
-      "id": "a2aaec48b5e5",
-      "source": "Help Net Security",
-      "source_id": "helpnet",
-      "category": "tech",
-      "title": "Box pairs agentic workflow plans with new threat protections",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/box-architect/",
-      "published": "2026-11-05T14:25:34+00:00",
-      "summary": "Box has announced new capabilities to transform how organizations put agents to work across their most critical business processes. Box unveiled Box Architect for autonomously building, managing, and optimizing agentic workflows, redefining how organizations deploy AI on their most critical…"
     },
     {
       "id": "6ed44c5da57e",
@@ -2655,6 +2655,16 @@
       "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
       "published": "2026-11-05T17:00:00+00:00",
       "summary": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found."
+    },
+    {
+      "id": "67dcad135390",
+      "source": "Dark Reading",
+      "source_id": "darkreading",
+      "category": "tech",
+      "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+      "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+      "published": "2026-11-06T09:00:00+00:00",
+      "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex."
     },
     {
       "id": "c5d8bcb2d057",
@@ -3207,6 +3217,16 @@
       "summary": "How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?"
     },
     {
+      "id": "edb226dcc873",
+      "source": "Finextra",
+      "source_id": "finextra",
+      "category": "tech",
+      "title": "Trade-based financial crime in 2027: Exploring threats, AI and portable trust",
+      "link": "https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "published": "2027-01-19T15:00:00+00:00",
+      "summary": "How are financial institutions combatting increasingly complex trade-based financial crime?"
+    },
+    {
       "id": "b7c3488a9746",
       "source": "Finextra",
       "source_id": "finextra",
@@ -3275,6 +3295,26 @@
       "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
       "published": "2026-11-12T15:00:00+00:00",
       "summary": "How can banks adapt their cross-border payment services to increase client satisfaction?"
+    },
+    {
+      "id": "d1f628d2331d",
+      "source": "Finextra",
+      "source_id": "finextra",
+      "category": "tech",
+      "title": "FATF report identifies practical approaches for disrupting scam compounds",
+      "link": "https://www.finextra.com/newsarticle/48714/fatf-report-identifies-practical-approaches-for-disrupting-scam-compounds?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "published": "2026-11-06T09:00:00+00:00",
+      "summary": "According to the FATF, the rate of fraud has grown in recent years, catalysed by increased online exposure, digital innovation, and as a result of the Covid-19 pandemic."
+    },
+    {
+      "id": "ea14e3748405",
+      "source": "Finextra",
+      "source_id": "finextra",
+      "category": "tech",
+      "title": "Huntington National Bank launches treasury management platform",
+      "link": "https://www.finextra.com/pressarticle/111599/huntington-national-bank-launches-treasury-management-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "published": "2026-11-06T09:00:00+00:00",
+      "summary": "The Huntington National Bank today announced the launch of Intelligent Treasury, a new, modern treasury management platform designed to help commercial clients simplify treasury operations, improve cash visibility and manage liquidity more effectively across multiple banking relationships.…"
     },
     {
       "id": "c822e8b11359",
@@ -3465,36 +3505,6 @@
       "link": "https://www.finextra.com/pressarticle/111588/tbc-georgia-rolls-out-palm-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
       "published": "2026-11-05T13:22:00+00:00",
       "summary": "TBC Georgia, one of the country’s leading financial institutions and part of London-listed TBC Bank Group, announces the launch of palm payment, becoming the first bank in Georgia to introduce the innovative biometric payment technology."
-    },
-    {
-      "id": "4984aba9a1cb",
-      "source": "Finextra",
-      "source_id": "finextra",
-      "category": "tech",
-      "title": "Aqua Global and StoneX partner on cross-border payments",
-      "link": "https://www.finextra.com/pressarticle/111587/aqua-global-and-stonex-partner-on-cross-border-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "published": "2026-11-05T13:20:00+00:00",
-      "summary": "Aqua Global, the software provider behind the Aquila financial messaging and transaction automation platform, has today announced new cross-border payment and foreign exchange capabilities through a strategic partnership with StoneX Group Inc. (\"StoneX\"; NASDAQ: SNEX)."
-    },
-    {
-      "id": "c8606a578f2a",
-      "source": "Finextra",
-      "source_id": "finextra",
-      "category": "tech",
-      "title": "Early Revolut employees open waitlist for wealth AI startup Haido",
-      "link": "https://www.finextra.com/newsarticle/48706/early-revolut-employees-open-waitlist-for-wealth-ai-startup-haido?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "published": "2026-11-05T13:00:00+00:00",
-      "summary": "A pair of early Revolut employees has opened the waitlist for their new venture, an AI wealth company that has secured backing from UK fintech heavyweights including Eileen Burbidge."
-    },
-    {
-      "id": "4f6ff7584e59",
-      "source": "Finextra",
-      "source_id": "finextra",
-      "category": "tech",
-      "title": "Kalepa raises $75m to expand AI underwriting platform",
-      "link": "https://www.finextra.com/newsarticle/48707/kalepa-raises-75m-to-expand-ai-underwriting-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "published": "2026-11-05T13:00:00+00:00",
-      "summary": "Insurance AI firm Kalepa has raised $75 million in Series B funding at a $470 million valuation, as it looks to expand its AI platform across the insurance value chain and into new markets."
     },
     {
       "id": "5efcc50c6e34",
@@ -3761,10 +3771,10 @@
       "source": "MacRumors",
       "source_id": "macrumors",
       "category": "tech",
-      "title": "Got an iPhone Duo on Launch Day? Tomorrow Could Be Your Last Chance to Return It",
+      "title": "Got an iPhone Duo on Launch Day? Today Could Be Your Last Chance to Return It",
       "link": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/",
       "published": "2026-11-05T10:32:51+00:00",
-      "summary": "If you bought an iPhone Duo on launch day and are having second thoughts about keeping Apple's first foldable iPhone, tomorrow could be your last chance to return it for a refund. Apple officially launched the iPhone Duo on Friday, October 23, so the standard 14-day return window for customers who…"
+      "summary": "If you purchased an iPhone Duo on launch day and are having second thoughts about keeping Apple's first foldable iPhone, today could be your last chance to return it for a full refund. Apple officially launched the iPhone Duo on Friday, October 23, so the standard 14-day return window for…"
     },
     {
       "id": "846eda5a9599",
@@ -4367,6 +4377,46 @@
       "summary": "Okay, it's in essence just an iMac G4 sort-of mirroring a MacBook screen, but it's still cool. YouTuber Jesse Richards uses custom software (that he has made available ) on a MacBook to stream what a HomeView shows to the user while it's running. Yet another reason to reuse classic Apple hardware,…"
     },
     {
+      "id": "36cdc11839ad",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Google Find Hub is catching up to Apple Find My with left-behind alerts",
+      "link": "https://www.androidauthority.com/google-find-hub-left-behind-reminders-rolling-out-3732383/",
+      "published": "2026-11-06T09:25:09+00:00",
+      "summary": "Better late than never."
+    },
+    {
+      "id": "3326f2be1c70",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Spotify tests dedicated ‘Pins’ carousel to declutter Your Library on mobile",
+      "link": "https://www.androidauthority.com/spotify-your-library-pins-shelf-test-3732365/",
+      "published": "2026-11-06T09:12:59+00:00",
+      "summary": "The new shelf separates pinned items from the rest of your library."
+    },
+    {
+      "id": "3e3212f4cc1c",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Sony’s Walkman-era MDR-3 headphones are back with USB-C and a $60 price tag",
+      "link": "https://www.androidauthority.com/sony-mdr-3r-usb-c-retro-headphones-3732340/",
+      "published": "2026-11-06T08:54:21+00:00",
+      "summary": "There's a special treat for Stranger Things fans too."
+    },
+    {
+      "id": "76541b3a633b",
+      "source": "Android Authority",
+      "source_id": "androidauthority",
+      "category": "tech",
+      "title": "Google fixes daylight saving time bug affecting Nest and Lenovo smart home devices",
+      "link": "https://www.androidauthority.com/google-smart-home-daylight-saving-time-bug-fix-3732351/",
+      "published": "2026-11-06T08:40:57+00:00",
+      "summary": "Nest and Lenovo devices are getting back on schedule."
+    },
+    {
       "id": "7fe7dabc0ca0",
       "source": "Android Authority",
       "source_id": "androidauthority",
@@ -4625,46 +4675,6 @@
       "link": "https://www.androidauthority.com/asus-rog-tessen-deal-3732054/",
       "published": "2026-11-05T14:36:15+00:00",
       "summary": "ASUS ROG Tessen falls to $64.99 on Amazon, giving Android gamers a premium wired USB-C controller for half price."
-    },
-    {
-      "id": "82d0b3019a52",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "Motorola Signature 27 brings a 7,000mAh battery and seven years of Android updates for $1,600",
-      "link": "https://www.androidauthority.com/motorola-signature-27-launch-3731987/",
-      "published": "2026-11-05T13:00:41+00:00",
-      "summary": "Motorola went big on everything, including the price tag this time."
-    },
-    {
-      "id": "440ebaa5b17f",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "GrapheneOS brings Linux 6.18 to Pixel 10 series, eyes Android 17 QPR2 for Pixel 11",
-      "link": "https://www.androidauthority.com/grapheneos-pixel-10-linux-6-18-pixel-11-support-3731993/",
-      "published": "2026-11-05T12:43:48+00:00",
-      "summary": "A major upgrade is live, with more Pixel support on the horizon."
-    },
-    {
-      "id": "963e2620654a",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "OPPO Find X10 Ultra and vivo X500 Ultra leak points to five 200MP cameras between them",
-      "link": "https://www.androidauthority.com/oppo-find-x10-ultra-vivo-x500-ultra-camera-specs-leak-3731990/",
-      "published": "2026-11-05T12:24:05+00:00",
-      "summary": "OPPO’s next Ultra reportedly pairs triple 200MP cameras with a 50MP 10x zoom, while vivo brings back a 200MP main camera."
-    },
-    {
-      "id": "454b64e2bbfa",
-      "source": "Android Authority",
-      "source_id": "androidauthority",
-      "category": "tech",
-      "title": "No Snapdragon? No problem! MaliSX2 is about to bring a major boost to GameCube, Xbox emulators",
-      "link": "https://www.androidauthority.com/malisx2-vulkan-driver-mediatek-dolphin-hakux-emulators-3731982/",
-      "published": "2026-11-05T12:14:38+00:00",
-      "summary": "MaliSX2 is the closest thing to Turnip drivers for non-Snapdragon chips, and it's coming to two major emulators."
     },
     {
       "id": "00479a69fdac",
@@ -6187,6 +6197,46 @@
       "summary": "The merger between Adams Community Bank and Pittsfield Cooperative Bank is officially completed. The new entity is now Trailmark Bank."
     },
     {
+      "id": "d55a78de7d29",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "The trust gap: How marketing builds confidence before a member ever applies",
+      "link": "https://www.cuinsight.com/the-trust-gap-how-marketing-builds-confidence-before-a-member-ever-applies/",
+      "published": "2026-11-06T08:30:00+00:00",
+      "summary": "People want proof before they place their trust in a financial institution. How trust is established and maintained looks different than it used to, though the tenets of it are… The post The trust gap: How marketing builds confidence before a member ever applies appeared first on CUInsight ."
+    },
+    {
+      "id": "a35e777ef98b",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "AI isn’t the goal. Helping our people evolve is.",
+      "link": "https://www.cuinsight.com/ai-isnt-the-goal-helping-our-people-evolve-is/",
+      "published": "2026-11-06T08:25:00+00:00",
+      "summary": "Over the last couple of years, I've had countless conversations with credit union leaders about artificial intelligence. Some are excited. Some are cautious. Most are somewhere in the middle, trying… The post AI isn’t the goal. Helping our people evolve is. appeared first on CUInsight ."
+    },
+    {
+      "id": "f990a5a57bbc",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "Transforming medical debt risk into member support: What credit unions can do",
+      "link": "https://www.cuinsight.com/transforming-medical-debt-risk-into-member-support-what-credit-unions-can-do/",
+      "published": "2026-11-06T08:20:00+00:00",
+      "summary": "Medical debt is rising again, and for credit union leaders, many of whom have an older membership base, medical hardship is both a portfolio challenge and a chance to strengthen… The post Transforming medical debt risk into member support: What credit unions can do appeared first on CUInsight ."
+    },
+    {
+      "id": "3fb1fc9aa7fa",
+      "source": "CUInsight",
+      "source_id": "cuinsight",
+      "category": "tech",
+      "title": "I had a drink with Bukowski",
+      "link": "https://www.cuinsight.com/i-had-a-drink-with-bukowski/",
+      "published": "2026-11-06T08:15:00+00:00",
+      "summary": "I had a drink with Charles Bukowski the other night. Not literally, of course. He’s been dead since 1994, and I suspect even the most ambitious credit union conference planner… The post I had a drink with Bukowski appeared first on CUInsight ."
+    },
+    {
       "id": "b52ffd586c91",
       "source": "CUInsight",
       "source_id": "cuinsight",
@@ -6245,46 +6295,6 @@
       "link": "https://www.cuinsight.com/payment-hubs-gain-ground-as-35-of-financial-institutions-plan-adoption/",
       "published": "2026-11-05T16:50:10+00:00",
       "summary": "The post Payment hubs gain ground as 35% of financial institutions plan adoption appeared first on CUInsight ."
-    },
-    {
-      "id": "b51adce80a30",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "The next generation of credit union members won’t wait for credit unions",
-      "link": "https://www.cuinsight.com/the-next-generation-of-credit-union-members-wont-wait-for-credit-unions/",
-      "published": "2026-11-05T16:47:48+00:00",
-      "summary": "The post The next generation of credit union members won’t wait for credit unions appeared first on CUInsight ."
-    },
-    {
-      "id": "d54350424093",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "Nasdaq falls 3% as investors continue postelection rotation out of AI stocks",
-      "link": "https://www.cuinsight.com/nasdaq-falls-3-as-investors-continue-postelection-rotation-out-of-ai-stocks/",
-      "published": "2026-11-05T15:05:48+00:00",
-      "summary": "The post Nasdaq falls 3% as investors continue postelection rotation out of AI stocks appeared first on CUInsight ."
-    },
-    {
-      "id": "e482ef2924bf",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "Giving credit unions tools to fight the latest scams",
-      "link": "https://www.cuinsight.com/giving-credit-unions-tools-to-fight-the-latest-scams/",
-      "published": "2026-11-05T14:56:23+00:00",
-      "summary": "The post Giving credit unions tools to fight the latest scams appeared first on CUInsight ."
-    },
-    {
-      "id": "e8d1b85a65e8",
-      "source": "CUInsight",
-      "source_id": "cuinsight",
-      "category": "tech",
-      "title": "Stop spreading your marketing budget like peanut butter: Why FIs fail without prioritization",
-      "link": "https://www.cuinsight.com/stop-spreading-your-marketing-budget-like-peanut-butter-why-fis-fail-without-prioritization/",
-      "published": "2026-11-05T08:30:00+00:00",
-      "summary": "Planning season is here, and C-Suite leaders are closing in on budget submissions. If you sit in the executive suite of a mid-sized financial institution, you know the drill. The… The post Stop spreading your marketing budget like peanut butter: Why FIs fail without prioritization appeared first…"
     },
     {
       "id": "3b69f89a19fa",
