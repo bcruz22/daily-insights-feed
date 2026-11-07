@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T22:11:08+00:00",
+ "generated_at": "2026-11-07T00:10:33+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 28,
+  "aqi": 30,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-06 16:00 EST"
+  "observed": "2026-11-06 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,35 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Work IQ: Execute (Recipes)",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570866",
+    "published": "2026-11-06T23:04:41+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Work IQ",
+     "Microsoft Copilot (Microsoft 365)",
+     "Web"
+    ],
+    "summary": "Enable agents to execute reusable Work IQ recipes that coordinate supported tools and actions. GA date: November CY2026 Preview date: October CY2026"
+   },
+   {
+    "title": "Microsoft Teams: Facilitator follow-up mode",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566523",
+    "published": "2026-11-06T23:04:41+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Microsoft Copilot (Microsoft 365)",
+     "Desktop"
+    ],
+    "summary": "Chat naturally with Facilitator without tagging it each time. GA date: December CY2026"
+   },
    {
     "title": "OneDrive: Command-line tool for the OneDrive sync app",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578910",
@@ -246,62 +275,6 @@
      "iOS"
     ],
     "summary": "People can set expiration dates for \u201cAnyone\u201d and \u201cPeople in your organization\u201d access on the main link to files and folders in OneDrive and SharePoint. New administrator policies can Administrators can set policies to require expiration and enforce a maximum access duration, with separate settings f"
-   },
-   {
-    "title": "Microsoft Viva: Engage - Improved shared messages end-user experience",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578870",
-    "published": "2026-11-04T00:02:09+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Viva",
-     "Desktop",
-     "Web"
-    ],
-    "summary": "Improving the shared conversation experience in Viva Engage to so it's easier for users to discover, read, and participate. GA date: November CY2026"
-   },
-   {
-    "title": "Microsoft Teams: Copilot in the Queues app on Mobile",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578859",
-    "published": "2026-11-04T00:02:09+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android",
-     "iOS"
-    ],
-    "summary": "Agents and supervisors can use Copilot in the Queues app on Mobile to quickly understand and follow up on customer conversations. From shared call history, users can ask questions about a past call and use Copilot to surface relevant information and insights from the conversation, helping them get u"
-   },
-   {
-    "title": "Microsoft Teams: Shared call history in the Queues app on Mobile",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578858",
-    "published": "2026-11-04T00:02:09+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android",
-     "iOS"
-    ],
-    "summary": "Calling reps and Supervisor leads can view shared call history for their call queues in the Queues app on Mobile, helping them track call activity, review call details, and coordinate customer follow-ups while on the go. GA date: December CY2026"
-   },
-   {
-    "title": "Microsoft Teams: Turn meeting discussions into PowerPoint presentations with Facilitator",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571296",
-    "published": "2026-11-04T00:02:09+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Desktop",
-     "Mac"
-    ],
-    "summary": "When it's time to present what your team decided, you can ask Facilitator to create a PowerPoint presentation from what was said, chats, and shared files in the meeting. It turns the conversation into the slides, whether that's a project update, a proposal, or a readout for leadership. Facilitator c"
    }
   ]
  },
@@ -309,6 +282,17 @@
   "status": "ok",
   "window_days": 7,
   "cves": [
+   {
+    "id": "CVE-2026-19868",
+    "score": 7.5,
+    "cvss": "3.1",
+    "published": "2026-11-06T19:17:48.437",
+    "summary": "An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
+    "kev_added": "2026-11-06",
+    "kev_due": "2026-11-20",
+    "kev_name": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability"
+   },
    {
     "id": "CVE-2024-27834",
     "score": 5.5,
@@ -337,14 +321,6 @@
   "status": "ok",
   "window_hours": 48,
   "cves": [
-   {
-    "id": "CVE-2026-76892",
-    "score": 8.7,
-    "cvss": "4.0",
-    "published": "2026-11-04T23:17:58.557",
-    "summary": "tsParticles is a TypeScript library for creating highly customizable particle animations. Prior to 4.3.1, the HTTP mode of @tsparticles/mcp-server calls JSON.parse outside a request-local error boundary in the POST /mcp handler in integrations/mcp-server/src/index.ts. A single unauthenticated malformed JSON body raises a SyntaxError that terminates the Node.js process, leaving the MCP service unav",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76892"
-   },
    {
     "id": "CVE-2026-123487",
     "score": 8.7,
@@ -384,14 +360,6 @@
     "published": "2026-11-05T19:17:20.380",
     "summary": "noname Electron desktop build v1.11.2 through v1.11.6.1 contains an unauthenticated local file server with wildcard CORS that allows malicious websites to read, overwrite, or delete installation files. Attackers can send cross-origin requests to /writeFile on localhost port 8089 to overwrite renderer scripts, executing JavaScript with Node.js access as the local user.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123208"
-   },
-   {
-    "id": "CVE-2026-63655",
-    "score": 7.5,
-    "cvss": "3.1",
-    "published": "2026-11-04T22:18:07.350",
-    "summary": "tsParticles is a TypeScript library for creating highly customizable particle animations. Prior to 4.3.1, the HTTP mode of @tsparticles/mcp-server accepts unauthenticated POST /mcp requests in integrations/mcp-server/src/index.ts and accumulates every request-body chunk in a Buffer[] without a cumulative size limit before Buffer.concat and JSON.parse. A remote attacker can stream an arbitrarily la",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63655"
    },
    {
     "id": "CVE-2026-102650",
