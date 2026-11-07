@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T20:08:29+00:00",
+ "generated_at": "2026-11-07T22:10:29+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 31,
+  "aqi": 25,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-07 14:00 EST"
+  "observed": "2026-11-07 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -336,14 +336,6 @@
     "published": "2026-11-06T21:17:08.567",
     "summary": "plist.js (npm package 'plist') before 5.0.1 contains an uncontrolled resource consumption vulnerability in the binary property-list parser (parseBinary) that allows unauthenticated attackers to crash a Node.js process by exploiting unmemoized recursive resolution of shared object references for arrays and dictionaries. Attackers can craft a small binary plist (under 200 bytes) containing chained s",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124078"
-   },
-   {
-    "id": "CVE-2026-114604",
-    "score": 8.4,
-    "cvss": "4.0",
-    "published": "2026-11-05T21:18:37.057",
-    "summary": "GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. From 10.10.1 until 12.0.2, the @graphql-tools/utils mergeIncrementalResult helper passes incrementalResult.path segments to setObjectKeyPath without runtime primitive-type validation. A non-primitive segment can bypass strict comparisons against __proto__, constructor, and prototype, then be coerced during prope",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114604"
    },
    {
     "id": "CVE-2026-102650",
