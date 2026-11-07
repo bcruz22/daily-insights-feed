@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T16:11:32+00:00",
+ "generated_at": "2026-11-07T18:09:31+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 32,
+  "aqi": 28,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-07 10:00 EST"
+  "observed": "2026-11-07 12:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -336,14 +336,6 @@
     "published": "2026-11-06T21:17:08.567",
     "summary": "plist.js (npm package 'plist') before 5.0.1 contains an uncontrolled resource consumption vulnerability in the binary property-list parser (parseBinary) that allows unauthenticated attackers to crash a Node.js process by exploiting unmemoized recursive resolution of shared object references for arrays and dictionaries. Attackers can craft a small binary plist (under 200 bytes) containing chained s",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124078"
-   },
-   {
-    "id": "CVE-2026-104269",
-    "score": 8.6,
-    "cvss": "3.1",
-    "published": "2026-11-05T16:17:29.377",
-    "summary": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. From 3.0.0 until 3.0.17, ModSecurity's multipart parser does not apply the RFC 2231 filename* parameter precedence used by common Go, Python, Node.js, and Java application parsers. A Content-Disposition header can provide a benign filename parameter for ModSecurity and a different encoded",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104269"
    },
    {
     "id": "CVE-2026-114604",
