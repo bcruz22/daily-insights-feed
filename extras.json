@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T18:09:31+00:00",
+ "generated_at": "2026-11-07T20:08:29+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 28,
+  "aqi": 31,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-07 12:00 EST"
+  "observed": "2026-11-07 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -344,14 +344,6 @@
     "published": "2026-11-05T21:18:37.057",
     "summary": "GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. From 10.10.1 until 12.0.2, the @graphql-tools/utils mergeIncrementalResult helper passes incrementalResult.path segments to setObjectKeyPath without runtime primitive-type validation. A non-primitive segment can bypass strict comparisons against __proto__, constructor, and prototype, then be coerced during prope",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114604"
-   },
-   {
-    "id": "CVE-2026-123208",
-    "score": 7.7,
-    "cvss": "4.0",
-    "published": "2026-11-05T19:17:20.380",
-    "summary": "noname Electron desktop build v1.11.2 through v1.11.6.1 contains an unauthenticated local file server with wildcard CORS that allows malicious websites to read, overwrite, or delete installation files. Attackers can send cross-origin requests to /writeFile on localhost port 8089 to overwrite renderer scripts, executing JavaScript with Node.js access as the local user.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123208"
    },
    {
     "id": "CVE-2026-102650",
