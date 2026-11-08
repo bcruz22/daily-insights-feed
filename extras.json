@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T20:10:41+00:00",
+ "generated_at": "2026-11-08T22:12:12+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 22,
+  "aqi": 29,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-08 14:00 EST"
+  "observed": "2026-11-08 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -300,14 +300,6 @@
   "status": "ok",
   "window_hours": 48,
   "cves": [
-   {
-    "id": "CVE-2026-124078",
-    "score": 8.7,
-    "cvss": "4.0",
-    "published": "2026-11-06T21:17:08.567",
-    "summary": "plist.js (npm package 'plist') before 5.0.1 contains an uncontrolled resource consumption vulnerability in the binary property-list parser (parseBinary) that allows unauthenticated attackers to crash a Node.js process by exploiting unmemoized recursive resolution of shared object references for arrays and dictionaries. Attackers can craft a small binary plist (under 200 bytes) containing chained s",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124078"
-   },
    {
     "id": "CVE-2026-123562",
     "score": 8.7,
