@@ -1,29 +1,41 @@
 {
- "generated_at": "2026-11-08T12:12:05+00:00",
+ "generated_at": "2026-11-08T14:09:53+00:00",
  "versions": {
   "tailscale": {
-   "status": "error",
-   "error": "HTTPError 503"
+   "status": "ok",
+   "version": "v1.104.5",
+   "published": "2026-11-03T00:29:40Z",
+   "url": "https://github.com/tailscale/tailscale/releases/tag/v1.104.5"
   },
   "pihole_core": {
-   "status": "error",
-   "error": "HTTPError 503"
+   "status": "ok",
+   "version": "v6.5",
+   "published": "2026-10-17T11:28:24Z",
+   "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.5"
   },
   "pihole_ftl": {
-   "status": "error",
-   "error": "HTTPError 503"
+   "status": "ok",
+   "version": "v6.8",
+   "published": "2026-10-17T11:10:01Z",
+   "url": "https://github.com/pi-hole/FTL/releases/tag/v6.8"
   },
   "pihole_web": {
-   "status": "error",
-   "error": "HTTPError 503"
+   "status": "ok",
+   "version": "v6.6.1",
+   "published": "2026-10-17T11:28:14Z",
+   "url": "https://github.com/pi-hole/web/releases/tag/v6.6.1"
   },
   "dnscrypt_proxy": {
-   "status": "error",
-   "error": "HTTPError 503"
+   "status": "ok",
+   "version": "2.1.20",
+   "published": "2026-10-22T20:30:19Z",
+   "url": "https://github.com/DNSCrypt/dnscrypt-proxy/releases/tag/2.1.20"
   },
   "home_assistant": {
-   "status": "error",
-   "error": "HTTPError 503"
+   "status": "ok",
+   "version": "2026.11.0",
+   "published": "2026-11-04T17:32:55Z",
+   "url": "https://github.com/home-assistant/core/releases/tag/2026.11.0"
   },
   "plex": {
    "status": "ok",
@@ -39,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 13,
-  "pollutant": "OZONE",
+  "aqi": 12,
+  "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-08 06:00 EST"
+  "observed": "2026-11-08 08:00 EST"
  },
  "nodejs": {
   "status": "ok",
