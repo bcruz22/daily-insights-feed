@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T22:10:29+00:00",
+ "generated_at": "2026-11-08T00:12:05+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 25,
+  "aqi": 17,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-07 16:00 EST"
+  "observed": "2026-11-07 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -141,6 +141,21 @@
     "summary": "Enable agents to execute reusable Work IQ recipes that coordinate supported tools and actions. GA date: November CY2026 Preview date: October CY2026"
    },
    {
+    "title": "Work IQ: Federated connectors",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570670",
+    "published": "2026-11-06T23:04:41+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Graph",
+     "Work IQ",
+     "Developer"
+    ],
+    "summary": "Enable Work IQ to use federated connectors for governed access to additional enterprise data sources. GA date: November CY2026 Preview date: October CY2026"
+   },
+   {
     "title": "Microsoft Teams: Facilitator follow-up mode",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566523",
     "published": "2026-11-06T23:04:41+00:00",
@@ -167,6 +182,19 @@
      "Mac"
     ],
     "summary": "A new command-line tool, odcli, lets OneDrive users, IT admins and support engineers check and manage the OneDrive sync app from the command line. Commands cover sync status, accounts, configuration, policies, and managing the sync app. JSON output lets scripts, management tools and AI agents automa"
+   },
+   {
+    "title": "Work IQ: Memory capabilities expand to agents",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578869",
+    "published": "2026-11-05T23:59:28+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Work IQ",
+     "Web"
+    ],
+    "summary": "A new Work IQ MCP path, /memory/me/coreMemories, gives authorized agents access to a user\u2019s memory profile. This profile enables agents to provide more personalized and relevant assistance. At launch, it includes Custom Instructions, Saved Memories, relevant work account data, and memories derived f"
    },
    {
     "title": "Microsoft Viva: Insights and Copilot Analytics in GCC and GCC High",
@@ -226,55 +254,6 @@
      "Web"
     ],
     "summary": "Let tenants trim file-version bloat created by retention, without breaking compliance promises. SharePoint/compliance admins at large, regulated enterprises must cap and reclaim storage consumed by retained file versions, while keeping legal-hold and records promises intact. Admins with appropriate "
-   },
-   {
-    "title": "Microsoft Teams: Multiple screen shares in Teams Rooms on Windows",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579184",
-    "published": "2026-11-04T23:59:50+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Desktop",
-     "Teams and Surface Devices"
-    ],
-    "summary": "You can now view up to two shared screens side by side during meetings, reducing interruptions from screen hand-offs. Participants can switch between side-by-side and expanded views, identify presenters for each screen, and benefit from layouts optimized for single or dual displays. Available with T"
-   },
-   {
-    "title": "Microsoft Purview: Information Protection-Auto-labeling for legacy Office files",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578872",
-    "published": "2026-11-04T23:59:50+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "GCC",
-     "GCC High",
-     "DoD",
-     "Microsoft Purview",
-     "Web"
-    ],
-    "summary": "Microsoft Purview server-side auto-labeling will support legacy Microsoft Office file formats, including Word (.doc), Excel (.xls), and PowerPoint (.ppt). Organizations can automatically evaluate and apply sensitivity labels to these files in SharePoint and OneDrive. GA date: December CY2026"
-   },
-   {
-    "title": "Microsoft 365: Expiration for access on sharing main links",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571399",
-    "published": "2026-11-04T23:59:50+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "GCC",
-     "GCC High",
-     "DoD",
-     "OneDrive",
-     "SharePoint",
-     "Microsoft 365",
-     "Android",
-     "Desktop",
-     "iOS"
-    ],
-    "summary": "People can set expiration dates for \u201cAnyone\u201d and \u201cPeople in your organization\u201d access on the main link to files and folders in OneDrive and SharePoint. New administrator policies can Administrators can set policies to require expiration and enforce a maximum access duration, with separate settings f"
    }
   ]
  },
