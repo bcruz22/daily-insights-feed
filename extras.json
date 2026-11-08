@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T02:10:08+00:00",
+ "generated_at": "2026-11-08T04:10:30+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 15,
+  "aqi": 17,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-07 20:00 EST"
+  "observed": "2026-11-07 22:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -315,6 +315,14 @@
     "published": "2026-11-06T21:17:08.567",
     "summary": "plist.js (npm package 'plist') before 5.0.1 contains an uncontrolled resource consumption vulnerability in the binary property-list parser (parseBinary) that allows unauthenticated attackers to crash a Node.js process by exploiting unmemoized recursive resolution of shared object references for arrays and dictionaries. Attackers can craft a small binary plist (under 200 bytes) containing chained s",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124078"
+   },
+   {
+    "id": "CVE-2026-123562",
+    "score": 8.7,
+    "cvss": "4.0",
+    "published": "2026-11-08T02:16:48.567",
+    "summary": "devalue (sveltejs/devalue) 5.8.0 before 5.9.3 contains an unhandled promise rejection in stringifyAsync: when serializing multiple promises, a later promise rejecting before an earlier one settles leaves an internal rejection unhandled, even if the caller catches the returned promise. An attacker able to influence the timing or failure of serialized asynchronous values can terminate the Node.js pr",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123562"
    },
    {
     "id": "CVE-2026-102650",
