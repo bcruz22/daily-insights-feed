@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T22:12:12+00:00",
+ "generated_at": "2026-11-09T00:12:15+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 29,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-08 16:00 EST"
+  "observed": "2026-11-08 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -168,92 +168,6 @@
      "Desktop"
     ],
     "summary": "Chat naturally with Facilitator without tagging it each time. GA date: December CY2026"
-   },
-   {
-    "title": "OneDrive: Command-line tool for the OneDrive sync app",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578910",
-    "published": "2026-11-05T23:59:28+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "OneDrive",
-     "Desktop",
-     "Mac"
-    ],
-    "summary": "A new command-line tool, odcli, lets OneDrive users, IT admins and support engineers check and manage the OneDrive sync app from the command line. Commands cover sync status, accounts, configuration, policies, and managing the sync app. JSON output lets scripts, management tools and AI agents automa"
-   },
-   {
-    "title": "Work IQ: Memory capabilities expand to agents",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578869",
-    "published": "2026-11-05T23:59:28+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Work IQ",
-     "Web"
-    ],
-    "summary": "A new Work IQ MCP path, /memory/me/coreMemories, gives authorized agents access to a user\u2019s memory profile. This profile enables agents to provide more personalized and relevant assistance. At launch, it includes Custom Instructions, Saved Memories, relevant work account data, and memories derived f"
-   },
-   {
-    "title": "Microsoft Viva: Insights and Copilot Analytics in GCC and GCC High",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578868",
-    "published": "2026-11-05T23:59:28+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "GCC",
-     "GCC High",
-     "Microsoft Viva",
-     "Web"
-    ],
-    "summary": "We are expanding the availability of Viva Insights and Copilot Analytics capabilities in Microsoft 365 Government Community Cloud (GCC, or GCC-M) and GCC High (GCC-H). Availability differs for a small number of capabilities by cloud, as noted below. \u2022 Eligible users will see updated Insights app fea"
-   },
-   {
-    "title": "Microsoft 365 Copilot (Microsoft 365): Accounting skills",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578864",
-    "published": "2026-11-05T23:59:28+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Excel",
-     "Microsoft Copilot (Microsoft 365)",
-     "Desktop",
-     "Mac",
-     "Web"
-    ],
-    "summary": "Streamline corporate accounting work New accounting capabilities in Excel and Cowork help accountants spend less time on repetitive, manual tasks in the places they already work, including: \u2022 Reconcile accounts with confidence: Compare balances and transactions, identify discrepancies, and prepare r"
-   },
-   {
-    "title": "Microsoft 365: [Education] Microsoft Learning Zone - Improve Lesson Insights",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577544",
-    "published": "2026-11-05T23:59:28+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft 365",
-     "Desktop",
-     "Web"
-    ],
-    "summary": "See where your class is struggling and which students need support, with lesson-level results for every student. Aggregated responses show the mistakes many students made in a lesson. You can then open each student's answers to plan targeted follow-up. #education GA date: December CY2026"
-   },
-   {
-    "title": "Microsoft Purview: Data Lifecycle Management-Enable version trimming for data covered by retention policies in OneDrive and SharePoint",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575284",
-    "published": "2026-11-05T23:59:28+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Purview",
-     "Web"
-    ],
-    "summary": "Let tenants trim file-version bloat created by retention, without breaking compliance promises. SharePoint/compliance admins at large, regulated enterprises must cap and reclaim storage consumed by retained file versions, while keeping legal-hold and records promises intact. Admins with appropriate "
    }
   ]
  },
