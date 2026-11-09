@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T16:12:15+00:00",
+ "generated_at": "2026-11-09T18:12:06+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 29,
-  "pollutant": "PM2.5",
+  "aqi": 22,
+  "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-09 10:00 EST"
+  "observed": "2026-11-09 12:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -176,6 +176,39 @@
   "window_days": 7,
   "cves": [
    {
+    "id": "CVE-2026-102895",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-04T22:17:44.613",
+    "summary": "GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning. Prior to 2.2.0, get_current_user in gpustack/api/auth.py treated a loopback request source as the built-in administrator when force_auth_localhost was false, which was the default. A remote request could appear to originate from 127.0.0.1 because client_ip_getter accepted a same-host reverse proxy pe",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
+    "kev_added": "2026-11-09",
+    "kev_due": "2026-11-12",
+    "kev_name": "GPUStack Improper Authentication Vulnerability"
+   },
+   {
+    "id": "CVE-2026-123158",
+    "score": 8.1,
+    "cvss": "3.1",
+    "published": "2026-11-05T16:17:47.110",
+    "summary": "sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
+    "kev_added": "2026-11-09",
+    "kev_due": "2026-11-12",
+    "kev_name": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability"
+   },
+   {
+    "id": "CVE-2026-116779",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-05T20:17:44.790",
+    "summary": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to 1.11.3, sofia_presence_handle_sip_i_message() split the To user of an inbound SIP MESSAGE on a plus sign and treated the left side as a chat protocol selector. Selecting the api chat proto reached switch_api_",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
+    "kev_added": "2026-11-09",
+    "kev_due": "2026-11-12",
+    "kev_name": "SignalWire FreeSwitch Code Injection Vulnerability"
+   },
+   {
     "id": "CVE-2026-19868",
     "score": 7.5,
     "cvss": "3.1",
@@ -221,6 +254,14 @@
     "published": "2026-11-08T02:16:48.567",
     "summary": "devalue (sveltejs/devalue) 5.8.0 before 5.9.3 contains an unhandled promise rejection in stringifyAsync: when serializing multiple promises, a later promise rejecting before an earlier one settles leaves an internal rejection unhandled, even if the caller catches the returned promise. An attacker able to influence the timing or failure of serialized asynchronous values can terminate the Node.js pr",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123562"
+   },
+   {
+    "id": "CVE-2026-124683",
+    "score": 8.7,
+    "cvss": "4.0",
+    "published": "2026-11-09T17:17:27.690",
+    "summary": "Eclipse Langium versions 3.2.0 through 4.4.0 contain an inefficient algorithmic complexity issue (CWE-407) in the opt-in IndentationAwareTokenBuilder and IndentationAwareLexer. When producing DEDENT tokens, the token builder recomputes line numbers by re-scanning the entire preceding document text. A document whose indentation changes on most lines then takes quadratic time to tokenize. Because to",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124683"
    }
   ]
  }
