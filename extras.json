@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T02:13:13+00:00",
+ "generated_at": "2026-11-10T04:08:13+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 18,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-09 20:00 EST"
+  "observed": "2026-11-09 22:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -213,14 +213,6 @@
   "status": "ok",
   "window_hours": 48,
   "cves": [
-   {
-    "id": "CVE-2026-123562",
-    "score": 8.7,
-    "cvss": "4.0",
-    "published": "2026-11-08T02:16:48.567",
-    "summary": "devalue (sveltejs/devalue) 5.8.0 before 5.9.3 contains an unhandled promise rejection in stringifyAsync: when serializing multiple promises, a later promise rejecting before an earlier one settles leaves an internal rejection unhandled, even if the caller catches the returned promise. An attacker able to influence the timing or failure of serialized asynchronous values can terminate the Node.js pr",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123562"
-   },
    {
     "id": "CVE-2026-124683",
     "score": 8.7,
