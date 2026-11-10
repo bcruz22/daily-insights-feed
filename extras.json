@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T18:09:38+00:00",
+ "generated_at": "2026-11-10T20:11:36+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 26,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-10 12:00 EST"
+  "observed": "2026-11-10 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -131,6 +131,72 @@
   "window_days": 7,
   "cves": [
    {
+    "id": "CVE-2026-20320",
+    "score": 7.5,
+    "cvss": "3.1",
+    "published": "2026-08-19T17:18:40.433",
+    "summary": "A vulnerability in the Open Client Interface (OCI) XML Parser of Cisco BroadWorks could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system. This vulnerability exists because XML entries are improperly parsed due to external entity resolution being allowed by default. An attacker could exploit this vulnerability by sending a crafted XML messa",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-24",
+    "kev_name": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability"
+   },
+   {
+    "id": "CVE-2026-111793",
+    "score": 4.3,
+    "cvss": "3.1",
+    "published": "2026-10-16T19:17:05.680",
+    "summary": "Openwave Webtop Media Transcoder does not enforce administrator-defined file type restrictions to restrict the file-types to be converted. This may allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-24",
+    "kev_name": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability"
+   },
+   {
+    "id": "CVE-2026-111560",
+    "score": 8.6,
+    "cvss": "4.0",
+    "published": "2026-11-02T13:17:35.190",
+    "summary": "Improper neutralization of shell metacharacters in the timezone configuration field in certain Barracuda appliance products using common Barracuda code allows an authenticated administrator to inject OS commands that execute with root privileges when the crafted timezone value is subsequently processed.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111560",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-13",
+    "kev_name": "Barracuda Networks Multiple Products OS Command Injection Vulnerability"
+   },
+   {
+    "id": "CVE-2026-116606",
+    "score": 9.3,
+    "cvss": "4.0",
+    "published": "2026-11-02T13:17:37.017",
+    "summary": "An authentication bypass in Barracuda Email Security Gateway versions earlier than 9.4.0.030 allows an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance\u2019s global configuration.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116606",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-13",
+    "kev_name": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability"
+   },
+   {
+    "id": "CVE-2026-125350",
+    "score": null,
+    "cvss": null,
+    "published": "2026-11-10T18:17:35.237",
+    "summary": "Use after free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125350",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-24",
+    "kev_name": "Google Chromium Use-After-Free Vulnerability"
+   },
+   {
+    "id": "CVE-2026-124194",
+    "score": 6.5,
+    "cvss": "3.1",
+    "published": "2026-11-10T19:20:48.180",
+    "summary": "Product ui does not warn user of unsafe actions in Microsoft Office Outlook allows an unauthorized attacker to perform spoofing over a network.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-24",
+    "kev_name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability"
+   },
+   {
     "id": "CVE-2026-102895",
     "score": 9.8,
     "cvss": "3.1",
@@ -203,6 +269,14 @@
   "window_hours": 48,
   "cves": [
    {
+    "id": "CVE-2026-125331",
+    "score": 9.1,
+    "cvss": "3.1",
+    "published": "2026-11-10T19:21:10.630",
+    "summary": "HarnessRouter is a self-hosted unified API for running agent harnesses with sessions, streaming, files, cancellation, and failure handling. Prior to 0.31.8, a console that is not in self-hosted mode attaches the server's internal key to requests carrying an Authorization header before validating the bearer, while the service-only PUT and GET /v1/orgs/{org}/connections/{name}, PUT /v1/orgs/{org}/po",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125331"
+   },
+   {
     "id": "CVE-2026-124683",
     "score": 8.7,
     "cvss": "4.0",
@@ -273,6 +347,14 @@
     "published": "2026-11-10T01:17:12.610",
     "summary": "The Node.js web service on VOS (previously Versa FlexVNF) is used for URL-based Zero Touch Provisioning (ZTP) of the VOS appliance and is not required after provisioning is complete. The /decryptTest endpoint of this service is registered in server.js before the session authentication middleware and creates an authenticated session whenever it receives a token that decrypts successfully. Because t",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107244"
+   },
+   {
+    "id": "CVE-2026-125330",
+    "score": 7.5,
+    "cvss": "3.1",
+    "published": "2026-11-10T19:21:10.463",
+    "summary": "HarnessRouter is a self-hosted unified API for agent harnesses. From version 0.4.2 until 0.31.7, routes that accept a session ID or response ID validate only the caller's organization and do not enforce the workspace scope of a non-default workspace API key. A key holder who learns a non-guessable identifier from another workspace in the same organization can read sessions, conversation turns, fil",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125330"
    },
    {
     "id": "CVE-2026-91757",
