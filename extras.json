@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T00:09:37+00:00",
+ "generated_at": "2026-11-10T02:13:13+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 21,
+  "aqi": 18,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-09 18:00 EST"
+  "observed": "2026-11-09 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -236,6 +236,38 @@
     "published": "2026-11-09T22:18:53.473",
     "summary": "augment-vir is a collection of helper functions. Prior to version 31.73.5, the grep() function exported by @augment-vir/node inserts caller-controlled search patterns directly into a double-quoted shell command string without sanitization (grep.ts:310). When the constructed command is passed to spawn() with shell: 'bash' (shell.ts:98-99), bash evaluates $() command substitution expressions embedde",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63496"
+   },
+   {
+    "id": "CVE-2026-107240",
+    "score": 7.6,
+    "cvss": "3.0",
+    "published": "2026-11-10T01:17:10.950",
+    "summary": "The Node.js web service on VOS (previously Versa FlexVNF) is used for URL-based Zero Touch Provisioning (ZTP) of the VOS appliance and is not required after provisioning is complete. The /authenticate endpoint of this service passes user-supplied username and password values to child_process.exec() through a sanitizer (escapeRegExp) that removes regular expression metacharacters but not newline ch",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107240"
+   },
+   {
+    "id": "CVE-2026-107241",
+    "score": 7.6,
+    "cvss": "3.0",
+    "published": "2026-11-10T01:17:12.187",
+    "summary": "The Node.js web service on VOS (previously Versa FlexVNF) is used for URL-based Zero Touch Provisioning (ZTP) of the VOS appliance and is not required after provisioning is complete. This service authenticates users and administrators to its web interface during initial provisioning using default credentials and HTTP Basic Authentication. An attacker with network access who knows the default crede",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107241"
+   },
+   {
+    "id": "CVE-2026-107243",
+    "score": 7.6,
+    "cvss": "3.0",
+    "published": "2026-11-10T01:17:12.470",
+    "summary": "The Node.js web service on VOS (previously Versa FlexVNF) is used for URL-based Zero Touch Provisioning (ZTP) of the VOS appliance and is not required after provisioning is complete. The express-session middleware in server.js is configured with a hardcoded secret that is identical across all VOS appliances and is used to sign session cookies. An attacker who obtains a valid session ID from any so",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107243"
+   },
+   {
+    "id": "CVE-2026-107244",
+    "score": 7.6,
+    "cvss": "3.0",
+    "published": "2026-11-10T01:17:12.610",
+    "summary": "The Node.js web service on VOS (previously Versa FlexVNF) is used for URL-based Zero Touch Provisioning (ZTP) of the VOS appliance and is not required after provisioning is complete. The /decryptTest endpoint of this service is registered in server.js before the session authentication middleware and creates an authenticated session whenever it receives a token that decrypts successfully. Because t",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107244"
    }
   ]
  }
