@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T06:08:05+00:00",
+ "generated_at": "2026-11-11T08:12:06+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -44,15 +44,17 @@
   }
  },
  "uv": {
-  "status": "error",
-  "error": "URLError"
+  "status": "ok",
+  "date": "Nov/10/2026",
+  "uv_index": "2",
+  "alert": "0"
  },
  "aqi": {
   "status": "ok",
-  "aqi": 45,
+  "aqi": 27,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-11 00:00 EST"
+  "observed": "2026-11-11 02:00 EST"
  },
  "nodejs": {
   "status": "ok",
