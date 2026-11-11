@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T04:09:44+00:00",
+ "generated_at": "2026-11-11T06:08:05+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -44,17 +44,15 @@
   }
  },
  "uv": {
-  "status": "ok",
-  "date": "Nov/10/2026",
-  "uv_index": "2",
-  "alert": "0"
+  "status": "error",
+  "error": "URLError"
  },
  "aqi": {
   "status": "ok",
-  "aqi": 44,
+  "aqi": 45,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-10 22:00 EST"
+  "observed": "2026-11-11 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -400,17 +398,6 @@
     "kev_added": "2026-11-06",
     "kev_due": "2026-11-20",
     "kev_name": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability"
-   },
-   {
-    "id": "CVE-2024-27834",
-    "score": 5.5,
-    "cvss": "3.1",
-    "published": "2024-05-14T15:13:06.953",
-    "summary": "The issue was addressed with improved checks. This issue is fixed in Safari 17.5, iOS 16.7.8 and iPadOS 16.7.8, iOS 17.5 and iPadOS 17.5, macOS Sonoma 14.5, tvOS 17.5, watchOS 10.5. An attacker with arbitrary read and write capability may be able to bypass Pointer Authentication.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834",
-    "kev_added": "2026-11-04",
-    "kev_due": "2026-11-18",
-    "kev_name": "Apple Multiple Products Improper Authentication Vulnerability"
    }
   ]
  },
