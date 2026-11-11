@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T18:12:06+00:00",
+ "generated_at": "2026-11-11T20:10:32+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -9,15 +9,15 @@
   },
   "pihole_core": {
    "status": "ok",
-   "version": "v6.5",
-   "published": "2026-10-17T11:28:24Z",
-   "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.5"
+   "version": "v6.6",
+   "published": "2026-11-11T19:20:58Z",
+   "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.6"
   },
   "pihole_ftl": {
    "status": "ok",
-   "version": "v6.8",
-   "published": "2026-10-17T11:10:01Z",
-   "url": "https://github.com/pi-hole/FTL/releases/tag/v6.8"
+   "version": "v6.9",
+   "published": "2026-11-11T18:50:30Z",
+   "url": "https://github.com/pi-hole/FTL/releases/tag/v6.9"
   },
   "pihole_web": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 26,
+  "aqi": 27,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-11 12:00 EST"
+  "observed": "2026-11-11 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -416,6 +416,14 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125331"
    },
    {
+    "id": "CVE-2026-123863",
+    "score": 8.2,
+    "cvss": "3.0",
+    "published": "2026-11-11T19:17:32.577",
+    "summary": "A reachable assertion in Node.js HTTP/2 session teardown lets any unauthenticated client abort the server, over both TLS and cleartext. A client can arrange for an Http2Stream that still holds nghttp2-allocated header buffers to outlive its session: the stream is removed from the session's stream set but never detached, so when ~Http2Session() runs the memory accounting is nonzero and the CHECK_EQ",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123863"
+   },
+   {
     "id": "CVE-2026-91754",
     "score": 8.1,
     "cvss": "3.1",
@@ -438,6 +446,22 @@
     "published": "2026-11-10T05:18:13.950",
     "summary": "OS Command Injection Vulnerability in Hitachi Dynamic Link Manager for VMware. This issue affects Hitachi Dynamic Link Manager for VMware: from 8.7.3-00 before 9.0.4-01.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91756"
+   },
+   {
+    "id": "CVE-2026-123864",
+    "score": 8.1,
+    "cvss": "3.0",
+    "published": "2026-11-11T19:17:32.790",
+    "summary": "A re-entrancy flaw in Node.js HTTPS lets an unauthenticated client read memory belonging to other connections, including TLS private keys and other users' requests. TLSWrap::DoWrite() calls ClearOut() directly when asked to write zero bytes; if that write is issued from JavaScript running inside the HTTP parser's on_body callback, ClearOut() decrypts the next TLS record while the parser is still m",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123864"
+   },
+   {
+    "id": "CVE-2026-123872",
+    "score": 8.1,
+    "cvss": "3.0",
+    "published": "2026-11-11T19:17:34.270",
+    "summary": "A client certificate authentication bypass in Node.js TLS lets a client change the servername during TLS 1.2 renegotiation to reach endpoints it was not authorized for. On a server that applies different client-certificate policies per hostname, for example stricter admin-only client-cert auth on one host and ordinary client-cert auth on another, a client that authenticates for a permitted host ca",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123872"
    },
    {
     "id": "CVE-2026-63496",
@@ -478,6 +502,46 @@
     "published": "2026-11-10T01:17:12.610",
     "summary": "The Node.js web service on VOS (previously Versa FlexVNF) is used for URL-based Zero Touch Provisioning (ZTP) of the VOS appliance and is not required after provisioning is complete. The /decryptTest endpoint of this service is registered in server.js before the session authentication middleware and creates an authenticated session whenever it receives a token that decrypts successfully. Because t",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107244"
+   },
+   {
+    "id": "CVE-2026-123865",
+    "score": 7.5,
+    "cvss": "3.0",
+    "published": "2026-11-11T19:17:33.000",
+    "summary": "An unauthenticated HTTP/2 client can permanently leak Node.js server memory and file descriptors. If a peer triggers a protocol error, for example an oversized frame header, while the session is already shutting down, nghttp2 tears the session down internally but Node.js never notices, leaving a dangling session: the socket stays in CLOSE_WAIT and all of Node.js's HTTP/2 state for that connection ",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123865"
+   },
+   {
+    "id": "CVE-2026-123866",
+    "score": 7.5,
+    "cvss": "3.0",
+    "published": "2026-11-11T19:17:33.243",
+    "summary": "A use-after-free in Node.js HTTP/2 stream teardown can leak response memory, including the contents of other connections' response buffers, to a peer. When a stream is torn down while a write is still backpressured, for example by a peer RST_STREAM or by the server's own per-stream timeout destroying the stream, the stream's response buffer is freed but a reference to it is still used, so freed or",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123866"
+   },
+   {
+    "id": "CVE-2026-123874",
+    "score": 7.5,
+    "cvss": "3.0",
+    "published": "2026-11-11T19:17:34.490",
+    "summary": "A use-after-free in Node.js HTTP/2 lets an unauthenticated client corrupt server memory, over both TLS and cleartext, when the server serves files with respondWithFile() or respondWithFD(). A client can make the server free an Http2Stream while a write request that points to it is still queued on the socket; when that write completes, the code dereferences and makes a virtual call through the free",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123874"
+   },
+   {
+    "id": "CVE-2026-126051",
+    "score": 7.5,
+    "cvss": "3.0",
+    "published": "2026-11-11T19:17:36.600",
+    "summary": "A deferred-callback use-after-destroy in Node.js TLS server handshake handling allows a remote, unauthenticated attacker to terminate the server process. When a TLS server uses any of the SNICallback, OCSPRequest, newSession, or resumeSession hooks, or server.addContext(), the corresponding OpenSSL callbacks are deferred, and the deferred code does not handle the underlying socket being destroyed ",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-126051"
+   },
+   {
+    "id": "CVE-2026-58505",
+    "score": 7.5,
+    "cvss": "3.1",
+    "published": "2026-11-11T19:17:42.580",
+    "summary": "geojson-vt is a JavaScript library for slicing GeoJSON data into vector tiles on the fly, primarily designed to enable rendering and interacting with large geospatial datasets on the browser side (without a server). Prior to version 6.1.1, @maplibre/geojson-vt contains an uncontrolled recursion vulnerability in its GeoJSON conversion logic. When a GeoJSONVT instance is constructed with a deeply ne",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58505"
    },
    {
     "id": "CVE-2026-125330",
