@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T04:09:09+00:00",
+ "generated_at": "2026-11-12T06:08:06+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 37,
+  "aqi": 36,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-11 22:00 EST"
+  "observed": "2026-11-12 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -469,30 +469,6 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123863"
    },
    {
-    "id": "CVE-2026-91754",
-    "score": 8.1,
-    "cvss": "3.1",
-    "published": "2026-11-10T05:18:12.973",
-    "summary": "Stack-based Buffer Overflow Vulnerability in Hitachi Dynamic Link Manager for VMware. This issue affects Hitachi Dynamic Link Manager for VMware: from 8.7.3-00 before 9.0.4-01.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91754"
-   },
-   {
-    "id": "CVE-2026-91755",
-    "score": 8.1,
-    "cvss": "3.1",
-    "published": "2026-11-10T05:18:13.297",
-    "summary": "Integer Overflow Vulnerability in Hitachi Dynamic Link Manager for VMware. This issue affects Hitachi Dynamic Link Manager for VMware: from 8.7.3-00 before 9.0.4-01.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91755"
-   },
-   {
-    "id": "CVE-2026-91756",
-    "score": 8.1,
-    "cvss": "3.1",
-    "published": "2026-11-10T05:18:13.950",
-    "summary": "OS Command Injection Vulnerability in Hitachi Dynamic Link Manager for VMware. This issue affects Hitachi Dynamic Link Manager for VMware: from 8.7.3-00 before 9.0.4-01.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91756"
-   },
-   {
     "id": "CVE-2026-123864",
     "score": 8.1,
     "cvss": "3.0",
@@ -555,14 +531,6 @@
     "published": "2026-11-10T19:21:10.463",
     "summary": "HarnessRouter is a self-hosted unified API for agent harnesses. From version 0.4.2 until 0.31.7, routes that accept a session ID or response ID validate only the caller's organization and do not enforce the workspace scope of a non-default workspace API key. A key holder who learns a non-guessable identifier from another workspace in the same organization can read sessions, conversation turns, fil",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125330"
-   },
-   {
-    "id": "CVE-2026-91757",
-    "score": 7.1,
-    "cvss": "3.1",
-    "published": "2026-11-10T05:18:14.143",
-    "summary": "OS Command Injection Vulnerability in Hitachi Dynamic Link Manager for VMware. This issue affects Hitachi Dynamic Link Manager for VMware: from 7.3.0-00 before 9.0.4-01.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91757"
    }
   ]
  }
