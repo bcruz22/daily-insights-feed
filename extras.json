@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T12:08:46+00:00",
+ "generated_at": "2026-11-12T14:12:06+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 28,
+  "aqi": 27,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-12 06:00 EST"
+  "observed": "2026-11-12 08:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -459,6 +459,14 @@
     "published": "2026-11-10T19:21:10.630",
     "summary": "HarnessRouter is a self-hosted unified API for running agent harnesses with sessions, streaming, files, cancellation, and failure handling. Prior to 0.31.8, a console that is not in self-hosted mode attaches the server's internal key to requests carrying an Authorization header before validating the bearer, while the service-only PUT and GET /v1/orgs/{org}/connections/{name}, PUT /v1/orgs/{org}/po",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125331"
+   },
+   {
+    "id": "CVE-2026-127056",
+    "score": 8.7,
+    "cvss": "4.0",
+    "published": "2026-11-12T13:17:16.177",
+    "summary": "PapaParse before 5.7.1 contains an inefficient algorithmic complexity vulnerability that allows remote unauthenticated attackers to cause denial of service by submitting delimiter-free quoted CSV input to Papa.parse(). Attackers can supply a single-column quoted CSV with no delimiters, triggering repeated full-buffer indexOf scans per row that grow quadratically with input size, exhausting CPU and",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-127056"
    },
    {
     "id": "CVE-2026-123863",
