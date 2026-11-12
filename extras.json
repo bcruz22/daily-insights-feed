@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T18:08:12+00:00",
+ "generated_at": "2026-11-12T20:11:11+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 33,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-12 12:00 EST"
+  "observed": "2026-11-12 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -461,14 +461,6 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-126837"
    },
    {
-    "id": "CVE-2026-125331",
-    "score": 9.1,
-    "cvss": "3.1",
-    "published": "2026-11-10T19:21:10.630",
-    "summary": "HarnessRouter is a self-hosted unified API for running agent harnesses with sessions, streaming, files, cancellation, and failure handling. Prior to 0.31.8, a console that is not in self-hosted mode attaches the server's internal key to requests carrying an Authorization header before validating the bearer, while the service-only PUT and GET /v1/orgs/{org}/connections/{name}, PUT /v1/orgs/{org}/po",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125331"
-   },
-   {
     "id": "CVE-2026-127056",
     "score": 8.7,
     "cvss": "4.0",
@@ -539,14 +531,6 @@
     "published": "2026-11-11T19:17:42.580",
     "summary": "geojson-vt is a JavaScript library for slicing GeoJSON data into vector tiles on the fly, primarily designed to enable rendering and interacting with large geospatial datasets on the browser side (without a server). Prior to version 6.1.1, @maplibre/geojson-vt contains an uncontrolled recursion vulnerability in its GeoJSON conversion logic. When a GeoJSONVT instance is constructed with a deeply ne",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58505"
-   },
-   {
-    "id": "CVE-2026-125330",
-    "score": 7.5,
-    "cvss": "3.1",
-    "published": "2026-11-10T19:21:10.463",
-    "summary": "HarnessRouter is a self-hosted unified API for agent harnesses. From version 0.4.2 until 0.31.7, routes that accept a session ID or response ID validate only the caller's organization and do not enforce the workspace scope of a non-default workspace API key. A key holder who learns a non-guessable identifier from another workspace in the same organization can read sessions, conversation turns, fil",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125330"
    }
   ]
  }
