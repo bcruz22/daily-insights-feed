@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:09:37+00:00",
+ "generated_at": "2026-11-13T20:09:12+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 22,
+  "aqi": 24,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-13 12:00 EST"
+  "observed": "2026-11-13 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -326,6 +326,28 @@
   "window_days": 7,
   "cves": [
    {
+    "id": "CVE-2026-114713",
+    "score": 8.6,
+    "cvss": "3.1",
+    "published": "2026-11-08T03:16:33.410",
+    "summary": "The labeled-response module in UnrealIRCd 6.0.0 before 6.2.7.1 does not escape the IRCv3 \"label\" message tag when echoing it into replies, which allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
+    "kev_added": "2026-11-13",
+    "kev_due": "2026-11-16",
+    "kev_name": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability"
+   },
+   {
+    "id": "CVE-2026-123039",
+    "score": 7.8,
+    "cvss": "3.1",
+    "published": "2026-11-12T14:17:24.233",
+    "summary": "The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
+    "kev_added": "2026-11-13",
+    "kev_due": "2026-11-16",
+    "kev_name": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability"
+   },
+   {
     "id": "CVE-2026-20320",
     "score": 7.5,
     "cvss": "3.1",
@@ -464,70 +486,6 @@
     "published": "2026-11-13T10:18:15.427",
     "summary": "ExcelJS through 4.4.0 contains an arbitrary file read vulnerability in the streaming WorkbookWriter that allows attackers to read local files by supplying crafted image filenames to addImage. Attackers can inject ../ path segments into user-controlled image paths, causing addMedia to embed any file readable by the Node.js process under xl/media in the generated workbook.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-128347"
-   },
-   {
-    "id": "CVE-2026-123863",
-    "score": 8.2,
-    "cvss": "3.0",
-    "published": "2026-11-11T19:17:32.577",
-    "summary": "A reachable assertion in Node.js HTTP/2 session teardown lets any unauthenticated client abort the server, over both TLS and cleartext. A client can arrange for an Http2Stream that still holds nghttp2-allocated header buffers to outlive its session: the stream is removed from the session's stream set but never detached, so when ~Http2Session() runs the memory accounting is nonzero and the CHECK_EQ",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123863"
-   },
-   {
-    "id": "CVE-2026-123864",
-    "score": 8.1,
-    "cvss": "3.0",
-    "published": "2026-11-11T19:17:32.790",
-    "summary": "A re-entrancy flaw in Node.js HTTPS lets an unauthenticated client read memory belonging to other connections, including TLS private keys and other users' requests. TLSWrap::DoWrite() calls ClearOut() directly when asked to write zero bytes; if that write is issued from JavaScript running inside the HTTP parser's on_body callback, ClearOut() decrypts the next TLS record while the parser is still m",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123864"
-   },
-   {
-    "id": "CVE-2026-123872",
-    "score": 8.1,
-    "cvss": "3.0",
-    "published": "2026-11-11T19:17:34.270",
-    "summary": "A client certificate authentication bypass in Node.js TLS lets a client change the servername during TLS 1.2 renegotiation to reach endpoints it was not authorized for. On a server that applies different client-certificate policies per hostname, for example stricter admin-only client-cert auth on one host and ordinary client-cert auth on another, a client that authenticates for a permitted host ca",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123872"
-   },
-   {
-    "id": "CVE-2026-123865",
-    "score": 7.5,
-    "cvss": "3.0",
-    "published": "2026-11-11T19:17:33.000",
-    "summary": "An unauthenticated HTTP/2 client can permanently leak Node.js server memory and file descriptors. If a peer triggers a protocol error, for example an oversized frame header, while the session is already shutting down, nghttp2 tears the session down internally but Node.js never notices, leaving a dangling session: the socket stays in CLOSE_WAIT and all of Node.js's HTTP/2 state for that connection ",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123865"
-   },
-   {
-    "id": "CVE-2026-123866",
-    "score": 7.5,
-    "cvss": "3.0",
-    "published": "2026-11-11T19:17:33.243",
-    "summary": "A use-after-free in Node.js HTTP/2 stream teardown can leak response memory, including the contents of other connections' response buffers, to a peer. When a stream is torn down while a write is still backpressured, for example by a peer RST_STREAM or by the server's own per-stream timeout destroying the stream, the stream's response buffer is freed but a reference to it is still used, so freed or",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123866"
-   },
-   {
-    "id": "CVE-2026-123874",
-    "score": 7.5,
-    "cvss": "3.0",
-    "published": "2026-11-11T19:17:34.490",
-    "summary": "A use-after-free in Node.js HTTP/2 lets an unauthenticated client corrupt server memory, over both TLS and cleartext, when the server serves files with respondWithFile() or respondWithFD(). A client can make the server free an Http2Stream while a write request that points to it is still queued on the socket; when that write completes, the code dereferences and makes a virtual call through the free",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123874"
-   },
-   {
-    "id": "CVE-2026-126051",
-    "score": 7.5,
-    "cvss": "3.0",
-    "published": "2026-11-11T19:17:36.600",
-    "summary": "A deferred-callback use-after-destroy in Node.js TLS server handshake handling allows a remote, unauthenticated attacker to terminate the server process. When a TLS server uses any of the SNICallback, OCSPRequest, newSession, or resumeSession hooks, or server.addContext(), the corresponding OpenSSL callbacks are deferred, and the deferred code does not handle the underlying socket being destroyed ",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-126051"
-   },
-   {
-    "id": "CVE-2026-58505",
-    "score": 7.5,
-    "cvss": "3.1",
-    "published": "2026-11-11T19:17:42.580",
-    "summary": "geojson-vt is a JavaScript library for slicing GeoJSON data into vector tiles on the fly, primarily designed to enable rendering and interacting with large geospatial datasets on the browser side (without a server). Prior to version 6.1.1, @maplibre/geojson-vt contains an uncontrolled recursion vulnerability in its GeoJSON conversion logic. When a GeoJSONVT instance is constructed with a deeply ne",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58505"
    }
   ]
  }
