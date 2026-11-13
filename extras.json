@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T12:10:38+00:00",
+ "generated_at": "2026-11-13T14:09:12+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 21,
+  "aqi": 25,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-13 06:00 EST"
+  "observed": "2026-11-13 08:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -322,8 +322,120 @@
   ]
  },
  "kev": {
-  "status": "error",
-  "error": "HTTPError 503"
+  "status": "ok",
+  "window_days": 7,
+  "cves": [
+   {
+    "id": "CVE-2026-20320",
+    "score": 7.5,
+    "cvss": "3.1",
+    "published": "2026-08-19T17:18:40.433",
+    "summary": "A vulnerability in the Open Client Interface (OCI) XML Parser of Cisco BroadWorks could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system. This vulnerability exists because XML entries are improperly parsed due to external entity resolution being allowed by default. An attacker could exploit this vulnerability by sending a crafted XML messa",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-24",
+    "kev_name": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability"
+   },
+   {
+    "id": "CVE-2026-111793",
+    "score": 4.3,
+    "cvss": "3.1",
+    "published": "2026-10-16T19:17:05.680",
+    "summary": "Openwave Webtop Media Transcoder does not enforce administrator-defined file type restrictions to restrict the file-types to be converted. This may allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-24",
+    "kev_name": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability"
+   },
+   {
+    "id": "CVE-2026-111560",
+    "score": 8.6,
+    "cvss": "4.0",
+    "published": "2026-11-02T13:17:35.190",
+    "summary": "Improper neutralization of shell metacharacters in the timezone configuration field in certain Barracuda appliance products using common Barracuda code allows an authenticated administrator to inject OS commands that execute with root privileges when the crafted timezone value is subsequently processed.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111560",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-13",
+    "kev_name": "Barracuda Networks Multiple Products OS Command Injection Vulnerability"
+   },
+   {
+    "id": "CVE-2026-116606",
+    "score": 9.3,
+    "cvss": "4.0",
+    "published": "2026-11-02T13:17:37.017",
+    "summary": "An authentication bypass in Barracuda Email Security Gateway versions earlier than 9.4.0.030 allows an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance\u2019s global configuration.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116606",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-13",
+    "kev_name": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability"
+   },
+   {
+    "id": "CVE-2026-125350",
+    "score": 8.8,
+    "cvss": "3.1",
+    "published": "2026-11-10T18:17:35.237",
+    "summary": "Use after free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125350",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-24",
+    "kev_name": "Google Chromium Use-After-Free Vulnerability"
+   },
+   {
+    "id": "CVE-2026-124194",
+    "score": 6.5,
+    "cvss": "3.1",
+    "published": "2026-11-10T19:20:48.180",
+    "summary": "Product ui does not warn user of unsafe actions in Microsoft Office Outlook allows an unauthorized attacker to perform spoofing over a network.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
+    "kev_added": "2026-11-10",
+    "kev_due": "2026-11-24",
+    "kev_name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability"
+   },
+   {
+    "id": "CVE-2026-102895",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-04T22:17:44.613",
+    "summary": "GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning. Prior to 2.2.0, get_current_user in gpustack/api/auth.py treated a loopback request source as the built-in administrator when force_auth_localhost was false, which was the default. A remote request could appear to originate from 127.0.0.1 because client_ip_getter accepted a same-host reverse proxy pe",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
+    "kev_added": "2026-11-09",
+    "kev_due": "2026-11-12",
+    "kev_name": "GPUStack Improper Authentication Vulnerability"
+   },
+   {
+    "id": "CVE-2026-123158",
+    "score": 8.1,
+    "cvss": "3.1",
+    "published": "2026-11-05T16:17:47.110",
+    "summary": "sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
+    "kev_added": "2026-11-09",
+    "kev_due": "2026-11-12",
+    "kev_name": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability"
+   },
+   {
+    "id": "CVE-2026-116779",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-05T20:17:44.790",
+    "summary": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to 1.11.3, sofia_presence_handle_sip_i_message() split the To user of an inbound SIP MESSAGE on a plus sign and treated the left side as a chat protocol selector. Selecting the api chat proto reached switch_api_",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
+    "kev_added": "2026-11-09",
+    "kev_due": "2026-11-12",
+    "kev_name": "SignalWire FreeSwitch Code Injection Vulnerability"
+   },
+   {
+    "id": "CVE-2026-123218",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-07T04:17:28.900",
+    "summary": "IBM Aspera Faspex 5.0.0 through 5.0.19 could allow an authorized user to craft a specific message to bypass user authorization and gain full administrative privileges.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
+    "kev_added": "2026-11-09",
+    "kev_due": "2026-11-12",
+    "kev_name": "IBM Aspera Faspex Incorrect Authorization Vulnerability"
+   }
+  ]
  },
  "nvd": {
   "status": "ok",
