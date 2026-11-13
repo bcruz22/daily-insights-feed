@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:09:12+00:00",
+ "generated_at": "2026-11-13T22:10:56+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 24,
+  "aqi": 25,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-13 14:00 EST"
+  "observed": "2026-11-13 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,19 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Microsoft Copilot (Microsoft 365): Discover and act on recommended lead and opportunity actions in Sales agent",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579977",
+    "published": "2026-11-13T19:37:39+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Copilot (Microsoft 365)",
+     "Web"
+    ],
+    "summary": "Sellers can discover and act on lead and opportunity recommendations that are already prioritized for them in Sales agent. A single prioritized list helps sellers see what needs attention without monitoring each agent separately or prioritizing the actions themselves. Sellers can review each recomme"
+   },
    {
     "title": "Outlook: Copilot Chat Sheet UX Update for Mobile",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579897",
