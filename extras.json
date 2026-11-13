@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T04:09:39+00:00",
+ "generated_at": "2026-11-13T06:11:35+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 29,
-  "pollutant": "PM2.5",
+  "aqi": 23,
+  "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-12 22:00 EST"
+  "observed": "2026-11-13 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -434,17 +434,6 @@
     "kev_added": "2026-11-09",
     "kev_due": "2026-11-12",
     "kev_name": "IBM Aspera Faspex Incorrect Authorization Vulnerability"
-   },
-   {
-    "id": "CVE-2026-19868",
-    "score": 7.5,
-    "cvss": "3.1",
-    "published": "2026-11-06T19:17:48.437",
-    "summary": "An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
-    "kev_added": "2026-11-06",
-    "kev_due": "2026-11-20",
-    "kev_name": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability"
    }
   ]
  },
