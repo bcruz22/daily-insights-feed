@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T22:10:56+00:00",
+ "generated_at": "2026-11-14T00:11:39+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 25,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-13 16:00 EST"
+  "observed": "2026-11-13 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,21 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Microsoft Teams: Chat for organizers and presenters in structured meetings and webinars in GCC High and DoD",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580452",
+    "published": "2026-11-13T23:01:18+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "GCC High",
+     "DoD",
+     "Microsoft Teams",
+     "Desktop",
+     "Mac"
+    ],
+    "summary": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event. GA date: December CY2026"
+   },
    {
     "title": "Microsoft Copilot (Microsoft 365): Discover and act on recommended lead and opportunity actions in Sales agent",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579977",
