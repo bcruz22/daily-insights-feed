@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T16:08:18+00:00",
+ "generated_at": "2026-11-14T18:09:15+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 19,
+  "aqi": 22,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-14 10:00 EST"
+  "observed": "2026-11-14 12:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -342,14 +342,6 @@
   "status": "ok",
   "window_hours": 48,
   "cves": [
-   {
-    "id": "CVE-2026-126837",
-    "score": 9.1,
-    "cvss": "4.0",
-    "published": "2026-11-12T17:17:33.320",
-    "summary": "A validation flaw in the DNS SRV host discovery of the MongoDB Node.js driver may cause the driver to connect to a host outside the expected domain. For a mongodb+srv:// connection string, the driver checks each host name in the DNS SRV response against the domain of the connection string. The driver then builds the connection address from the original name, in which certain characters end the hos",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-126837"
-   },
    {
     "id": "CVE-2026-128347",
     "score": 8.7,
