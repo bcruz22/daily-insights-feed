@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T06:10:26+00:00",
+ "generated_at": "2026-11-14T08:12:36+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 27,
+  "aqi": 33,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-14 00:00 EST"
+  "observed": "2026-11-14 02:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -339,7 +339,7 @@
   ]
  },
  "nvd": {
-  "status": "partial",
+  "status": "ok",
   "window_hours": 48,
   "cves": [
    {
@@ -365,8 +365,15 @@
     "published": "2026-11-13T10:18:15.427",
     "summary": "ExcelJS through 4.4.0 contains an arbitrary file read vulnerability in the streaming WorkbookWriter that allows attackers to read local files by supplying crafted image filenames to addImage. Attackers can inject ../ path segments into user-controlled image paths, causing addMedia to embed any file readable by the Node.js process under xl/media in the generated workbook.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-128347"
+   },
+   {
+    "id": "CVE-2026-129319",
+    "score": 8.2,
+    "cvss": "4.0",
+    "published": "2026-11-14T07:17:21.370",
+    "summary": "create-ecdh is a browserifiable implementation of Node.js crypto.createECDH. In versions 4.0.4 and below, the JavaScript implementation (browser.js, used by browser bundlers and on Node.js versions without a working native crypto.createECDH) did not validate peer public keys in ECDH.prototype.computeSecret or ECDH.prototype.setPublicKey. The peer point was multiplied by the local private key witho",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129319"
    }
-  ],
-  "failed_queries": 1
+  ]
  }
 }
