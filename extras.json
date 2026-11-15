@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T00:12:17+00:00",
+ "generated_at": "2026-11-15T02:08:43+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 19,
-  "pollutant": "OZONE",
+  "aqi": 15,
+  "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-14 18:00 EST"
+  "observed": "2026-11-14 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -152,51 +152,6 @@
      "Web"
     ],
     "summary": "Sellers can discover and act on lead and opportunity recommendations that are already prioritized for them in Sales agent. A single prioritized list helps sellers see what needs attention without monitoring each agent separately or prioritizing the actions themselves. Sellers can review each recomme"
-   },
-   {
-    "title": "Outlook: Copilot Chat Sheet UX Update for Mobile",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579897",
-    "published": "2026-11-12T01:35:00+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Outlook",
-     "Android",
-     "iOS"
-    ],
-    "summary": "Copilot Chat in Outlook on iOS and Android is getting updated! You'll notice smoother animations, improved strings, and some small changes to the header, such as the new/temporary chat button being moved behind the ... button. GA date: December CY2026"
-   },
-   {
-    "title": "Microsoft 365: [Education] Practice presentations with Speaker Coach in Learning Activities",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578880",
-    "published": "2026-11-12T01:35:00+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft 365",
-     "Android",
-     "Desktop",
-     "iOS",
-     "Mac",
-     "Web"
-    ],
-    "summary": "In learning activities, students can rehearse presentations, receive feedback on their delivery, and practice again with targeted suggestions to improve clarity and confidence. #education GA date: December CY2026"
-   },
-   {
-    "title": "Microsoft 365: [Education] Microsoft Learning Zone - Minecraft connected lessons",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577545",
-    "published": "2026-11-12T01:35:00+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft 365",
-     "Desktop",
-     "Web"
-    ],
-    "summary": "Bring Minecraft Education to every classroom with AI-powered tools that match curriculum goals to Build Challenges, blend lessons with project-based learning, launch directly from Learning Zone, and give you full visibility into participation, completion, and student understanding. #education GA dat"
    }
   ]
  },
