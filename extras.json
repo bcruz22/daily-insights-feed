@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T09:42:35+00:00",
+ "generated_at": "2026-11-15T12:11:12+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 13,
+  "aqi": 16,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-15 04:00 EST"
+  "observed": "2026-11-15 06:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -297,14 +297,6 @@
   "status": "ok",
   "window_hours": 48,
   "cves": [
-   {
-    "id": "CVE-2026-128347",
-    "score": 8.7,
-    "cvss": "4.0",
-    "published": "2026-11-13T10:18:15.427",
-    "summary": "ExcelJS through 4.4.0 contains an arbitrary file read vulnerability in the streaming WorkbookWriter that allows attackers to read local files by supplying crafted image filenames to addImage. Attackers can inject ../ path segments into user-controlled image paths, causing addMedia to embed any file readable by the Node.js process under xl/media in the generated workbook.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-128347"
-   },
    {
     "id": "CVE-2026-129319",
     "score": 8.2,
