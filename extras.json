@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:10:36+00:00",
+ "generated_at": "2026-11-16T14:12:40+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 21,
+  "aqi": 36,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-16 06:00 EST"
+  "observed": "2026-11-16 08:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -95,6 +95,11 @@
     "link": "https://kb.igel.com/en/security-safety/current/isn-2026-45-emudhra-ca-compromise-affecting-ums"
    },
    {
+    "isn": "2026-44",
+    "title": "ISN 2026-44: UMS Certificate Replay Vulnerability",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-44-ums-certificate-replay-vulnerability"
+   },
+   {
     "isn": "2026-43",
     "title": "ISN 2026-43: Critical Brotli Issue in IGEL OS",
     "link": "https://kb.igel.com/en/security-safety/current/isn-2026-43-critical-brotli-issue-in-igel-os"
@@ -113,11 +118,6 @@
     "isn": "2026-39",
     "title": "ISN 2026-39: Critical Chromium Vulnerabilities",
     "link": "https://kb.igel.com/en/security-safety/current/isn-2026-39-critical-chromium-vulnerabilities"
-   },
-   {
-    "isn": "2026-38",
-    "title": "ISN 2026-38: Critical Firefox ESR Vulnerabilities",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-38-critical-firefox-esr-vulnerabilities"
    }
   ]
  },
