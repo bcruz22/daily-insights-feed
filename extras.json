@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:13:04+00:00",
+ "generated_at": "2026-11-16T20:08:43+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -33,9 +33,9 @@
   },
   "home_assistant": {
    "status": "ok",
-   "version": "2026.11.1",
-   "published": "2026-11-09T18:52:28Z",
-   "url": "https://github.com/home-assistant/core/releases/tag/2026.11.1"
+   "version": "2026.11.2",
+   "published": "2026-11-16T20:03:59Z",
+   "url": "https://github.com/home-assistant/core/releases/tag/2026.11.2"
   },
   "plex": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 22,
+  "aqi": 25,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-16 12:00 EST"
+  "observed": "2026-11-16 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -77,8 +77,49 @@
   ]
  },
  "igel_isn": {
-  "status": "error",
-  "error": "URLError"
+  "status": "ok",
+  "notices": [
+   {
+    "isn": "2026-48",
+    "title": "ISN 2026-48: Chromium Vulnerabilities",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-48-chromium-vulnerabilities"
+   },
+   {
+    "isn": "2026-47",
+    "title": "ISN 2026-47: Firefox ESR Vulnerabilities",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-47-firefox-esr-vulnerabilities"
+   },
+   {
+    "isn": "2026-46",
+    "title": "ISN 2026-46: Critical Linux Kernel Issue in IGEL OS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-46-critical-linux-kernel-issue-in-igel-os"
+   },
+   {
+    "isn": "2026-45",
+    "title": "ISN 2026-45: EMudhra CA Compromise Affecting UMS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-45-emudhra-ca-compromise-affecting-ums"
+   },
+   {
+    "isn": "2026-44",
+    "title": "ISN 2026-44: UMS Certificate Replay Vulnerability",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-44-ums-certificate-replay-vulnerability"
+   },
+   {
+    "isn": "2026-43",
+    "title": "ISN 2026-43: Critical Brotli Issue in IGEL OS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-43-critical-brotli-issue-in-igel-os"
+   },
+   {
+    "isn": "2026-42",
+    "title": "ISN 2026-42: EMudhra CA Compromise Affecting IGEL OS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-42-emudhra-ca-compromise-affecting-igel-os"
+   },
+   {
+    "isn": "2026-41",
+    "title": "ISN 2026-41: Critical Chromium Vulnerabilities",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-41-critical-chromium-vulnerabilities"
+   }
+  ]
  },
  "m365_roadmap": {
   "status": "ok",
@@ -98,19 +139,6 @@
      "Mac"
     ],
     "summary": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event. GA date: December CY2026"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Discover and act on recommended lead and opportunity actions in Sales agent",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579977",
-    "published": "2026-11-13T19:37:39+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Web"
-    ],
-    "summary": "Sellers can discover and act on lead and opportunity recommendations that are already prioritized for them in Sales agent. A single prioritized list helps sellers see what needs attention without monitoring each agent separately or prioritizing the actions themselves. Sellers can review each recomme"
    }
   ]
  },
