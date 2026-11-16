@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T16:12:40+00:00",
+ "generated_at": "2026-11-16T18:13:04+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 31,
-  "pollutant": "PM2.5",
+  "aqi": 22,
+  "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-16 10:00 EST"
+  "observed": "2026-11-16 12:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -77,49 +77,8 @@
   ]
  },
  "igel_isn": {
-  "status": "ok",
-  "notices": [
-   {
-    "isn": "2026-48",
-    "title": "ISN 2026-48: Chromium Vulnerabilities",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-48-chromium-vulnerabilities"
-   },
-   {
-    "isn": "2026-47",
-    "title": "ISN 2026-47: Firefox ESR Vulnerabilities",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-47-firefox-esr-vulnerabilities"
-   },
-   {
-    "isn": "2026-46",
-    "title": "ISN 2026-46: Critical Linux Kernel Issue in IGEL OS",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-46-critical-linux-kernel-issue-in-igel-os"
-   },
-   {
-    "isn": "2026-45",
-    "title": "ISN 2026-45: EMudhra CA Compromise Affecting UMS",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-45-emudhra-ca-compromise-affecting-ums"
-   },
-   {
-    "isn": "2026-44",
-    "title": "ISN 2026-44: UMS Certificate Replay Vulnerability",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-44-ums-certificate-replay-vulnerability"
-   },
-   {
-    "isn": "2026-43",
-    "title": "ISN 2026-43: Critical Brotli Issue in IGEL OS",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-43-critical-brotli-issue-in-igel-os"
-   },
-   {
-    "isn": "2026-42",
-    "title": "ISN 2026-42: EMudhra CA Compromise Affecting IGEL OS",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-42-emudhra-ca-compromise-affecting-igel-os"
-   },
-   {
-    "isn": "2026-41",
-    "title": "ISN 2026-41: Critical Chromium Vulnerabilities",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-41-critical-chromium-vulnerabilities"
-   }
-  ]
+  "status": "error",
+  "error": "URLError"
  },
  "m365_roadmap": {
   "status": "ok",
