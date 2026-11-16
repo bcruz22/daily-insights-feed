@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T04:10:49+00:00",
+ "generated_at": "2026-11-16T06:10:12+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 19,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-15 22:00 EST"
+  "observed": "2026-11-16 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -246,50 +246,6 @@
     "kev_added": "2026-11-10",
     "kev_due": "2026-11-24",
     "kev_name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability"
-   },
-   {
-    "id": "CVE-2026-102895",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-11-04T22:17:44.613",
-    "summary": "GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning. Prior to 2.2.0, get_current_user in gpustack/api/auth.py treated a loopback request source as the built-in administrator when force_auth_localhost was false, which was the default. A remote request could appear to originate from 127.0.0.1 because client_ip_getter accepted a same-host reverse proxy pe",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
-    "kev_added": "2026-11-09",
-    "kev_due": "2026-11-12",
-    "kev_name": "GPUStack Improper Authentication Vulnerability"
-   },
-   {
-    "id": "CVE-2026-123158",
-    "score": 8.1,
-    "cvss": "3.1",
-    "published": "2026-11-05T16:17:47.110",
-    "summary": "sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
-    "kev_added": "2026-11-09",
-    "kev_due": "2026-11-12",
-    "kev_name": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability"
-   },
-   {
-    "id": "CVE-2026-116779",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-11-05T20:17:44.790",
-    "summary": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to 1.11.3, sofia_presence_handle_sip_i_message() split the To user of an inbound SIP MESSAGE on a plus sign and treated the left side as a chat protocol selector. Selecting the api chat proto reached switch_api_",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
-    "kev_added": "2026-11-09",
-    "kev_due": "2026-11-12",
-    "kev_name": "SignalWire FreeSwitch Code Injection Vulnerability"
-   },
-   {
-    "id": "CVE-2026-123218",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-11-07T04:17:28.900",
-    "summary": "IBM Aspera Faspex 5.0.0 through 5.0.19 could allow an authorized user to craft a specific message to bypass user authorization and gain full administrative privileges.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
-    "kev_added": "2026-11-09",
-    "kev_due": "2026-11-12",
-    "kev_name": "IBM Aspera Faspex Incorrect Authorization Vulnerability"
    }
   ]
  },
