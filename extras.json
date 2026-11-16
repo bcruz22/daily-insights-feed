@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T14:12:40+00:00",
+ "generated_at": "2026-11-16T16:12:40+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 36,
+  "aqi": 31,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-16 08:00 EST"
+  "observed": "2026-11-16 10:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -79,6 +79,11 @@
  "igel_isn": {
   "status": "ok",
   "notices": [
+   {
+    "isn": "2026-48",
+    "title": "ISN 2026-48: Chromium Vulnerabilities",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-48-chromium-vulnerabilities"
+   },
    {
     "isn": "2026-47",
     "title": "ISN 2026-47: Firefox ESR Vulnerabilities",
@@ -113,11 +118,6 @@
     "isn": "2026-41",
     "title": "ISN 2026-41: Critical Chromium Vulnerabilities",
     "link": "https://kb.igel.com/en/security-safety/current/isn-2026-41-critical-chromium-vulnerabilities"
-   },
-   {
-    "isn": "2026-39",
-    "title": "ISN 2026-39: Critical Chromium Vulnerabilities",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-39-critical-chromium-vulnerabilities"
    }
   ]
  },
@@ -252,6 +252,15 @@
  "nvd": {
   "status": "ok",
   "window_hours": 48,
-  "cves": []
+  "cves": [
+   {
+    "id": "CVE-2026-124724",
+    "score": 7.5,
+    "cvss": "3.1",
+    "published": "2026-11-16T14:17:06.113",
+    "summary": "@fastify/busboy is a streaming parser for multipart form data used by Fastify. In versions 1.0.0 through 3.2.5, when a request reaches the configured limit on the number of multipart parts, each further part is skipped without attaching an error listener to the skipped part stream. If the request body ends in the middle of such a skipped part, the vendored Dicer parser emits an error on that strea",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124724"
+   }
+  ]
  }
 }
