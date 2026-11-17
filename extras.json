@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:11:52+00:00",
+ "generated_at": "2026-11-17T22:10:29+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 38,
+  "aqi": 34,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-17 14:00 EST"
+  "observed": "2026-11-17 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,36 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Work IQ: Dynamic skills",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570869",
+    "published": "2026-11-17T20:22:13+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Work IQ",
+     "Microsoft Copilot (Microsoft 365)",
+     "Developer"
+    ],
+    "summary": "Enable agents to select and use the most relevant skills dynamically for each request. GA date: November CY2026 Preview date: October CY2026"
+   },
+   {
+    "title": "Work IQ: Granular MCP policies",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570671",
+    "published": "2026-11-17T19:53:11+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Work IQ",
+     "Microsoft Copilot (Microsoft 365)",
+     "Developer"
+    ],
+    "summary": "Provide granular policies that restrict MCP access to trusted platforms, workloads, and supported operations. GA date: January CY2027 Preview date: November CY2026"
+   },
    {
     "title": "Microsoft Purview: Information Protection - Improved sensitive information types",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579195",
@@ -443,6 +473,14 @@
   "window_hours": 48,
   "cves": [
    {
+    "id": "CVE-2025-62165",
+    "score": 9.2,
+    "cvss": "4.0",
+    "published": "2026-11-17T21:17:34.990",
+    "summary": "Pi-hole FTL is the core engine of the Pi-hole network-level advertisement and tracker blocker. From 6.0 until 6.7, CivetWeb permits unauthenticated clients to flood the WebUI login page and API invalid paths without connection or request-rate limits. Repeated requests can consume substantial CPU in request processing and session authentication, making the WebUI sluggish or unresponsive and potenti",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-62165"
+   },
+   {
     "id": "CVE-2026-120698",
     "score": 8.8,
     "cvss": "3.1",
@@ -459,6 +497,14 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130072"
    },
    {
+    "id": "CVE-2026-71304",
+    "score": 8.8,
+    "cvss": "3.1",
+    "published": "2026-11-17T21:18:12.913",
+    "summary": "Pi-hole FTL is the core engine of the Pi-hole network-level advertisement and tracker blocker. From 6.0 until 6.7, check_client_auth() in src/api/auth.c detects that a matching session identifier has passed valid_until but still assigns user_id before the expired state can be rejected. That assignment sends execution through the authorized branch, renews valid_until for another timeout interval, a",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71304"
+   },
+   {
     "id": "CVE-2026-120697",
     "score": 8.7,
     "cvss": "3.1",
@@ -473,6 +519,14 @@
     "published": "2026-11-16T14:17:06.113",
     "summary": "@fastify/busboy is a streaming parser for multipart form data used by Fastify. In versions 1.0.0 through 3.2.5, when a request reaches the configured limit on the number of multipart parts, each further part is skipped without attaching an error listener to the skipped part stream. If the request body ends in the middle of such a skipped part, the vendored Dicer parser emits an error on that strea",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124724"
+   },
+   {
+    "id": "CVE-2026-65963",
+    "score": 7.2,
+    "cvss": "3.1",
+    "published": "2026-11-17T21:18:11.677",
+    "summary": "Pi-hole FTL is the core engine of the Pi-hole network-level advertisement and tracker blocker. From 6.6.2 until 6.7, PATCH /api/config accepts unfiltered CivetWeb lua_* options through webserver.advancedOpts, while POST /api/teleporter writes attacker-controlled content from a dhcp.leases archive entry through src/zip/teleporter.c without content validation. An authenticated administrator can plac",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65963"
    }
   ]
  }
