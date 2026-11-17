@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:08:15+00:00",
+ "generated_at": "2026-11-17T18:12:48+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 58,
+  "aqi": 53,
   "pollutant": "PM2.5",
   "category": "Moderate",
-  "observed": "2026-11-17 10:00 EST"
+  "observed": "2026-11-17 12:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -79,6 +79,11 @@
  "igel_isn": {
   "status": "ok",
   "notices": [
+   {
+    "isn": "2026-50",
+    "title": "ISN 2026-50: ZipSlip Vulnerability in UMS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-50-zipslip-vulnerability-in-ums"
+   },
    {
     "isn": "2026-48",
     "title": "ISN 2026-48: Chromium Vulnerabilities",
@@ -113,11 +118,6 @@
     "isn": "2026-42",
     "title": "ISN 2026-42: EMudhra CA Compromise Affecting IGEL OS",
     "link": "https://kb.igel.com/en/security-safety/current/isn-2026-42-emudhra-ca-compromise-affecting-igel-os"
-   },
-   {
-    "isn": "2026-41",
-    "title": "ISN 2026-41: Critical Chromium Vulnerabilities",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-41-critical-chromium-vulnerabilities"
    }
   ]
  },
