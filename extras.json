@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:12:10+00:00",
+ "generated_at": "2026-11-18T20:08:06+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 55,
+  "aqi": 39,
   "pollutant": "PM2.5",
-  "category": "Moderate",
-  "observed": "2026-11-18 12:00 EST"
+  "category": "Good",
+  "observed": "2026-11-18 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -545,6 +545,14 @@
     "published": "2026-11-18T12:17:11.817",
     "summary": "SiYuan before 3.8.10 contains a stored cross-site scripting vulnerability, an incomplete fix for CVE-2026-44670, because renderAVAttribute() inserts an Attribute View name unescaped into the database row attribute panel header. Attackers who can persist the name, such as via the setAttrViewName action, can inject an onerror handler that runs OS commands through Node.js when a desktop user opens th",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130681"
+   },
+   {
+    "id": "CVE-2026-130756",
+    "score": 9.3,
+    "cvss": "4.0",
+    "published": "2026-11-18T19:17:46.287",
+    "summary": "pnpm exe before 10.34.8 embeds an outdated Node.js runtime that still trusts compromised eMudhra intermediate CA certificates during registry TLS connections. Network attackers holding a recovered intermediate key can intercept standalone pnpm registry fetches and serve forged package metadata or tarballs.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130756"
    },
    {
     "id": "CVE-2025-62165",
