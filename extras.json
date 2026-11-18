@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:08:29+00:00",
+ "generated_at": "2026-11-18T14:09:06+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 46,
+  "aqi": 52,
   "pollutant": "PM2.5",
-  "category": "Good",
-  "observed": "2026-11-18 06:00 EST"
+  "category": "Moderate",
+  "observed": "2026-11-18 08:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -85,6 +85,11 @@
     "link": "https://kb.igel.com/en/security-safety/current/isn-2026-50-zipslip-vulnerability-in-ums"
    },
    {
+    "isn": "2026-49",
+    "title": "ISN 2026-49: \u201cNoisyTCP\u201d Kernel Issue in IGEL OS",
+    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-49-noisytcp-kernel-issue-in-igel-os"
+   },
+   {
     "isn": "2026-48",
     "title": "ISN 2026-48: Chromium Vulnerabilities",
     "link": "https://kb.igel.com/en/security-safety/current/isn-2026-48-chromium-vulnerabilities"
@@ -113,11 +118,6 @@
     "isn": "2026-43",
     "title": "ISN 2026-43: Critical Brotli Issue in IGEL OS",
     "link": "https://kb.igel.com/en/security-safety/current/isn-2026-43-critical-brotli-issue-in-igel-os"
-   },
-   {
-    "isn": "2026-42",
-    "title": "ISN 2026-42: EMudhra CA Compromise Affecting IGEL OS",
-    "link": "https://kb.igel.com/en/security-safety/current/isn-2026-42-emudhra-ca-compromise-affecting-igel-os"
    }
   ]
  },
@@ -514,6 +514,38 @@
   "status": "ok",
   "window_hours": 48,
   "cves": [
+   {
+    "id": "CVE-2026-130678",
+    "score": 9.4,
+    "cvss": "4.0",
+    "published": "2026-11-18T12:17:11.277",
+    "summary": "SiYuan before 3.8.10 contains a stored cross-site scripting vulnerability that allows attackers to execute script by storing malicious Attribute View column names rendered unescaped in col.ts. Attackers can inject HTML via addAttributeViewKey, .sy.zip import, or sync, and when a victim adds or duplicates the column, insertAdjacentHTML runs JavaScript with Node.js privileges for desktop code execut",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130678"
+   },
+   {
+    "id": "CVE-2026-130679",
+    "score": 9.4,
+    "cvss": "4.0",
+    "published": "2026-11-18T12:17:11.450",
+    "summary": "SiYuan before 3.8.10 contains a stored cross-site scripting vulnerability in genAVValueHTML() that allows attackers who can store Attribute View asset values to inject script through an unescaped image src attribute. Attackers can store an image URL containing a double quote and onerror handler that executes OS commands via Node.js in the desktop app when victims open the bound note or row attribu",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130679"
+   },
+   {
+    "id": "CVE-2026-130680",
+    "score": 9.4,
+    "cvss": "4.0",
+    "published": "2026-11-18T12:17:11.630",
+    "summary": "SiYuan from 3.3.0 before 3.8.10 contains a stored cross-site scripting vulnerability that allows attackers to inject HTML via unescaped checkbox column names in Gallery and Kanban AttributeView renderers. Attackers can share a crafted .sy.zip document whose rendering in the Electron desktop client with nodeIntegration enabled executes Node.js and host OS commands.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130680"
+   },
+   {
+    "id": "CVE-2026-130681",
+    "score": 9.4,
+    "cvss": "4.0",
+    "published": "2026-11-18T12:17:11.817",
+    "summary": "SiYuan before 3.8.10 contains a stored cross-site scripting vulnerability, an incomplete fix for CVE-2026-44670, because renderAVAttribute() inserts an Attribute View name unescaped into the database row attribute panel header. Attackers who can persist the name, such as via the setAttrViewName action, can inject an onerror handler that runs OS commands through Node.js when a desktop user opens th",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130681"
+   },
    {
     "id": "CVE-2025-62165",
     "score": 9.2,
