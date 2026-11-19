@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T04:08:31+00:00",
+ "generated_at": "2026-11-19T06:10:28+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 50,
+  "aqi": 52,
   "pollutant": "PM2.5",
-  "category": "Good",
-  "observed": "2026-11-18 22:00 EST"
+  "category": "Moderate",
+  "observed": "2026-11-19 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -588,6 +588,38 @@
   "window_hours": 48,
   "cves": [
    {
+    "id": "CVE-2026-132802",
+    "score": 9.9,
+    "cvss": "3.1",
+    "published": "2026-11-19T05:18:38.507",
+    "summary": "A malicious actor with access to the network and low privileges could exploit an Improper Link Resolution Before File Access vulnerability found in UniFi Access Application to execute arbitrary code with root privileges on the host device.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132802"
+   },
+   {
+    "id": "CVE-2026-132803",
+    "score": 9.9,
+    "cvss": "3.1",
+    "published": "2026-11-19T05:18:38.673",
+    "summary": "A malicious actor with access to the network and low privileges could exploit a series of authenticated SQL Injection vulnerabilities found in UniFi Access Application to escalate privileges on the host device.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132803"
+   },
+   {
+    "id": "CVE-2026-132804",
+    "score": 9.9,
+    "cvss": "3.1",
+    "published": "2026-11-19T05:18:38.833",
+    "summary": "A malicious actor with access to the network and low privileges could exploit a Server-Side Request Forgery (SSRF) vulnerability found in UniFi Access Application to escalate privileges within UniFi OS.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132804"
+   },
+   {
+    "id": "CVE-2026-132808",
+    "score": 9.9,
+    "cvss": "3.1",
+    "published": "2026-11-19T05:18:39.513",
+    "summary": "A malicious actor with access to the network and low privileges could exploit an Incorrect Authorization vulnerability found in UniFi Access Application to execute arbitrary commands on certain adopted UniFi Access devices.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132808"
+   },
+   {
     "id": "CVE-2026-130678",
     "score": 9.4,
     "cvss": "4.0",
@@ -636,12 +668,36 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-62165"
    },
    {
+    "id": "CVE-2026-132807",
+    "score": 9.0,
+    "cvss": "3.1",
+    "published": "2026-11-19T05:18:39.360",
+    "summary": "A malicious actor with access to the network and under certain conditions could exploit an Improper Certificate Validation vulnerability found in UniFi Access Application to obtain sensitive information from and make unauthorized changes to an adopted UniFi Access device.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132807"
+   },
+   {
     "id": "CVE-2026-71304",
     "score": 8.8,
     "cvss": "3.1",
     "published": "2026-11-17T21:18:12.913",
     "summary": "Pi-hole FTL is the core engine of the Pi-hole network-level advertisement and tracker blocker. From 6.0 until 6.7, check_client_auth() in src/api/auth.c detects that a matching session identifier has passed valid_until but still assigns user_id before the expired state can be rejected. That assignment sends execution through the authorized branch, renews valid_until for another timeout interval, a",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71304"
+   },
+   {
+    "id": "CVE-2026-132806",
+    "score": 8.8,
+    "cvss": "3.1",
+    "published": "2026-11-19T05:18:39.183",
+    "summary": "A malicious actor with access to the network and low privileges could exploit an authenticated SQL Injection vulnerability found in UniFi Access Application to obtain sensitive information and make unauthorized changes within the UniFi Access Application.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132806"
+   },
+   {
+    "id": "CVE-2026-132805",
+    "score": 8.3,
+    "cvss": "3.1",
+    "published": "2026-11-19T05:18:39.000",
+    "summary": "A malicious actor with access to the network could exploit a Server-Side Request Forgery (SSRF) vulnerability found in UniFi Access Application to obtain information and make unauthorized changes on the host device.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132805"
    },
    {
     "id": "CVE-2026-65963",
