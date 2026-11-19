@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:12:34+00:00",
+ "generated_at": "2026-11-19T22:12:24+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 50,
+  "aqi": 32,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-19 14:00 EST"
+  "observed": "2026-11-19 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -668,28 +668,12 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130756"
    },
    {
-    "id": "CVE-2025-62165",
-    "score": 9.2,
-    "cvss": "4.0",
-    "published": "2026-11-17T21:17:34.990",
-    "summary": "Pi-hole FTL is the core engine of the Pi-hole network-level advertisement and tracker blocker. From 6.0 until 6.7, CivetWeb permits unauthenticated clients to flood the WebUI login page and API invalid paths without connection or request-rate limits. Repeated requests can consume substantial CPU in request processing and session authentication, making the WebUI sluggish or unresponsive and potenti",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-62165"
-   },
-   {
     "id": "CVE-2026-132807",
     "score": 9.0,
     "cvss": "3.1",
     "published": "2026-11-19T05:18:39.360",
     "summary": "A malicious actor with access to the network and under certain conditions could exploit an Improper Certificate Validation vulnerability found in UniFi Access Application to obtain sensitive information from and make unauthorized changes to an adopted UniFi Access device.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132807"
-   },
-   {
-    "id": "CVE-2026-71304",
-    "score": 8.8,
-    "cvss": "3.1",
-    "published": "2026-11-17T21:18:12.913",
-    "summary": "Pi-hole FTL is the core engine of the Pi-hole network-level advertisement and tracker blocker. From 6.0 until 6.7, check_client_auth() in src/api/auth.c detects that a matching session identifier has passed valid_until but still assigns user_id before the expired state can be rejected. That assignment sends execution through the authorized branch, renews valid_until for another timeout interval, a",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71304"
    },
    {
     "id": "CVE-2026-132806",
@@ -754,14 +738,6 @@
     "published": "2026-11-19T19:17:26.110",
     "summary": "@fastify/http-proxy is a Fastify plugin that proxies HTTP and WebSocket traffic to an upstream server. In versions from 9.0.0 up to but not including 11.6.10, when the plugin is registered with websocket support enabled, a WebSocket upgrade that is pipelined behind another HTTP request on the same cleartext connection arrives while that request's response is still attached to the socket. The share",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130647"
-   },
-   {
-    "id": "CVE-2026-65963",
-    "score": 7.2,
-    "cvss": "3.1",
-    "published": "2026-11-17T21:18:11.677",
-    "summary": "Pi-hole FTL is the core engine of the Pi-hole network-level advertisement and tracker blocker. From 6.6.2 until 6.7, PATCH /api/config accepts unfiltered CivetWeb lua_* options through webserver.advancedOpts, while POST /api/teleporter writes attacker-controlled content from a dhcp.leases archive entry through src/zip/teleporter.c without content validation. An authenticated administrator can plac",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65963"
    }
   ]
  }
