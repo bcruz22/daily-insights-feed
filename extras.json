@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T22:10:33+00:00",
+ "generated_at": "2026-11-19T00:11:33+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 34,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-18 16:00 EST"
+  "observed": "2026-11-18 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -476,6 +476,50 @@
   "window_days": 7,
   "cves": [
    {
+    "id": "CVE-2024-10441",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2025-03-19T02:15:27.120",
+    "summary": "Improper encoding or escaping of output vulnerability in the system plugin daemon in Synology BeeStation OS (BSM) before 1.1-65374 and Synology DiskStation Manager (DSM) before 7.2-64570-4, 7.2.1-69057-6 and 7.2.2-72806-1 allows remote attackers to execute arbitrary code via unspecified vectors.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
+    "kev_added": "2026-11-18",
+    "kev_due": "2026-11-21",
+    "kev_name": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability"
+   },
+   {
+    "id": "CVE-2026-40217",
+    "score": 8.8,
+    "cvss": "3.1",
+    "published": "2026-04-10T14:16:36.307",
+    "summary": "LiteLLM through 2026-04-08 allows remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
+    "kev_added": "2026-11-18",
+    "kev_due": "2026-12-02",
+    "kev_name": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability"
+   },
+   {
+    "id": "CVE-2026-90817",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-09-20T13:17:44.973",
+    "summary": "An unauthenticated Remote Code Execution vulnerability was found in the survey passthrough routing and Data Import processing logic, in which a malicious user could potentially exploit it by manipulating HTTP requests to access an unintended controller route from a public survey context and by supplying a crafted file-path/stream parameter during import handling. If successfully exploited, this co",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90817",
+    "kev_added": "2026-11-18",
+    "kev_due": "2026-11-21",
+    "kev_name": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability"
+   },
+   {
+    "id": "CVE-2026-90436",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-06T16:18:59.763",
+    "summary": "** UNSUPPORTED WHEN ASSIGNED ** Deserialization of an inbound SOAP fault in Apache Axis 1.x allows unauthenticated remote class instantiation. When a SOAP carries a element, Axis loads the named class and, if a String element is also present, instantiates it through its String constructor before checking that it is an AxisFault. Loading alone runs the class's static initializer. With a suitable cl",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90436",
+    "kev_added": "2026-11-18",
+    "kev_due": "2026-11-21",
+    "kev_name": "Apache Axis Unsafe Reflection Vulnerability"
+   },
+   {
     "id": "CVE-2026-115731",
     "score": 9.4,
     "cvss": "4.0",
@@ -563,36 +607,12 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-62165"
    },
    {
-    "id": "CVE-2026-120698",
-    "score": 8.8,
-    "cvss": "3.1",
-    "published": "2026-11-16T22:18:14.720",
-    "summary": "Wiki.js is an open source wiki app built on Node.js. Prior to 2.5.315, an authenticated account with only manage:users can use users.update to change the password of any local account, including the Root administrator and other accounts with manage:system, by omitting the optional groups argument, which is automatically allowed and bypasses destination-group authorization without checking the targ",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120698"
-   },
-   {
-    "id": "CVE-2026-130072",
-    "score": 8.8,
-    "cvss": "4.0",
-    "published": "2026-11-16T22:18:22.533",
-    "summary": "Cloud Commander (cloudcmd) before 19.21.4 contains an authentication bypass and path traversal vulnerability that allows unauthenticated attackers to rename files by sending PUT /rename requests handled before authentication middleware. Attackers can supply absolute or ../ paths in the from and to arrays to move any file the Node.js process can access outside the configured root, causing data loss",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130072"
-   },
-   {
     "id": "CVE-2026-71304",
     "score": 8.8,
     "cvss": "3.1",
     "published": "2026-11-17T21:18:12.913",
     "summary": "Pi-hole FTL is the core engine of the Pi-hole network-level advertisement and tracker blocker. From 6.0 until 6.7, check_client_auth() in src/api/auth.c detects that a matching session identifier has passed valid_until but still assigns user_id before the expired state can be rejected. That assignment sends execution through the authorized branch, renews valid_until for another timeout interval, a",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71304"
-   },
-   {
-    "id": "CVE-2026-120697",
-    "score": 8.7,
-    "cvss": "3.1",
-    "published": "2026-11-16T22:18:14.567",
-    "summary": "Wiki.js is an open source wiki app built on Node.js. Prior to 2.5.315, an authenticated user with write:pages can store JavaScript expressions in the v-slot:tabs or v-slot:content attributes of page HTML because server/modules/rendering/html-security/renderer.js adds those executable Vue directives to DOMPurify's allowlist. The sanitized output is inserted as rendered page HTML and later compiled ",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120697"
    },
    {
     "id": "CVE-2026-65963",
