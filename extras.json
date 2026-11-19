@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:12:03+00:00",
+ "generated_at": "2026-11-19T16:08:07+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 65,
   "pollutant": "PM2.5",
   "category": "Moderate",
-  "observed": "2026-11-19 08:00 EST"
+  "observed": "2026-11-19 10:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -618,6 +618,14 @@
     "published": "2026-11-19T05:18:39.513",
     "summary": "A malicious actor with access to the network and low privileges could exploit an Incorrect Authorization vulnerability found in UniFi Access Application to execute arbitrary commands on certain adopted UniFi Access devices.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132808"
+   },
+   {
+    "id": "CVE-2026-123890",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-19T15:17:25.407",
+    "summary": "VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service. Affected versions: 9.1.x (fixed in 9.1.1.0200); 9.0.x (fixed in 9.0.2.0200); 8.0 (fixed in 8.0 U3m); 5.x (fixed in 5.2.5). Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 3.0 are also affected (see KB463116).",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890"
    },
    {
     "id": "CVE-2026-130678",
