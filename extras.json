@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T00:11:33+00:00",
+ "generated_at": "2026-11-19T02:08:09+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 34,
-  "pollutant": "OZONE",
+  "aqi": 42,
+  "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-18 18:00 EST"
+  "observed": "2026-11-18 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,35 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Microsoft Purview: Information Protection-Sensitivity label inheritance for Teams meeting artifacts",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581739",
+    "published": "2026-11-19T00:35:27+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "GCC",
+     "GCC High",
+     "DoD",
+     "Microsoft Purview",
+     "Web"
+    ],
+    "summary": "Teams meeting artifacts, including recordings, transcripts, and Loop notes, can now be configured to automatically inherit the sensitivity label from the meeting. This ensures content generated during meetings is consistently protected without requiring manual labeling, reducing risk and simplifying"
+   },
+   {
+    "title": "Microsoft Teams: Focus on the conversation while Facilitator in Teams mobile takes the notes, now with speaker attribution",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579864",
+    "published": "2026-11-19T00:35:27+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Android",
+     "iOS"
+    ],
+    "summary": "Use Facilitator in Teams mobile to turn in-person conversations into useful notes and follow-ups with speaker attribution. Start note-taking from your phone and let Facilitator capture and transcribe the ad hoc discussion, with speaker attribution helping distinguish who said what. Facilitator uses "
+   },
    {
     "title": "Microsoft Copilot (Microsoft 365): Use Copilot to make on canvas edits on Pages",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580449",
@@ -254,6 +283,22 @@
     "summary": "Interactive Insights is an AI-powered feature in A365 Business Analytics that lets users ask natural-language questions to explore AI adoption, engagement and consumption data. It produces summaries, visualizations and reports that breakout patterns, highlight trends, explain usage and cost drivers,"
    },
    {
+    "title": "Microsoft Copilot (Microsoft 365): Copilot Workspaces updates",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579889",
+    "published": "2026-11-17T18:36:41+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Copilot (Microsoft 365)",
+     "Desktop",
+     "Mobile",
+     "Web"
+    ],
+    "summary": "With new Copilot Workspaces updates, Work IQ can suggest relevant workspaces based on current workstreams to help people get started quickly. Once in a workspace, team members can work together on shared documents while Copilot connects the dots across the work, surfacing what changed, what remains "
+   },
+   {
     "title": "Microsoft 365: [Education] Classroom - a dedicated platform for teaching and learning",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580883",
     "published": "2026-11-17T18:36:41+00:00",
@@ -358,22 +403,6 @@
      "Web"
     ],
     "summary": "Learning Agent proactively delivers personalized AI and Copilot upskilling notifications through Microsoft Teams, helping users discover relevant learning opportunities in their flow of work. These notifications are tailored to users' roles, Copilot adoption stages, and usage patterns, guiding them "
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Copilot Workspaces updates",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579889",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Desktop",
-     "Mobile",
-     "Web"
-    ],
-    "summary": "With new Copilot Workspaces updates, Work IQ can suggest relevant workspaces based on current workstreams to help people get started quickly. Once in a workspace, team members can work together on shared documents while Copilot connects the dots across the work, surfacing what changed, what remains "
    },
    {
     "title": "SharePoint: Lists - Refreshed user experience",
