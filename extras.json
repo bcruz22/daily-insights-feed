@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:12:31+00:00",
+ "generated_at": "2026-11-20T22:10:21+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 38,
-  "pollutant": "PM2.5",
+  "aqi": 36,
+  "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-20 14:00 EST"
+  "observed": "2026-11-20 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -243,21 +243,6 @@
      "Web"
     ],
     "summary": "\u2022 Rapid onboarding to a hybrid workforce:Service Agent in Microsoft 365 can be hired and onboard with your company's knowledge sources, communication guidelines and escalation rules etc. in minutes. Manager can choose the semi or full autonomous mode. \u2022 24/7 support: Natively connects to Microsoft 3"
-   },
-   {
-    "title": "Work IQ: Dynamic skills",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570869",
-    "published": "2026-11-17T20:22:13+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Work IQ",
-     "Microsoft Copilot (Microsoft 365)",
-     "Developer"
-    ],
-    "summary": "Enable agents to select and use the most relevant skills dynamically for each request. GA date: November CY2026 Preview date: October CY2026"
    }
   ]
  },
