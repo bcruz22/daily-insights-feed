@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:12:24+00:00",
+ "generated_at": "2026-11-20T00:08:09+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 32,
+  "aqi": 40,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-19 16:00 EST"
+  "observed": "2026-11-19 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,23 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Microsoft Teams: Voice phishing detection for external calls",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580443",
+    "published": "2026-11-19T21:30:10+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Android",
+     "Desktop",
+     "iOS",
+     "Mac",
+     "Mobile"
+    ],
+    "summary": "Voice phishing detection helps protect Microsoft Teams users from potential scams during one-to-one calls with people outside their organization. Using AI, Teams analyzes conversations for signs of social engineering and alerts recipients when suspicious activity is detected, helping them recognize "
+   },
    {
     "title": "Microsoft Purview: Information Protection-Sensitivity label inheritance for Teams meeting artifacts",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581739",
