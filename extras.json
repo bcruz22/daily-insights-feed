@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:09:34+00:00",
+ "generated_at": "2026-11-20T04:08:07+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 46,
+  "aqi": 54,
   "pollutant": "PM2.5",
-  "category": "Good",
-  "observed": "2026-11-19 20:00 EST"
+  "category": "Moderate",
+  "observed": "2026-11-19 22:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,20 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Microsoft Teams: Pick up where you left off in channels on desktop",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579890",
+    "published": "2026-11-20T01:24:53+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Desktop",
+     "Mac"
+    ],
+    "summary": "Stay on top of channel conversations by picking up right where you left off. Choose to open Teams channels at your last read message instead of the most recent message, making it easier to catch up on conversations and follow discussions without losing your place. GA date: February CY2027"
+   },
    {
     "title": "Microsoft Teams: Configure a list of allowed external meeting notetaker bots for your Teams meetings",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580451",
