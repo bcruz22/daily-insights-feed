@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:10:08+00:00",
+ "generated_at": "2026-11-20T20:12:31+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 54,
+  "aqi": 38,
   "pollutant": "PM2.5",
-  "category": "Moderate",
-  "observed": "2026-11-20 12:00 EST"
+  "category": "Good",
+  "observed": "2026-11-20 14:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -258,293 +258,6 @@
      "Developer"
     ],
     "summary": "Enable agents to select and use the most relevant skills dynamically for each request. GA date: November CY2026 Preview date: October CY2026"
-   },
-   {
-    "title": "Work IQ: Granular MCP policies",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570671",
-    "published": "2026-11-17T19:53:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Work IQ",
-     "Microsoft Copilot (Microsoft 365)",
-     "Developer"
-    ],
-    "summary": "Provide granular policies that restrict MCP access to trusted platforms, workloads, and supported operations. GA date: January CY2027 Preview date: November CY2026"
-   },
-   {
-    "title": "Microsoft Purview: Information Protection - Improved sensitive information types",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579195",
-    "published": "2026-11-17T19:05:12+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Purview",
-     "Web"
-    ],
-    "summary": "Improved Microsoft out-of-the-box sensitive information types (SITs) to identify sensitive data more precisely and reliably. GA date: March CY2027 Preview date: January CY2027"
-   },
-   {
-    "title": "Microsoft Purview: recurring classifier refresh",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579194",
-    "published": "2026-11-17T19:05:12+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Purview",
-     "Web"
-    ],
-    "summary": "Evolve On-Demand Classification into recurring classification refreshes that help keep existing content classification current as data and context change. GA date: April CY2027 Preview date: February CY2027"
-   },
-   {
-    "title": "Microsoft Purview: Endpoint Data Loss Prevention-Protect sensitive data across agent-to-human and agent-to-tool interactions with expanded DLP controls across local agents",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577862",
-    "published": "2026-11-17T19:05:12+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Purview",
-     "Web"
-    ],
-    "summary": "Microsoft Purview Data Loss Prevention (DLP) now expands inline protection to supported local AI agents, helping safeguard sensitive data across human-to-agent and agent-to-tool interactions. Organizations can apply DLP policies to prompts, files, and tool interactions to block policy-violating data"
-   },
-   {
-    "title": "Microsoft Viva: Interactive Insights in the A365 Business Analytics app",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577181",
-    "published": "2026-11-17T19:05:12+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Viva",
-     "Web"
-    ],
-    "summary": "Interactive Insights is an AI-powered feature in A365 Business Analytics that lets users ask natural-language questions to explore AI adoption, engagement and consumption data. It produces summaries, visualizations and reports that breakout patterns, highlight trends, explain usage and cost drivers,"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Copilot Workspaces updates",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579889",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Desktop",
-     "Mobile",
-     "Web"
-    ],
-    "summary": "With new Copilot Workspaces updates, Work IQ can suggest relevant workspaces based on current workstreams to help people get started quickly. Once in a workspace, team members can work together on shared documents while Copilot connects the dots across the work, surfacing what changed, what remains "
-   },
-   {
-    "title": "Microsoft 365: [Education] Classroom - a dedicated platform for teaching and learning",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580883",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft 365",
-     "Android",
-     "Desktop",
-     "iOS",
-     "Mac",
-     "Web"
-    ],
-    "summary": "[Education]Microsoft Classroom is a new, standalone Microsoft 365 experience for teaching and learning, designed for primary , secondary and higher education . It's a front door to familiar Microsoft education tools \u2014 Assignments, Classwork, Grades, OneNote Class Notebook, Learning Accelerators and "
-   },
-   {
-    "title": "Microsoft Teams: New VDI solution for Omnissa on Mac",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580870",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "GCC",
-     "Microsoft Teams",
-     "Mac"
-    ],
-    "summary": "This feature allows Mac endpoints to optimize Microsoft Teams in VDI environments with the new SlimCore-based media engine, providing an expanded feature set and multiple improvements in quality, reliability and performance. GA date: February CY2027 Preview date: December CY2026"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Copilot Workspaces - Updated workspace memory",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580869",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Desktop",
-     "Web"
-    ],
-    "summary": "With Work IQ, Copilot can now retain useful context from how you work in a workspace so future responses are more relevant, consistent, and personalized. Copilot can use saved memory such as workspace details, working preferences, and recurring instructions to reduce repeated setup and help you cont"
-   },
-   {
-    "title": "Outlook: Share Availability",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580444",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Outlook",
-     "Desktop",
-     "Web"
-    ],
-    "summary": "Easily share proposed meeting times directly from your calendar or while composing an email in Outlook. Select time slots and insert them into your message without manually typing dates and times. For one-on-one meetings, recipients can select an available time to book the meeting with one click. #n"
-   },
-   {
-    "title": "Power Apps: Build model-driven apps with Copilot Cowork",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579979",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Power Apps",
-     "Microsoft Copilot (Microsoft 365)",
-     "Web"
-    ],
-    "summary": "Information workers can now use model-app-builder skill in Copilot Cowork to create and refine model-driven apps from natural-language requirements. Cowork turns a business scenario into an app specification and build plan for review before creating the model-driven app and its supporting Power Apps"
-   },
-   {
-    "title": "Dynamics 365 Sales: An agentic home for all sales AI",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579978",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Dynamics 365 Sales",
-     "Web"
-    ],
-    "summary": "When sellers open Dynamics 365 Sales, they can land in Sales agent: an agentic home for all sales AI instead of a traditional dashboard. Structured workflows in Sales agent bring agent recommendations and customer-engagement preparation together, giving sellers one place to understand what needs att"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): AI and Copilot Upskilling Nudges in Microsoft Teams by Learning Agent",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579905",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Web"
-    ],
-    "summary": "Learning Agent proactively delivers personalized AI and Copilot upskilling notifications through Microsoft Teams, helping users discover relevant learning opportunities in their flow of work. These notifications are tailored to users' roles, Copilot adoption stages, and usage patterns, guiding them "
-   },
-   {
-    "title": "SharePoint: Lists - Refreshed user experience",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578879",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "SharePoint",
-     "Web"
-    ],
-    "summary": "Microsoft is introducing a refreshed user experience for SharePoint Lists to make common actions easier to find, improve navigation, and provide greater visibility into views and active filters. The refreshed experience includes a reorganized command bar, clearer breadcrumb navigation for lists that"
-   },
-   {
-    "title": "Microsoft Purview: Endpoint Data Loss Prevention-Extend Purview data security to the network layer through integration with Azure Firewall",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577828",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Purview",
-     "Web"
-    ],
-    "summary": "Microsoft Purview extends data security controls to the network layer through integration with Azure Firewall, helping organizations detect and protect sensitive data in supported network traffic, including text, files, and AI interactions. Organizations are able to enforce DLP policies on traffic f"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Agent 365 Business Analytics experience",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577548",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "GCC",
-     "GCC High",
-     "DoD",
-     "Microsoft Viva",
-     "Microsoft Copilot (Microsoft 365)",
-     "Web"
-    ],
-    "summary": "Agent 365 Business Analytics brings AI spend, usage, and value together in one place, helping leaders understand where AI investment is going, what value it\u2019s delivering, and where to invest next. Explore cost across services, models, agents, and users, understand the business use cases AI supports "
-   },
-   {
-    "title": "Microsoft Teams: Work IQ Real Time Transcription for Meetings and Calls",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572674",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Work IQ",
-     "Desktop",
-     "Web"
-    ],
-    "summary": "Work IQ enables authorized applications and AI agents to access transcript content from supported Microsoft Teams meetings and calls as conversations unfold. Through Model Context Protocol (MCP), developers can combine live conversation context with business data to build experiences such as context"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Copilot Code",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571887",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Android",
-     "Desktop",
-     "iOS",
-     "Mac",
-     "Web"
-    ],
-    "summary": "Copilot Code is a new AI-powered coding experience in Microsoft Copilot that helps people turn ideas into working software, starting from the work they already do and building through natural language, grounded in their work by Work IQ. Projects can be published as managed apps on Copilot Managed Ru"
-   },
-   {
-    "title": "Word: legal plugin",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571885",
-    "published": "2026-11-17T18:36:41+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "GCC",
-     "Word",
-     "Microsoft Copilot (Microsoft 365)",
-     "Desktop"
-    ],
-    "summary": "Understand, summarize, edit, review and draft legal documents with Copilot in Word. GA date: December CY2026 Preview date: April CY2026"
    }
   ]
  },
@@ -552,6 +265,50 @@
   "status": "ok",
   "window_days": 7,
   "cves": [
+   {
+    "id": "CVE-2025-42884",
+    "score": 6.5,
+    "cvss": "3.1",
+    "published": "2025-11-11T01:15:36.893",
+    "summary": "SAP NetWeaver Enterprise Portal allows an unauthenticated attacker to inject JNDI environment properties or pass a URL used during JNDI lookup operations, enabling access to an unintended JNDI provider.\ufffdThis could further lead to disclosure or modification of information about the server. There is no impact on availability.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
+    "kev_added": "2026-11-20",
+    "kev_due": "2026-11-23",
+    "kev_name": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability"
+   },
+   {
+    "id": "CVE-2026-76466",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-10-21T17:19:06.813",
+    "summary": "A vulnerability in the database service feature of Cisco Expressway Series could allow an unauthenticated, remote attacker with network access to a Cisco Expressway device to execute arbitrary operating system commands as\u00a0root. This vulnerability is due to the use of persistent cookies. Additionally, there is insufficient validation of client certificates when the TLS Verify Mode is set to Enabled",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
+    "kev_added": "2026-11-20",
+    "kev_due": "2026-11-23",
+    "kev_name": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability"
+   },
+   {
+    "id": "CVE-2026-129448",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-17T11:17:28.190",
+    "summary": "Deserialization of Untrusted Data in Apache Roller versions 4.0.0 through 6.1.4 allows an unauthenticated remote attacker to execute arbitrary code. The XML-RPC endpoint accepts vendor extension types and deserializes them before authenticating the requester. This is the same vulnerability as CVE-2026-82384, which listed only Apache Roller 6.1.5 as affected. This issue is being actively exploited.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
+    "kev_added": "2026-11-20",
+    "kev_due": "2026-11-23",
+    "kev_name": "Apache Roller Deserialization of Untrusted Data Vulnerability"
+   },
+   {
+    "id": "CVE-2026-123890",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-19T15:17:25.407",
+    "summary": "VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service. Affected versions: 9.1.x (fixed in 9.1.1.0200); 9.0.x (fixed in 9.0.2.0200); 8.0 (fixed in 8.0 U3m); 5.x (fixed in 5.2.5). Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 3.0 are also affected (see KB463116).",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
+    "kev_added": "2026-11-20",
+    "kev_due": "2026-11-23",
+    "kev_name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability"
+   },
    {
     "id": "CVE-2024-10441",
     "score": 9.8,
@@ -651,15 +408,10 @@
     "cvss": "3.1",
     "published": "2026-11-19T15:17:25.407",
     "summary": "VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service. Affected versions: 9.1.x (fixed in 9.1.1.0200); 9.0.x (fixed in 9.0.2.0200); 8.0 (fixed in 8.0 U3m); 5.x (fixed in 5.2.5). Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 3.0 are also affected (see KB463116).",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890"
-   },
-   {
-    "id": "CVE-2026-130756",
-    "score": 9.3,
-    "cvss": "4.0",
-    "published": "2026-11-18T19:17:46.287",
-    "summary": "pnpm exe before 10.34.8 embeds an outdated Node.js runtime that still trusts compromised eMudhra intermediate CA certificates during registry TLS connections. Network attackers holding a recovered intermediate key can intercept standalone pnpm registry fetches and serve forged package metadata or tarballs.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130756"
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
+    "kev_added": "2026-11-20",
+    "kev_due": "2026-11-23",
+    "kev_name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability"
    },
    {
     "id": "CVE-2026-132807",
@@ -668,6 +420,14 @@
     "published": "2026-11-19T05:18:39.360",
     "summary": "A malicious actor with access to the network and under certain conditions could exploit an Improper Certificate Validation vulnerability found in UniFi Access Application to obtain sensitive information from and make unauthorized changes to an adopted UniFi Access device.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132807"
+   },
+   {
+    "id": "CVE-2026-77355",
+    "score": 8.8,
+    "cvss": "3.1",
+    "published": "2026-11-20T19:18:54.933",
+    "summary": "isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.7, tree-entry validation in src/models/GitTree.js does not reject the Windows NTFS reserved pathname alias .git::$INDEX_ALLOCATION. When clone() or checkout materializes an attacker-controlled tree containing this alias on Windows using an NTFS filesystem, the alias resolves to the active .git directo",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77355"
    },
    {
     "id": "CVE-2026-132806",
@@ -708,6 +468,14 @@
     "published": "2026-11-19T19:17:19.370",
     "summary": "@fastify/reply-from is a Fastify plugin that forwards requests to an upstream HTTP server. In versions before 12.8.4, its buildURL function rejects parent-directory path segments by an exact string match, so a segment that carries a semicolon path parameter, such as a dot-dot segment followed by a semicolon and an optional parameter, is not equal to the plain dot-dot form and passes the traversal ",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-127064"
+   },
+   {
+    "id": "CVE-2026-86017",
+    "score": 8.0,
+    "cvss": "3.1",
+    "published": "2026-11-20T19:18:55.490",
+    "summary": "isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.8, git cherry-pick applies tree changes through applyTreeChanges in src/utils/walkerToTreeEntryMap.js without checking whether a leading path component is a symbolic link. If a victim worktree contains a tracked symlink to a location outside the worktree and a cherry-picked tree places a file beneath ",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86017"
    },
    {
     "id": "CVE-2026-129500",
