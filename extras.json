@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:08:09+00:00",
+ "generated_at": "2026-11-20T02:09:34+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 40,
+  "aqi": 46,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-19 18:00 EST"
+  "observed": "2026-11-19 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,23 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Microsoft Teams: Configure a list of allowed external meeting notetaker bots for your Teams meetings",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580451",
+    "published": "2026-11-19T23:37:54+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "GCC",
+     "Microsoft Teams",
+     "Android",
+     "Desktop",
+     "iOS",
+     "Mac"
+    ],
+    "summary": "Admins will be able to configure more granular and advanced controls for managing external bots and their access to meetings hosted in their organization. Admins will be able to configure a list of external meeting bots which are allowed to join meetings hosted in their organization. Admins can also"
+   },
    {
     "title": "Microsoft Teams: Voice phishing detection for external calls",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580443",
