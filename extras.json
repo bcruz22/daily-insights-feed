@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:09:08+00:00",
+ "generated_at": "2026-11-21T02:12:30+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 38,
+  "aqi": 73,
   "pollutant": "PM2.5",
-  "category": "Good",
-  "observed": "2026-11-20 18:00 EST"
+  "category": "Moderate",
+  "observed": "2026-11-20 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -126,6 +126,53 @@
   "window_hours": 72,
   "items": [
    {
+    "title": "Microsoft Teams: Set and manage meeting timers in Teams Rooms on Windows",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581893",
+    "published": "2026-11-21T00:14:55+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Desktop",
+     "Teams and Surface Devices"
+    ],
+    "summary": "Keep meetings on track with a shared countdown timer in Microsoft Teams Rooms on Windows. Start, pause, resume, or cancel a timer from the room\u2019s touch console, with the countdown visible on the front-of-room display and in participants\u2019 meeting views. Available with a Teams Rooms Pro license. GA da"
+   },
+   {
+    "title": "Planner: Tab support for shared and private channels in Microsoft Teams in GCC, GCC-H and DoD",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581866",
+    "published": "2026-11-20T23:20:27+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "GCC",
+     "GCC High",
+     "DoD",
+     "Microsoft Teams",
+     "Planner",
+     "Desktop",
+     "Mac",
+     "Web"
+    ],
+    "summary": "Now you can add Microsoft Planner as a tab in shared and private channels in Microsoft Teams, which allows to create and manage tasks directly within the channel. GA date: January CY2027"
+   },
+   {
+    "title": "Work IQ: Listen",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570867",
+    "published": "2026-11-20T23:20:27+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Work IQ",
+     "Microsoft Copilot (Microsoft 365)",
+     "Web"
+    ],
+    "summary": "Enable agents to listen for supported Work IQ events and respond as relevant changes occur. GA date: January CY2027 Preview date: November CY2026"
+   },
+   {
     "title": "Microsoft Teams: Pick up where you left off in channels on desktop",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579890",
     "published": "2026-11-20T01:24:53+00:00",
@@ -152,7 +199,8 @@
      "Android",
      "Desktop",
      "iOS",
-     "Mac"
+     "Mac",
+     "Web"
     ],
     "summary": "Admins will be able to configure more granular and advanced controls for managing external bots and their access to meetings hosted in their organization. Admins will be able to configure a list of external meeting bots which are allowed to join meetings hosted in their organization. Admins can also"
    },
