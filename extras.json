@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:08:07+00:00",
+ "generated_at": "2026-11-21T06:12:30+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 65,
+  "aqi": 72,
   "pollutant": "PM2.5",
   "category": "Moderate",
-  "observed": "2026-11-20 22:00 EST"
+  "observed": "2026-11-21 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -377,38 +377,6 @@
   "window_hours": 48,
   "cves": [
    {
-    "id": "CVE-2026-132802",
-    "score": 9.9,
-    "cvss": "3.1",
-    "published": "2026-11-19T05:18:38.507",
-    "summary": "A malicious actor with access to the network and low privileges could exploit an Improper Link Resolution Before File Access vulnerability found in UniFi Access Application to execute arbitrary code with root privileges on the host device.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132802"
-   },
-   {
-    "id": "CVE-2026-132803",
-    "score": 9.9,
-    "cvss": "3.1",
-    "published": "2026-11-19T05:18:38.673",
-    "summary": "A malicious actor with access to the network and low privileges could exploit a series of authenticated SQL Injection vulnerabilities found in UniFi Access Application to escalate privileges on the host device.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132803"
-   },
-   {
-    "id": "CVE-2026-132804",
-    "score": 9.9,
-    "cvss": "3.1",
-    "published": "2026-11-19T05:18:38.833",
-    "summary": "A malicious actor with access to the network and low privileges could exploit a Server-Side Request Forgery (SSRF) vulnerability found in UniFi Access Application to escalate privileges within UniFi OS.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132804"
-   },
-   {
-    "id": "CVE-2026-132808",
-    "score": 9.9,
-    "cvss": "3.1",
-    "published": "2026-11-19T05:18:39.513",
-    "summary": "A malicious actor with access to the network and low privileges could exploit an Incorrect Authorization vulnerability found in UniFi Access Application to execute arbitrary commands on certain adopted UniFi Access devices.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132808"
-   },
-   {
     "id": "CVE-2026-123890",
     "score": 9.8,
     "cvss": "3.1",
@@ -420,28 +388,12 @@
     "kev_name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability"
    },
    {
-    "id": "CVE-2026-132807",
-    "score": 9.0,
-    "cvss": "3.1",
-    "published": "2026-11-19T05:18:39.360",
-    "summary": "A malicious actor with access to the network and under certain conditions could exploit an Improper Certificate Validation vulnerability found in UniFi Access Application to obtain sensitive information from and make unauthorized changes to an adopted UniFi Access device.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132807"
-   },
-   {
     "id": "CVE-2026-77355",
     "score": 8.8,
     "cvss": "3.1",
     "published": "2026-11-20T19:18:54.933",
     "summary": "isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.7, tree-entry validation in src/models/GitTree.js does not reject the Windows NTFS reserved pathname alias .git::$INDEX_ALLOCATION. When clone() or checkout materializes an attacker-controlled tree containing this alias on Windows using an NTFS filesystem, the alias resolves to the active .git directo",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77355"
-   },
-   {
-    "id": "CVE-2026-132806",
-    "score": 8.8,
-    "cvss": "3.1",
-    "published": "2026-11-19T05:18:39.183",
-    "summary": "A malicious actor with access to the network and low privileges could exploit an authenticated SQL Injection vulnerability found in UniFi Access Application to obtain sensitive information and make unauthorized changes within the UniFi Access Application.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132806"
    },
    {
     "id": "CVE-2026-133245",
@@ -466,14 +418,6 @@
     "published": "2026-11-19T17:18:52.430",
     "summary": "@scalar/typebox before 0.1.4 contains a code injection vulnerability in TypeCompiler that allows attackers to execute JavaScript by supplying crafted schema strings. Attackers can inject single-quote breakouts into string format, Kind names, property keys or Literal values to run arbitrary JavaScript in the host Node.js process during Compile() and Check().",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133309"
-   },
-   {
-    "id": "CVE-2026-132805",
-    "score": 8.3,
-    "cvss": "3.1",
-    "published": "2026-11-19T05:18:39.000",
-    "summary": "A malicious actor with access to the network could exploit a Server-Side Request Forgery (SSRF) vulnerability found in UniFi Access Application to obtain information and make unauthorized changes on the host device.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132805"
    },
    {
     "id": "CVE-2026-127064",
