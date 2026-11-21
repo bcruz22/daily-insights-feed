@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:12:30+00:00",
+ "generated_at": "2026-11-21T04:08:07+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 73,
+  "aqi": 65,
   "pollutant": "PM2.5",
   "category": "Moderate",
-  "observed": "2026-11-20 20:00 EST"
+  "observed": "2026-11-20 22:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -125,6 +125,21 @@
   "status": "ok",
   "window_hours": 72,
   "items": [
+   {
+    "title": "Manage workforce requests in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581992",
+    "published": "2026-11-21T02:55:45+00:00",
+    "categories": [
+     "Launched",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Copilot (Microsoft 365)",
+     "Dynamics 365 Customer Service",
+     "Web"
+    ],
+    "summary": "Dynamics 365 Workforce Engagement Management (WEM) integrates with Microsoft 365 Copilot through Model Context Protocol (MCP) tools. These tools connect Microsoft 365 Copilot with Dynamics 365 and Dataverse so supervisors and customer service representatives can use natural language to work with wor"
+   },
    {
     "title": "Microsoft Teams: Set and manage meeting timers in Teams Rooms on Windows",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581893",
