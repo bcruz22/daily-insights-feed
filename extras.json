@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:08:29+00:00",
+ "generated_at": "2026-11-21T16:12:05+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 66,
+  "aqi": 59,
   "pollutant": "PM2.5",
   "category": "Moderate",
-  "observed": "2026-11-21 08:00 EST"
+  "observed": "2026-11-21 10:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -376,17 +376,6 @@
   "status": "ok",
   "window_hours": 48,
   "cves": [
-   {
-    "id": "CVE-2026-123890",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-11-19T15:17:25.407",
-    "summary": "VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service. Affected versions: 9.1.x (fixed in 9.1.1.0200); 9.0.x (fixed in 9.0.2.0200); 8.0 (fixed in 8.0 U3m); 5.x (fixed in 5.2.5). Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 3.0 are also affected (see KB463116).",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
-    "kev_added": "2026-11-20",
-    "kev_due": "2026-11-23",
-    "kev_name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability"
-   },
    {
     "id": "CVE-2026-77355",
     "score": 8.8,
