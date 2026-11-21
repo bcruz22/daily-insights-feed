@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:10:21+00:00",
+ "generated_at": "2026-11-21T00:09:08+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 36,
-  "pollutant": "OZONE",
+  "aqi": 38,
+  "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-20 16:00 EST"
+  "observed": "2026-11-20 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -201,48 +201,6 @@
      "iOS"
     ],
     "summary": "Use Facilitator in Teams mobile to turn in-person conversations into useful notes and follow-ups with speaker attribution. Start note-taking from your phone and let Facilitator capture and transcribe the ad hoc discussion, with speaker attribution helping distinguish who said what. Facilitator uses "
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Use Copilot to make on canvas edits on Pages",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580449",
-    "published": "2026-11-17T22:45:29+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Web"
-    ],
-    "summary": "Bring Copilot into the flow of collaboration on your Page, not just the chat box. Leave comments on your Page to ask Copilot questions or request targeted edits directly, and have people and Copilot work across the Page while seeing their presence and changes GA date: December CY2026 Preview date: N"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Build interactive reports and dashboards with Pages",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580445",
-    "published": "2026-11-17T22:45:29+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Web"
-    ],
-    "summary": "Turn ideas and source material into rich, interactive reports and dashboards with Pages. Start with a prompt and bring together content, visuals, charts, and interactive elements in one shareable Page where you can work with your collaborators and agents. Edit content on the Page directly just like "
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): Service Agent in Microsoft 365 - your dedicated service specialist",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577829",
-    "published": "2026-11-17T22:45:29+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Copilot (Microsoft 365)",
-     "Web"
-    ],
-    "summary": "\u2022 Rapid onboarding to a hybrid workforce:Service Agent in Microsoft 365 can be hired and onboard with your company's knowledge sources, communication guidelines and escalation rules etc. in minutes. Manager can choose the semi or full autonomous mode. \u2022 24/7 support: Natively connects to Microsoft 3"
    }
   ]
  },
@@ -429,6 +387,14 @@
     "published": "2026-11-19T16:21:28.007",
     "summary": "parse5 7.0.0 before 8.1.1 contains an uncaught exception vulnerability in Preprocessor#_processSurrogate that allows remote attackers to crash applications by supplying two consecutive low surrogates. Attackers can submit input such as U+DC00 U+DC00, which decodes to out-of-range code point 0x110000 and throws a RangeError from parse, parseFragment, or streaming parsers, crashing Node.js processes",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133245"
+   },
+   {
+    "id": "CVE-2026-134164",
+    "score": 8.7,
+    "cvss": "4.0",
+    "published": "2026-11-20T23:16:58.120",
+    "summary": "probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulnerability in lib/exif_utils.js that allows remote unauthenticated attackers to exhaust CPU by supplying self-referencing EXIF IFDs. Attackers can submit a crafted 9.6 KB JPEG with repeated ExifIFD and InteropIFD pointers to block the Node.js event loop for about 23 seconds.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134164"
    },
    {
     "id": "CVE-2026-133309",
