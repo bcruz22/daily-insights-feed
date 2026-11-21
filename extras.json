@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:12:05+00:00",
+ "generated_at": "2026-11-21T18:12:06+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 59,
+  "aqi": 53,
   "pollutant": "PM2.5",
   "category": "Moderate",
-  "observed": "2026-11-21 10:00 EST"
+  "observed": "2026-11-21 12:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -385,28 +385,12 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77355"
    },
    {
-    "id": "CVE-2026-133245",
-    "score": 8.7,
-    "cvss": "4.0",
-    "published": "2026-11-19T16:21:28.007",
-    "summary": "parse5 7.0.0 before 8.1.1 contains an uncaught exception vulnerability in Preprocessor#_processSurrogate that allows remote attackers to crash applications by supplying two consecutive low surrogates. Attackers can submit input such as U+DC00 U+DC00, which decodes to out-of-range code point 0x110000 and throws a RangeError from parse, parseFragment, or streaming parsers, crashing Node.js processes",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133245"
-   },
-   {
     "id": "CVE-2026-134164",
     "score": 8.7,
     "cvss": "4.0",
     "published": "2026-11-20T23:16:58.120",
     "summary": "probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulnerability in lib/exif_utils.js that allows remote unauthenticated attackers to exhaust CPU by supplying self-referencing EXIF IFDs. Attackers can submit a crafted 9.6 KB JPEG with repeated ExifIFD and InteropIFD pointers to block the Node.js event loop for about 23 seconds.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134164"
-   },
-   {
-    "id": "CVE-2026-133309",
-    "score": 8.5,
-    "cvss": "4.0",
-    "published": "2026-11-19T17:18:52.430",
-    "summary": "@scalar/typebox before 0.1.4 contains a code injection vulnerability in TypeCompiler that allows attackers to execute JavaScript by supplying crafted schema strings. Attackers can inject single-quote breakouts into string format, Kind names, property keys or Literal values to run arbitrary JavaScript in the host Node.js process during Compile() and Check().",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133309"
    },
    {
     "id": "CVE-2026-127064",
