@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T00:10:32+00:00",
+ "generated_at": "2026-11-22T02:12:08+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 48,
+  "aqi": 59,
   "pollutant": "PM2.5",
-  "category": "Good",
-  "observed": "2026-11-21 18:00 EST"
+  "category": "Moderate",
+  "observed": "2026-11-21 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -235,35 +235,6 @@
      "Mobile"
     ],
     "summary": "Voice phishing detection helps protect Microsoft Teams users from potential scams during one-to-one calls with people outside their organization. Using AI, Teams analyzes conversations for signs of social engineering and alerts recipients when suspicious activity is detected, helping them recognize "
-   },
-   {
-    "title": "Microsoft Purview: Information Protection-Sensitivity label inheritance for Teams meeting artifacts",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581739",
-    "published": "2026-11-19T00:35:27+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "GCC",
-     "GCC High",
-     "DoD",
-     "Microsoft Purview",
-     "Web"
-    ],
-    "summary": "Teams meeting artifacts, including recordings, transcripts, and Loop notes, can now be configured to automatically inherit the sensitivity label from the meeting. This ensures content generated during meetings is consistently protected without requiring manual labeling, reducing risk and simplifying"
-   },
-   {
-    "title": "Microsoft Teams: Focus on the conversation while Facilitator in Teams mobile takes the notes, now with speaker attribution",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579864",
-    "published": "2026-11-19T00:35:27+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android",
-     "iOS"
-    ],
-    "summary": "Use Facilitator in Teams mobile to turn in-person conversations into useful notes and follow-ups with speaker attribution. Start note-taking from your phone and let Facilitator capture and transcribe the ad hoc discussion, with speaker attribution helping distinguish who said what. Facilitator uses "
    }
   ]
  },
