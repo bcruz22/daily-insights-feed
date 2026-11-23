@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:12:06+00:00",
+ "generated_at": "2026-11-23T00:08:06+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 54,
+  "aqi": 60,
   "pollutant": "PM2.5",
   "category": "Moderate",
-  "observed": "2026-11-22 16:00 EST"
+  "observed": "2026-11-22 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -200,24 +200,6 @@
      "Mac"
     ],
     "summary": "Stay on top of channel conversations by picking up right where you left off. Choose to open Teams channels at your last read message instead of the most recent message, making it easier to catch up on conversations and follow discussions without losing your place. GA date: February CY2027"
-   },
-   {
-    "title": "Microsoft Teams: Configure a list of allowed external meeting notetaker bots for your Teams meetings",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580451",
-    "published": "2026-11-19T23:37:54+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "GCC",
-     "Microsoft Teams",
-     "Android",
-     "Desktop",
-     "iOS",
-     "Mac",
-     "Web"
-    ],
-    "summary": "Admins will be able to configure more granular and advanced controls for managing external bots and their access to meetings hosted in their organization. Admins will be able to configure a list of external meeting bots which are allowed to join meetings hosted in their organization. Admins can also"
    }
   ]
  },
@@ -331,12 +313,28 @@
   "window_hours": 48,
   "cves": [
    {
-    "id": "CVE-2026-134164",
+    "id": "CVE-2026-134814",
+    "score": 9.2,
+    "cvss": "4.0",
+    "published": "2026-11-22T22:17:35.660",
+    "summary": "binary-parser before 2.3.1 contains a code injection vulnerability that allows attackers controlling parser definitions to inject JavaScript through string-typed options passed unvalidated by Context.generateOption(). Attackers can supply crafted length, lengthInBytes, key, tag, offset, or namely() alias values to execute arbitrary JavaScript in the Node.js process when the parser is compiled.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134814"
+   },
+   {
+    "id": "CVE-2026-134812",
     "score": 8.7,
     "cvss": "4.0",
-    "published": "2026-11-20T23:16:58.120",
-    "summary": "probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulnerability in lib/exif_utils.js that allows remote unauthenticated attackers to exhaust CPU by supplying self-referencing EXIF IFDs. Attackers can submit a crafted 9.6 KB JPEG with repeated ExifIFD and InteropIFD pointers to block the Node.js event loop for about 23 seconds.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134164"
+    "published": "2026-11-22T22:17:35.343",
+    "summary": "msgpackr before 2.1.4 contains an inefficient algorithmic complexity vulnerability that allows remote attackers to cause denial of service by repeatedly re-decoding buffered incomplete values. Attackers can stream a large container of small elements in small chunks to UnpackrStream or decodeIter, triggering quadratic decoding cost that blocks the Node.js event loop.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134812"
+   },
+   {
+    "id": "CVE-2026-134794",
+    "score": 7.1,
+    "cvss": "4.0",
+    "published": "2026-11-22T22:17:32.390",
+    "summary": "HedgeDoc before 1.12.1 contains a prototype pollution vulnerability in the POST /history/:noteId endpoint that allows authenticated users to modify Object.prototype by supplying __proto__ as the noteId. Attackers can send a pinned value to /history/__proto__, which historyPost() in lib/history.js assigns onto the prototype, crashing the Node.js process and causing denial of service for all users.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134794"
    }
   ]
  }
