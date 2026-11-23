@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:08:04+00:00",
+ "generated_at": "2026-11-23T22:12:31+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -33,9 +33,9 @@
   },
   "home_assistant": {
    "status": "ok",
-   "version": "2026.11.2",
-   "published": "2026-11-16T20:03:59Z",
-   "url": "https://github.com/home-assistant/core/releases/tag/2026.11.2"
+   "version": "2026.11.3",
+   "published": "2026-11-23T20:48:39Z",
+   "url": "https://github.com/home-assistant/core/releases/tag/2026.11.3"
   },
   "plex": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 37,
-  "pollutant": "PM2.5",
+  "aqi": 29,
+  "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-23 14:00 EST"
+  "observed": "2026-11-23 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
