@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T04:10:32+00:00",
+ "generated_at": "2026-11-24T06:11:05+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 21,
+  "aqi": 18,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-23 22:00 EST"
+  "observed": "2026-11-24 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -315,17 +315,6 @@
     "kev_added": "2026-11-18",
     "kev_due": "2026-11-21",
     "kev_name": "Apache Axis Unsafe Reflection Vulnerability"
-   },
-   {
-    "id": "CVE-2026-115731",
-    "score": 9.4,
-    "cvss": "4.0",
-    "published": "2026-11-03T21:17:01.867",
-    "summary": "Deserialization of untrusted data in the report-processing code of Puppet, as used by Puppet Server, in the affected releases, allows a client that holds any CA-signed agent certificate to execute arbitrary code on the Puppet Server as its service user by submitting a report containing a crafted rich-data type via PUT request. Where the certificate authority autosigns requests without strong verif",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
-    "kev_added": "2026-11-17",
-    "kev_due": "2026-12-01",
-    "kev_name": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability"
    }
   ]
  },
