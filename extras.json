@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:12:31+00:00",
+ "generated_at": "2026-11-24T00:12:24+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 29,
+  "aqi": 25,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-23 16:00 EST"
+  "observed": "2026-11-23 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -153,39 +153,6 @@
      "Teams and Surface Devices"
     ],
     "summary": "Keep meetings on track with a shared countdown timer in Microsoft Teams Rooms on Windows. Start, pause, resume, or cancel a timer from the room\u2019s touch console, with the countdown visible on the front-of-room display and in participants\u2019 meeting views. Available with a Teams Rooms Pro license. GA da"
-   },
-   {
-    "title": "Planner: Tab support for shared and private channels in Microsoft Teams in GCC, GCC-H and DoD",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581866",
-    "published": "2026-11-20T23:20:27+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "GCC",
-     "GCC High",
-     "DoD",
-     "Microsoft Teams",
-     "Planner",
-     "Desktop",
-     "Mac",
-     "Web"
-    ],
-    "summary": "Now you can add Microsoft Planner as a tab in shared and private channels in Microsoft Teams, which allows to create and manage tasks directly within the channel. GA date: January CY2027"
-   },
-   {
-    "title": "Work IQ: Listen",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570867",
-    "published": "2026-11-20T23:20:27+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "Work IQ",
-     "Microsoft Copilot (Microsoft 365)",
-     "Web"
-    ],
-    "summary": "Enable agents to listen for supported Work IQ events and respond as relevant changes occur. GA date: January CY2027 Preview date: November CY2026"
    }
   ]
  },
@@ -193,6 +160,28 @@
   "status": "ok",
   "window_days": 7,
   "cves": [
+   {
+    "id": "CVE-2026-133968",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-20T19:18:51.670",
+    "summary": "monailabel (aka MONAI Label) before 0.8.6 allows directory traversal, with resultant remote code execution, via the image parameter to the PUT /datastore/image endpoint, as exploited in the wild starting in September 2026.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133968",
+    "kev_added": "2026-11-23",
+    "kev_due": "2026-11-26",
+    "kev_name": "Project MONAI MONAI Label Path Traversal Vulnerability"
+   },
+   {
+    "id": "CVE-2026-134624",
+    "score": 9.3,
+    "cvss": "4.0",
+    "published": "2026-11-22T19:16:32.163",
+    "summary": "N-able MailAssure (SpamExperts) before 20261121.1943 does not restrict the destination of the LDAP synchronisation connection check performed when a relay is configured. An authenticated API user can cause the server to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
+    "kev_added": "2026-11-23",
+    "kev_due": "2026-11-26",
+    "kev_name": "N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability"
+   },
    {
     "id": "CVE-2025-42884",
     "score": 6.5,
