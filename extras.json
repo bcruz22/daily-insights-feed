@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:45:04+00:00",
+ "generated_at": "2026-11-24T10:11:25+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -44,10 +44,8 @@
   }
  },
  "uv": {
-  "status": "ok",
-  "date": "Nov/24/2026",
-  "uv_index": "2",
-  "alert": "0"
+  "status": "error",
+  "error": "HTTPError 502"
  },
  "aqi": {
   "status": "ok",
