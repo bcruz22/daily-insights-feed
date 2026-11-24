@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:09:02+00:00",
+ "generated_at": "2026-11-24T09:45:04+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -45,16 +45,16 @@
  },
  "uv": {
   "status": "ok",
-  "date": "Nov/23/2026",
+  "date": "Nov/24/2026",
   "uv_index": "2",
   "alert": "0"
  },
  "aqi": {
   "status": "ok",
-  "aqi": 16,
+  "aqi": 14,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-24 02:00 EST"
+  "observed": "2026-11-24 04:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -337,6 +337,14 @@
     "published": "2026-11-22T22:17:35.343",
     "summary": "msgpackr before 2.1.4 contains an inefficient algorithmic complexity vulnerability that allows remote attackers to cause denial of service by repeatedly re-decoding buffered incomplete values. Attackers can stream a large container of small elements in small chunks to UnpackrStream or decodeIter, triggering quadratic decoding cost that blocks the Node.js event loop.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134812"
+   },
+   {
+    "id": "CVE-2026-133780",
+    "score": 7.3,
+    "cvss": "4.0",
+    "published": "2026-11-24T09:17:07.843",
+    "summary": "The @symfony/stimulus-bridge npm package includes a Webpack loader called lazy-controller-loader that supports \"magic comments\" placed above a Stimulus controller import, for example /* stimulusFetch: 'lazy' */, to control lazy loading behavior. To read those options, the loader extracted the raw text of any stimulus* comment and evaluated it as JavaScript using Node's vm.runInNewContext(). The No",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133780"
    },
    {
     "id": "CVE-2026-134794",
