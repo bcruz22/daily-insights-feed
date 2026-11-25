@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T00:08:08+00:00",
+ "generated_at": "2026-11-25T02:08:31+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 29,
-  "pollutant": "OZONE",
-  "category": "Good",
-  "observed": "2026-11-24 18:00 EST"
+  "aqi": 52,
+  "pollutant": "PM2.5",
+  "category": "Moderate",
+  "observed": "2026-11-24 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -126,9 +126,9 @@
   "window_hours": 72,
   "items": [
    {
-    "title": "Microsoft Teams: Improved device settings experience on Teams Rooms on Android",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581965",
-    "published": "2026-11-24T00:13:11+00:00",
+    "title": "Microsoft Teams: Show your shared content on both room displays",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=582052",
+    "published": "2026-11-25T00:10:31+00:00",
     "categories": [
      "In development",
      "General Availability",
@@ -136,7 +136,48 @@
      "Microsoft Teams",
      "Android"
     ],
-    "summary": "We\u2019re enhancing the on-device admin settings experience for Teams Rooms on Android by improving information structure, organization and navigation. These updates make it easier for admins to find, understand, and adjust device settings directly from the console, improving overall usability and effic"
+    "summary": "Make presentations easier to see from anywhere in the room, even when you're not in a Teams meeting. On Microsoft Teams Rooms on Android with dual displays, content you share through an HDMI connection can now appear on both screens at once. You can start or stop showing your content on both screens"
+   },
+   {
+    "title": "Microsoft Teams: External bot detection and activity reports in Admin Center",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=582050",
+    "published": "2026-11-25T00:10:31+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "GCC",
+     "Microsoft Teams",
+     "Web"
+    ],
+    "summary": "Admins should be able to track the detection and meeting access activity of external bots in the meetings and events hosted in their tenant. GA date: January CY2027"
+   },
+   {
+    "title": "SharePoint: Organization-wide page templates",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581865",
+    "published": "2026-11-25T00:10:31+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "SharePoint",
+     "Web"
+    ],
+    "summary": "We are introducing organization-wide page templates in SharePoint, enabling organizations to provide reusable, approved starting points for page creation across sites within a tenant. Managed centrally in the SharePoint site associated with your organization's brand center, these templates help auth"
+   },
+   {
+    "title": "Microsoft Viva - Viva Glint: Enhanced multi-attribute report exports",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580455",
+    "published": "2026-11-25T00:10:31+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "GCC",
+     "Microsoft Viva",
+     "Web"
+    ],
+    "summary": "Enhancements that are a part of this release expand who can use the Multi-attribute report export, increases the supported scale, and gives authorized users more control over the questions and attributes included. GA date: January CY2027"
    },
    {
     "title": "Microsoft Teams: Raise your hand to speak up at large events with up to 100,000 attendees",
@@ -147,8 +188,11 @@
      "General Availability",
      "Worldwide (Standard Multi-Tenant)",
      "Microsoft Teams",
+     "Android",
      "Desktop",
-     "Mac"
+     "iOS",
+     "Mac",
+     "Web"
     ],
     "summary": "Ask your questions live and take part in the conversation, even at events with up to 100,000 attendees. In events this size, attendees can now raise their hand in Teams when they have a question. Organizers can then let people with a raised hand turn on their mic and camera to ask their question or "
    },
@@ -161,10 +205,26 @@
      "General Availability",
      "Worldwide (Standard Multi-Tenant)",
      "Microsoft Teams",
+     "Android",
      "Desktop",
-     "Mac"
+     "iOS",
+     "Mac",
+     "Web"
     ],
     "summary": "Stay more engaged and connected with the audience, even at events with up to 100,000 attendees. Teams now supports reactions in events at this scale. You can send reactions during the event and see the reactions others send, so everyone can share the moment together. GA date: December CY2026"
+   },
+   {
+    "title": "Microsoft Teams: Improved device settings experience on Teams Rooms on Android",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581965",
+    "published": "2026-11-24T00:13:11+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "Microsoft Teams",
+     "Android"
+    ],
+    "summary": "We\u2019re enhancing the on-device admin settings experience for Teams Rooms on Android by improving information structure, organization and navigation. These updates make it easier for admins to find, understand, and adjust device settings directly from the console, improving overall usability and effic"
    },
    {
     "title": "Microsoft Copilot (Microsoft 365): The more you use Copilot in Office the better it gets",
