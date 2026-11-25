@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:12:03+00:00",
+ "generated_at": "2026-11-25T06:09:31+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 28,
+  "aqi": 24,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-24 22:00 EST"
+  "observed": "2026-11-25 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -353,50 +353,6 @@
     "kev_added": "2026-11-20",
     "kev_due": "2026-11-23",
     "kev_name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability"
-   },
-   {
-    "id": "CVE-2024-10441",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2025-03-19T02:15:27.120",
-    "summary": "Improper encoding or escaping of output vulnerability in the system plugin daemon in Synology BeeStation OS (BSM) before 1.1-65374 and Synology DiskStation Manager (DSM) before 7.2-64570-4, 7.2.1-69057-6 and 7.2.2-72806-1 allows remote attackers to execute arbitrary code via unspecified vectors.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
-    "kev_added": "2026-11-18",
-    "kev_due": "2026-11-21",
-    "kev_name": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability"
-   },
-   {
-    "id": "CVE-2026-40217",
-    "score": 8.8,
-    "cvss": "3.1",
-    "published": "2026-04-10T14:16:36.307",
-    "summary": "LiteLLM through 2026-04-08 allows remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
-    "kev_added": "2026-11-18",
-    "kev_due": "2026-12-02",
-    "kev_name": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability"
-   },
-   {
-    "id": "CVE-2026-90817",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-09-20T13:17:44.973",
-    "summary": "An unauthenticated Remote Code Execution vulnerability was found in the survey passthrough routing and Data Import processing logic, in which a malicious user could potentially exploit it by manipulating HTTP requests to access an unintended controller route from a public survey context and by supplying a crafted file-path/stream parameter during import handling. If successfully exploited, this co",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90817",
-    "kev_added": "2026-11-18",
-    "kev_due": "2026-11-21",
-    "kev_name": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability"
-   },
-   {
-    "id": "CVE-2026-90436",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-11-06T16:18:59.763",
-    "summary": "** UNSUPPORTED WHEN ASSIGNED ** Deserialization of an inbound SOAP fault in Apache Axis 1.x allows unauthenticated remote class instantiation. When a SOAP carries a element, Axis loads the named class and, if a String element is also present, instantiates it through its String constructor before checking that it is an AxisFault. Loading alone runs the class's static initializer. With a suitable cl",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90436",
-    "kev_added": "2026-11-18",
-    "kev_due": "2026-11-21",
-    "kev_name": "Apache Axis Unsafe Reflection Vulnerability"
    }
   ]
  },
