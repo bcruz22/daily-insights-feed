@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:09:48+00:00",
+ "generated_at": "2026-11-26T02:12:48+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 40,
+  "aqi": 51,
   "pollutant": "PM2.5",
-  "category": "Good",
-  "observed": "2026-11-25 18:00 EST"
+  "category": "Moderate",
+  "observed": "2026-11-25 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -126,6 +126,55 @@
   "window_hours": 72,
   "items": [
    {
+    "title": "Microsoft Teams: Open and collaborate on Pages in Teams",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580886",
+    "published": "2026-11-26T00:16:54+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Targeted Release",
+     "Worldwide (Standard Multi-Tenant)",
+     "GCC",
+     "GCC High",
+     "DoD",
+     "Microsoft Teams",
+     "Desktop",
+     "Mac",
+     "Web"
+    ],
+    "summary": "When someone shares a page in chat or a channel, you can open it in Teams, edit, and discuss with teammates. Open a page in your main Teams window or a new window, whichever works best for you. More info: https://support.microsoft.com/en-us/teams/teams-channels/manage-pages-and-loop-components-in-ch"
+   },
+   {
+    "title": "Microsoft Viva: Access Management for Copilot Analytics",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578862",
+    "published": "2026-11-26T00:16:54+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Worldwide (Standard Multi-Tenant)",
+     "GCC",
+     "Microsoft Viva",
+     "Web"
+    ],
+    "summary": "Admins can now manage who has access to Viva Insights - Copilot Analytics, and what they can do, directly in the product. The new Access Management experience brings role assignment and permissions into one place for Global administrators, AI administrators and Viva Insights administrators, instead "
+   },
+   {
+    "title": "Microsoft Teams: External bot detection and activity reports in Admin Center",
+    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=582050",
+    "published": "2026-11-25T00:10:31+00:00",
+    "categories": [
+     "In development",
+     "General Availability",
+     "Preview",
+     "Worldwide (Standard Multi-Tenant)",
+     "GCC",
+     "Microsoft Teams",
+     "Web"
+    ],
+    "summary": "Admins should be able to track the detection and meeting access activity of external bots in the meetings and events hosted in their tenant. GA date: February CY2027 Preview date: January CY2027"
+   },
+   {
     "title": "Microsoft Teams: Show your shared content on both room displays",
     "link": "https://www.microsoft.com/microsoft-365/roadmap?id=582052",
     "published": "2026-11-25T00:10:31+00:00",
@@ -137,20 +186,6 @@
      "Android"
     ],
     "summary": "Make presentations easier to see from anywhere in the room, even when you're not in a Teams meeting. On Microsoft Teams Rooms on Android with dual displays, content you share through an HDMI connection can now appear on both screens at once. You can start or stop showing your content on both screens"
-   },
-   {
-    "title": "Microsoft Teams: External bot detection and activity reports in Admin Center",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=582050",
-    "published": "2026-11-25T00:10:31+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "GCC",
-     "Microsoft Teams",
-     "Web"
-    ],
-    "summary": "Admins should be able to track the detection and meeting access activity of external bots in the meetings and events hosted in their tenant. GA date: January CY2027"
    },
    {
     "title": "SharePoint: Organization-wide page templates",
@@ -397,6 +432,17 @@
     "kev_added": "2026-11-24",
     "kev_due": "2026-11-27",
     "kev_name": "Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability"
+   },
+   {
+    "id": "CVE-2026-132165",
+    "score": null,
+    "cvss": null,
+    "published": "2026-11-26T01:17:10.290",
+    "summary": "Missing Authentication for Critical Function vulnerability in Drupal Drupal core allows Exploiting Incorrectly Configured Access Control Security Levels. This issue affects Drupal core versions: from 0.0.0 to 10.6.22, from 11.0.0 to 11.3.22, from 11.4.0 to 11.4.13.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132165",
+    "kev_added": "2026-11-24",
+    "kev_due": "2026-11-27",
+    "kev_name": "Drupal Core Remote Code Execution Vulnerability"
    },
    {
     "id": "CVE-2026-133968",
