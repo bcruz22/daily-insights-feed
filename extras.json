@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T14:11:45+00:00",
+ "generated_at": "2026-11-26T16:11:45+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 31,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-26 08:00 EST"
+  "observed": "2026-11-26 10:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -563,6 +563,14 @@
     "published": "2026-11-25T20:18:39.500",
     "summary": "Cron-parser through 5.10.0 contains an unbounded memory allocation vulnerability in CronExpressionParser.parse() that allows unauthenticated attackers to exhaust memory by supplying oversized cron fields. Attackers can submit a roughly 1.6 MB expression of repeated wildcard tokens that expand into huge arrays, exhausting the V8 heap and crashing the Node.js process.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-137058"
+   },
+   {
+    "id": "CVE-2026-137586",
+    "score": 8.7,
+    "cvss": "4.0",
+    "published": "2026-11-26T14:17:27.423",
+    "summary": "LibreChat 0.7.3 before 0.8.9 contains an improper input type validation vulnerability in the requireLdapAuth middleware of the /api/auth/login route that allows unauthenticated attackers to crash the server. Attackers can send a JSON login request with an existing directory user's email and a non-string password, triggering an ldapjs assertion error that terminates the Node.js process.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-137586"
    },
    {
     "id": "CVE-2026-82169",
