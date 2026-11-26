@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:14:18+00:00",
+ "generated_at": "2026-11-26T22:10:09+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -54,7 +54,7 @@
   "aqi": 31,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-26 14:00 EST"
+  "observed": "2026-11-26 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -619,6 +619,14 @@
     "published": "2026-11-26T11:17:01.000",
     "summary": "VMware vCenter contains multiple denial-of-service vulnerabilities in the VMware Directory Service. Broadcom has evaluated the severity of these issues to be in the Important severity range with a maximum CVSSv3 base score of 7.5. Affected versions: VMware vCenter Server 9.1.x.x: fixed in 9.1.2 VMware vCenter Server 9.0.x.x: fixed in 9.0.2.0300 VMware vCenter Server 8.0: fixed in 8.0 U3m VMware Cl",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123907"
+   },
+   {
+    "id": "CVE-2026-137588",
+    "score": 7.1,
+    "cvss": "4.0",
+    "published": "2026-11-26T20:17:24.443",
+    "summary": "LibreChat 0.7.6 before 0.8.8 contains a denial of service vulnerability that allows authenticated users to block the server event loop by uploading a crafted conversation import file to POST /api/convos/import. Attackers can submit many messages with unresolvable parentMessageId values, triggering quadratic processing in cloneMessagesWithTimestamps or adjustTimestampsForOrdering and stalling the N",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-137588"
    }
   ]
  }
