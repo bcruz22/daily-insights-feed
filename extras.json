@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:08:43+00:00",
+ "generated_at": "2026-11-26T09:42:41+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -45,16 +45,16 @@
  },
  "uv": {
   "status": "ok",
-  "date": "Nov/25/2026",
-  "uv_index": "2",
+  "date": "Nov/26/2026",
+  "uv_index": "1",
   "alert": "0"
  },
  "aqi": {
   "status": "ok",
-  "aqi": 53,
+  "aqi": 41,
   "pollutant": "PM2.5",
-  "category": "Moderate",
-  "observed": "2026-11-26 02:00 EST"
+  "category": "Good",
+  "observed": "2026-11-26 04:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -555,14 +555,6 @@
     "published": "2026-11-24T17:18:53.647",
     "summary": "Dell Virtual Storage Integrator for VMware vSphere Web Client, versions prior to 10.12.0.0, contains a Server-Side Request Forgery SSRF vulnerability in httpRest.js. A low privileged remote attacker could potentially exploit this vulnerability, leading to unauthorized access to internal services",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82170"
-   },
-   {
-    "id": "CVE-2026-133780",
-    "score": 7.3,
-    "cvss": "4.0",
-    "published": "2026-11-24T09:17:07.843",
-    "summary": "The @symfony/stimulus-bridge npm package includes a Webpack loader called lazy-controller-loader that supports \"magic comments\" placed above a Stimulus controller import, for example /* stimulusFetch: 'lazy' */, to control lazy loading behavior. To read those options, the loader extracted the raw text of any stimulus* comment and evaluated it as JavaScript using Node's vm.runInNewContext(). The No",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133780"
    }
   ]
  }
