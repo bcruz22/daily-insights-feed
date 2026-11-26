@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:11:15+00:00",
+ "generated_at": "2026-11-26T00:09:48+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 28,
-  "pollutant": "OZONE",
+  "aqi": 40,
+  "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-25 16:00 EST"
+  "observed": "2026-11-25 18:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -267,6 +267,39 @@
   "window_days": 7,
   "cves": [
    {
+    "id": "CVE-2023-25914",
+    "score": 8.8,
+    "cvss": "3.1",
+    "published": "2023-08-21T21:15:08.970",
+    "summary": "Due to improper restriction, authenticated attackers could retrieve and read system files of the underlying server through the XML interface. The information that can be read can lead to a full system compromise.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-25914",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-11-28",
+    "kev_name": "Danfoss AK-SM 800A Series Path Traversal Vulnerability"
+   },
+   {
+    "id": "CVE-2023-25915",
+    "score": 9.9,
+    "cvss": "3.1",
+    "published": "2023-08-21T21:15:09.170",
+    "summary": "Due to improper input validation, an authenticated remote attacker could execute arbitrary commands on the target system.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-25915",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-11-28",
+    "kev_name": "Danfoss AK-SM 800A Series Improper Input Validation Vulnerability"
+   },
+   {
+    "id": "CVE-2025-41450",
+    "score": 8.2,
+    "cvss": "3.1",
+    "published": "2025-05-08T10:15:18.380",
+    "summary": "Improper Authentication vulnerability in Danfoss AKSM8xxA Series.This issue affects Danfoss AK-SM 8xxA Series prior to version 4.2",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-41450",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-12-09",
+    "kev_name": "Danfoss AK-SM 800A Series Improper Authentication Vulnerability"
+   },
+   {
     "id": "CVE-2026-103406",
     "score": 9.8,
     "cvss": "3.1",
@@ -276,6 +309,72 @@
     "kev_added": "2026-11-25",
     "kev_due": "2026-11-28",
     "kev_name": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability"
+   },
+   {
+    "id": "CVE-2026-133275",
+    "score": 5.3,
+    "cvss": "3.1",
+    "published": "2026-11-19T16:21:31.033",
+    "summary": "A vulnerability in the Audio, Web, and Video Conferencing (AWV) component of Mitel MiCollab through 10.3 (10.3.0.18) could allow an unauthenticated attacker to conduct an arbitrary file upload attack due to insufficient file type validation. A successful exploit could allow an attacker to upload arbitrary files to the target system. This is MTLVULN-1861.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133275",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-11-28",
+    "kev_name": "Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability"
+   },
+   {
+    "id": "CVE-2026-133303",
+    "score": 9.0,
+    "cvss": "3.1",
+    "published": "2026-11-19T17:18:51.670",
+    "summary": "A vulnerability in the Audio, Web, and Video Conferencing (AWV) component of Mitel MiCollab through 10.3 (10.3.0.18) could allow an unauthenticated attacker to leverage pre-staged malicious content to conduct an XML injection attack due to insufficient parameter validation. A successful exploit could allow an attacker to execute arbitrary commands within the context of the system. This is MTLVULN-",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133303",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-11-28",
+    "kev_name": "Mitel MiCollab XML Injection Vulnerability"
+   },
+   {
+    "id": "CVE-2026-133311",
+    "score": 5.9,
+    "cvss": "3.1",
+    "published": "2026-11-19T17:18:52.740",
+    "summary": "A vulnerability in the Audio, Web, and Video Conferencing (AWV) component of Mitel MiCollab through 10.3 (10.3.0.18) could allow an unauthenticated attacker, with knowledge of a specific system-generated random identifier or pre-staged content, to conduct an unauthorized access attack due to improper authentication mechanisms. A successful exploit could allow an attacker to obtain sensitive inform",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133311",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-12-09",
+    "kev_name": "Mitel MiCollab Weak Authentication Vulnerability"
+   },
+   {
+    "id": "CVE-2026-133323",
+    "score": 10.0,
+    "cvss": "3.1",
+    "published": "2026-11-19T17:18:52.880",
+    "summary": "A vulnerability in the Audio, Web, and Video Conferencing (AWV) component of Mitel MiCollab through 10.3 (10.3.0.18) could allow an unauthenticated attacker to conduct a blind command injection attack due to insufficient parameter sanitization. A successful exploit could allow an attacker to execute arbitrary commands within the context of the system. This is MTLVULN-1864.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133323",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-11-28",
+    "kev_name": "Mitel MiCollab OS Command Injection Vulnerability"
+   },
+   {
+    "id": "CVE-2026-133324",
+    "score": 5.3,
+    "cvss": "3.1",
+    "published": "2026-11-19T17:18:53.017",
+    "summary": "A vulnerability in the Audio, Web, and Video Conferencing (AWV) component of Mitel MiCollab through 10.3 (10.3.0.18) could allow an unauthenticated attacker to conduct an authentication bypass attack due to improper handling of authentication. A successful exploit could allow an attacker to bypass authentication and perform unauthorized actions within the context of the application. This is MTLVUL",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133324",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-11-28",
+    "kev_name": "Mitel MiCollab Not Failing Securely Vulnerability"
+   },
+   {
+    "id": "CVE-2026-133469",
+    "score": 9.8,
+    "cvss": "3.1",
+    "published": "2026-11-23T17:17:31.780",
+    "summary": "XO (Xen Orchestra) is a solution to visualize, manage, backup and delegate your XCP-ng (or XenServer) infrastructure. Prior to 6.9.2 and 6.10.1, REST cookie parsing turns authenticationToken=j:%7B%7D into {}. REST authentication passes that object to the XO token provider without requiring a string. The token collection treats {} as an unfiltered lookup and returns its first token; the provider au",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133469",
+    "kev_added": "2026-11-25",
+    "kev_due": "2026-11-28",
+    "kev_name": "Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability"
    },
    {
     "id": "CVE-2026-132224",
