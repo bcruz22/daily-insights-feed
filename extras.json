@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:10:12+00:00",
+ "generated_at": "2026-11-27T22:09:12+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 35,
+  "aqi": 40,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-27 14:00 EST"
+  "observed": "2026-11-27 16:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -435,28 +435,12 @@
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123912"
    },
    {
-    "id": "CVE-2026-137090",
-    "score": 9.3,
-    "cvss": "4.0",
-    "published": "2026-11-25T20:18:46.220",
-    "summary": "build-git-clone before 1.0.4 contains an OS command injection vulnerability in the clone() function that allows attackers to execute commands by supplying crafted repository URLs. Attackers can embed shell metacharacters such as ; or $() in the url argument, which is concatenated into a sh -c command, to execute operating system commands with Node.js process privileges.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-137090"
-   },
-   {
     "id": "CVE-2026-105917",
     "score": 8.8,
     "cvss": "3.1",
     "published": "2026-11-27T05:18:58.960",
     "summary": "File Permission Vulnerability in RV3000 Log Monitor for VMware. This issue affects RV3000 Log Monitor for VMware(CIM): before 98-09; RV3000 Log Monitor for VMware: before 97-05.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105917"
-   },
-   {
-    "id": "CVE-2026-137058",
-    "score": 8.7,
-    "cvss": "4.0",
-    "published": "2026-11-25T20:18:39.500",
-    "summary": "Cron-parser through 5.10.0 contains an unbounded memory allocation vulnerability in CronExpressionParser.parse() that allows unauthenticated attackers to exhaust memory by supplying oversized cron fields. Attackers can submit a roughly 1.6 MB expression of repeated wildcard tokens that expand into huge arrays, exhausting the V8 heap and crashing the Node.js process.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-137058"
    },
    {
     "id": "CVE-2026-137586",
