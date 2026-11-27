@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T00:08:32+00:00",
+ "generated_at": "2026-11-27T02:09:47+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 33,
+  "aqi": 31,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-26 18:00 EST"
+  "observed": "2026-11-26 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -213,87 +213,6 @@
      "Web"
     ],
     "summary": "Enhancements that are a part of this release expand who can use the Multi-attribute report export, increases the supported scale, and gives authorized users more control over the questions and attributes included. GA date: January CY2027"
-   },
-   {
-    "title": "Microsoft Teams: Raise your hand to speak up at large events with up to 100,000 attendees",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581720",
-    "published": "2026-11-24T00:13:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android",
-     "Desktop",
-     "iOS",
-     "Mac",
-     "Web"
-    ],
-    "summary": "Ask your questions live and take part in the conversation, even at events with up to 100,000 attendees. In events this size, attendees can now raise their hand in Teams when they have a question. Organizers can then let people with a raised hand turn on their mic and camera to ask their question or "
-   },
-   {
-    "title": "Microsoft Teams: Share reactions at events with up to 100,000 attendees",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581719",
-    "published": "2026-11-24T00:13:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android",
-     "Desktop",
-     "iOS",
-     "Mac",
-     "Web"
-    ],
-    "summary": "Stay more engaged and connected with the audience, even at events with up to 100,000 attendees. Teams now supports reactions in events at this scale. You can send reactions during the event and see the reactions others send, so everyone can share the moment together. GA date: December CY2026"
-   },
-   {
-    "title": "Microsoft Teams: Improved device settings experience on Teams Rooms on Android",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581965",
-    "published": "2026-11-24T00:13:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android"
-    ],
-    "summary": "We\u2019re enhancing the on-device admin settings experience for Teams Rooms on Android by improving information structure, organization and navigation. These updates make it easier for admins to find, understand, and adjust device settings directly from the console, improving overall usability and effic"
-   },
-   {
-    "title": "Microsoft Copilot (Microsoft 365): The more you use Copilot in Office the better it gets",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580889",
-    "published": "2026-11-24T00:13:11+00:00",
-    "categories": [
-     "In development",
-     "Current Channel",
-     "General Availability",
-     "Preview",
-     "Targeted Release",
-     "Worldwide (Standard Multi-Tenant)",
-     "Excel",
-     "Microsoft 365",
-     "OneNote",
-     "PowerPoint",
-     "Word",
-     "Microsoft Copilot (Microsoft 365)"
-    ],
-    "summary": "Copilot in Word, Excel, PowerPoint, and Workspaces across Copilot App and OneNote will use memory to learn your work patterns and personalize responses. With memory, Copilot can offer more relevant suggestions, hold the pen in a way that represents you, and adapt to your preferences over time GA dat"
-   },
-   {
-    "title": "Outlook: Add Custom Flag Descriptions for Clearer Follow-Ups",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580885",
-    "published": "2026-11-24T00:13:11+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Outlook",
-     "Desktop",
-     "Web"
-    ],
-    "summary": "You can add custom text to an email's follow-up flag to describe what you need to do. Use your own words to capture the next step for each flagged message. This gives you a clear reminder of why you flagged the email when you return to it. #newoutlookforwindows GA date: February CY2027"
    }
   ]
  },
