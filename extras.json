@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:11:46+00:00",
+ "generated_at": "2026-11-27T06:09:45+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 33,
+  "aqi": 35,
   "pollutant": "OZONE",
   "category": "Good",
-  "observed": "2026-11-26 22:00 EST"
+  "observed": "2026-11-27 00:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -384,50 +384,6 @@
     "kev_added": "2026-11-23",
     "kev_due": "2026-11-26",
     "kev_name": "N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability"
-   },
-   {
-    "id": "CVE-2025-42884",
-    "score": 6.5,
-    "cvss": "3.1",
-    "published": "2025-11-11T01:15:36.893",
-    "summary": "SAP NetWeaver Enterprise Portal allows an unauthenticated attacker to inject JNDI environment properties or pass a URL used during JNDI lookup operations, enabling access to an unintended JNDI provider.\ufffdThis could further lead to disclosure or modification of information about the server. There is no impact on availability.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
-    "kev_added": "2026-11-20",
-    "kev_due": "2026-11-23",
-    "kev_name": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability"
-   },
-   {
-    "id": "CVE-2026-76466",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-10-21T17:19:06.813",
-    "summary": "A vulnerability in the database service feature of Cisco Expressway Series could allow an unauthenticated, remote attacker with network access to a Cisco Expressway device to execute arbitrary operating system commands as\u00a0root. This vulnerability is due to the use of persistent cookies. Additionally, there is insufficient validation of client certificates when the TLS Verify Mode is set to Enabled",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
-    "kev_added": "2026-11-20",
-    "kev_due": "2026-11-23",
-    "kev_name": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability"
-   },
-   {
-    "id": "CVE-2026-129448",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-11-17T11:17:28.190",
-    "summary": "Deserialization of Untrusted Data in Apache Roller versions 4.0.0 through 6.1.4 allows an unauthenticated remote attacker to execute arbitrary code. The XML-RPC endpoint accepts vendor extension types and deserializes them before authenticating the requester. This is the same vulnerability as CVE-2026-82384, which listed only Apache Roller 6.1.5 as affected. This issue is being actively exploited.",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
-    "kev_added": "2026-11-20",
-    "kev_due": "2026-11-23",
-    "kev_name": "Apache Roller Deserialization of Untrusted Data Vulnerability"
-   },
-   {
-    "id": "CVE-2026-123890",
-    "score": 9.8,
-    "cvss": "3.1",
-    "published": "2026-11-19T15:17:25.407",
-    "summary": "VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service. Affected versions: 9.1.x (fixed in 9.1.1.0200); 9.0.x (fixed in 9.0.2.0200); 8.0 (fixed in 8.0 U3m); 5.x (fixed in 5.2.5). Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 3.0 are also affected (see KB463116).",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
-    "kev_added": "2026-11-20",
-    "kev_due": "2026-11-23",
-    "kev_name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability"
    }
   ]
  },
@@ -474,6 +430,14 @@
     "published": "2026-11-25T20:18:46.220",
     "summary": "build-git-clone before 1.0.4 contains an OS command injection vulnerability in the clone() function that allows attackers to execute commands by supplying crafted repository URLs. Attackers can embed shell metacharacters such as ; or $() in the url argument, which is concatenated into a sh -c command, to execute operating system commands with Node.js process privileges.",
     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-137090"
+   },
+   {
+    "id": "CVE-2026-105917",
+    "score": 8.8,
+    "cvss": "3.1",
+    "published": "2026-11-27T05:18:58.960",
+    "summary": "File Permission Vulnerability in RV3000 Log Monitor for VMware. This issue affects RV3000 Log Monitor for VMware(CIM): before 98-09; RV3000 Log Monitor for VMware: before 97-05.",
+    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105917"
    },
    {
     "id": "CVE-2026-137058",
