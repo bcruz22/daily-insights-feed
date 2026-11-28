@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T00:09:16+00:00",
+ "generated_at": "2026-11-28T02:12:31+00:00",
  "versions": {
   "tailscale": {
    "status": "ok",
@@ -51,10 +51,10 @@
  },
  "aqi": {
   "status": "ok",
-  "aqi": 39,
+  "aqi": 34,
   "pollutant": "PM2.5",
   "category": "Good",
-  "observed": "2026-11-27 18:00 EST"
+  "observed": "2026-11-27 20:00 EST"
  },
  "nodejs": {
   "status": "ok",
@@ -158,61 +158,6 @@
      "Web"
     ],
     "summary": "Admins can now manage who has access to Viva Insights - Copilot Analytics, and what they can do, directly in the product. The new Access Management experience brings role assignment and permissions into one place for Global administrators, AI administrators and Viva Insights administrators, instead "
-   },
-   {
-    "title": "Microsoft Teams: External bot detection and activity reports in Admin Center",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=582050",
-    "published": "2026-11-25T00:10:31+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Preview",
-     "Worldwide (Standard Multi-Tenant)",
-     "GCC",
-     "Microsoft Teams",
-     "Web"
-    ],
-    "summary": "Admins should be able to track the detection and meeting access activity of external bots in the meetings and events hosted in their tenant. GA date: February CY2027 Preview date: January CY2027"
-   },
-   {
-    "title": "Microsoft Teams: Show your shared content on both room displays",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=582052",
-    "published": "2026-11-25T00:10:31+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "Microsoft Teams",
-     "Android"
-    ],
-    "summary": "Make presentations easier to see from anywhere in the room, even when you're not in a Teams meeting. On Microsoft Teams Rooms on Android with dual displays, content you share through an HDMI connection can now appear on both screens at once. You can start or stop showing your content on both screens"
-   },
-   {
-    "title": "SharePoint: Organization-wide page templates",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=581865",
-    "published": "2026-11-25T00:10:31+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "SharePoint",
-     "Web"
-    ],
-    "summary": "We are introducing organization-wide page templates in SharePoint, enabling organizations to provide reusable, approved starting points for page creation across sites within a tenant. Managed centrally in the SharePoint site associated with your organization's brand center, these templates help auth"
-   },
-   {
-    "title": "Microsoft Viva - Viva Glint: Enhanced multi-attribute report exports",
-    "link": "https://www.microsoft.com/microsoft-365/roadmap?id=580455",
-    "published": "2026-11-25T00:10:31+00:00",
-    "categories": [
-     "In development",
-     "General Availability",
-     "Worldwide (Standard Multi-Tenant)",
-     "GCC",
-     "Microsoft Viva",
-     "Web"
-    ],
-    "summary": "Enhancements that are a part of this release expand who can use the Multi-attribute report export, increases the supported scale, and gives authorized users more control over the questions and attributes included. GA date: January CY2027"
    }
   ]
  },
